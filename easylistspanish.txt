@@ -1,0 +1,42 @@
+[Adblock Plus 2.0]
+! Title: EasyList Spanish
+! Last modified: %timestamp%
+! Expires: 4 days (update frequency)
+! Homepage: https://easylist.adblockplus.org/
+! Licence: https://easylist-downloads.adblockplus.org/COPYING
+!
+! Please report any unblocked adverts or problems
+! via e-mail (easylist.spain@gmail.com).
+! 
+!
+!-----------------------General advert blocking filters-----------------------!
+%include easylistspanish/easylistspanish_general_block.txt%
+%include easylistspanish/easylistspanish_general_block_dimensions.txt%
+%include easylistspanish/easylistspanish_general_block_popup.txt%
+!------------------------General element hiding rules-------------------------!
+%include easylistspanish/easylistspanish_general_hide.txt%
+%include easylistspanish/easylistspanish_whitelist_general_hide.txt%
+!---------------------------Third-party advertisers---------------------------!
+%include easylistspanish/easylistspanish_adservers.txt%
+%include easylistspanish/easylistspanish_adservers_popup.txt%
+%include easylistspanish_adult/adult_adservers.txt%
+%include easylistspanish_adult/adult_adservers_popup.txt%
+!-----------------------------Third-party adverts-----------------------------!
+%include easylistspanish/easylistspanish_thirdparty.txt%
+%include easylistspanish/easylistspanish_thirdparty_popup.txt%
+%include easylistspanish_adult/adult_thirdparty.txt%
+%include easylistspanish_adult/adult_thirdparty_popup.txt%
+!----------------------Specific advert blocking filters-----------------------!
+%include easylistspanish/easylistspanish_specific_block.txt%
+%include easylistspanish/easylistspanish_specific_block_popup.txt%
+%include easylistspanish_adult/adult_specific_block.txt%
+%include easylistspanish_adult/adult_specific_block_popup.txt%
+!------------------------Specific element hiding rules------------------------!
+%include easylistspanish/easylistspanish_specific_hide.txt%
+%include easylistspanish_adult/adult_specific_hide.txt%
+!-----------------------Whitelists to fix broken sites------------------------!
+%include easylistspanish/easylistspanish_whitelist.txt%
+%include easylistspanish/easylistspanish_whitelist_dimensions.txt%
+%include easylistspanish/easylistspanish_whitelist_popup.txt%
+%include easylistspanish_adult/adult_whitelist.txt%
+%include easylistspanish_adult/adult_whitelist_popup.txt%
