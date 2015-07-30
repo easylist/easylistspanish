@@ -7,7 +7,7 @@
 !
 ! Please report any unblocked adverts or problems
 ! via e-mail (easylist.spain@gmail.com).
-! 
+!
 !
 !-----------------------General advert blocking filters-----------------------!
 %include easylistspanish/easylistspanish_general_block.txt%
