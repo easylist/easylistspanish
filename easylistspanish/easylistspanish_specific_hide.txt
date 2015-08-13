@@ -38,3 +38,12 @@ elmundo.es###contenedorAutocompleteGlobaliza
 elpais.com##DIV.clasificados
 elpais.com###comerciales
 elpais.com##DIV.caja.caja_clasificados
+marca.com###bloque_tiramillas
+marca.com###bloque_nauta360
+marca.com##.bloque-expansion
+marca.com##.bloque-elmundo
+marca.com##.sinergias_telva
+marca.com##[src="http://estaticos03.marca.com/deporte/imagenes/faldon_Master_Derecho-Deporte.gif"]
+marca.com##.bloque-destacado.tiramillas
+marca.com##.bloque-destacado.marcamotor
+marca.com##.bloque-promo.primero
