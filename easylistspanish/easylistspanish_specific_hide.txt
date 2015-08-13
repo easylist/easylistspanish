@@ -28,3 +28,4 @@ as.com##.promociones11
 as.com##.promocionesdoscarriles11
 as.com##.row.s-pr > .sidebar.col-6 > .module
 as.com##[data-vr-zone="promociones-inferiores-inferior-3-columnas"]
+ebay.es##.beta-placement
