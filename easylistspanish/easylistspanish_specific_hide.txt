@@ -4,3 +4,27 @@ cinestrenostv.tv###closeX2
 tvenganchado.com###g
 verdirectotv.org###total
 hitfm.es##header
+hitfm.es###publiLink
+interbenavente.es##IMG[alt="http://www.ford.es/serviciopostventa/PromocionesPostventa2013"]
+interbenavente.es##IMG[alt="http://www.serviciosfunerarioszamoranos.com/"]
+interbenavente.es##IMG[alt="https://www.facebook.com/zarabanda.regalos?fref=ts"]
+interbenavente.es##IMG[alt="http://interbenavente.es/pag/serviciosweb"]
+interbenavente.es##IMG[alt="https://www.facebook.com/pages/Caprichos-Benavente/1151234814894029?fref=ts"]
+as.com##.promociones2
+as.com##.promociones3
+as.com##.promocionesdoscarriles2
+as.com##.promociones4
+as.com##.promociones5
+as.com##.promocionesdoscarriles5
+as.com##.promociones6
+as.com##.promocionesdoscarriles6
+as.com##.promociones7
+as.com##.promocionesdoscarriles7
+as.com##.promocionesdoscarriles8
+as.com##[data-vr-zone="promociones-inferiores-superior-3-columnas"] .mdl-cont-2.cf.s-pr
+as.com##.promociones9
+as.com##.promociones10
+as.com##.promociones11
+as.com##.promocionesdoscarriles11
+as.com##.row.s-pr > .sidebar.col-6 > .module
+as.com##[data-vr-zone="promociones-inferiores-inferior-3-columnas"]
