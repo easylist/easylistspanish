@@ -35,3 +35,6 @@ elmundo.es##A[href="http://www.elmundo.es/happy-fm.html"]
 elmundo.es##A[href="http://www.elmundo.es/economia/vivienda.html"]
 elmundo.es##A[href="http://www.ocholeguas.com/"]
 elmundo.es###contenedorAutocompleteGlobaliza
+elpais.com##DIV.clasificados
+elpais.com###comerciales
+elpais.com##DIV.caja.caja_clasificados
