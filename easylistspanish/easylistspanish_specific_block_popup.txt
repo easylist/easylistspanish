@@ -5,3 +5,11 @@
 ||as01.epimg.net/diarioas/imagenes/2013/02/19/portadainferior/1361271832_436146_1435743392_promocion_inferior_horizontal_normal.jpg
 ||st.forocoches.com/image/varios/iphone6_ipadmini.png
 ||st.forocoches.com/image/top_c2_fcs_hd_hawkers.png
+|http://file01.lavanguardia.com/2013/04/09/54371066983-file.jpg
+|http://file02.lavanguardia.com/*/*-patrocinadorAgregadores.jpg
+|http://file02.lavanguardia.com/2015/06/30/54432622531-file.jpg
+|http://file02.lavanguardia.com/2015/03/02/54428665978-file.jpg
+|http://file02.lavanguardia.com/2015/01/19/54423532669-file.png
+|http://img02.lavanguardia.com/*/Vaughan-certified_*.jpg
+|http://img01.lavanguardia.com/2013/05/16/Logo-canal-Castellers-*.jpg
+||css01.lavanguardia.com/imagenes/cajaHTML/loterias.gif
