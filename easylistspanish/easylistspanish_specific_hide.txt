@@ -56,3 +56,5 @@ forocoches.com##A[href="http://goo.gl/NDrfcW"]
 lavanguardia.com###adm1439491187577114
 lavanguardia.com##A[href="http://ext.lavanguardia.es/promociones/vaughan/"]
 lavanguardia.com##.lv24hdestacamos.first.last > DIV.des_thumb.c14 > .p3
+mundodeportivo.com##.bolarosa
+mundodeportivo.com###widget-mdcribeo-loultimo
