@@ -1,3 +1,4 @@
+lavanguardia.com###adm1439491187577114
 marca.com###bloque_nauta360
 marca.com###bloque_tiramillas
 20minutos.es###cajasbuscadoras
@@ -8,14 +9,17 @@ elmundo.es###contenedorAutocompleteGlobaliza
 tvenganchado.com###g
 hitfm.es###publiLink
 verdirectotv.org###total
+mundodeportivo.com###widget-mdcribeo-loultimo
 ebay.es##.beta-placement
 marca.com##.bloque-destacado.marcamotor
 marca.com##.bloque-destacado.tiramillas
 marca.com##.bloque-elmundo
 marca.com##.bloque-expansion
 marca.com##.bloque-promo.primero
+mundodeportivo.com##.bolarosa
 elmundo.es##.destacadas-seccion.kelisto-comparador-coche-2
 elmundo.es##.flechados
+lavanguardia.com##.lv24hdestacamos.first.last > div.des_thumb.c14 > .p3
 as.com##.promociones10
 as.com##.promociones11
 as.com##.promociones2
@@ -33,9 +37,13 @@ as.com##.promocionesdoscarriles7
 as.com##.promocionesdoscarriles8
 as.com##.row.s-pr > .sidebar.col-6 > .module
 marca.com##.sinergias_telva
+st1.idealista.com##A[href="http://www.idealista.com/news/vacacional/mercado-vacacional/2015/08/12/738750-competencia-arremete-contra-la-ley-que-limita-los-pisos-turisticos-en-el?xts=352991&xtor=AD-186-[node/738750]-[]-[57601_1]-[lavanguardia.es__lavanguardia.es]-[]-[titulo_1_1]&source=314"]
 as.com##[data-vr-zone="promociones-inferiores-inferior-3-columnas"]
 as.com##[data-vr-zone="promociones-inferiores-superior-3-columnas"] .mdl-cont-2.cf.s-pr
+st1.idealista.com##[href="http://www.idealista.com?xts=352991&xtor=AD-186-[idealista]-[]-[57601_1]-[lavanguardia.es__lavanguardia.es]-[]-[home_1_1]&source=314"]
 marca.com##[src="http://estaticos03.marca.com/deporte/imagenes/faldon_Master_Derecho-Deporte.gif"]
+lavanguardia.com##a[href="http://ext.lavanguardia.es/promociones/vaughan/"]
+forocoches.com##a[href="http://goo.gl/NDrfcW"]
 elmundo.es##a[href="http://www.elmundo.es/economia/vivienda.html"]
 elmundo.es##a[href="http://www.elmundo.es/happy-fm.html"]
 elmundo.es##a[href="http://www.ocholeguas.com/"]
@@ -52,11 +60,3 @@ finofilipino.org##img[src="http://static.tumblr.com/omgciym/0tvmih3p3/memetienda
 finofilipino.org##img[src="http://static.tumblr.com/omgciym/2bBmgb175/juegacos.jpg"]
 finofilipino.org##img[src="http://static.tumblr.com/omgciym/Pnenkw34v/edrfwregwrgwtrgwr.jpg"]
 finofilipino.org##img[src="http://static.tumblr.com/omgciym/SXxm66n6y/lol-logo.png"]
-forocoches.com##A[href="http://goo.gl/NDrfcW"]
-lavanguardia.com###adm1439491187577114
-lavanguardia.com##A[href="http://ext.lavanguardia.es/promociones/vaughan/"]
-lavanguardia.com##.lv24hdestacamos.first.last > DIV.des_thumb.c14 > .p3
-mundodeportivo.com##.bolarosa
-mundodeportivo.com###widget-mdcribeo-loultimo
-st1.idealista.com##A[href="http://www.idealista.com/news/vacacional/mercado-vacacional/2015/08/12/738750-competencia-arremete-contra-la-ley-que-limita-los-pisos-turisticos-en-el?xts=352991&xtor=AD-186-[node/738750]-[]-[57601_1]-[lavanguardia.es__lavanguardia.es]-[]-[titulo_1_1]&source=314"]
-st1.idealista.com##[href="http://www.idealista.com?xts=352991&xtor=AD-186-[idealista]-[]-[57601_1]-[lavanguardia.es__lavanguardia.es]-[]-[home_1_1]&source=314"]
