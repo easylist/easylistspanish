@@ -1,3 +1,5 @@
 ###publiLink
 ##.publi
 ##.publicidad
+##.ad-tl2b
+##.promocion_libre
