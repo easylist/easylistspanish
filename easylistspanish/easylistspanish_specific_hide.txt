@@ -10,6 +10,7 @@ tvenganchado.com###g
 hitfm.es###publiLink
 verdirectotv.org###total
 mundodeportivo.com###widget-mdcribeo-loultimo
+buscamultas.com##.TableWidget
 ebay.es##.beta-placement
 marca.com##.bloque-destacado.marcamotor
 marca.com##.bloque-destacado.tiramillas
