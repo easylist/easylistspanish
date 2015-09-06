@@ -11,6 +11,7 @@ hitfm.es###publiLink
 verdirectotv.org###total
 mundodeportivo.com###widget-mdcribeo-loultimo
 buscamultas.com##.TableWidget
+freepik.es##.banner-crehana-holder
 ebay.es##.beta-placement
 marca.com##.bloque-destacado.marcamotor
 marca.com##.bloque-destacado.tiramillas
