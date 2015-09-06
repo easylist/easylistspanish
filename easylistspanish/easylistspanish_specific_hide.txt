@@ -9,8 +9,10 @@ elpais.com###comerciales
 elmundo.es###contenedorAutocompleteGlobaliza
 publico.es###decine21_widget_estrenos
 tvenganchado.com###g
+supremacy1914.es###kbg
 hitfm.es###publiLink
 livenumetal.es###text-7 > .textwidget
+supremacy1914.es###top50\.pl
 verdirectotv.org###total
 mundodeportivo.com###widget-mdcribeo-loultimo
 buscamultas.com##.TableWidget
