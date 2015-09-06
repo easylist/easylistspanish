@@ -16,6 +16,8 @@ supremacy1914.es###top50\.pl
 verdirectotv.org###total
 mundodeportivo.com###widget-mdcribeo-loultimo
 buscamultas.com##.TableWidget
+terra.es##.ad
+terra.es##.advertising
 freepik.es##.banner-crehana-holder
 ebay.es##.beta-placement
 marca.com##.bloque-destacado.marcamotor
