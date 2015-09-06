@@ -6,6 +6,7 @@ cinestrenostv.tv###closeX1
 cinestrenostv.tv###closeX2
 elpais.com###comerciales
 elmundo.es###contenedorAutocompleteGlobaliza
+publico.es###decine21_widget_estrenos
 tvenganchado.com###g
 hitfm.es###publiLink
 livenumetal.es###text-7 > .textwidget
@@ -41,6 +42,7 @@ as.com##.promocionesdoscarriles5
 as.com##.promocionesdoscarriles6
 as.com##.promocionesdoscarriles7
 as.com##.promocionesdoscarriles8
+publico.es##.roba
 as.com##.row.s-pr > .sidebar.col-6 > .module
 adscdn.freepik.com##.shutterstock
 marca.com##.sinergias_telva
@@ -62,6 +64,7 @@ interbenavente.es##img[alt="http://www.ford.es/serviciopostventa/PromocionesPost
 interbenavente.es##img[alt="http://www.serviciosfunerarioszamoranos.com/"]
 interbenavente.es##img[alt="https://www.facebook.com/pages/Caprichos-Benavente/1151234814894029?fref=ts"]
 interbenavente.es##img[alt="https://www.facebook.com/zarabanda.regalos?fref=ts"]
+publico.es##img[src="http://ficheros.publico.es/resources/cintillos/iberia-express.jpg"]
 finofilipino.org##img[src="http://static.tumblr.com/omgciym/0iNnhnzq2/neopeseta.png"]
 finofilipino.org##img[src="http://static.tumblr.com/omgciym/0tvmih3p3/memetienda.jpg"]
 finofilipino.org##img[src="http://static.tumblr.com/omgciym/2bBmgb175/juegacos.jpg"]
