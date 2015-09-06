@@ -24,6 +24,7 @@ elmundo.es##.destacadas-seccion.kelisto-comparador-coche-2
 elmundo.es##.flechados
 adscdn.freepik.com##.friwol_slides.slides[data-fix-shutterstock="1"]
 lavanguardia.com##.lv24hdestacamos.first.last > div.des_thumb.c14 > .p3
+lavozdegalicia.es##.mujerhoy
 as.com##.promociones10
 as.com##.promociones11
 as.com##.promociones2
