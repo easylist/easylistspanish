@@ -60,6 +60,8 @@ as.com##[data-vr-zone="promociones-inferiores-inferior-3-columnas"]
 as.com##[data-vr-zone="promociones-inferiores-superior-3-columnas"] .mdl-cont-2.cf.s-pr
 st1.idealista.com##[href="http://www.idealista.com?xts=352991&xtor=AD-186-[idealista]-[]-[57601_1]-[lavanguardia.es__lavanguardia.es]-[]-[home_1_1]&source=314"]
 marca.com##[src="http://estaticos03.marca.com/deporte/imagenes/faldon_Master_Derecho-Deporte.gif"]
+va6.thand.info##[src="http://va6.thand.info/0hsfy957uswi2cgypg23"]
+va6.thand.info##a[href*="http://www.physoi.eu/script/redirect.php?url=*"]
 lavanguardia.com##a[href="http://ext.lavanguardia.es/promociones/vaughan/"]
 forocoches.com##a[href="http://goo.gl/NDrfcW"]
 elmundo.es##a[href="http://www.elmundo.es/economia/vivienda.html"]
