@@ -32,6 +32,8 @@ elmundo.es##.destacadas-seccion.kelisto-comparador-coche-2
 elmundo.es##.flechados
 adscdn.freepik.com##.friwol_slides.slides[data-fix-shutterstock="1"]
 lavanguardia.com##.lv24hdestacamos.first.last > div.des_thumb.c14 > .p3
+eldiario.es##.md-advertisement.md.hspace.adv-container.no-adv-socios + * + * + * > .blk.mtflow
+eldiario.es##.md-opinion-lst.md.md-sk3.hspace
 lavozdegalicia.es##.mujerhoy
 rumbo.es##.promo262x90
 as.com##.promociones10
@@ -53,6 +55,7 @@ publico.es##.roba
 as.com##.row.s-pr > .sidebar.col-6 > .module
 adscdn.freepik.com##.shutterstock
 marca.com##.sinergias_telva
+eldiario.es##.strapband:first-child
 st1.idealista.com##A[href="http://www.idealista.com/news/vacacional/mercado-vacacional/2015/08/12/738750-competencia-arremete-contra-la-ley-que-limita-los-pisos-turisticos-en-el?xts=352991&xtor=AD-186-[node/738750]-[]-[57601_1]-[lavanguardia.es__lavanguardia.es]-[]-[titulo_1_1]&source=314"]
 as.com##[data-vr-zone="promociones-inferiores-inferior-3-columnas"]
 as.com##[data-vr-zone="promociones-inferiores-superior-3-columnas"] .mdl-cont-2.cf.s-pr
