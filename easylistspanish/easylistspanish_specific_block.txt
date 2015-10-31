@@ -17,6 +17,7 @@
 ||ecestaticos.com/file/127008ee463cd1776595c5cf2b0ff780/1434970380.png
 ||ecestaticos.com/file/c321612b3020bee67701c43d5d3129f7/1434970318.png
 ||estaticos.sport.es/resources/png/8/1/1434710825318.png
+||gaceta.es/sites/all/themes/blank/images/TVdirecto.png
 ||gettyimages.es/gi-resources/images/*/iStock.jpg
 ||hitfm.es/view/imgs/Trident-Hit-FM-Fondo-*.jpg
 ||images.eldiario.es/elasombrario/Portadas_EDIIMA20151029_0056_18.jpg
