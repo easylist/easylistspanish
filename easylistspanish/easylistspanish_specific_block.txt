@@ -19,6 +19,7 @@
 ||estaticos.sport.es/resources/png/8/1/1434710825318.png
 ||gettyimages.es/gi-resources/images/*/iStock.jpg
 ||hitfm.es/view/imgs/Trident-Hit-FM-Fondo-*.jpg
+||images.eldiario.es/elasombrario/Portadas_EDIIMA20151029_0056_18.jpg
 ||interbenavente.es/upload/img/periodico/img_2369.gif
 ||interbenavente.es/upload/img/periodico/img_28084.gif
 ||interbenavente.es/upload/img/periodico/img_31937.gif
@@ -32,5 +33,7 @@
 ||st.forocoches.com/image/top_c2_fcs_hd_hawkers.png
 ||st.forocoches.com/image/varios/iphone6_ipadmini.png
 ||st1.idealista.com/news/archivos/styles/348x90/public/ficheros_widget_news/img/balcon_concha_vanguardia.jpg
+||static1.eldiario.es/static/EDIDiario/images/fauxcols/
+||static2.eldiario.es/static/EDIDiario/images/eld-bg-rg-body.png
 ||www.mundodeportivo.com/r/GODO/MD/p3/Canales/Imagenes/*/lacaixa.jpg
 ||www.mundodeportivo.com/r/GODO/MD/p3/Canales/Imagenes/*/runedia.jpg
