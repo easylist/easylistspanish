@@ -32,6 +32,7 @@ marca.com##.bloque-elmundo
 marca.com##.bloque-expansion
 marca.com##.bloque-promo.primero
 mundodeportivo.com##.bolarosa
+renfe.com##.comprabilletes
 adscdn.freepik.com##.coupon
 elmundo.es##.destacadas-seccion.kelisto-comparador-coche-2
 elmundo.es##.flechados
