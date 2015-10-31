@@ -14,6 +14,7 @@
 ||babalonia.com/images/promo/*.gif
 ||cinestrenostv.tv/Publi/
 ||css01.lavanguardia.com/imagenes/cajaHTML/loterias.gif
+||divinity.es/zentv/images/zentv-300-2.gif
 ||ecestaticos.com/file/127008ee463cd1776595c5cf2b0ff780/1434970380.png
 ||ecestaticos.com/file/c321612b3020bee67701c43d5d3129f7/1434970318.png
 ||estaticos.sport.es/resources/png/8/1/1434710825318.png
@@ -37,6 +38,9 @@
 ||st1.idealista.com/news/archivos/styles/348x90/public/ficheros_widget_news/img/balcon_concha_vanguardia.jpg
 ||static1.eldiario.es/static/EDIDiario/images/fauxcols/
 ||static2.eldiario.es/static/EDIDiario/images/eld-bg-rg-body.png
+||telecincostatic-a.akamaihd.net/20aniversario/
+||telecincostatic-a.akamaihd.net/masdetelecinco/
+||telecincostatic-a.akamaihd.net/practica-cuatro/
 ||vigoe.es/images/pbanner/
 ||vigoe.es/images/pbanner/Terras_de_Pontevedra_-_Arte_Rupestre_-_Vigoe_*.jpg
 ||www.mundodeportivo.com/r/GODO/MD/p3/Canales/Imagenes/*/lacaixa.jpg
