@@ -67,6 +67,7 @@ as.com##.row.s-pr > .sidebar.col-6 > .module
 adscdn.freepik.com##.shutterstock
 marca.com##.sinergias_telva
 gaceta.es##.slides[style="width: 600%; transition-duration: 0s; transform: translate3d(-320px, 0px, 0px);"]
+ruedasgordas.es##.sponsors
 eldiario.es##.strapband:first-child
 larazon.es##.textoPatrocinio
 larazon.es##.vinculoPatrocinio
@@ -81,10 +82,14 @@ va6.thand.info##a[href*="http://www.physoi.eu/script/redirect.php?url=*"]
 laregion.es##a[href="/estaticas/el-tiempo/"]
 lavanguardia.com##a[href="http://ext.lavanguardia.es/promociones/vaughan/"]
 forocoches.com##a[href="http://goo.gl/NDrfcW"]
+ruedasgordas.es##a[href="http://www.cyclosaltamirano.es/"]
 elmundo.es##a[href="http://www.elmundo.es/economia/vivienda.html"]
 elmundo.es##a[href="http://www.elmundo.es/happy-fm.html"]
+ruedasgordas.es##a[href="http://www.morellasingletracks.com/"]
+ruedasgordas.es##a[href="http://www.mybikenet.com/development/"]
 elmundo.es##a[href="http://www.ocholeguas.com/"]
 mitele.es##a[href="http://www.tiendagranhermano.com"]
+ruedasgordas.es##a[href="https://www.facebook.com/pages/BENIBIKES-Benidorm/177123992350243?fref=ts"]
 elpais.com##div.caja.caja_clasificados
 elpais.com##div.clasificados
 hitfm.es##header
