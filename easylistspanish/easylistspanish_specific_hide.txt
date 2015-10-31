@@ -25,6 +25,7 @@ terra.es##.ad
 sport.es##.advertisement
 terra.es##.advertising
 androidpit.es##.appSlider
+windowscracker1.blogspot.com.es##.at4-whatsnext-outer-container.addthis-smartlayers-desktop.addthis-smartlayers
 freepik.es##.banner-crehana-holder
 netshoes.com.ar##.banners-home + * > .bannerHolder
 ebay.es##.beta-placement
