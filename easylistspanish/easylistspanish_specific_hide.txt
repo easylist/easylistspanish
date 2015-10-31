@@ -18,6 +18,7 @@ mundodeportivo.com###widget-mdcribeo-loultimo
 buscamultas.com##.TableWidget
 terra.es##.ad
 terra.es##.advertising
+androidpit.es##.appSlider
 freepik.es##.banner-crehana-holder
 ebay.es##.beta-placement
 marca.com##.bloque-destacado.marcamotor
