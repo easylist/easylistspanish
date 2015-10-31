@@ -26,6 +26,7 @@ sport.es##.advertisement
 terra.es##.advertising
 androidpit.es##.appSlider
 freepik.es##.banner-crehana-holder
+netshoes.com.ar##.banners-home + * > .bannerHolder
 ebay.es##.beta-placement
 marca.com##.bloque-destacado.marcamotor
 marca.com##.bloque-destacado.tiramillas
