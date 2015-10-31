@@ -16,6 +16,7 @@
 ||css01.lavanguardia.com/imagenes/cajaHTML/loterias.gif
 ||ecestaticos.com/file/127008ee463cd1776595c5cf2b0ff780/1434970380.png
 ||ecestaticos.com/file/c321612b3020bee67701c43d5d3129f7/1434970318.png
+||estaticos.sport.es/resources/png/8/1/1434710825318.png
 ||gettyimages.es/gi-resources/images/*/iStock.jpg
 ||hitfm.es/view/imgs/Trident-Hit-FM-Fondo-*.jpg
 ||interbenavente.es/upload/img/periodico/img_2369.gif
