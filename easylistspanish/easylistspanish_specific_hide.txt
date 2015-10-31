@@ -79,6 +79,7 @@ forocoches.com##a[href="http://goo.gl/NDrfcW"]
 elmundo.es##a[href="http://www.elmundo.es/economia/vivienda.html"]
 elmundo.es##a[href="http://www.elmundo.es/happy-fm.html"]
 elmundo.es##a[href="http://www.ocholeguas.com/"]
+mitele.es##a[href="http://www.tiendagranhermano.com"]
 elpais.com##div.caja.caja_clasificados
 elpais.com##div.clasificados
 hitfm.es##header
