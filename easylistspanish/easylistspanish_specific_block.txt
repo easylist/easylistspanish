@@ -11,6 +11,7 @@
 ||as01.epimg.net/diarioas/imagenes/*/*/*/promocionesportada/*promo_normal.jpg
 ||as01.epimg.net/diarioas/imagenes/2013/02/18/portadainferior/1361188811_787909_1418979253_promocion_inferior_horizontal_normal.jpg
 ||as01.epimg.net/diarioas/imagenes/2013/02/19/portadainferior/1361271832_436146_1435743392_promocion_inferior_horizontal_normal.jpg
+||babalonia.com/images/promo/*.gif
 ||cinestrenostv.tv/Publi/
 ||css01.lavanguardia.com/imagenes/cajaHTML/loterias.gif
 ||ecestaticos.com/file/127008ee463cd1776595c5cf2b0ff780/1434970380.png
