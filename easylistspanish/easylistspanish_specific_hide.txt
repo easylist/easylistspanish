@@ -22,6 +22,7 @@ mundodeportivo.com###widget-mdcribeo-loultimo
 realbetisbalompie.es###widget_banners
 buscamultas.com##.TableWidget
 terra.es##.ad
+sport.es##.advertisement
 terra.es##.advertising
 androidpit.es##.appSlider
 freepik.es##.banner-crehana-holder
@@ -32,6 +33,7 @@ marca.com##.bloque-elmundo
 marca.com##.bloque-expansion
 marca.com##.bloque-promo.primero
 mundodeportivo.com##.bolarosa
+sport.es##.comp.sp-blog
 renfe.com##.comprabilletes
 adscdn.freepik.com##.coupon
 elmundo.es##.destacadas-seccion.kelisto-comparador-coche-2
@@ -67,6 +69,7 @@ as.com##.row.s-pr > .sidebar.col-6 > .module
 adscdn.freepik.com##.shutterstock
 marca.com##.sinergias_telva
 gaceta.es##.slides[style="width: 600%; transition-duration: 0s; transform: translate3d(-320px, 0px, 0px);"]
+sport.es##.sp-widget-balon
 ruedasgordas.es##.sponsors
 eldiario.es##.strapband:first-child
 larazon.es##.textoPatrocinio
@@ -93,6 +96,7 @@ ruedasgordas.es##a[href="https://www.facebook.com/pages/BENIBIKES-Benidorm/17712
 elpais.com##div.caja.caja_clasificados
 elpais.com##div.clasificados
 hitfm.es##header
+sport.es##iframe[src="http://especiales.woman.es/wid-deportivos/index.html"]
 interbenavente.es##img[alt="http://interbenavente.es/pag/serviciosweb"]
 interbenavente.es##img[alt="http://www.ford.es/serviciopostventa/PromocionesPostventa2013"]
 interbenavente.es##img[alt="http://www.serviciosfunerarioszamoranos.com/"]
