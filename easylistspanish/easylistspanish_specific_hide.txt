@@ -32,6 +32,7 @@ adscdn.freepik.com##.coupon
 elmundo.es##.destacadas-seccion.kelisto-comparador-coche-2
 elmundo.es##.flechados
 adscdn.freepik.com##.friwol_slides.slides[data-fix-shutterstock="1"]
+laregion.es##.item > a[href="http://www.meteogalicia.es/web/predicion/localidades/localidadesIndex.action?idZona=32054"]
 lavanguardia.com##.lv24hdestacamos.first.last > div.des_thumb.c14 > .p3
 eldiario.es##.md-advertisement.md.hspace.adv-container.no-adv-socios + * + * + * > .blk.mtflow
 eldiario.es##.md-opinion-lst.md.md-sk3.hspace
@@ -72,6 +73,7 @@ st1.idealista.com##[href="http://www.idealista.com?xts=352991&xtor=AD-186-[ideal
 marca.com##[src="http://estaticos03.marca.com/deporte/imagenes/faldon_Master_Derecho-Deporte.gif"]
 va6.thand.info##[src="http://va6.thand.info/0hsfy957uswi2cgypg23"]
 va6.thand.info##a[href*="http://www.physoi.eu/script/redirect.php?url=*"]
+laregion.es##a[href="/estaticas/el-tiempo/"]
 lavanguardia.com##a[href="http://ext.lavanguardia.es/promociones/vaughan/"]
 forocoches.com##a[href="http://goo.gl/NDrfcW"]
 elmundo.es##a[href="http://www.elmundo.es/economia/vivienda.html"]
