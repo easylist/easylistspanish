@@ -81,6 +81,8 @@ larazon.es##.textoPatrocinio
 mitele.es##.titleList.DestacadoBox.clearfix.ModuleSimple:last-child
 telecinco.es##.tx.teaser.t-small
 larazon.es##.vinculoPatrocinio
+estadiodeportivo.whitelabel.kelisto.es##.widget.car-insurance
+estadiodeportivo.whitelabel.kelisto.es##.widget.finance
 st1.idealista.com##.widget_idealista
 telecinco.es##A[href="http://www.divinity.es/blogs/divinosconnachomontes/Aciertos-errores-Spectre-James-Bond_6_2075415007.html"]
 st1.idealista.com##A[href="http://www.idealista.com/news/vacacional/mercado-vacacional/2015/08/12/738750-competencia-arremete-contra-la-ley-que-limita-los-pisos-turisticos-en-el?xts=352991&xtor=AD-186-[node/738750]-[]-[57601_1]-[lavanguardia.es__lavanguardia.es]-[]-[titulo_1_1]&source=314"]
@@ -131,6 +133,7 @@ interbenavente.es##img[alt="http://www.serviciosfunerarioszamoranos.com/"]
 interbenavente.es##img[alt="https://www.facebook.com/pages/Caprichos-Benavente/1151234814894029?fref=ts"]
 interbenavente.es##img[alt="https://www.facebook.com/zarabanda.regalos?fref=ts"]
 publico.es##img[src="http://ficheros.publico.es/resources/cintillos/iberia-express.jpg"]
+cdn.cxpublic.com##img[src="http://logos.cdn.cxpublic.com/PAN_logo_38px.png"]
 finofilipino.org##img[src="http://static.tumblr.com/omgciym/0iNnhnzq2/neopeseta.png"]
 finofilipino.org##img[src="http://static.tumblr.com/omgciym/0tvmih3p3/memetienda.jpg"]
 finofilipino.org##img[src="http://static.tumblr.com/omgciym/2bBmgb175/juegacos.jpg"]
