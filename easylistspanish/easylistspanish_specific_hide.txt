@@ -108,6 +108,9 @@ elpais.com##div.caja.caja_clasificados
 elpais.com##div.clasificados
 hitfm.es##header
 sport.es##iframe[src="http://especiales.woman.es/wid-deportivos/index.html"]
+vertdtgratis.es##iframe[src="http://www.vertdtgratis.es/publi1.html"]
+vertdtgratis.es##iframe[src="http://www.vertdtgratis.es/publi2.html"]
+vertdtgratis.es##iframe[src="http://www.vertdtgratis.es/publi23.html"]
 interbenavente.es##img[alt="http://interbenavente.es/pag/serviciosweb"]
 interbenavente.es##img[alt="http://www.ford.es/serviciopostventa/PromocionesPostventa2013"]
 interbenavente.es##img[alt="http://www.serviciosfunerarioszamoranos.com/"]
