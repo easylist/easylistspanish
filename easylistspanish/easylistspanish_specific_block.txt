@@ -14,6 +14,7 @@ http://www.algocashmaster.com/
 ||as01.epimg.net/diarioas/imagenes/2013/02/19/portadainferior/1361271832_436146_1435743392_promocion_inferior_horizontal_normal.jpg
 ||babalonia.com/images/promo/*.gif
 ||buyman.com.ar/pubex/
+||cdn.exur.com/notmundo/
 ||chrissysinvite.co/a
 ||cinestrenostv.tv/Publi/
 ||css01.lavanguardia.com/imagenes/cajaHTML/loterias.gif
