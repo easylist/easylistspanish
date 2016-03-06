@@ -77,11 +77,13 @@ sport.es##.sp-widget-balon
 ruedasgordas.es##.sponsors
 eldiario.es##.strapband:first-child
 larazon.es##.textoPatrocinio
+mitele.es##.titleList.DestacadoBox.clearfix.ModuleSimple:last-child
 telecinco.es##.tx.teaser.t-small
 larazon.es##.vinculoPatrocinio
 st1.idealista.com##.widget_idealista
 telecinco.es##A[href="http://www.divinity.es/blogs/divinosconnachomontes/Aciertos-errores-Spectre-James-Bond_6_2075415007.html"]
 st1.idealista.com##A[href="http://www.idealista.com/news/vacacional/mercado-vacacional/2015/08/12/738750-competencia-arremete-contra-la-ley-que-limita-los-pisos-turisticos-en-el?xts=352991&xtor=AD-186-[node/738750]-[]-[57601_1]-[lavanguardia.es__lavanguardia.es]-[]-[titulo_1_1]&source=314"]
+mitele.es##A[href="http://www.premiercasino.es/redirect?provenanceCode=CONECTA5CASINO"]
 as.com##[data-vr-zone="promociones-inferiores-inferior-3-columnas"]
 as.com##[data-vr-zone="promociones-inferiores-superior-3-columnas"] .mdl-cont-2.cf.s-pr
 gettyimages.es##[href="http://espanol.istockphoto.com/?esource=gi_es_home_3pack_istock_3"] > .promo-hover
@@ -98,6 +100,7 @@ telecinco.es##a[href="http://www.divinity.es/blogs/oteradas/Partes-cuerpo-famoso
 telecinco.es##a[href="http://www.divinity.es/personajes/monica-bellucci/Monica-Belluci-Bond-importante-feminidad_0_2075325155.html"]
 elmundo.es##a[href="http://www.elmundo.es/economia/vivienda.html"]
 elmundo.es##a[href="http://www.elmundo.es/happy-fm.html"]
+mitele.es##a[href="http://www.eltiempohoy.es/"]
 antena3.com##a[href="http://www.englishhouse.tv/sabias-que.php"]
 antena3.com##a[href="http://www.guiainfantil.com/"]
 ldu.com.ec##a[href="http://www.herbalife.com.ec/"]
