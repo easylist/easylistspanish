@@ -136,6 +136,7 @@ ruedasgordas.es##a[href="https://www.facebook.com/pages/BENIBIKES-Benidorm/17712
 telecinco.es##a[title="Cristina Pedroche: \"De especial llevaba el collar de mi abuela, para que estuviera presente\""]
 elpais.com##div.caja.caja_clasificados
 elpais.com##div.clasificados
+mercadolibre.com.mx##div.mclics
 hitfm.es##header
 sport.es##iframe[src="http://especiales.woman.es/wid-deportivos/index.html"]
 vertdtgratis.es##iframe[src="http://www.vertdtgratis.es/publi1.html"]
