@@ -13,9 +13,11 @@ gaceta.es###esplandido_1000view
 tvenganchado.com###g
 realbetisbalompie.es###horizotal-banners
 supremacy1914.es###kbg
+abc.es###modulo_loffit_v6
 chrissysinvite.co###myModal
 hitfm.es###publiLink
 realbetisbalompie.es###right-banners
+abc.es###slider-oferplan.modulo.oferplan
 livenumetal.es###text-7 > .textwidget
 supremacy1914.es###top50\.pl
 verdirectotv.org###total
@@ -47,6 +49,7 @@ telecinco.es##.kicker
 lavanguardia.com##.lv24hdestacamos.first.last > div.des_thumb.c14 > .p3
 eldiario.es##.md-advertisement.md.hspace.adv-container.no-adv-socios + * + * + * > .blk.mtflow
 eldiario.es##.md-opinion-lst.md.md-sk3.hspace
+abc.es##.media[href="http://loffit.abc.es/rodar/barcos/tetrahedron-un-superyate-de-ciencia-ficcion-230534/"]
 as.com##.module.promociones3
 as.com##.module.promociones4
 as.com##.module.promociones5
@@ -96,6 +99,7 @@ as.com##[data-vr-zone="promociones-inferiores-inferior-3-columnas"]
 as.com##[data-vr-zone="promociones-inferiores-superior-3-columnas"] .mdl-cont-2.cf.s-pr
 sport.es##[href*="http://www.elbalonrosa.com/*"]
 gettyimages.es##[href="http://espanol.istockphoto.com/?esource=gi_es_home_3pack_istock_3"] > .promo-hover
+abc.es##[href="http://loffit.abc.es/rodar/coches/un-pagani-huayra-para-benny-caiola-230489/"]
 as.com##[href="http://megastore.as.com/futbol/botas/"]
 sport.es##[href="http://www.elbalonrosa.com"]
 st1.idealista.com##[href="http://www.idealista.com?xts=352991&xtor=AD-186-[idealista]-[]-[57601_1]-[lavanguardia.es__lavanguardia.es]-[]-[home_1_1]&source=314"]
