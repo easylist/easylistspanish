@@ -47,6 +47,11 @@ telecinco.es##.kicker
 lavanguardia.com##.lv24hdestacamos.first.last > div.des_thumb.c14 > .p3
 eldiario.es##.md-advertisement.md.hspace.adv-container.no-adv-socios + * + * + * > .blk.mtflow
 eldiario.es##.md-opinion-lst.md.md-sk3.hspace
+as.com##.module.promociones3
+as.com##.module.promociones4
+as.com##.module.promociones5
+as.com##.module.promocionesdoscarriles4
+as.com##.module.promocionesdoscarriles6
 lavozdegalicia.es##.mujerhoy
 gaceta.es##.node-anuncio-megabanner
 rumbo.es##.promo262x90
@@ -91,6 +96,7 @@ as.com##[data-vr-zone="promociones-inferiores-inferior-3-columnas"]
 as.com##[data-vr-zone="promociones-inferiores-superior-3-columnas"] .mdl-cont-2.cf.s-pr
 sport.es##[href*="http://www.elbalonrosa.com/*"]
 gettyimages.es##[href="http://espanol.istockphoto.com/?esource=gi_es_home_3pack_istock_3"] > .promo-hover
+as.com##[href="http://megastore.as.com/futbol/botas/"]
 sport.es##[href="http://www.elbalonrosa.com"]
 st1.idealista.com##[href="http://www.idealista.com?xts=352991&xtor=AD-186-[idealista]-[]-[57601_1]-[lavanguardia.es__lavanguardia.es]-[]-[home_1_1]&source=314"]
 sport.es##[src="http://estaticos.sport.es/resources/png/8/1/1434710825318.png"]
