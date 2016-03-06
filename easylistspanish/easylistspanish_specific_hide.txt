@@ -75,6 +75,7 @@ marca.com##.sinergias_telva
 gaceta.es##.slides[style="width: 600%; transition-duration: 0s; transform: translate3d(-320px, 0px, 0px);"]
 sport.es##.sp-widget-balon
 ruedasgordas.es##.sponsors
+sport.es##.srp-widget-thmblink[href="http://www.elbalonrosa.com/galerias/daniella-tamayo-apoya-falcao-en-los-peores-momentos/"]
 eldiario.es##.strapband:first-child
 larazon.es##.textoPatrocinio
 mitele.es##.titleList.DestacadoBox.clearfix.ModuleSimple:last-child
@@ -86,8 +87,11 @@ st1.idealista.com##A[href="http://www.idealista.com/news/vacacional/mercado-vaca
 mitele.es##A[href="http://www.premiercasino.es/redirect?provenanceCode=CONECTA5CASINO"]
 as.com##[data-vr-zone="promociones-inferiores-inferior-3-columnas"]
 as.com##[data-vr-zone="promociones-inferiores-superior-3-columnas"] .mdl-cont-2.cf.s-pr
+sport.es##[href*="http://www.elbalonrosa.com/*"]
 gettyimages.es##[href="http://espanol.istockphoto.com/?esource=gi_es_home_3pack_istock_3"] > .promo-hover
+sport.es##[href="http://www.elbalonrosa.com"]
 st1.idealista.com##[href="http://www.idealista.com?xts=352991&xtor=AD-186-[idealista]-[]-[57601_1]-[lavanguardia.es__lavanguardia.es]-[]-[home_1_1]&source=314"]
+sport.es##[src="http://estaticos.sport.es/resources/png/8/1/1434710825318.png"]
 marca.com##[src="http://estaticos03.marca.com/deporte/imagenes/faldon_Master_Derecho-Deporte.gif"]
 va6.thand.info##[src="http://va6.thand.info/0hsfy957uswi2cgypg23"]
 va6.thand.info##a[href*="http://www.physoi.eu/script/redirect.php?url=*"]
@@ -98,6 +102,7 @@ telecinco.es##a[href="http://turismourense.com/index"]
 ruedasgordas.es##a[href="http://www.cyclosaltamirano.es/"]
 telecinco.es##a[href="http://www.divinity.es/blogs/oteradas/Partes-cuerpo-famosos-retocan-desconocias_6_2057565007.html"]
 telecinco.es##a[href="http://www.divinity.es/personajes/monica-bellucci/Monica-Belluci-Bond-importante-feminidad_0_2075325155.html"]
+sport.es##a[href="http://www.elbalonrosa.com"]
 elmundo.es##a[href="http://www.elmundo.es/economia/vivienda.html"]
 elmundo.es##a[href="http://www.elmundo.es/happy-fm.html"]
 mitele.es##a[href="http://www.eltiempohoy.es/"]
@@ -131,3 +136,4 @@ finofilipino.org##img[src="http://static.tumblr.com/omgciym/0tvmih3p3/memetienda
 finofilipino.org##img[src="http://static.tumblr.com/omgciym/2bBmgb175/juegacos.jpg"]
 finofilipino.org##img[src="http://static.tumblr.com/omgciym/Pnenkw34v/edrfwregwrgwtrgwr.jpg"]
 finofilipino.org##img[src="http://static.tumblr.com/omgciym/SXxm66n6y/lol-logo.png"]
+sport.es##img[src="img/jen-selter.jpg"]
