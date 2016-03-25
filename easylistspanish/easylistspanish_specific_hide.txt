@@ -83,6 +83,7 @@ gaceta.es##.row-lagallina
 gaceta.es##.row-negocios
 gaceta.es##.row-puntopelota
 as.com##.row.s-pr > .sidebar.col-6 > .module
+20minutos.es##.sep-top.col-wrapper
 adscdn.freepik.com##.shutterstock
 marca.com##.sinergias_telva
 gaceta.es##.slides[style="width: 600%; transition-duration: 0s; transform: translate3d(-320px, 0px, 0px);"]
@@ -118,6 +119,7 @@ noticiasdelmundo.org##a[href="http://ganadineroconencuestas.com/dinero_flow/?web
 forocoches.com##a[href="http://goo.gl/NDrfcW"]
 telecinco.es##a[href="http://turismourense.com/index"]
 diariodesevilla.es##a[href="http://wappissima.es/moda-flamenca"]
+20minutos.es##a[href="http://www.20minutos.es/motor"]
 ruedasgordas.es##a[href="http://www.cyclosaltamirano.es/"]
 telecinco.es##a[href="http://www.divinity.es/blogs/oteradas/Partes-cuerpo-famosos-retocan-desconocias_6_2057565007.html"]
 telecinco.es##a[href="http://www.divinity.es/personajes/monica-bellucci/Monica-Belluci-Bond-importante-feminidad_0_2075325155.html"]
@@ -126,6 +128,7 @@ elmundo.es##a[href="http://www.elmundo.es/economia/vivienda.html"]
 elmundo.es##a[href="http://www.elmundo.es/happy-fm.html"]
 mitele.es##a[href="http://www.eltiempohoy.es/"]
 antena3.com##a[href="http://www.englishhouse.tv/sabias-que.php"]
+20minutos.es##a[href="http://www.esquire.es"]
 antena3.com##a[href="http://www.guiainfantil.com/"]
 ldu.com.ec##a[href="http://www.herbalife.com.ec/"]
 ruedasgordas.es##a[href="http://www.morellasingletracks.com/"]
