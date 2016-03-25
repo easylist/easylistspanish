@@ -19,14 +19,18 @@ http://www.algocashmaster.com/
 ||chrissysinvite.co/a
 ||cinestrenostv.tv/Publi/
 ||cloudfront.net^$domain=newpct1.com
+||clubdelectores.cl/cajaEmolClub/$third-party
 ||css01.lavanguardia.com/imagenes/cajaHTML/loterias.gif
 ||d1izbwxtc3f9ue.cloudfront.net^
 ||divinity.es/zentv/images/zentv-300-2.gif
 ||ecestaticos.com/file/127008ee463cd1776595c5cf2b0ff780/1434970380.png
 ||ecestaticos.com/file/c321612b3020bee67701c43d5d3129f7/1434970318.png
+||economicos.cl/widgets/$third-party
 ||estaticos.sport.es/resources/png/8/1/1434710825318.png
+||farox.com/barra_productos/
 ||gaceta.es/sites/all/themes/blank/images/TVdirecto.png
 ||gettyimages.es/gi-resources/images/*/iStock.jpg
+||guioteca.com/widget.php?$third-party
 ||hitfm.es/view/imgs/Trident-Hit-FM-Fondo-*.jpg
 ||images.eldiario.es/elasombrario/Portadas_EDIIMA20151029_0056_18.jpg
 ||interbenavente.es/upload/img/periodico/img_2369.gif
@@ -47,6 +51,7 @@ http://www.algocashmaster.com/
 ||px.fotos.cdn.0223.com.ar/f/55cd3fc7b07ac20500000282/
 ||rae.es/sites/all/common/images/logos/
 ||rs.20m.es/i/petitchef_cintillo.jpg
+||rvv.emol.com^
 ||sewar.net/Minisites/
 ||sewar.net^
 ||st.forocoches.com/image/top_c2_fcs_hd_hawkers.png
@@ -59,5 +64,6 @@ http://www.algocashmaster.com/
 ||telecincostatic-a.akamaihd.net/practica-cuatro/
 ||vigoe.es/images/pbanner/
 ||vigoe.es/images/pbanner/Terras_de_Pontevedra_-_Arte_Rupestre_-_Vigoe_*.jpg
+||vivedescuentos.com/mas_informacion/$third-party
 ||www.mundodeportivo.com/r/GODO/MD/p3/Canales/Imagenes/*/lacaixa.jpg
 ||www.mundodeportivo.com/r/GODO/MD/p3/Canales/Imagenes/*/runedia.jpg
