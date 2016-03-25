@@ -2,6 +2,7 @@ lavanguardia.com###adm1439491187577114
 marca.com###bloque_nauta360
 marca.com###bloque_tiramillas
 pickinup.es###brand-carousel
+laprovincia.es###caja_1_derecha_17_0
 20minutos.es###cajasbuscadoras
 st.chatango.com###cgroup
 cinestrenostv.tv###closeX1
@@ -9,6 +10,7 @@ cinestrenostv.tv###closeX2
 elpais.com###comerciales
 elmundo.es###contenedorAutocompleteGlobaliza
 publico.es###decine21_widget_estrenos
+laprovincia.es###divderecha_1050
 gaceta.es###esplandido_1000view
 tvenganchado.com###g
 realbetisbalompie.es###horizotal-banners
@@ -38,9 +40,11 @@ marca.com##.bloque-elmundo
 marca.com##.bloque-expansion
 marca.com##.bloque-promo.primero
 mundodeportivo.com##.bolarosa
+laprovincia.es##.caja_cuponisimo_slider300
 sport.es##.comp.sp-blog
 renfe.com##.comprabilletes
 adscdn.freepik.com##.coupon
+laprovincia.es##.dcham2
 elmundo.es##.destacadas-seccion.kelisto-comparador-coche-2
 diariodesevilla.es##.ePubli1
 elmundo.es##.flechados
@@ -48,6 +52,7 @@ adscdn.freepik.com##.friwol_slides.slides[data-fix-shutterstock="1"]
 modulos.grupojoly.com##.img_patrocinio[src="img/movistar.png"]
 laregion.es##.item > a[href="http://www.meteogalicia.es/web/predicion/localidades/localidadesIndex.action?idZona=32054"]
 telecinco.es##.kicker
+laprovincia.es##.listaofertas
 lavanguardia.com##.lv24hdestacamos.first.last > div.des_thumb.c14 > .p3
 eldiario.es##.md-advertisement.md.hspace.adv-container.no-adv-socios + * + * + * > .blk.mtflow
 eldiario.es##.md-opinion-lst.md.md-sk3.hspace
