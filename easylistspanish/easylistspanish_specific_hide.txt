@@ -93,6 +93,7 @@ gaceta.es##.row-puntopelota
 as.com##.row.s-pr > .sidebar.col-6 > .module
 20minutos.es##.sep-top.col-wrapper
 adscdn.freepik.com##.shutterstock
+diariocorreo.pe##.sidebar-zonahogar
 marca.com##.sinergias_telva
 gaceta.es##.slides[style="width: 600%; transition-duration: 0s; transform: translate3d(-320px, 0px, 0px);"]
 sport.es##.sp-widget-balon
