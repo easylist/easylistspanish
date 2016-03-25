@@ -9,6 +9,7 @@ http://www.algocashmaster.com/
 |http://img02.lavanguardia.com/*/Vaughan-certified_*.jpg
 |https://es-cloud-resources.tombola.com/Flash/Modules/winners_module_apr_*.swf
 |va6.thand.info/embed-
+||albopa.work^$third-party
 ||as01.epimg.net/diarioas/imagenes/*/*/*/promocionesportada/*promo_normal.jpg
 ||as01.epimg.net/diarioas/imagenes/2013/02/18/portadainferior/1361188811_787909_1418979253_promocion_inferior_horizontal_normal.jpg
 ||as01.epimg.net/diarioas/imagenes/2013/02/19/portadainferior/1361271832_436146_1435743392_promocion_inferior_horizontal_normal.jpg
@@ -17,7 +18,9 @@ http://www.algocashmaster.com/
 ||cdn.exur.com/notmundo/
 ||chrissysinvite.co/a
 ||cinestrenostv.tv/Publi/
+||cloudfront.net^$domain=newpct1.com
 ||css01.lavanguardia.com/imagenes/cajaHTML/loterias.gif
+||d1izbwxtc3f9ue.cloudfront.net^
 ||divinity.es/zentv/images/zentv-300-2.gif
 ||ecestaticos.com/file/127008ee463cd1776595c5cf2b0ff780/1434970380.png
 ||ecestaticos.com/file/c321612b3020bee67701c43d5d3129f7/1434970318.png
