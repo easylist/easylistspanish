@@ -49,6 +49,7 @@ adscdn.freepik.com##.coupon
 laprovincia.es##.dcham2
 elmundo.es##.destacadas-seccion.kelisto-comparador-coche-2
 diariodesevilla.es##.ePubli1
+elcomercio.pe##.ec-club
 elmundo.es##.flechados
 adscdn.freepik.com##.friwol_slides.slides[data-fix-shutterstock="1"]
 modulos.grupojoly.com##.img_patrocinio[src="img/movistar.png"]
