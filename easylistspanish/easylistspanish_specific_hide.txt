@@ -47,6 +47,7 @@ lavoz.com.ar##.clublavoz
 sport.es##.comp.sp-blog
 renfe.com##.comprabilletes
 adscdn.freepik.com##.coupon
+slimdownload.co##.cssanimations
 laprovincia.es##.dcham2
 elmundo.es##.destacadas-seccion.kelisto-comparador-coche-2
 diariodesevilla.es##.ePubli1
