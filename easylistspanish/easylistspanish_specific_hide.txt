@@ -41,6 +41,8 @@ marca.com##.bloque-expansion
 marca.com##.bloque-promo.primero
 mundodeportivo.com##.bolarosa
 laprovincia.es##.caja_cuponisimo_slider300
+lavoz.com.ar##.clasificados
+lavoz.com.ar##.clublavoz
 sport.es##.comp.sp-blog
 renfe.com##.comprabilletes
 adscdn.freepik.com##.coupon
@@ -67,6 +69,7 @@ gaceta.es##.node-anuncio-megabanner
 meteoconsult.es##.partenaire_simple
 meteoconsult.es##.partenaire_simple_home
 meteoconsult.es##.paves_bas.pub_lcm
+lavoz.com.ar##.producto-tienda
 rumbo.es##.promo262x90
 as.com##.promociones10
 as.com##.promociones11
