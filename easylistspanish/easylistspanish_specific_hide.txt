@@ -20,6 +20,7 @@ chrissysinvite.co###myModal
 hitfm.es###publiLink
 realbetisbalompie.es###right-banners
 abc.es###slider-oferplan.modulo.oferplan
+noticiaslasflores.com.ar###swiffycontainer
 livenumetal.es###text-7 > .textwidget
 supremacy1914.es###top50\.pl
 verdirectotv.org###total
