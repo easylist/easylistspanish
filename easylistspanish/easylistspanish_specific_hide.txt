@@ -114,6 +114,8 @@ marca.com##[src="http://estaticos03.marca.com/deporte/imagenes/faldon_Master_Der
 va6.thand.info##[src="http://va6.thand.info/0hsfy957uswi2cgypg23"]
 va6.thand.info##a[href*="http://www.physoi.eu/script/redirect.php?url=*"]
 laregion.es##a[href="/estaticas/el-tiempo/"]
+diariodelaribera.org##a[href="http://castillafloristeria.com/"]
+diariodelaribera.org##a[href="http://electrosanzhermanos.com/"]
 lavanguardia.com##a[href="http://ext.lavanguardia.es/promociones/vaughan/"]
 noticiasdelmundo.org##a[href="http://ganadineroconencuestas.com/dinero_flow/?webform=*&c=&s2s=*&pubid=*&subid=&medio=*&vendor=*&context="]
 forocoches.com##a[href="http://goo.gl/NDrfcW"]

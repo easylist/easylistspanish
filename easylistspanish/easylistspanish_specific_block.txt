@@ -22,6 +22,9 @@ http://www.algocashmaster.com/
 ||clubdelectores.cl/cajaEmolClub/$third-party
 ||css01.lavanguardia.com/imagenes/cajaHTML/loterias.gif
 ||d1izbwxtc3f9ue.cloudfront.net^
+||diariodelaribera.org/images/banners/
+||diariodelaribera.org/images/stories/banners2015/noviembre_2015/
+||diariodelaribera.org/images/stories/banners2015/octubre_2015/
 ||divinity.es/zentv/images/zentv-300-2.gif
 ||ecestaticos.com/file/127008ee463cd1776595c5cf2b0ff780/1434970380.png
 ||ecestaticos.com/file/c321612b3020bee67701c43d5d3129f7/1434970318.png
