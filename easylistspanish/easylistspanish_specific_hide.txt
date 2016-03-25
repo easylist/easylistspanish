@@ -103,6 +103,7 @@ sport.es##.srp-widget-thmblink[href="http://www.elbalonrosa.com/galerias/daniell
 eldiario.es##.strapband:first-child
 larazon.es##.textoPatrocinio
 mitele.es##.titleList.DestacadoBox.clearfix.ModuleSimple:last-child
+impactosocial.telecinco.es##.tweets.instagram
 telecinco.es##.tx.teaser.t-small
 larazon.es##.vinculoPatrocinio
 estadiodeportivo.whitelabel.kelisto.es##.widget.car-insurance
