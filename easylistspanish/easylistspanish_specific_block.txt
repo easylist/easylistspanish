@@ -10,10 +10,12 @@ http://www.algocashmaster.com/
 |https://es-cloud-resources.tombola.com/Flash/Modules/winners_module_apr_*.swf
 |va6.thand.info/embed-
 ||albopa.work^$third-party
+||amazonaws.com^$third-party,xmlhttprequest,domain=animeflv.net
 ||as01.epimg.net/diarioas/imagenes/*/*/*/promocionesportada/*promo_normal.jpg
 ||as01.epimg.net/diarioas/imagenes/2013/02/18/portadainferior/1361188811_787909_1418979253_promocion_inferior_horizontal_normal.jpg
 ||as01.epimg.net/diarioas/imagenes/2013/02/19/portadainferior/1361271832_436146_1435743392_promocion_inferior_horizontal_normal.jpg
 ||babalonia.com/images/promo/*.gif
+||bookelement.biz^
 ||buyman.com.ar/pubex/
 ||canuckmethodprofit.co^$third-party
 ||cdn.exur.com/notmundo/
