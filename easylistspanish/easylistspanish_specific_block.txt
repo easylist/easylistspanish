@@ -18,6 +18,7 @@ http://www.algocashmaster.com/
 ||cdn.exur.com/notmundo/
 ||chrissysinvite.co/a
 ||cinestrenostv.tv/Publi/
+||cinmaland.com^$third-party
 ||cloudfront.net^$domain=newpct1.com
 ||clubdelectores.cl/cajaEmolClub/$third-party
 ||css01.lavanguardia.com/imagenes/cajaHTML/loterias.gif
