@@ -2,3 +2,4 @@
 ||cinemalek.com^$popup,third-party
 ||millionairedream.co^$popup,third-party
 ||sebar.thand.info
+||supportcorner.co^$popup,third-party

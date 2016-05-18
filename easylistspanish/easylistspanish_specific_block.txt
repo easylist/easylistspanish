@@ -63,6 +63,7 @@ http://www.algocashmaster.com/
 ||st1.idealista.com/news/archivos/styles/348x90/public/ficheros_widget_news/img/balcon_concha_vanguardia.jpg
 ||static1.eldiario.es/static/EDIDiario/images/fauxcols/
 ||static2.eldiario.es/static/EDIDiario/images/eld-bg-rg-body.png
+||supportcorner.co^$third-party
 ||telecincostatic-a.akamaihd.net/20aniversario/
 ||telecincostatic-a.akamaihd.net/masdetelecinco/
 ||telecincostatic-a.akamaihd.net/practica-cuatro/
