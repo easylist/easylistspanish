@@ -129,6 +129,8 @@ marca.com##[src="http://estaticos03.marca.com/deporte/imagenes/faldon_Master_Der
 va6.thand.info##[src="http://va6.thand.info/0hsfy957uswi2cgypg23"]
 va6.thand.info##a[href*="http://www.physoi.eu/script/redirect.php?url=*"]
 laregion.es##a[href="/estaticas/el-tiempo/"]
+dreamfilmhd.bz##a[href="http://bit.ly/1Lppy4T"]
+dreamfilmhd.bz##a[href="http://byggboss.se"]
 diariodelaribera.org##a[href="http://castillafloristeria.com/"]
 diariodelaribera.org##a[href="http://electrosanzhermanos.com/"]
 lavanguardia.com##a[href="http://ext.lavanguardia.es/promociones/vaughan/"]
@@ -147,6 +149,7 @@ mitele.es##a[href="http://www.eltiempohoy.es/"]
 antena3.com##a[href="http://www.englishhouse.tv/sabias-que.php"]
 20minutos.es##a[href="http://www.esquire.es"]
 antena3.com##a[href="http://www.guiainfantil.com/"]
+dreamfilmhd.bz##a[href="http://www.hagopro.se"]
 ldu.com.ec##a[href="http://www.herbalife.com.ec/"]
 ruedasgordas.es##a[href="http://www.morellasingletracks.com/"]
 ruedasgordas.es##a[href="http://www.mybikenet.com/development/"]
@@ -161,6 +164,7 @@ telecinco.es##a[title="Cristina Pedroche: \"De especial llevaba el collar de mi 
 elpais.com##div.caja.caja_clasificados
 elpais.com##div.clasificados
 mercadolibre.com.mx##div.mclics
+dreamfilmhd.bz##div[style="background-color:rgba(0,0,0,0.1);width:750px;height:100px;max-width:100%;margin:0 5px 10px 8px"]
 hitfm.es##header
 sport.es##iframe[src="http://especiales.woman.es/wid-deportivos/index.html"]
 vertdtgratis.es##iframe[src="http://www.vertdtgratis.es/publi1.html"]
