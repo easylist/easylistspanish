@@ -94,7 +94,6 @@ gaceta.es##.row-lagallina
 gaceta.es##.row-negocios
 gaceta.es##.row-puntopelota
 as.com##.row.s-pr > .sidebar.col-6 > .module
-20minutos.es##.sep-top.col-wrapper
 adscdn.freepik.com##.shutterstock
 diariocorreo.pe##.sidebar-zonahogar
 marca.com##.sinergias_telva
