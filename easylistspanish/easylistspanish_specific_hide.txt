@@ -34,6 +34,7 @@ androidpit.es##.appSlider
 windowscracker1.blogspot.com.es##.at4-whatsnext-outer-container.addthis-smartlayers-desktop.addthis-smartlayers
 freepik.es##.banner-crehana-holder
 netshoes.com.ar##.banners-home + * > .bannerHolder
+180.com.uy##.banners-side-container
 ebay.es##.beta-placement
 marca.com##.bloque-destacado.marcamotor
 marca.com##.bloque-destacado.tiramillas
@@ -137,6 +138,7 @@ noticiasdelmundo.org##a[href="http://ganadineroconencuestas.com/dinero_flow/?web
 forocoches.com##a[href="http://goo.gl/NDrfcW"]
 telecinco.es##a[href="http://turismourense.com/index"]
 diariodesevilla.es##a[href="http://wappissima.es/moda-flamenca"]
+180.com.uy##a[href="http://www.180.com.uy/banner?ID=857&CODE=portal.index"]
 20minutos.es##a[href="http://www.20minutos.es/motor"]
 ruedasgordas.es##a[href="http://www.cyclosaltamirano.es/"]
 telecinco.es##a[href="http://www.divinity.es/blogs/oteradas/Partes-cuerpo-famosos-retocan-desconocias_6_2057565007.html"]
