@@ -156,6 +156,7 @@ elmundo.es##a[href="http://www.ocholeguas.com/"]
 mitele.es##a[href="http://www.tiendagranhermano.com"]
 antena3.com##a[href="http://www.tualbum.es/"]
 ruedasgordas.es##a[href="https://www.facebook.com/pages/BENIBIKES-Benidorm/177123992350243?fref=ts"]
+forospyware.com##a[href^="http://buy.malwarebytes.org/esinfo/"]
 telecinco.es##a[title="Cristina Pedroche: \"De especial llevaba el collar de mi abuela, para que estuviera presente\""]
 elpais.com##div.caja.caja_clasificados
 elpais.com##div.clasificados
