@@ -77,7 +77,6 @@
 ||vertdtgratis.es/publi2.html
 ||vertdtgratis.es/publi23.html
 ||vigoe.es/images/pbanner/
-||vigoe.es/images/pbanner/Terras_de_Pontevedra_-_Arte_Rupestre_-_Vigoe_*.jpg
 ||vivedescuentos.com/mas_informacion/$third-party
 ||www.algocashmaster.com^$third.party
 ||www.mundodeportivo.com/r/GODO/MD/p3/Canales/Imagenes/*/lacaixa.jpg
