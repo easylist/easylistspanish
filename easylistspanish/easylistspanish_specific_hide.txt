@@ -20,7 +20,6 @@ abc.es###modulo_loffit_v6
 chrissysinvite.co###myModal
 hitfm.es###publiLink
 realbetisbalompie.es###right-banners
-abc.es###slider-oferplan.modulo.oferplan
 noticiaslasflores.com.ar###swiffycontainer
 livenumetal.es###text-7 > .textwidget
 supremacy1914.es###top50\.pl
@@ -32,19 +31,18 @@ terra.es##.ad
 sport.es##.advertisement
 terra.es##.advertising
 androidpit.es##.appSlider
-windowscracker1.blogspot.com.es##.at4-whatsnext-outer-container.addthis-smartlayers-desktop.addthis-smartlayers
+libertaddigital.com##.apuestas
+windowscracker1.blogspot.com.es##.at4-whatsnext-outer-container
 freepik.es##.banner-crehana-holder
 netshoes.com.ar##.banners-home + * > .bannerHolder
 180.com.uy##.banners-side-container
 ebay.es##.beta-placement
-marca.com##.bloque-destacado.marcamotor
-marca.com##.bloque-destacado.tiramillas
 marca.com##.bloque-elmundo
 marca.com##.bloque-expansion
-marca.com##.bloque-promo.primero
-libertaddigital.com##.bloque.apuestas
+marca.com##.bloque-promo
 mundodeportivo.com##.bolarosa
 laprovincia.es##.caja_cuponisimo_slider300
+estadiodeportivo.whitelabel.kelisto.es##.car-insurance
 lavoz.com.ar##.clasificados
 lavoz.com.ar##.clublavoz
 sport.es##.comp.sp-blog
@@ -52,26 +50,24 @@ renfe.com##.comprabilletes
 adscdn.freepik.com##.coupon
 slimdownload.co##.cssanimations
 laprovincia.es##.dcham2
-elmundo.es##.destacadas-seccion.kelisto-comparador-coche-2
 diariodesevilla.es##.ePubli1
 elcomercio.pe##.ec-club
+estadiodeportivo.whitelabel.kelisto.es##.finance
 elmundo.es##.flechados
-adscdn.freepik.com##.friwol_slides.slides[data-fix-shutterstock="1"]
+adscdn.freepik.com##.friwol_slides
 modulos.grupojoly.com##.img_patrocinio[src="img/movistar.png"]
 laregion.es##.item > a[href="http://www.meteogalicia.es/web/predicion/localidades/localidadesIndex.action?idZona=32054"]
+elmundo.es##.kelisto-comparador-coche-2
 telecinco.es##.kicker
 laprovincia.es##.listaofertas
 lavanguardia.com##.lv24hdestacamos.first.last > div.des_thumb.c14 > .p3
+marca.com##.marcamotor
 eldiario.es##.md-advertisement.md.hspace.adv-container.no-adv-socios + * + * + * > .blk.mtflow
 eldiario.es##.md-opinion-lst.md.md-sk3.hspace
 abc.es##.media[href="http://loffit.abc.es/rodar/barcos/tetrahedron-un-superyate-de-ciencia-ficcion-230534/"]
-as.com##.module.promociones3
-as.com##.module.promociones4
-as.com##.module.promociones5
-as.com##.module.promocionesdoscarriles4
-as.com##.module.promocionesdoscarriles6
 lavozdegalicia.es##.mujerhoy
 gaceta.es##.node-anuncio-megabanner
+abc.es##.oferplan
 meteoconsult.es##.partenaire_simple
 meteoconsult.es##.partenaire_simple_home
 lavozdegalicia.es##.patrocinio
@@ -89,6 +85,7 @@ as.com##.promociones7
 as.com##.promociones9
 as.com##.promocionesdoscarriles11
 as.com##.promocionesdoscarriles2
+as.com##.promocionesdoscarriles4
 as.com##.promocionesdoscarriles5
 as.com##.promocionesdoscarriles6
 as.com##.promocionesdoscarriles7
@@ -107,12 +104,11 @@ ruedasgordas.es##.sponsors
 sport.es##.srp-widget-thmblink[href="http://www.elbalonrosa.com/galerias/daniella-tamayo-apoya-falcao-en-los-peores-momentos/"]
 eldiario.es##.strapband:first-child
 larazon.es##.textoPatrocinio
+marca.com##.tiramillas
 mitele.es##.titleList.DestacadoBox.clearfix.ModuleSimple:last-child
 impactosocial.telecinco.es##.tweets.instagram
-telecinco.es##.tx.teaser.t-small
+telecinco.es##.tx.teaser
 larazon.es##.vinculoPatrocinio
-estadiodeportivo.whitelabel.kelisto.es##.widget.car-insurance
-estadiodeportivo.whitelabel.kelisto.es##.widget.finance
 st1.idealista.com##.widget_idealista
 telecinco.es##A[href="http://www.divinity.es/blogs/divinosconnachomontes/Aciertos-errores-Spectre-James-Bond_6_2075415007.html"]
 st1.idealista.com##A[href="http://www.idealista.com/news/vacacional/mercado-vacacional/2015/08/12/738750-competencia-arremete-contra-la-ley-que-limita-los-pisos-turisticos-en-el?xts=352991&xtor=AD-186-[node/738750]-[]-[57601_1]-[lavanguardia.es__lavanguardia.es]-[]-[titulo_1_1]&source=314"]
@@ -172,10 +168,6 @@ elpais.com##div.clasificados
 mercadolibre.com.mx##div.mclics
 dreamfilmhd.bz##div[style="background-color:rgba(0,0,0,0.1);width:750px;height:100px;max-width:100%;margin:0 5px 10px 8px"]
 hitfm.es##header
-sport.es##iframe[src="http://especiales.woman.es/wid-deportivos/index.html"]
-vertdtgratis.es##iframe[src="http://www.vertdtgratis.es/publi1.html"]
-vertdtgratis.es##iframe[src="http://www.vertdtgratis.es/publi2.html"]
-vertdtgratis.es##iframe[src="http://www.vertdtgratis.es/publi23.html"]
 interbenavente.es##img[alt="http://interbenavente.es/pag/serviciosweb"]
 interbenavente.es##img[alt="http://www.ford.es/serviciopostventa/PromocionesPostventa2013"]
 interbenavente.es##img[alt="http://www.serviciosfunerarioszamoranos.com/"]
