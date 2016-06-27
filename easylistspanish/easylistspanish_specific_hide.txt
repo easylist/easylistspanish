@@ -10,6 +10,7 @@ cinestrenostv.tv###closeX2
 elpais.com###comerciales
 elmundo.es###contenedorAutocompleteGlobaliza
 publico.es###decine21_widget_estrenos
+lne.es###divderecha_1021
 laprovincia.es###divderecha_1050
 gaceta.es###esplandido_1000view
 tvenganchado.com###g
