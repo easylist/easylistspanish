@@ -9,6 +9,7 @@ http://www.algocashmaster.com/
 |http://img02.lavanguardia.com/*/Vaughan-certified_*.jpg
 |https://es-cloud-resources.tombola.com/Flash/Modules/winners_module_apr_*.swf
 |va6.thand.info/embed-
+||$script,third-party,xmlhttprequest,domain=jkanime.net
 ||albopa.work^$third-party
 ||algocashmaster.net^$popup,third-party
 ||amazonaws.com^$third-party,xmlhttprequest,domain=animeflv.net
