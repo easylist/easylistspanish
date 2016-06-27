@@ -36,6 +36,7 @@ http://www.algocashmaster.com/
 ||economicos.cl/widgets/$third-party
 ||estaticos.sport.es/resources/png/8/1/1434710825318.png
 ||farox.com/barra_productos/
+||fuegodevida.com^$popup,third-party
 ||gaceta.es/sites/all/themes/blank/images/TVdirecto.png
 ||gettyimages.es/gi-resources/images/*/iStock.jpg
 ||guioteca.com/widget.php?$third-party
