@@ -1,5 +1,5 @@
-||$script,third-party,xmlhttprequest,domain=jkanime.net
 ||albopa.work^$third-party
+||algocashmaster.com^$third.party
 ||algocashmaster.net^$popup,third-party
 ||amazonaws.com^$third-party,xmlhttprequest,domain=animeflv.net
 ||as01.epimg.net/diarioas/imagenes/*/*/*/promocionesportada/*promo_normal.jpg
@@ -16,7 +16,6 @@
 ||cloudfront.net^$domain=newpct1.com
 ||clubdelectores.cl/cajaEmolClub/$third-party
 ||css01.lavanguardia.com/imagenes/cajaHTML/loterias.gif
-||d1izbwxtc3f9ue.cloudfront.net^$third.party
 ||diariodelaribera.org/images/banners/
 ||diariodelaribera.org/images/stories/banners2015/noviembre_2015/
 ||diariodelaribera.org/images/stories/banners2015/octubre_2015/
@@ -53,8 +52,11 @@
 ||meteoconsult.es/publicite/
 ||millionairedream.co^$third-party
 ||mmedia.20m.es/modulos/pastillas/nuevas/pastillas/Home/Gonzoogenerica.png
+||mundodeportivo.com/r/GODO/MD/p3/Canales/Imagenes/*/lacaixa.jpg
+||mundodeportivo.com/r/GODO/MD/p3/Canales/Imagenes/*/runedia.jpg
 ||mundodeportivo.com/r/GODO/MD/p3/Canales/Imagenes/2015/02/06/
 ||mundodeportivo.com/r/GODO/MD/p3/ContraPortada/Imagenes/*/img_cduart_*_imagenes_md_otras_fuentes_bmw_*.jpg
+||p.a-abp.com//simgad/
 ||partner.leguide.com^$third.party
 ||px.fotos.cdn.0223.com.ar/f/5399f9f213cd649c19000009/
 ||px.fotos.cdn.0223.com.ar/f/539f4f6c5408217c16000029/
@@ -78,6 +80,3 @@
 ||vertdtgratis.es/publi23.html
 ||vigoe.es/images/pbanner/
 ||vivedescuentos.com/mas_informacion/$third-party
-||www.algocashmaster.com^$third.party
-||www.mundodeportivo.com/r/GODO/MD/p3/Canales/Imagenes/*/lacaixa.jpg
-||www.mundodeportivo.com/r/GODO/MD/p3/Canales/Imagenes/*/runedia.jpg
