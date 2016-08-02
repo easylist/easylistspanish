@@ -27,6 +27,7 @@ supremacy1914.es###top50\.pl
 verdirectotv.org###total
 mundodeportivo.com###widget-mdcribeo-loultimo
 realbetisbalompie.es###widget_banners
+guadairainformacion.com##.Banner300x100
 buscamultas.com##.TableWidget
 terra.es##.ad
 sport.es##.advertisement
