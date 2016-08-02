@@ -68,6 +68,7 @@
 ||st.forocoches.com/image/top_c2_fcs_hd_hawkers.png
 ||st.forocoches.com/image/varios/iphone6_ipadmini.png
 ||st1.idealista.com/news/archivos/styles/348x90/public/ficheros_widget_news/img/balcon_concha_vanguardia.jpg
+||static.playspace.com^
 ||static1.eldiario.es/static/EDIDiario/images/fauxcols/
 ||static2.eldiario.es/static/EDIDiario/images/eld-bg-rg-body.png
 ||supportcorner.co^$third-party
