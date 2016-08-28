@@ -1,7 +1,9 @@
 ||canuckmethodprofit.co^$popup,third-party
 ||cinemalek.com^$popup,third-party
+||jlflzjdt.com^popup,third-party
 ||millionairedream.co^$popup,third-party
 ||sebar.thand.info
 ||supportcorner.co^$popup,third-party
+||traffic.getmyads.com^$popup,third-party
 ||tvoy-million.co^$popup,third-party
 ||wekiss.co^$popup,third-party
