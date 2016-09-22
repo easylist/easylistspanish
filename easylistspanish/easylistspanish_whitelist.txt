@@ -10,5 +10,6 @@
 @@||bewom.es^$document
 @@||divxatope.com^$generichide
 @@||ganadineroconencuestas.com^
+@@||lasprovincias.es/*ad$script
 @@||pubted.com/pops/adBlockCheck/adblock.js
 @@||saikoanimes.net^$script
