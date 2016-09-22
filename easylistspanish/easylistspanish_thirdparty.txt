@@ -1,0 +1,4 @@
+@@||content.jwplatform.com^$script,domain=animakai.tv
+|http://$script,third-party,domain=animakai.tv
+|https://$script,third-party,domain=animakai.tv
+||adcarem.co^$third-party
