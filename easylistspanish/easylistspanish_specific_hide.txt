@@ -117,6 +117,7 @@ mitele.es##.titleList.DestacadoBox.clearfix.ModuleSimple:last-child
 impactosocial.telecinco.es##.tweets.instagram
 telecinco.es##.tx.teaser
 larazon.es##.vinculoPatrocinio
+elotrolado.net##.visible-lg-block
 st1.idealista.com##.widget_idealista
 telecinco.es##A[href="http://www.divinity.es/blogs/divinosconnachomontes/Aciertos-errores-Spectre-James-Bond_6_2075415007.html"]
 st1.idealista.com##A[href="http://www.idealista.com/news/vacacional/mercado-vacacional/2015/08/12/738750-competencia-arremete-contra-la-ley-que-limita-los-pisos-turisticos-en-el?xts=352991&xtor=AD-186-[node/738750]-[]-[57601_1]-[lavanguardia.es__lavanguardia.es]-[]-[titulo_1_1]&source=314"]
