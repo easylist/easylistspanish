@@ -29,6 +29,9 @@ realbetisbalompie.es###widget_banners
 guadairainformacion.com##.Banner300x100
 buscamultas.com##.TableWidget
 terra.es##.ad
+forobeta.com##.adshare_belownav
+forobeta.com##.adshare_firstpost
+forobeta.com##.adshare_lastpost
 sport.es##.advertisement
 terra.es##.advertising
 androidpit.es##.appSlider
