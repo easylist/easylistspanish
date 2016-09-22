@@ -28,7 +28,9 @@ mundodeportivo.com###widget-mdcribeo-loultimo
 realbetisbalompie.es###widget_banners
 guadairainformacion.com##.Banner300x100
 buscamultas.com##.TableWidget
-terra.es##.ad
+elconfidencial.com,terra.es##.ad
+elconfidencial.com##.adcrt300x600
+elconfidencial.com##.adcrt980x250
 forobeta.com##.adshare_belownav
 forobeta.com##.adshare_firstpost
 forobeta.com##.adshare_lastpost
