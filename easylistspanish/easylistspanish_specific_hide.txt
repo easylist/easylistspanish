@@ -34,6 +34,7 @@ terra.es##.advertising
 androidpit.es##.appSlider
 libertaddigital.com##.apuestas
 windowscracker1.blogspot.com.es##.at4-whatsnext-outer-container
+animakai.tv##.banner
 freepik.es##.banner-crehana-holder
 netshoes.com.ar##.banners-home + * > .bannerHolder
 180.com.uy##.banners-side-container
