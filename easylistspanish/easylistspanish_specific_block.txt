@@ -1,6 +1,7 @@
+@@||ajax.googleapis.com/ajax/libs/$script,domain=elitetorrent.net
 @@||pordede.com^$generichide
 @@||www.eleconomista.es^$generichide
-|http://$script,third-party,domain=newpct1.com|novelasenlinea.net
+|http://$script,third-party,domain=elitetorrent.net|newpct1.com|novelasenlinea.net
 |http://$script,third-party,xmlhttprequest,domain=jkanime.net|macrojuegos.com
 |http://$third-party,domain=divxatope.com
 |https://$script,third-party,domain=novelasenlinea.net
