@@ -1,13 +1,16 @@
+@@||pordede.com^$generichide
 |http://$script,third-party,domain=novelasenlinea.net
 |http://$script,third-party,xmlhttprequest,domain=jkanime.net|macrojuegos.com
 |http://$third-party,domain=divxatope.com
 |https://$script,third-party,domain=novelasenlinea.net
 |https://$script,third-party,xmlhttprequest,domain=jkanime.net|macrojuegos.com
+||104.154.237.193^$popup,third-party
 ||albopa.work^$third-party
 ||algocashmaster.com^$third-party
 ||algocashmaster.net^$popup,third-party
 ||amazonaws.com^$third-party,xmlhttprequest,domain=animeflv.net
 ||animakai.tv/parceria.js
+||apugod.work^$third-party
 ||as01.epimg.net/diarioas/imagenes/*/*/*/promocionesportada/*promo_normal.jpg
 ||as01.epimg.net/diarioas/imagenes/2013/02/18/portadainferior/1361188811_787909_1418979253_promocion_inferior_horizontal_normal.jpg
 ||as01.epimg.net/diarioas/imagenes/2013/02/19/portadainferior/1361271832_436146_1435743392_promocion_inferior_horizontal_normal.jpg
