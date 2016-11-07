@@ -18,6 +18,7 @@
 ||as01.epimg.net/diarioas/imagenes/2013/02/19/portadainferior/1361271832_436146_1435743392_promocion_inferior_horizontal_normal.jpg
 ||babalonia.com/images/promo/*.gif
 ||bookelement.biz^$third-party
+||boutique-marketing.net/*160x
 ||buyman.com.ar/pubex/
 ||canuckmethodprofit.co^$third-party
 ||cdn.exur.com/notmundo/
