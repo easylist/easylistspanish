@@ -24,6 +24,7 @@ chrissysinvite.co###myModal
 realbetisbalompie.es###right-banners
 noticiaslasflores.com.ar###swiffycontainer
 livenumetal.es###text-7 > .textwidget
+abc.com.py###top-banners
 supremacy1914.es###top50\.pl
 ecuavisa.com###topbar
 verdirectotv.org###total
