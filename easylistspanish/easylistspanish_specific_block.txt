@@ -73,6 +73,7 @@
 ||telecincostatic-a.akamaihd.net/20aniversario/
 ||telecincostatic-a.akamaihd.net/masdetelecinco/
 ||telecincostatic-a.akamaihd.net/practica-cuatro/
+||tiquetesbaratos.com/pruebas/periodicos/
 ||va6.thand.info/embed-^$third-party
 ||vertdtgratis.es/publi1.html
 ||vertdtgratis.es/publi2.html
