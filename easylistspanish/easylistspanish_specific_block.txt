@@ -4,6 +4,8 @@
 |https://$script,third-party,domain=animakai.tv|novelasenlinea.net
 |https://$script,third-party,xmlhttprequest,domain=jkanime.net|macrojuegos.com
 ||abc.com.py/plantillas/js/banners-mkt.js
+||abchoy.com.ar/publicidades/
+||abchoy.com.ar/publipopup/
 ||amazonaws.com^$third-party,xmlhttprequest,domain=animeflv.net
 ||animakai.tv/parceria.js
 ||as01.epimg.net/diarioas/imagenes/*/*/*/promocionesportada/*promo_normal.jpg
