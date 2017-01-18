@@ -29,6 +29,8 @@ ecuavisa.com###topbar
 verdirectotv.org###total
 mundodeportivo.com###widget-mdcribeo-loultimo
 realbetisbalompie.es###widget_banners
+elblog.com###z_pub_inf_new
+elblog.com###z_pub_sup_new
 guadairainformacion.com##.Banner300x100
 buscamultas.com##.TableWidget
 elconfidencial.com,terra.es##.ad
@@ -105,6 +107,9 @@ as.com##.promocionesdoscarriles5
 as.com##.promocionesdoscarriles6
 as.com##.promocionesdoscarriles7
 as.com##.promocionesdoscarriles8
+elblog.com##.pub_lat1_father
+elblog.com##.pub_lat2_father
+elblog.com##.pub_lat3_father
 publico.es##.roba
 gaceta.es##.row-lagallina
 gaceta.es##.row-negocios
