@@ -4,3 +4,9 @@
 ##.mclics
 ##.promocion_libre
 ##.publi
+##.publicidad1
+##.publicidad2
+##.publicidad3
+##.publicidad4
+##.publicidad5
+##.publicidad6
