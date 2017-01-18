@@ -63,6 +63,7 @@
 ||px.fotos.cdn.0223.com.ar/f/55cd3fc7b07ac20500000282/
 ||rae.es/sites/all/common/images/logos/
 ||rs.20m.es/i/petitchef_cintillo.jpg
+||s3.amazonaws.com/comparabien-default/ads/
 ||saikoanimes.net/Imagens/aaaaa.png
 ||saikoanimes.net/Imagens/parceiros/
 ||st.forocoches.com/image/top_c2_fcs_hd_hawkers.png
