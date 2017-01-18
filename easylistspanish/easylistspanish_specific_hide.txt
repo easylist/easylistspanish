@@ -44,7 +44,9 @@ animakai.tv##.banner
 freepik.es##.banner-crehana-holder
 netshoes.com.ar##.banners-home + * > .bannerHolder
 180.com.uy##.banners-side-container
+tumomo.com##.bderecho
 ebay.es##.beta-placement
+tumomo.com##.bizquierdo
 marca.com##.bloque-elmundo
 marca.com##.bloque-expansion
 marca.com##.bloque-promo
