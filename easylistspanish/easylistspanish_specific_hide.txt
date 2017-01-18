@@ -50,6 +50,9 @@ libertaddigital.com##.apuestas
 windowscracker1.blogspot.com.es##.at4-whatsnext-outer-container
 animakai.tv##.banner
 freepik.es##.banner-crehana-holder
+elliberal.com.ar##.bannernota
+elliberal.com.ar##.bannernota2
+elliberal.com.ar##.bannernota3
 netshoes.com.ar##.banners-home + * > .bannerHolder
 180.com.uy##.banners-side-container
 tumomo.com##.bderecho
@@ -126,6 +129,7 @@ diariocorreo.pe##.sidebar-zonahogar
 marca.com##.sinergias_telva
 gaceta.es##.slides[style="width: 600%; transition-duration: 0s; transform: translate3d(-320px, 0px, 0px);"]
 sport.es##.sp-widget-balon
+elliberal.com.ar##.sponsor
 ruedasgordas.es##.sponsors
 sport.es##.srp-widget-thmblink[href="http://www.elbalonrosa.com/galerias/daniella-tamayo-apoya-falcao-en-los-peores-momentos/"]
 eldiario.es##.strapband:first-child
