@@ -25,6 +25,7 @@ realbetisbalompie.es###right-banners
 noticiaslasflores.com.ar###swiffycontainer
 livenumetal.es###text-7 > .textwidget
 supremacy1914.es###top50\.pl
+ecuavisa.com###topbar
 verdirectotv.org###total
 mundodeportivo.com###widget-mdcribeo-loultimo
 realbetisbalompie.es###widget_banners
