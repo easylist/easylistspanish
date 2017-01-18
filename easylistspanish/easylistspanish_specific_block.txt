@@ -20,6 +20,7 @@
 ||cloudfront.net^$domain=newpct1.com
 ||clubdelectores.cl/cajaEmolClub/$third-party
 ||css01.lavanguardia.com/imagenes/cajaHTML/loterias.gif
+||deportetandilense.com.ar/publicidades_cate/
 ||diariodelaribera.org/images/banners/
 ||diariodelaribera.org/images/stories/banners2015/noviembre_2015/
 ||diariodelaribera.org/images/stories/banners2015/octubre_2015/
