@@ -112,7 +112,7 @@ as.com##.promocionesdoscarriles8
 elblog.com##.pub_lat1_father
 elblog.com##.pub_lat2_father
 elblog.com##.pub_lat3_father
-publico.es##.roba
+elcorreo.com,publico.es##.roba
 gaceta.es##.row-lagallina
 gaceta.es##.row-negocios
 gaceta.es##.row-puntopelota
