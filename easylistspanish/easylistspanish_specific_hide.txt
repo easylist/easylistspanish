@@ -75,6 +75,7 @@ marca.com##.marcamotor
 eldiario.es##.md-advertisement.md.hspace.adv-container.no-adv-socios + * + * + * > .blk.mtflow
 eldiario.es##.md-opinion-lst.md.md-sk3.hspace
 abc.es##.media[href="http://loffit.abc.es/rodar/barcos/tetrahedron-un-superyate-de-ciencia-ficcion-230534/"]
+atresplayer.com##.mod_roba
 lavozdegalicia.es##.mujerhoy
 gaceta.es##.node-anuncio-megabanner
 abc.es##.oferplan
