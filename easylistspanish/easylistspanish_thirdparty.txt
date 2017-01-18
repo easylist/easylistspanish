@@ -1,3 +1,4 @@
+||doragonborusupa.com^$third-party
 ||economicos.cl/widgets/$third-party
 ||guioteca.com/widget.php^$third-party
 ||partner.leguide.com^$third-party

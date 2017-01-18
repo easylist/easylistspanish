@@ -3,6 +3,7 @@
 |http://$third-party,domain=divxatope.com
 |https://$script,third-party,domain=animakai.tv|novelasenlinea.net
 |https://$script,third-party,xmlhttprequest,domain=jkanime.net|macrojuegos.com
+||130.211.230.53^$script,domain=animeid.tv
 ||abc.com.py/plantillas/js/banners-mkt.js
 ||abchoy.com.ar/publicidades/
 ||abchoy.com.ar/publipopup/
