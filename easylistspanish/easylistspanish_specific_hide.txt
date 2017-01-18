@@ -1,5 +1,6 @@
 lavanguardia.com###adm1439491187577114
 atresplayer.com###bannerTop
+estadio.ec###banners
 marca.com###bloque_nauta360
 marca.com###bloque_tiramillas
 pickinup.es###brand-carousel
