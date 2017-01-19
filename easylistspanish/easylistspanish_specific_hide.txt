@@ -26,6 +26,7 @@ pordede.com###lean_overlay
 abc.es###modulo_loffit_v6
 chrissysinvite.co###myModal
 realbetisbalompie.es###right-banners
+noticias3d.com###skin
 noticiaslasflores.com.ar###swiffycontainer
 livenumetal.es###text-7 > .textwidget
 abc.com.py###top-banners
