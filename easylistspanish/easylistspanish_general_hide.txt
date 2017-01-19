@@ -1,9 +1,12 @@
+###afsposicion1
+###afsposicion2
 ###publiLink
 ##.ad-tl2b
 ##.dfp-queue
 ##.mclics
 ##.promocion_libre
 ##.publi
+##.publi_lateral
 ##.publicidad1
 ##.publicidad2
 ##.publicidad3
