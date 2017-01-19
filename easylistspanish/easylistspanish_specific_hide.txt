@@ -29,6 +29,7 @@ chrissysinvite.co###myModal
 realbetisbalompie.es###right-banners
 noticias3d.com###skin
 noticiaslasflores.com.ar###swiffycontainer
+emprendices.co###text-15
 livenumetal.es###text-7 > .textwidget
 abc.com.py###top-banners
 supremacy1914.es###top50\.pl
@@ -85,6 +86,7 @@ elcomercio.pe##.ec-club
 estadiodeportivo.whitelabel.kelisto.es##.finance
 elmundo.es##.flechados
 adscdn.freepik.com##.friwol_slides
+emprendices.co##.homepage-widget > #text-16
 modulos.grupojoly.com##.img_patrocinio[src="img/movistar.png"]
 laregion.es##.item > a[href="http://www.meteogalicia.es/web/predicion/localidades/localidadesIndex.action?idZona=32054"]
 elmundo.es##.kelisto-comparador-coche-2
