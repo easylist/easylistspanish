@@ -1,6 +1,13 @@
 ###afsposicion1
 ###afsposicion2
+###fix_publicidad_inferior
 ###publiLink
+###publicidad_inferior
+###publicidad_lateral_inferior
+###publicidad_lateral_medio
+###publicidad_lateral_superior
+###publicidad_subir
+###publicidad_superior
 ##.ad-tl2b
 ##.dfp-queue
 ##.mclics
