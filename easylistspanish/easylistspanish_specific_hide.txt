@@ -103,6 +103,7 @@ atresplayer.com##.mod_roba
 lavozdegalicia.es##.mujerhoy
 gaceta.es##.node-anuncio-megabanner
 abc.es##.oferplan
+pdindustriales.com.ar##.ofertas2
 meteoconsult.es##.partenaire_simple
 meteoconsult.es##.partenaire_simple_home
 lavozdegalicia.es##.patrocinio
