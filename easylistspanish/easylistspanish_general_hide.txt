@@ -21,3 +21,5 @@
 ##.publicidad4
 ##.publicidad5
 ##.publicidad6
+##adsenseintermedioleft
+##adsenseintermedioright
