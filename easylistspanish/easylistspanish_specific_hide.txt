@@ -11,7 +11,6 @@ abchoy.com.ar###cacho-overlay
 abchoy.com.ar###cacho-popup
 laprovincia.es###caja_1_derecha_17_0
 20minutos.es###cajasbuscadoras
-st.chatango.com###cgroup
 cinestrenostv.tv###closeX1
 cinestrenostv.tv###closeX2
 elpais.com###comerciales
