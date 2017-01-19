@@ -13,6 +13,7 @@
 ##.mclics
 ##.promocion_libre
 ##.publi
+##.publiTop
 ##.publi_lateral
 ##.publicidad1
 ##.publicidad2
