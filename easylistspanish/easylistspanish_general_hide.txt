@@ -2,6 +2,7 @@
 ###afsposicion2
 ###fix_publicidad_inferior
 ###publiLink
+###publicidad-top
 ###publicidad_inferior
 ###publicidad_lateral_inferior
 ###publicidad_lateral_medio
