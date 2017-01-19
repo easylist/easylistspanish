@@ -65,6 +65,7 @@ marca.com##.bloque-elmundo
 marca.com##.bloque-expansion
 marca.com##.bloque-promo
 mundodeportivo.com##.bolarosa
+pelisadicto.com##.box
 emol.com##.bt_publicar_ecn
 laprovincia.es##.caja_cuponisimo_slider300
 estadiodeportivo.whitelabel.kelisto.es##.car-insurance
