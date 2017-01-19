@@ -43,6 +43,7 @@ buscamultas.com##.TableWidget
 elconfidencial.com,terra.es##.ad
 elconfidencial.com##.adcrt300x600
 elconfidencial.com##.adcrt980x250
+zonatorrent.es##.adsb30
 forobeta.com##.adshare_belownav
 forobeta.com##.adshare_firstpost
 forobeta.com##.adshare_lastpost
