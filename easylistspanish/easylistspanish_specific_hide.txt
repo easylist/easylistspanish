@@ -48,6 +48,7 @@ forobeta.com##.adshare_firstpost
 forobeta.com##.adshare_lastpost
 sport.es##.advertisement
 terra.es##.advertising
+20minutos.es##.adx
 androidpit.es##.appSlider
 libertaddigital.com##.apuestas
 windowscracker1.blogspot.com.es##.at4-whatsnext-outer-container
