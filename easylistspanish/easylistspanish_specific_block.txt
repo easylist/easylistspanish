@@ -62,6 +62,7 @@
 ||mundodeportivo.com/r/GODO/MD/p3/Canales/Imagenes/*/runedia.jpg
 ||mundodeportivo.com/r/GODO/MD/p3/Canales/Imagenes/2015/02/06/
 ||mundodeportivo.com/r/GODO/MD/p3/ContraPortada/Imagenes/*/img_cduart_*_imagenes_md_otras_fuentes_bmw_*.jpg
+||netuy.net/banner_hosting_uruguay/
 ||newsweeklatino.com/flow/
 ||noticias3d.com/imagenes/banners/
 ||nuevaeranet.com.ar/publicidades_cate/
@@ -71,6 +72,7 @@
 ||px.fotos.cdn.0223.com.ar/f/5487365314cdac0400000148/
 ||px.fotos.cdn.0223.com.ar/f/55cd3fc7b07ac20500000282/
 ||rae.es/sites/all/common/images/logos/
+||republica.com.uy/wp-content/banners/
 ||rs.20m.es/i/petitchef_cintillo.jpg
 ||s3.amazonaws.com/comparabien-default/ads/
 ||saikoanimes.net/Imagens/aaaaa.png
