@@ -19,3 +19,5 @@
 @@||republica.com.uy/wp-content/banners/HoroscopoDiario2016.jpg
 @@||saikoanimes.net^$script
 @@||www.eleconomista.es^$generichide
+! Anti-Adblock
+@@||menshealth.es^$generichide
