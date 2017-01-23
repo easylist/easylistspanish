@@ -21,3 +21,4 @@
 @@||www.eleconomista.es^$generichide
 ! Anti-Adblock
 @@||menshealth.es^$generichide
+@@||mundodeportivo.com/*ad$script
