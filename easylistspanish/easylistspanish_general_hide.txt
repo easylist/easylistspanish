@@ -15,6 +15,7 @@
 ##.promocion_libre
 ##.publi
 ##.publiTop
+##.publi_horizontal
 ##.publi_lateral
 ##.publicidad1
 ##.publicidad2
