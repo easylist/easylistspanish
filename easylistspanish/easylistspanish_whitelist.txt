@@ -20,6 +20,7 @@
 @@||saikoanimes.net^$script
 @@||www.eleconomista.es^$generichide
 ! Anti-Adblock
+@@||lavanguardia.com/*ad$script
 @@||laverdad.es/*ad$script
 @@||menshealth.es^$generichide
 @@||mundodeportivo.com/*ad$script
