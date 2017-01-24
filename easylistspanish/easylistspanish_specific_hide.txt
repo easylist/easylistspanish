@@ -91,7 +91,6 @@ tandildiario.com##.containerBannerDesplegable
 adscdn.freepik.com##.coupon
 slimdownload.co##.cssanimations
 laprovincia.es##.dcham2
-elotrolado.net##.dfp-queue
 diariodesevilla.es##.ePubli1
 elcomercio.pe##.ec-club
 estadiodeportivo.whitelabel.kelisto.es##.finance
@@ -218,7 +217,6 @@ forospyware.com##a[href^="http://buy.malwarebytes.org/esinfo/"]
 telecinco.es##a[title="Cristina Pedroche: \"De especial llevaba el collar de mi abuela, para que estuviera presente\""]
 elpais.com##div.caja.caja_clasificados
 elpais.com##div.clasificados
-mercadolibre.com.mx##div.mclics
 monografias.com##div[style="background-color:#FFF;margin-bottom:10px;height:250px;"]
 dreamfilmhd.bz##div[style="background-color:rgba(0,0,0,0.1);width:750px;height:100px;max-width:100%;margin:0 5px 10px 8px"]
 la-razon.com##div[style="position:absolute; top:12px; width:970px; height:90px; background:#FFF; z-index:100; padding:0px; margin:0px"]
