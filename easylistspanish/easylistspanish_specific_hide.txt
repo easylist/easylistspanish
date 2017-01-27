@@ -117,7 +117,6 @@ pdindustriales.com.ar##.ofertas2
 meteoconsult.es##.partenaire_simple
 meteoconsult.es##.partenaire_simple_home
 lavozdegalicia.es##.patrocinio
-meteoconsult.es##.paves_bas.pub_lcm
 lavoz.com.ar##.producto-tienda
 rumbo.es##.promo262x90
 as.com##.promociones10
