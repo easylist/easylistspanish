@@ -2,7 +2,6 @@
 ||albopa.work^$third-party
 ||algocashmaster.com^$third-party
 ||apugod.work^$third-party
-||bookelement.biz^$third-party
 ||canuckmethodprofit.co^$third-party
 ||cinmaland.com^$third-party
 ||supportcorner.co^$third-party
