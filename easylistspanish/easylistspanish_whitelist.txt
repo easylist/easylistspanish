@@ -25,3 +25,5 @@
 @@||laverdad.es/*ad$script
 @@||menshealth.es^$generichide
 @@||mundodeportivo.com/*ad$script
+@@||youtvgratis.com/*ad$script
+@@||youtvgratis.com^$generichide
