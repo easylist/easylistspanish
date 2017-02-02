@@ -11,6 +11,8 @@
 @@||bewom.es^$document
 @@||code.jquery.com^$script,domain=seriesblanco.com
 @@||content.jwplatform.com^$script,domain=animakai.tv
+@@||diariosanrafael.com.ar/images/banners/banner_nexo.jpg
+@@||diariosanrafael.com.ar/images/banners/banner_twitter.png
 @@||divxatope.com^$generichide
 @@||ganadineroconencuestas.com^
 @@||lasprovincias.es/*ad$script
