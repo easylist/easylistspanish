@@ -45,6 +45,9 @@
 ||images.eldiario.es/elasombrario/Portadas_EDIIMA20151029_0056_18.jpg
 ||img01.lavanguardia.com/2013/05/16/Logo-canal-Castellers-*.jpg
 ||img02.lavanguardia.com/*/Vaughan-certified_*.jpg
+||inmendoza.com/wp-content/uploads/*_1140x170_
+||inmendoza.com/wp-content/uploads/banner/
+||inmendoza.com^*/banners/
 ||interbenavente.es/upload/img/periodico/img_2369.gif
 ||interbenavente.es/upload/img/periodico/img_28084.gif
 ||interbenavente.es/upload/img/periodico/img_31937.gif
