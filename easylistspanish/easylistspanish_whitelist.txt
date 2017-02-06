@@ -25,6 +25,8 @@
 @@||animeflv.net/js/ads.js
 @@||lavanguardia.com/*ad$script
 @@||laverdad.es/*ad$script
+@@||levante-emv.com/*ads$script
+@@||levante-emv.com^$generichide
 @@||menshealth.es^$generichide
 @@||mundodeportivo.com/*ad$script
 @@||youtvgratis.com/*ad$script
