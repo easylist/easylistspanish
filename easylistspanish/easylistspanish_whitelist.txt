@@ -13,21 +13,21 @@
 @@||content.jwplatform.com^$script,domain=animakai.tv
 @@||diariosanrafael.com.ar/images/banners/banner_nexo.jpg
 @@||diariosanrafael.com.ar/images/banners/banner_twitter.png
-@@||divxatope.com^$generichide
-@@||eleconomista.es^$generichide
 @@||ganadineroconencuestas.com^
-@@||lasprovincias.es/*ad$script
-@@||pordede.com^$generichide
-@@||pubted.com/pops/adBlockCheck/adblock.js
 @@||republica.com.uy/wp-content/banners/HoroscopoDiario2016.jpg
-@@||saikoanimes.net^$script
 ! Anti-Adblock
 @@||animeflv.net/js/ads.js
+@@||divxatope.com^$generichide
+@@||eleconomista.es^$generichide
+@@||lasprovincias.es/*ad$script
 @@||lavanguardia.com/*ad$script
 @@||laverdad.es/*ad$script
 @@||levante-emv.com/*ads$script
 @@||levante-emv.com^$generichide
 @@||menshealth.es^$generichide
 @@||mundodeportivo.com/*ad$script
+@@||pordede.com^$generichide
+@@||pubted.com/pops/adBlockCheck/adblock.js
+@@||saikoanimes.net^$script
 @@||youtvgratis.com/*ad$script
 @@||youtvgratis.com^$generichide
