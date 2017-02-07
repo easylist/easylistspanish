@@ -14,13 +14,13 @@
 @@||diariosanrafael.com.ar/images/banners/banner_nexo.jpg
 @@||diariosanrafael.com.ar/images/banners/banner_twitter.png
 @@||divxatope.com^$generichide
+@@||eleconomista.es^$generichide
 @@||ganadineroconencuestas.com^
 @@||lasprovincias.es/*ad$script
 @@||pordede.com^$generichide
 @@||pubted.com/pops/adBlockCheck/adblock.js
 @@||republica.com.uy/wp-content/banners/HoroscopoDiario2016.jpg
 @@||saikoanimes.net^$script
-@@||www.eleconomista.es^$generichide
 ! Anti-Adblock
 @@||animeflv.net/js/ads.js
 @@||lavanguardia.com/*ad$script
