@@ -30,6 +30,7 @@
 @@||levante-emv.com^$generichide
 @@||menshealth.es^$generichide
 @@||mundodeportivo.com/*ad$script
+@@||mzsimg.com/js/ads.js
 @@||pcbolsa.com/*ad$script
 @@||pordede.com^$generichide
 @@||pubted.com/pops/adBlockCheck/adblock.js
