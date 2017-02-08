@@ -20,6 +20,7 @@
 @@||autopista.es^$generichide
 @@||divxatope.com^$generichide
 @@||eleconomista.es^$generichide
+@@||kjanime.net/*ad$script
 @@||lasprovincias.es/*ad$script
 @@||lavanguardia.com/*ad$script
 @@||laverdad.es/*ad$script
