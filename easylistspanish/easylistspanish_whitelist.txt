@@ -38,5 +38,6 @@
 @@||superdeporte.es/*ads$script
 @@||superdeporte.es^$generichide
 @@||todotumac.com^$generichide
+@@||tribunasalamanca.com/ads.html
 @@||youtvgratis.com/*ad$script
 @@||youtvgratis.com^$generichide
