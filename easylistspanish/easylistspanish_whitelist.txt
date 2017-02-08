@@ -17,6 +17,7 @@
 @@||republica.com.uy/wp-content/banners/HoroscopoDiario2016.jpg
 ! Anti-Adblock
 @@||animeflv.net/js/ads.js
+@@||autopista.es^$generichide
 @@||divxatope.com^$generichide
 @@||eleconomista.es^$generichide
 @@||lasprovincias.es/*ad$script
