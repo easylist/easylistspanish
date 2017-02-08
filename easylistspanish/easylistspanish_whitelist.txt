@@ -16,6 +16,7 @@
 @@||ganadineroconencuestas.com^
 @@||republica.com.uy/wp-content/banners/HoroscopoDiario2016.jpg
 ! Anti-Adblock
+@@.png#$domain=todotumac.com
 @@||animeflv.net/js/ads.js
 @@||autopista.es^$generichide
 @@||booksmedicos.org^$generichide
@@ -33,5 +34,6 @@
 @@||pordede.com^$generichide
 @@||pubted.com/pops/adBlockCheck/adblock.js
 @@||saikoanimes.net^$script
+@@||todotumac.com^$generichide
 @@||youtvgratis.com/*ad$script
 @@||youtvgratis.com^$generichide
