@@ -18,6 +18,7 @@
 ! Anti-Adblock
 @@||animeflv.net/js/ads.js
 @@||autopista.es^$generichide
+@@||booksmedicos.org^$generichide
 @@||divxatope.com^$generichide
 @@||eleconomista.es^$generichide
 @@||kjanime.net/*ad$script
