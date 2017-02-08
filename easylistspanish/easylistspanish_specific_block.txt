@@ -97,3 +97,5 @@
 ||vertdtgratis.es/publi2.html
 ||vertdtgratis.es/publi23.html
 ||vigoe.es/images/pbanner/
+! Anti-Adblock
+||motociclismo.es/js/compiled_blockadblock_15.js
