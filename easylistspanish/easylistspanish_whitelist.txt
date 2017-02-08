@@ -27,6 +27,7 @@
 @@||levante-emv.com^$generichide
 @@||menshealth.es^$generichide
 @@||mundodeportivo.com/*ad$script
+@@||pcbolsa.com/*ad$script
 @@||pordede.com^$generichide
 @@||pubted.com/pops/adBlockCheck/adblock.js
 @@||saikoanimes.net^$script
