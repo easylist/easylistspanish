@@ -35,6 +35,8 @@
 @@||pordede.com^$generichide
 @@||pubted.com/pops/adBlockCheck/adblock.js
 @@||saikoanimes.net^$script
+@@||superdeporte.es/*ads$script
+@@||superdeporte.es^$generichide
 @@||todotumac.com^$generichide
 @@||youtvgratis.com/*ad$script
 @@||youtvgratis.com^$generichide
