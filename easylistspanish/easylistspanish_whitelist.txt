@@ -17,6 +17,7 @@
 @@||republica.com.uy/wp-content/banners/HoroscopoDiario2016.jpg
 ! Anti-Adblock
 @@.png#$domain=todotumac.com
+@@/comun/js/2014/adfr*.js$domain=diariosur.es|diariovasco.com|elcomercio.es|elcorreo.com|eldiariomontanes.es|elnortedecastilla.es|hoy.es|ideal.es|larioja.com|lasprovincias.es|laverdad.es|leonoticias.com
 @@||animeflv.net/js/ads.js
 @@||autopista.es^$generichide
 @@||booksmedicos.org^$generichide
