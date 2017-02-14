@@ -89,6 +89,7 @@
 ||static1.eldiario.es/static/EDIDiario/images/fauxcols/
 ||static2.eldiario.es/static/EDIDiario/images/eld-bg-rg-body.png
 ||tiquetesbaratos.com/pruebas/periodicos/
+||todomecanica.com/images/patrocinios/
 ||va6.thand.info/embed-^$third-party
 ||vertdtgratis.es/publi1.html
 ||vertdtgratis.es/publi2.html

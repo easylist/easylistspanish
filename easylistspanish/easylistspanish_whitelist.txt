@@ -37,6 +37,8 @@
 @@||saikoanimes.net^$script
 @@||superdeporte.es/*ads$script
 @@||superdeporte.es^$generichide
+@@||todomecanica.com/js/ads.js$domain=todomecanica.com
+@@||todomecanica.net/js/ads.js$domain=todomecanica.com
 @@||todotumac.com^$generichide
 @@||tribunasalamanca.com/ads.html
 @@||youtvgratis.com/*ad$script

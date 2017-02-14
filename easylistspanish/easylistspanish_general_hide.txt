@@ -23,5 +23,6 @@
 ##.publicidad4
 ##.publicidad5
 ##.publicidad6
+##.publitop
 ##adsenseintermedioleft
 ##adsenseintermedioright
