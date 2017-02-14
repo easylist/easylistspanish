@@ -104,7 +104,6 @@ emprendices.co##.homepage-widget > #text-16
 modulos.grupojoly.com##.img_patrocinio[src="img/movistar.png"]
 laregion.es##.item > a[href="http://www.meteogalicia.es/web/predicion/localidades/localidadesIndex.action?idZona=32054"]
 elmundo.es##.kelisto-comparador-coche-2
-telecinco.es##.kicker
 laprovincia.es##.listaofertas
 lavanguardia.com##.lv24hdestacamos.first.last > div.des_thumb.c14 > .p3
 blancas.cl,paginasblancas.com.ar,paginasblancas.com.pe##.m-pod-promo-image
@@ -163,14 +162,9 @@ eldiario.es##.strapband:first-child
 larazon.es##.textoPatrocinio
 marca.com##.tiramillas
 mitele.es##.titleList.DestacadoBox.clearfix.ModuleSimple:last-child
-impactosocial.telecinco.es##.tweets.instagram
-telecinco.es##.tx.teaser
 larazon.es##.vinculoPatrocinio
 st1.idealista.com##.widget_idealista
-telecinco.es##A[href="http://www.divinity.es/blogs/divinosconnachomontes/Aciertos-errores-Spectre-James-Bond_6_2075415007.html"]
 st1.idealista.com##A[href="http://www.idealista.com/news/vacacional/mercado-vacacional/2015/08/12/738750-competencia-arremete-contra-la-ley-que-limita-los-pisos-turisticos-en-el?xts=352991&xtor=AD-186-[node/738750]-[]-[57601_1]-[lavanguardia.es__lavanguardia.es]-[]-[titulo_1_1]&source=314"]
-telecinco.es##A[href="http://www.premierapuestas.es/redirect?provenanceCode=C.E_C5_AD&url=http://www.premierapuestas.es/bonos-promociones/bono_de_bienvenida_50/"]
-telecinco.es##A[href="http://www.premiercasino.es/redirect?provenanceCode=C.E_C5_AD&url=http://www.premiercasino.es/bonos-promociones/bono-1000euros/"]
 mitele.es##A[href="http://www.premiercasino.es/redirect?provenanceCode=CONECTA5CASINO"]
 as.com##[data-vr-zone="promociones-inferiores-inferior-3-columnas"]
 as.com##[data-vr-zone="promociones-inferiores-superior-3-columnas"] .mdl-cont-2.cf.s-pr
@@ -200,8 +194,6 @@ diariodesevilla.es##a[href="http://wappissima.es/moda-flamenca"]
 20minutos.es##a[href="http://www.20minutos.es/motor"]
 elsiglodetorreon.com.mx##a[href="http://www.ayojon.mx/"]
 ruedasgordas.es##a[href="http://www.cyclosaltamirano.es/"]
-telecinco.es##a[href="http://www.divinity.es/blogs/oteradas/Partes-cuerpo-famosos-retocan-desconocias_6_2057565007.html"]
-telecinco.es##a[href="http://www.divinity.es/personajes/monica-bellucci/Monica-Belluci-Bond-importante-feminidad_0_2075325155.html"]
 elmundo.es##a[href="http://www.elmundo.es/economia/vivienda.html"]
 elmundo.es##a[href="http://www.elmundo.es/happy-fm.html"]
 mitele.es##a[href="http://www.eltiempohoy.es/"]
@@ -218,7 +210,6 @@ elmundo.es##a[href="http://www.ocholeguas.com/"]
 mitele.es##a[href="http://www.tiendagranhermano.com"]
 antena3.com##a[href="http://www.tualbum.es/"]
 ruedasgordas.es##a[href="https://www.facebook.com/pages/BENIBIKES-Benidorm/177123992350243?fref=ts"]
-telecinco.es##a[title="Cristina Pedroche: \"De especial llevaba el collar de mi abuela, para que estuviera presente\""]
 elpais.com##div.caja.caja_clasificados
 elpais.com##div.clasificados
 monografias.com##div[style="background-color:#FFF;margin-bottom:10px;height:250px;"]

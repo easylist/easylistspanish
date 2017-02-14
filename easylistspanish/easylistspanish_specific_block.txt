@@ -88,9 +88,6 @@
 ||static.emol.cl/emol50/js/funcionesComun.js?
 ||static1.eldiario.es/static/EDIDiario/images/fauxcols/
 ||static2.eldiario.es/static/EDIDiario/images/eld-bg-rg-body.png
-||telecincostatic-a.akamaihd.net/20aniversario/
-||telecincostatic-a.akamaihd.net/masdetelecinco/
-||telecincostatic-a.akamaihd.net/practica-cuatro/
 ||tiquetesbaratos.com/pruebas/periodicos/
 ||va6.thand.info/embed-^$third-party
 ||vertdtgratis.es/publi1.html
