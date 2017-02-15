@@ -30,6 +30,7 @@
 @@||levante-emv.com^$generichide
 @@||menshealth.es^$generichide
 @@||mundodeportivo.com/*ad$script
+@@||muyinteresante.es/js/ads.js$domain=muyinteresante.es
 @@||mzsimg.com/js/ads.js
 @@||pcbolsa.com/*ad$script
 @@||pordede.com^$generichide
