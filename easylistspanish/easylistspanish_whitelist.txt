@@ -16,13 +16,15 @@
 @@||ganadineroconencuestas.com^
 @@||republica.com.uy/wp-content/banners/HoroscopoDiario2016.jpg
 ! Anti-Adblock
-@@.png#$domain=todotumac.com
+@@.png#$domain=fullpremiums.com|todotumac.com
 @@/comun/js/2014/adfr*.js$domain=diariosur.es|diariovasco.com|elcomercio.es|elcorreo.com|eldiariomontanes.es|elnortedecastilla.es|hoy.es|ideal.es|larioja.com|lasprovincias.es|laverdad.es|leonoticias.com
 @@||animeflv.net/js/ads.js
 @@||autopista.es^$generichide
 @@||booksmedicos.org^$generichide
 @@||divxatope.com^$generichide
 @@||eleconomista.es^$generichide
+@@||fullpremiums.com/adblock.js$domain=fullpremiums.com
+@@||fullpremiums.com^$generichide
 @@||kjanime.net/*ad$script
 @@||lasprovincias.es/*ad$script
 @@||lavanguardia.com/*ad$script
