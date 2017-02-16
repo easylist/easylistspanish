@@ -20,6 +20,7 @@ elmundo.es###contenedorAutocompleteGlobaliza
 publico.es###decine21_widget_estrenos
 lne.es###divderecha_1021
 laprovincia.es###divderecha_1050
+diaridegirona.cat###divderecha_1053
 gaceta.es###esplandido_1000view
 tvenganchado.com###g
 realbetisbalompie.es###horizotal-banners
@@ -101,6 +102,7 @@ estadiodeportivo.whitelabel.kelisto.es##.finance
 elmundo.es##.flechados
 adscdn.freepik.com##.friwol_slides
 emprendices.co##.homepage-widget > #text-16
+diaridegirona.cat##.iberpi_cajaext
 modulos.grupojoly.com##.img_patrocinio[src="img/movistar.png"]
 laregion.es##.item > a[href="http://www.meteogalicia.es/web/predicion/localidades/localidadesIndex.action?idZona=32054"]
 elmundo.es##.kelisto-comparador-coche-2
@@ -139,6 +141,7 @@ as.com##.promocionesdoscarriles5
 as.com##.promocionesdoscarriles6
 as.com##.promocionesdoscarriles7
 as.com##.promocionesdoscarriles8
+diaridegirona.cat##.pub_340x250
 elblog.com##.pub_lat1_father
 elblog.com##.pub_lat2_father
 elblog.com##.pub_lat3_father

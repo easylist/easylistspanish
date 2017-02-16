@@ -21,6 +21,7 @@
 @@||animeflv.net/js/ads.js
 @@||autopista.es^$generichide
 @@||booksmedicos.org^$generichide
+@@||diaridegirona.cat/*ads$script
 @@||divxatope.com^$generichide
 @@||eleconomista.es^$generichide
 @@||fullpremiums.com/adblock.js$domain=fullpremiums.com
