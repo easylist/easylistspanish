@@ -26,7 +26,6 @@
 @@||fullpremiums.com/adblock.js$domain=fullpremiums.com
 @@||fullpremiums.com^$generichide
 @@||kjanime.net/*ad$script
-@@||lasprovincias.es/*ad$script
 @@||lavanguardia.com/*ad$script
 @@||levante-emv.com/*ads$script
 @@||levante-emv.com^$generichide
