@@ -25,6 +25,7 @@
 @@||animeflv.net/js/ads.js$script,~third-party,domain=animeflv.net
 @@||autopista.es^$generichide
 @@||booksmedicos.org^$generichide
+@@||cuatro.com^$generichide
 @@||divxatope.com^$generichide
 @@||eleconomista.es^$generichide
 @@||fullpremiums.com/adblock.js$script,~third-party,domain=fullpremiums.com

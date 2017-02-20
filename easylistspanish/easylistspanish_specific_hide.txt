@@ -49,7 +49,7 @@ elblog.com###z_pub_inf_new
 elblog.com###z_pub_sup_new
 guadairainformacion.com##.Banner300x100
 buscamultas.com##.TableWidget
-elconfidencial.com,telecinco.es,terra.es##.ad
+cuatro.com,elconfidencial.com,telecinco.es,terra.es##.ad
 elconfidencial.com##.adcrt300x600
 elconfidencial.com##.adcrt980x250
 zonatorrent.es##.adsb30
@@ -219,8 +219,8 @@ elmundo.es##a[href="http://www.ocholeguas.com/"]
 mitele.es##a[href="http://www.tiendagranhermano.com"]
 antena3.com##a[href="http://www.tualbum.es/"]
 ruedasgordas.es##a[href="https://www.facebook.com/pages/BENIBIKES-Benidorm/177123992350243?fref=ts"]
-telecinco.es##a[href^="http://premiercasino.es/"]
-telecinco.es##a[href^="https://premiercasino.es/"]
+cuatro.com,telecinco.es##a[href^="http://premiercasino.es/"]
+cuatro.com,telecinco.es##a[href^="https://premiercasino.es/"]
 elpais.com##div.caja.caja_clasificados
 elpais.com##div.clasificados
 monografias.com##div[style="background-color:#FFF;margin-bottom:10px;height:250px;"]
