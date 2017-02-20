@@ -31,6 +31,7 @@
 @@||kjanime.net/link/advertisement.js$script,~third-party,domain=kjanime.net
 @@||levante-emv.com^$generichide
 @@||menshealth.es^$generichide
+@@||mundokodi.com^$generichide
 @@||muyinteresante.es/js/ads.js$script,~third-party,domain=muyinteresante.es
 @@||mzsimg.com/js/ads.js$script,third-party,domain=muyzorras.com
 @@||pcbolsa.com/css/ads.js$script,~third-party,domain=pcbolsa.com
