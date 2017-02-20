@@ -26,6 +26,7 @@
 @@||autopista.es^$generichide
 @@||booksmedicos.org^$generichide
 @@||cuatro.com^$generichide
+@@||divinity.es^$generichide
 @@||divxatope.com^$generichide
 @@||eleconomista.es^$generichide
 @@||fullpremiums.com/adblock.js$script,~third-party,domain=fullpremiums.com
