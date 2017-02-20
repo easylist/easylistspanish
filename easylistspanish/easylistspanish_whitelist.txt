@@ -21,6 +21,7 @@
 @@/elementosWeb/js/ads.js$script,~third-party,domain=diaridegirona.cat|diariodeibiza.es|diariodemallorca.es|diarioinformacion.com|emporda.info|farodevigo.es|laopinion.es|laopinioncoruna.es|laopiniondemalaga.es|laopiniondemurcia.es|laopiniondezamora.es|laprovincia.es|levante-emv.com|lne.es|mallorcazeitung.es|regio7.cat|superdeporte.es
 @@/rsc/js/ads-godo.js$script,~third-party,domain=lavanguardia.com|mundodeportivo.com
 @@/servicios/ads/dfp.js$script,~third-party,domain=diaridegirona.cat|diariodeibiza.es|diariodemallorca.es|diarioinformacion.com|emporda.info|farodevigo.es|laopinion.es|laopinioncoruna.es|laopiniondemalaga.es|laopiniondemurcia.es|laopiniondezamora.es|laprovincia.es|levante-emv.com|lne.es|mallorcazeitung.es|regio7.cat|superdeporte.es
+@@/static/MDSAntiAdBlock/*$script,~third-party,domain=cuatro.com|divinity.es|telecinco.es
 @@||animeflv.net/js/ads.js$script,~third-party,domain=animeflv.net
 @@||autopista.es^$generichide
 @@||booksmedicos.org^$generichide
@@ -39,6 +40,7 @@
 @@||pubted.com/plugins/pops/adBlockCheck/adblock.js$script,third-party,domain=divxatope.com|divxatope1.com
 @@||saikoanimes.net/adb/advert.js$script,~third-party,domain=saikoanimes.net
 @@||superdeporte.es^$generichide
+@@||telecinco.es^$generichide
 @@||todomecanica.com/js/ads.js$script,~third-party,domain=todomecanica.com
 @@||todomecanica.net/js/ads.js$script,third-party,domain=todomecanica.com
 @@||todotumac.com^$generichide
