@@ -3,9 +3,11 @@ lavanguardia.com###adm1439491187577114
 animeid.tv###ap
 fmvida.com.ar,inmonauta.es###banner
 atresplayer.com###bannerTop
+paxinasgalegas.es###banner_superior
 coches.net###banner_top
 estadio.ec###banners
 eleconomista.es###banners-superiores
+paxinasgalegas.es###banners_laterales
 marca.com###bloque_nauta360
 marca.com###bloque_tiramillas
 pickinup.es###brand-carousel
