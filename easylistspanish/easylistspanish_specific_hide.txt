@@ -37,6 +37,7 @@ tiendeo.com.ar###publiRightContainer
 ehowenespanol.com###radlinks
 realbetisbalompie.es###right-banners
 noticias3d.com###skin
+bandaancha.eu###spBx
 noticiaslasflores.com.ar###swiffycontainer
 emprendices.co###text-15
 livenumetal.es###text-7 > .textwidget
