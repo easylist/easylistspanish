@@ -51,6 +51,7 @@
 @@||todomecanica.com/js/ads.js$script,~third-party,domain=todomecanica.com
 @@||todomecanica.net/js/ads.js$script,third-party,domain=todomecanica.com
 @@||todotumac.com^$generichide
+@@||torrentlocura.com^$generichide
 @@||tribunasalamanca.com/ads.html$subdocument,domain=tribunaavila.com|tribunaburgos.com|tribunaleon.com|tribunapalencia.com|tribunasalamanca.com|tribunasegovia.com|tribunasoria.com|tribunavalladolid.com|tribunazamora.com
 @@||tumejortorrent.com^$generichide
 @@||youtvgratis.com/themes/tutvplayer/js/fuckadblock.js$script,~third-party,domain=youtvgratis.com
