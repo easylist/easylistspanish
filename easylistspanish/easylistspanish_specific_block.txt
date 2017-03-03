@@ -1,7 +1,6 @@
 /uploads/advertisings/*$domain=tribunaavila.com|tribunaburgos.com|tribunaleon.com|tribunapalencia.com|tribunasalamanca.com|tribunasegovia.com|tribunasoria.com|tribunavalladolid.com|tribunazamora.com
-|http://$script,third-party,domain=abcdefamosas.xyz|animakai.tv|elitetorrent.net|newpct1.com|novelasenlinea.net|seriesblanco.com
+|http://$script,third-party,domain=abcdefamosas.xyz|animakai.tv|elitetorrent.net|novelasenlinea.net|seriesblanco.com
 |http://$script,third-party,xmlhttprequest,domain=jkanime.net|macrojuegos.com
-|http://$third-party,domain=divxatope.com
 |https://$script,third-party,domain=abcdefamosas.xyz|animakai.tv|novelasenlinea.net
 |https://$script,third-party,xmlhttprequest,domain=jkanime.net|macrojuegos.com
 ||130.211.230.53^$script,domain=animeid.tv
@@ -17,7 +16,6 @@
 ||cdn.exur.com/notmundo/
 ||chrissysinvite.co/a
 ||cinestrenostv.tv/Publi/
-||cloudfront.net^$domain=newpct1.com
 ||clubdelectores.cl/cajaEmolClub/$third-party
 ||css01.lavanguardia.com/imagenes/cajaHTML/loterias.gif
 ||deportetandilense.com.ar/publicidades_cate/
