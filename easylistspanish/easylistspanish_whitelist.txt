@@ -40,6 +40,7 @@
 @@||muyinteresante.es/js/ads.js$script,~third-party,domain=muyinteresante.es
 @@||mzsimg.com/js/ads.js$script,third-party,domain=muyzorras.com
 @@||newpct.com^$generichide
+@@||newpct1.com^$generichide
 @@||pajaslocas.com^$generichide
 @@||pcbolsa.com/css/ads.js$script,~third-party,domain=pcbolsa.com
 @@||pordede.com^$generichide
