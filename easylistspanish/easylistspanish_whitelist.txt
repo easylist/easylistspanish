@@ -41,7 +41,7 @@
 @@||pajaslocas.com^$generichide
 @@||pcbolsa.com/css/ads.js$script,~third-party,domain=pcbolsa.com
 @@||pordede.com^$generichide
-@@||pubted.com/plugins/pops/adBlockCheck/adblock.js$script,third-party,domain=divxatope.com|divxatope1.com
+@@||pubted.com/plugins/pops/adBlockCheck/adblock.js$script,third-party,domain=divxatope.com|divxatope1.com|newpct.com|newpct1.com|torrentlocura.com|tumejortorrent.com
 @@||saikoanimes.net/adb/advert.js$script,~third-party,domain=saikoanimes.net
 @@||superdeporte.es^$generichide
 @@||telecinco.es^$generichide
