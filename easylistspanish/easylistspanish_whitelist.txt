@@ -29,6 +29,7 @@
 @@||cuatro.com^$generichide
 @@||divinity.es^$generichide
 @@||divxatope.com^$generichide
+@@||divxatope1.com^$generichide
 @@||eleconomista.es^$generichide
 @@||fullpremiums.com/adblock.js$script,~third-party,domain=fullpremiums.com
 @@||fullpremiums.com^$generichide
