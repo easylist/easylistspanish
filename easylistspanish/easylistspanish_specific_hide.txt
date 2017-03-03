@@ -4,6 +4,7 @@ lavanguardia.com###adm1439491187577114
 animeid.tv###ap
 fmvida.com.ar,inmonauta.es###banner
 atresplayer.com###bannerTop
+divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,tumejortorrent.com###banner_header
 paxinasgalegas.es###banner_superior
 coches.net###banner_top
 estadio.ec###banners
@@ -11,6 +12,7 @@ eleconomista.es###banners-superiores
 paxinasgalegas.es###banners_laterales
 marca.com###bloque_nauta360
 marca.com###bloque_tiramillas
+divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,tumejortorrent.com###box-ads-tr
 pickinup.es###brand-carousel
 abchoy.com.ar###cacho-overlay
 abchoy.com.ar###cacho-popup
@@ -88,6 +90,7 @@ marca.com##.bloque-expansion
 marca.com##.bloque-promo
 mundodeportivo.com##.bolarosa
 pelisadicto.com##.box
+divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,tumejortorrent.com##.box-publi-left
 emol.com##.bt_publicar_ecn
 eleconomista.es##.caja-publi-port
 laprovincia.es##.caja_cuponisimo_slider300
@@ -118,6 +121,7 @@ marca.com##.marcamotor
 eldiario.es##.md-advertisement.md.hspace.adv-container.no-adv-socios + * + * + * > .blk.mtflow
 eldiario.es##.md-opinion-lst.md.md-sk3.hspace
 abc.es##.media[href="http://loffit.abc.es/rodar/barcos/tetrahedron-un-superyate-de-ciencia-ficcion-230534/"]
+divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,tumejortorrent.com##.mod-pubb
 atresplayer.com##.mod_roba
 lavozdegalicia.es##.mujerhoy
 gaceta.es##.node-anuncio-megabanner
@@ -145,6 +149,8 @@ as.com##.promocionesdoscarriles5
 as.com##.promocionesdoscarriles6
 as.com##.promocionesdoscarriles7
 as.com##.promocionesdoscarriles8
+divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,tumejortorrent.com##.pub300x250
+divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,tumejortorrent.com##.pub728x90
 diaridegirona.cat##.pub_340x250
 elblog.com##.pub_lat1_father
 elblog.com##.pub_lat2_father
@@ -200,6 +206,7 @@ noticiasdelmundo.org##a[href="http://ganadineroconencuestas.com/dinero_flow/?web
 forocoches.com##a[href="http://goo.gl/NDrfcW"]
 20minutos.es##a[href="http://lofficiel.es/"]
 telecinco.es##a[href="http://turismourense.com/index"]
+divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,tumejortorrent.com##a[href="http://ul.to/ref/4037259"]
 diariodesevilla.es##a[href="http://wappissima.es/moda-flamenca"]
 180.com.uy##a[href="http://www.180.com.uy/banner?ID=857&CODE=portal.index"]
 20minutos.es##a[href="http://www.20minutos.es/motor"]
@@ -229,6 +236,7 @@ monografias.com##div[style="background-color:#FFF;margin-bottom:10px;height:250p
 dreamfilmhd.bz##div[style="background-color:rgba(0,0,0,0.1);width:750px;height:100px;max-width:100%;margin:0 5px 10px 8px"]
 booksmedicos.org##div[style="float:none;margin:10px 0 10px 0;text-align:center;"]
 la-razon.com##div[style="position:absolute; top:12px; width:970px; height:90px; background:#FFF; z-index:100; padding:0px; margin:0px"]
+divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,tumejortorrent.com##div[style="z-index:98;width:570px;height:400px;position:absolute;top:0px;left:0px;"]
 hitfm.es##header
 interbenavente.es##img[alt="http://interbenavente.es/pag/serviciosweb"]
 interbenavente.es##img[alt="http://www.ford.es/serviciopostventa/PromocionesPostventa2013"]
@@ -246,3 +254,4 @@ finofilipino.org##img[src="http://static.tumblr.com/omgciym/2bBmgb175/juegacos.j
 finofilipino.org##img[src="http://static.tumblr.com/omgciym/Pnenkw34v/edrfwregwrgwtrgwr.jpg"]
 finofilipino.org##img[src="http://static.tumblr.com/omgciym/SXxm66n6y/lol-logo.png"]
 sport.es##img[src="img/jen-selter.jpg"]
+divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,tumejortorrent.com##li[style="width:100%;height:98px;"]
