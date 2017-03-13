@@ -1,4 +1,5 @@
 /uploads/advertisings/*$domain=tribunaavila.com|tribunaburgos.com|tribunaleon.com|tribunapalencia.com|tribunasalamanca.com|tribunasegovia.com|tribunasoria.com|tribunavalladolid.com|tribunazamora.com
+|blob:$domain=divxatope.com|divxatope1.com|newpct.com|newpct1.com|torrentlocura.com|tumejortorrent.com
 |http://$script,third-party,domain=abcdefamosas.xyz|animakai.tv|elitetorrent.net|novelasenlinea.net|seriesblanco.com
 |http://$script,third-party,xmlhttprequest,domain=divxatope.com|divxatope1.com|jkanime.net|macrojuegos.com|newpct.com|newpct1.com|torrentlocura.com|tumejortorrent.com
 |https://$script,third-party,domain=abcdefamosas.xyz|animakai.tv|novelasenlinea.net
