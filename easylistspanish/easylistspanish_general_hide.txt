@@ -9,6 +9,7 @@
 ###publicidad_lateral_superior
 ###publicidad_subir
 ###publicidad_superior
+###slider-oferplan
 ##.ad-tl2b
 ##.caja_cuponisimo_slider200
 ##.dfp-queue
