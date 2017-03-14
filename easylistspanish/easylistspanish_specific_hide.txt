@@ -56,6 +56,7 @@ buscamultas.com##.TableWidget
 cuatro.com,divinity.es,elconfidencial.com,telecinco.es,terra.es##.ad
 elconfidencial.com##.adcrt300x600
 elconfidencial.com##.adcrt980x250
+eslang.es##.ads
 zonatorrent.es##.adsb30
 forobeta.com##.adshare_belownav
 forobeta.com##.adshare_firstpost
