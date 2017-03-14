@@ -56,7 +56,7 @@ buscamultas.com##.TableWidget
 cuatro.com,divinity.es,elconfidencial.com,telecinco.es,terra.es##.ad
 elconfidencial.com##.adcrt300x600
 elconfidencial.com##.adcrt980x250
-eslang.es##.ads
+eslang.es,publico.es##.ads
 zonatorrent.es##.adsb30
 forobeta.com##.adshare_belownav
 forobeta.com##.adshare_firstpost
@@ -157,7 +157,7 @@ elblog.com##.pub_lat1_father
 elblog.com##.pub_lat2_father
 elblog.com##.pub_lat3_father
 elonce.com##.publi-top
-motociclismo.es##.publicidad
+motociclismo.es,publico.es##.publicidad
 diariosur.es,diariovasco.com,elcomercio.es,elcorreo.com,eldiariomontanes.es,elnortedecastilla.es,hoy.es,ideal.es,larioja.com,lasprovincias.es,laverdad.es,leonoticias.com,publico.es##.roba
 muyinteresante.es##.roba1
 muyinteresante.es##.roba1_movil
