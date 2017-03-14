@@ -26,5 +26,6 @@
 ##.publicidad5
 ##.publicidad6
 ##.publitop
+##.robapaginas
 ##adsenseintermedioleft
 ##adsenseintermedioright
