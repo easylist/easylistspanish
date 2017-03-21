@@ -27,6 +27,7 @@
 @@||autopista.es^$generichide
 @@||bambergerkennanchitinous.com/.adframesrc.$script,third-party,domain=divxatope.com|divxatope1.com|newpct.com|newpct1.com|torrentlocura.com|tumejortorrent.com
 @@||booksmedicos.org^$generichide
+@@||comunio.es^$generichide
 @@||connect.facebook.net/es_ES/all.js$script,third-party,domain=divxatope.com|divxatope1.com|newpct.com|newpct1.com|torrentlocura.com|tumejortorrent.com
 @@||cuatro.com^$generichide
 @@||divinity.es^$generichide

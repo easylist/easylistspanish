@@ -1,6 +1,8 @@
 diariopopular.com.ar###OBJETO861 > .ad-obj
 foro.putalocura.com,misandria.info###ad_global_below_navbar
 lavanguardia.com###adm1439491187577114
+comunio.es###advertising-right
+comunio.es###advertising-top
 animeid.tv###ap
 fmvida.com.ar,inmonauta.es###banner
 atresplayer.com###bannerTop
