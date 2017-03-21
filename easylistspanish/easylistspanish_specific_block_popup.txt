@@ -1,1 +1,1 @@
-|http://$popup,third-party,domain=animeid.tv
+|http://$popup,third-party,domain=animeid.tv|jkanime.net
