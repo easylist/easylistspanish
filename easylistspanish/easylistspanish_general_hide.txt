@@ -12,6 +12,7 @@
 ###slider-oferplan
 ##.ad-tl2b
 ##.caja_cuponisimo_slider200
+##.containerOas
 ##.dfp-queue
 ##.mclics
 ##.promocion_libre
