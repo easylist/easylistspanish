@@ -1,4 +1,5 @@
 @@||ajax.googleapis.com/ajax/libs/$script,domain=elitetorrent.net
+@@||ajax.googleapis.com/ajax/libs/jquery/$script,third-party,domain=reyanime.com
 @@||ajax.googleapis.com^$domain=macrojuegos.com
 @@||as01.epimg.net/diarioas/imagenes/2014/12/22/promocionesportada/1419263824_903086_1438799798_promo_normal.jpg
 @@||as01.epimg.net/diarioas/imagenes/2015/03/16/promocionesportada/1426503214_840949_1426503252_promo_normal.jpg
@@ -15,7 +16,7 @@
 @@||diariosanrafael.com.ar/images/banners/banner_nexo.jpg
 @@||diariosanrafael.com.ar/images/banners/banner_twitter.png
 @@||ganadineroconencuestas.com^
-@@||platform.twitter.com/widgets.js$script,third-party,domain=divxatope.com|divxatope1.com|newpct.com|newpct1.com|torrentlocura.com|tumejortorrent.com
+@@||platform.twitter.com/widgets.js$script,third-party,domain=divxatope.com|divxatope1.com|newpct.com|newpct1.com|reyanime.com|torrentlocura.com|tumejortorrent.com
 @@||republica.com.uy/wp-content/banners/HoroscopoDiario2016.jpg
 @@||static.ak.fbcdn.net/connect.php/js/FB.Share$script,third-party,domain=divxatope.com|divxatope1.com|newpct.com|newpct1.com|torrentlocura.com|tumejortorrent.com
 ! Anti-Adblock
