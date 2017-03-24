@@ -17,6 +17,7 @@
 ##.envoltorio_publi
 ##.mclics
 ##.promocion_libre
+##.pub-h
 ##.publi
 ##.publiTop
 ##.publi_horizontal

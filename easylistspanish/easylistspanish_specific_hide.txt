@@ -70,7 +70,7 @@ androidpit.es##.appSlider
 libertaddigital.com##.apuestas
 windowscracker1.blogspot.com.es##.at4-whatsnext-outer-container
 eleconomista.es##.bankia-cuerda
-animakai.tv,rosario3.com##.banner
+animakai.tv,mdzol.com,rosario3.com##.banner
 elonce.com##.banner-a
 elonce.com##.banner-b
 elonce.com##.banner-c
