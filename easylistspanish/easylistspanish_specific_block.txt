@@ -98,4 +98,5 @@
 ||vertdtgratis.es/publi23.html
 ||vigoe.es/images/pbanner/
 ! Anti-Adblock
+||exabytetv.info/wp-content/plugins/wp-adblock-dedect/
 ||motociclismo.es/js/compiled_blockadblock_15.js
