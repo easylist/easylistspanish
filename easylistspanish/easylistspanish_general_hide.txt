@@ -14,6 +14,7 @@
 ##.caja_cuponisimo_slider200
 ##.containerOas
 ##.dfp-queue
+##.envoltorio_publi
 ##.mclics
 ##.promocion_libre
 ##.publi
