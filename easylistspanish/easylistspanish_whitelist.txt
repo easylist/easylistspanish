@@ -1,5 +1,5 @@
 @@||ajax.googleapis.com/ajax/libs/$script,domain=elitetorrent.net
-@@||ajax.googleapis.com/ajax/libs/jquery/$script,third-party,domain=reyanime.com
+@@||ajax.googleapis.com/ajax/libs/jquery/$script,third-party,domain=reyanime.com|seriesblanco.com
 @@||ajax.googleapis.com^$domain=macrojuegos.com
 @@||as01.epimg.net/diarioas/imagenes/2014/12/22/promocionesportada/1419263824_903086_1438799798_promo_normal.jpg
 @@||as01.epimg.net/diarioas/imagenes/2015/03/16/promocionesportada/1426503214_840949_1426503252_promo_normal.jpg
@@ -12,13 +12,17 @@
 @@||bewom.es^$document
 @@||code.jquery.com^$script,domain=seriesblanco.com
 @@||connect.facebook.net/es_ES/all.js$script,third-party,domain=divxatope.com|divxatope1.com|mejorenvo.com|newpct.com|newpct1.com|torrentlocura.com|tumejortorrent.com
+@@||connect.facebook.net/es_LA/sdk.js$script,third-party,domain=seriesblanco.com
 @@||content.jwplatform.com^$script,domain=animakai.tv
 @@||diariosanrafael.com.ar/images/banners/banner_nexo.jpg
 @@||diariosanrafael.com.ar/images/banners/banner_twitter.png
 @@||ganadineroconencuestas.com^
-@@||platform.twitter.com/widgets.js$script,third-party,domain=divxatope.com|divxatope1.com|newpct.com|newpct1.com|reyanime.com|torrentlocura.com|tumejortorrent.com
+@@||platform.twitter.com/widgets.js$script,third-party,domain=divxatope.com|divxatope1.com|newpct.com|newpct1.com|reyanime.com|seriesblanco.com|torrentlocura.com|tumejortorrent.com
 @@||republica.com.uy/wp-content/banners/HoroscopoDiario2016.jpg
+@@||seriesblanco.disqus.com/embed.js$script,third-party,domain=seriesblanco.com
+@@||st.chatango.com/js/gz/emb.js$script,third-party,domain=seriesblanco.com
 @@||static.ak.fbcdn.net/connect.php/js/FB.Share$script,third-party,domain=divxatope.com|divxatope1.com|newpct.com|newpct1.com|torrentlocura.com|tumejortorrent.com
+@@||w.sharethis.com/button/buttons.js$script,third-party,domain=seriesblanco.com
 ! Anti-Adblock
 @@.png#$image,third-party,domain=fullpremiums.com|todotumac.com
 @@.png?*#/$image,third-party,domain=pajaslocas.com
