@@ -36,6 +36,7 @@ realbetisbalompie.es###horizotal-banners
 tribunaavila.com,tribunaburgos.com,tribunaleon.com,tribunapalencia.com,tribunasalamanca.com,tribunasegovia.com,tribunasoria.com,tribunavalladolid.com,tribunazamora.com###interstitial_container
 supremacy1914.es###kbg
 pordede.com###lean_overlay
+todocvcd.com###mbanner
 abc.es###modulo_loffit_v6
 chrissysinvite.co###myModal
 dle.rae.es###opciones > #patrocinio
