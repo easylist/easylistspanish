@@ -30,6 +30,7 @@ lne.es###divderecha_1021
 laprovincia.es###divderecha_1050
 diaridegirona.cat###divderecha_1053
 gaceta.es###esplandido_1000view
+estrenosdtl.com###f_find_bar
 tvenganchado.com###g
 realbetisbalompie.es###horizotal-banners
 tribunaavila.com,tribunaburgos.com,tribunaleon.com,tribunapalencia.com,tribunasalamanca.com,tribunasegovia.com,tribunasoria.com,tribunavalladolid.com,tribunazamora.com###interstitial_container
