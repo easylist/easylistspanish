@@ -15,6 +15,7 @@
 ##.containerOas
 ##.dfp-queue
 ##.envoltorio_publi
+##.ep-pub
 ##.find_bar_publicidades
 ##.mclics
 ##.promocion_libre
