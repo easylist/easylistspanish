@@ -17,6 +17,7 @@
 ||cdn.exur.com/notmundo/
 ||chrissysinvite.co/a
 ||cinestrenostv.tv/Publi/
+||cloudfront.net$script,third-party,domain=compucalitv.com
 ||clubdelectores.cl/cajaEmolClub/$third-party
 ||css01.lavanguardia.com/imagenes/cajaHTML/loterias.gif
 ||deportetandilense.com.ar/publicidades_cate/
