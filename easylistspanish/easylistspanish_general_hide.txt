@@ -18,6 +18,7 @@
 ##.find_bar_publicidades
 ##.mclics
 ##.promocion_libre
+##.pu300
 ##.pub-h
 ##.publi
 ##.publiTop
