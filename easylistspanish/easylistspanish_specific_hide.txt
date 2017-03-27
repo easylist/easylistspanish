@@ -233,6 +233,7 @@ antena3.com##a[href="http://www.tualbum.es/"]
 ruedasgordas.es##a[href="https://www.facebook.com/pages/BENIBIKES-Benidorm/177123992350243?fref=ts"]
 cuatro.com,telecinco.es##a[href^="http://premiercasino.es/"]
 compucalitv.com##a[href^="http://toroadvertisingmedia.com/"]
+pelisplus.tv##a[href^="http://www.maxonclick.com/"]
 cuatro.com,telecinco.es##a[href^="https://premiercasino.es/"]
 divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,tumejortorrent.com##a[onclick*="pop.redirect.adsjudo.com"]
 elpais.com##div.caja.caja_clasificados
