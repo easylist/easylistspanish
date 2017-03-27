@@ -17,6 +17,9 @@
 @@||diariosanrafael.com.ar/images/banners/banner_nexo.jpg
 @@||diariosanrafael.com.ar/images/banners/banner_twitter.png
 @@||ganadineroconencuestas.com^
+@@||lagacetadesalamanca.es/elementosWeb/gestionCajas/GSA/Image/2016//whatsappgacetaa.gif$image,~third-party,domain=lagacetadesalamanca.es
+@@||lagacetadesalamanca.es/elementosWeb/gestionCajas/GSA/Image/2017//bannernuevastecnologias.jpg$image,~third-party,domain=lagacetadesalamanca.es
+@@||lagacetadesalamanca.es/elementosWeb/gestionCajas/GSA/Image/GIF_LAGACETA_318X180.gif$image,~third-party,domain=lagacetadesalamanca.es
 @@||platform.twitter.com/widgets.js$script,third-party,domain=divxatope.com|divxatope1.com|newpct.com|newpct1.com|reyanime.com|seriesblanco.com|torrentlocura.com|tumejortorrent.com
 @@||republica.com.uy/wp-content/banners/HoroscopoDiario2016.jpg
 @@||seriesblanco.disqus.com/embed.js$script,third-party,domain=seriesblanco.com

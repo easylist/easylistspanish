@@ -55,6 +55,9 @@
 ||interbenavente.es/upload/img/periodico/img_31937.gif
 ||interbenavente.es/upload/img/periodico/img_35176.gif
 ||interbenavente.es/upload/img/periodico/img_36015.gif
+||lagacetadesalamanca.es/elementosWeb/gestionCajas/*.gif
+||lagacetadesalamanca.es/elementosWeb/gestionCajas/*banner*.jpg
+||lagacetadesalamanca.es/elementosWeb/gestionCajas/comun/Flash/
 ||lavozdetandil.com.ar/publicidades/
 ||ldu.com.ec/fotos/publi_*.png
 ||libertaddigital.com/fragmentos/guijuelo-responsive.html

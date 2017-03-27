@@ -14,6 +14,7 @@ eleconomista.es###banners-superiores
 paxinasgalegas.es###banners_laterales
 marca.com###bloque_nauta360
 marca.com###bloque_tiramillas
+lagacetadesalamanca.es###bn_vandyck
 divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,tumejortorrent.com###box-ads-tr
 pickinup.es###brand-carousel
 abchoy.com.ar###cacho-overlay
