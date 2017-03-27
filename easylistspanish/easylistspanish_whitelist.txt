@@ -12,7 +12,7 @@
 @@||bewom.es^$document
 @@||code.jquery.com^$script,domain=seriesblanco.com
 @@||connect.facebook.net/es_ES/all.js$script,third-party,domain=divxatope.com|divxatope1.com|mejorenvo.com|newpct.com|newpct1.com|torrentlocura.com|torrentrapid.com|tumejortorrent.com
-@@||connect.facebook.net/es_LA/sdk.js$script,third-party,domain=seriesblanco.com
+@@||connect.facebook.net/es_LA/sdk.js$script,third-party,domain=seriesblanco.com|submanga.org
 @@||content.jwplatform.com^$script,domain=animakai.tv
 @@||diariosanrafael.com.ar/images/banners/banner_nexo.jpg
 @@||diariosanrafael.com.ar/images/banners/banner_twitter.png
