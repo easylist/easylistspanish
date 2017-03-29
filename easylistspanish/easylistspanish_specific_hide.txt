@@ -25,7 +25,6 @@ laprovincia.es###caja_1_derecha_17_0
 cinestrenostv.tv###closeX1
 cinestrenostv.tv###closeX2
 elpais.com###comerciales
-elmundo.es###contenedorAutocompleteGlobaliza
 publico.es###decine21_widget_estrenos
 lne.es###divderecha_1021
 laprovincia.es###divderecha_1050
@@ -113,13 +112,11 @@ laprovincia.es##.dcham2
 diariodesevilla.es##.ePubli1
 elcomercio.pe##.ec-club
 estadiodeportivo.whitelabel.kelisto.es##.finance
-elmundo.es##.flechados
 adscdn.freepik.com##.friwol_slides
 emprendices.co##.homepage-widget > #text-16
 diaridegirona.cat##.iberpi_cajaext
 modulos.grupojoly.com##.img_patrocinio[src="img/movistar.png"]
 laregion.es##.item > a[href="http://www.meteogalicia.es/web/predicion/localidades/localidadesIndex.action?idZona=32054"]
-elmundo.es##.kelisto-comparador-coche-2
 laprovincia.es##.listaofertas
 lavanguardia.com##.lv24hdestacamos.first.last > div.des_thumb.c14 > .p3
 blancas.cl,paginasblancas.com.ar,paginasblancas.com.pe##.m-pod-promo-image
@@ -219,8 +216,6 @@ diariodesevilla.es##a[href="http://wappissima.es/moda-flamenca"]
 20minutos.es##a[href="http://www.20minutos.es/motor"]
 elsiglodetorreon.com.mx##a[href="http://www.ayojon.mx/"]
 ruedasgordas.es##a[href="http://www.cyclosaltamirano.es/"]
-elmundo.es##a[href="http://www.elmundo.es/economia/vivienda.html"]
-elmundo.es##a[href="http://www.elmundo.es/happy-fm.html"]
 mitele.es##a[href="http://www.eltiempohoy.es/"]
 antena3.com##a[href="http://www.englishhouse.tv/sabias-que.php"]
 20minutos.es##a[href="http://www.esquire.es"]
@@ -231,7 +226,6 @@ ruedasgordas.es##a[href="http://www.morellasingletracks.com/"]
 ruedasgordas.es##a[href="http://www.mybikenet.com/development/"]
 antena3.com##a[href="http://www.neoxkidz.com/revista/estais-preparados-neox-kidz-estrena-revista_2015051255521d350cf2c05b5ea0c08b.html"]
 antena3.com##a[href="http://www.objetivobienestar.com/"]
-elmundo.es##a[href="http://www.ocholeguas.com/"]
 mitele.es##a[href="http://www.tiendagranhermano.com"]
 antena3.com##a[href="http://www.tualbum.es/"]
 ruedasgordas.es##a[href="https://www.facebook.com/pages/BENIBIKES-Benidorm/177123992350243?fref=ts"]
