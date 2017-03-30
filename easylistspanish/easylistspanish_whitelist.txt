@@ -46,6 +46,7 @@
 @@||divxatope1.com^$generichide
 @@||ebizlatam.com^$generichide
 @@||eleconomista.es^$generichide
+@@||euribor.com.es^$generichide
 @@||fullpremiums.com/adblock.js$script,~third-party,domain=fullpremiums.com
 @@||fullpremiums.com^$generichide
 @@||kjanime.net/link/advertisement.js$script,~third-party,domain=kjanime.net

@@ -239,6 +239,7 @@ elpais.com##div.caja.caja_clasificados
 elpais.com##div.clasificados
 monografias.com##div[style="background-color:#FFF;margin-bottom:10px;height:250px;"]
 dreamfilmhd.bz##div[style="background-color:rgba(0,0,0,0.1);width:750px;height:100px;max-width:100%;margin:0 5px 10px 8px"]
+euribor.com.es##div[style="border: 2px solid #1D8FC1; width: 320px; height:280px; clear:both; margin-bottom: 25px"]
 booksmedicos.org##div[style="float:none;margin:10px 0 10px 0;text-align:center;"]
 la-razon.com##div[style="position:absolute; top:12px; width:970px; height:90px; background:#FFF; z-index:100; padding:0px; margin:0px"]
 aica.org##div[style="width:600px;height:60px;margin:10px 0px 10px 0px;"]

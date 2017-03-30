@@ -21,6 +21,7 @@
 ||cinestrenostv.tv/Publi/
 ||cloudfront.net$script,third-party,domain=compucalitv.com
 ||clubdelectores.cl/cajaEmolClub/$third-party
+||comparador.euribor.com.es/lanzadera/retargetting/
 ||css01.lavanguardia.com/imagenes/cajaHTML/loterias.gif
 ||deportetandilense.com.ar/publicidades_cate/
 ||diariodelaribera.org/images/banners/
