@@ -38,6 +38,7 @@ tribunaavila.com,tribunaburgos.com,tribunaleon.com,tribunapalencia.com,tribunasa
 supremacy1914.es###kbg
 pordede.com###lean_overlay
 todocvcd.com###mbanner
+elmundo.es###modulo_buscador_sv
 abc.es###modulo_loffit_v6
 chrissysinvite.co###myModal
 dle.rae.es###opciones > #patrocinio
@@ -113,6 +114,7 @@ laprovincia.es##.dcham2
 diariodesevilla.es##.ePubli1
 elcomercio.pe##.ec-club
 estadiodeportivo.whitelabel.kelisto.es##.finance
+elmundo.es##.flex__publi
 adscdn.freepik.com##.friwol_slides
 emprendices.co##.homepage-widget > #text-16
 diaridegirona.cat##.iberpi_cajaext
@@ -132,9 +134,10 @@ lavozdegalicia.es##.mujerhoy
 gaceta.es##.node-anuncio-megabanner
 abc.es##.oferplan
 pdindustriales.com.ar##.ofertas2
+elmundo.es##.other-services
 meteoconsult.es##.partenaire_simple
 meteoconsult.es##.partenaire_simple_home
-lavozdegalicia.es##.patrocinio
+elmundo.es,lavozdegalicia.es##.patrocinio
 deportes.televisa.com##.prime-banner
 lavoz.com.ar##.producto-tienda
 rumbo.es##.promo262x90

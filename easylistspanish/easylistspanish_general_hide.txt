@@ -17,8 +17,10 @@
 ##.envoltorio_publi
 ##.ep-pub
 ##.find_bar_publicidades
+##.flex__publi
 ##.mclics
 ##.myml-menu-navigation > .container-banner
+##.patrocinio
 ##.promocion_libre
 ##.pu300
 ##.pub-h

@@ -49,7 +49,9 @@
 @@||divxatope.com^$generichide
 @@||divxatope1.com^$generichide
 @@||ebizlatam.com^$generichide
+@@||el-mundo.net/js/advertisement.js$script,third-party,domain=elmundo.es
 @@||eleconomista.es^$generichide
+@@||elmundo.es^$generichide
 @@||euribor.com.es^$generichide
 @@||fullpremiums.com/adblock.js$script,~third-party,domain=fullpremiums.com
 @@||fullpremiums.com^$generichide
