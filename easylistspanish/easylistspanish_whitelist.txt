@@ -49,6 +49,7 @@
 @@||divxatope.com^$generichide
 @@||divxatope1.com^$generichide
 @@||ebizlatam.com^$generichide
+@@||eestatic.com/assets_js/dyn/adiframe.js
 @@||el-mundo.net/js/advertisement.js$script,third-party,domain=elmundo.es
 @@||eleconomista.es^$generichide
 @@||elmundo.es^$generichide
