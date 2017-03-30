@@ -18,6 +18,7 @@
 ##.ep-pub
 ##.find_bar_publicidades
 ##.mclics
+##.myml-menu-navigation > .container-banner
 ##.promocion_libre
 ##.pu300
 ##.pub-h
