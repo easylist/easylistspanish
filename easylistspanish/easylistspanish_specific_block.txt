@@ -8,6 +8,8 @@
 ||abc.com.py/plantillas/js/banners-mkt.js
 ||abchoy.com.ar/publicidades/
 ||abchoy.com.ar/publipopup/
+||aica.org/publi*.html?t=
+||aica.org/publi/
 ||animakai.tv/parceria.js
 ||as01.epimg.net/diarioas/imagenes/*/*/*/promocionesportada/*promo_normal.jpg
 ||as01.epimg.net/diarioas/imagenes/2013/02/18/portadainferior/1361188811_787909_1418979253_promocion_inferior_horizontal_normal.jpg

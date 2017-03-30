@@ -6,6 +6,7 @@ comunio.es###advertising-top
 animeid.tv###ap
 fmvida.com.ar,inmonauta.es###banner
 atresplayer.com###bannerTop
+aica.org###banner_A
 divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,torrentrapid.com,tumejortorrent.com###banner_header
 paxinasgalegas.es###banner_superior
 coches.net###banner_top
@@ -240,6 +241,7 @@ monografias.com##div[style="background-color:#FFF;margin-bottom:10px;height:250p
 dreamfilmhd.bz##div[style="background-color:rgba(0,0,0,0.1);width:750px;height:100px;max-width:100%;margin:0 5px 10px 8px"]
 booksmedicos.org##div[style="float:none;margin:10px 0 10px 0;text-align:center;"]
 la-razon.com##div[style="position:absolute; top:12px; width:970px; height:90px; background:#FFF; z-index:100; padding:0px; margin:0px"]
+aica.org##div[style="width:600px;height:60px;margin:10px 0px 10px 0px;"]
 divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,torrentrapid.com,tumejortorrent.com##div[style="z-index:98;width:570px;height:400px;position:absolute;top:0px;left:0px;"]
 hitfm.es##header
 interbenavente.es##img[alt="http://interbenavente.es/pag/serviciosweb"]
