@@ -9,6 +9,10 @@
 @@||as01.epimg.net/diarioas/imagenes/2015/05/11/promocionesportada/1431332417_272021_1431332437_promo_normal.jpg
 @@||as01.epimg.net/diarioas/imagenes/2015/05/11/promocionesportada/1431332601_344849_1431332656_promo_normal.jpg
 @@||as01.epimg.net/diarioas/imagenes/2015/05/22/promocionesportada/1432285846_181900_1432285879_promo_normal.jpg
+@@||aurora-israel.co.il/wp-content/themes/Newspaper/bannersswf/banner_newsletter1.swf
+@@||aurora-israel.co.il/wp-content/themes/Newspaper/bannersswf/clima3_29_11_2016.swf
+@@||aurora-israel.co.il/wp-content/themes/Newspaper/bannersswf/facebook_twitter2.swf
+@@||aurora-israel.co.il/wp-content/themes/Newspaper/bannersswf/notas-*.swf
 @@||bewom.es^$document
 @@||code.jquery.com^$script,domain=seriesblanco.com
 @@||connect.facebook.net/es_ES/all.js$script,third-party,domain=divxatope.com|divxatope1.com|mejorenvo.com|newpct.com|newpct1.com|torrentlocura.com|torrentrapid.com|tumejortorrent.com
