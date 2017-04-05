@@ -129,22 +129,6 @@ elmundo.es,lavozdegalicia.es##.patrocinio
 deportes.televisa.com##.prime-banner
 lavoz.com.ar##.producto-tienda
 rumbo.es##.promo262x90
-as.com##.promociones10
-as.com##.promociones11
-as.com##.promociones2
-as.com##.promociones3
-as.com##.promociones4
-as.com##.promociones5
-as.com##.promociones6
-as.com##.promociones7
-as.com##.promociones9
-as.com##.promocionesdoscarriles11
-as.com##.promocionesdoscarriles2
-as.com##.promocionesdoscarriles4
-as.com##.promocionesdoscarriles5
-as.com##.promocionesdoscarriles6
-as.com##.promocionesdoscarriles7
-as.com##.promocionesdoscarriles8
 divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,torrentrapid.com,tumejortorrent.com##.pub300x250
 divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,torrentrapid.com,tumejortorrent.com##.pub728x90
 diaridegirona.cat##.pub_340x250
@@ -161,7 +145,6 @@ muyinteresante.es##.roba2_movil
 gaceta.es##.row-lagallina
 gaceta.es##.row-negocios
 gaceta.es##.row-puntopelota
-as.com##.row.s-pr > .sidebar.col-6 > .module
 adscdn.freepik.com##.shutterstock
 diariocorreo.pe##.sidebar-zonahogar
 marca.com##.sinergias_telva
@@ -175,10 +158,7 @@ larazon.es##.vinculoPatrocinio
 st1.idealista.com##.widget_idealista
 st1.idealista.com##A[href="http://www.idealista.com/news/vacacional/mercado-vacacional/2015/08/12/738750-competencia-arremete-contra-la-ley-que-limita-los-pisos-turisticos-en-el?xts=352991&xtor=AD-186-[node/738750]-[]-[57601_1]-[lavanguardia.es__lavanguardia.es]-[]-[titulo_1_1]&source=314"]
 mitele.es##A[href="http://www.premiercasino.es/redirect?provenanceCode=CONECTA5CASINO"]
-as.com##[data-vr-zone="promociones-inferiores-inferior-3-columnas"]
-as.com##[data-vr-zone="promociones-inferiores-superior-3-columnas"] .mdl-cont-2.cf.s-pr
 gettyimages.es##[href="http://espanol.istockphoto.com/?esource=gi_es_home_3pack_istock_3"] > .promo-hover
-as.com##[href="http://megastore.as.com/futbol/botas/"]
 st1.idealista.com##[href="http://www.idealista.com?xts=352991&xtor=AD-186-[idealista]-[]-[57601_1]-[lavanguardia.es__lavanguardia.es]-[]-[home_1_1]&source=314"]
 marca.com##[src="http://estaticos03.marca.com/deporte/imagenes/faldon_Master_Derecho-Deporte.gif"]
 va6.thand.info##[src="http://va6.thand.info/0hsfy957uswi2cgypg23"]
