@@ -29,7 +29,6 @@ publico.es###decine21_widget_estrenos
 lne.es###divderecha_1021
 laprovincia.es###divderecha_1050
 diaridegirona.cat###divderecha_1053
-gaceta.es###esplandido_1000view
 estrenosdtl.com,moviesdvdr.com###f_find_bar
 tvenganchado.com###g
 realbetisbalompie.es###horizotal-banners
@@ -140,13 +139,9 @@ muyinteresante.es##.roba1
 muyinteresante.es##.roba1_movil
 muyinteresante.es##.roba2
 muyinteresante.es##.roba2_movil
-gaceta.es##.row-lagallina
-gaceta.es##.row-negocios
-gaceta.es##.row-puntopelota
 adscdn.freepik.com##.shutterstock
 diariocorreo.pe##.sidebar-zonahogar
 marca.com##.sinergias_telva
-gaceta.es##.slides[style="width: 600%; transition-duration: 0s; transform: translate3d(-320px, 0px, 0px);"]
 elliberal.com.ar##.sponsor
 ruedasgordas.es##.sponsors
 larazon.es##.textoPatrocinio

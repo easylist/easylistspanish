@@ -45,7 +45,6 @@
 ||file02.lavanguardia.com/2015/01/19/54423532669-file.png
 ||file02.lavanguardia.com/2015/03/02/54428665978-file.jpg
 ||file02.lavanguardia.com/2015/06/30/54432622531-file.jpg
-||gaceta.es/sites/all/themes/blank/images/TVdirecto.png
 ||gamestorrents.com/99mesesss.jpg
 ||gettyimages.es/gi-resources/images/*/iStock.jpg
 ||hitfm.es/view/imgs/Trident-Hit-FM-Fondo-*.jpg
