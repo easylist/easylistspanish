@@ -115,7 +115,6 @@ adscdn.freepik.com##.friwol_slides
 emprendices.co##.homepage-widget > #text-16
 diaridegirona.cat##.iberpi_cajaext
 modulos.grupojoly.com##.img_patrocinio[src="img/movistar.png"]
-laregion.es##.item > a[href="http://www.meteogalicia.es/web/predicion/localidades/localidadesIndex.action?idZona=32054"]
 laprovincia.es##.listaofertas
 blancas.cl,paginasblancas.com.ar,paginasblancas.com.pe##.m-pod-promo-image
 tandildiario.com##.mainContainerBanner
@@ -193,7 +192,6 @@ st1.idealista.com##[href="http://www.idealista.com?xts=352991&xtor=AD-186-[ideal
 marca.com##[src="http://estaticos03.marca.com/deporte/imagenes/faldon_Master_Derecho-Deporte.gif"]
 va6.thand.info##[src="http://va6.thand.info/0hsfy957uswi2cgypg23"]
 va6.thand.info##a[href*="http://www.physoi.eu/script/redirect.php?url=*"]
-laregion.es##a[href="/estaticas/el-tiempo/"]
 dreamfilmhd.bz##a[href="http://bit.ly/1Lppy4T"]
 20minutos.es##a[href="http://boticariagarcia.com/"]
 dreamfilmhd.bz##a[href="http://byggboss.se"]
