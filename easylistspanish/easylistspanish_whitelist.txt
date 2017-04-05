@@ -1,5 +1,4 @@
-@@||ajax.googleapis.com/ajax/libs/jquery/$script,third-party,domain=reyanime.com|seriesblanco.com
-@@||ajax.googleapis.com^$domain=macrojuegos.com
+@@||ajax.googleapis.com/ajax/libs/$script,third-party,domain=macrojuegos.com|reyanime.com|seriesblanco.com
 @@||as01.epimg.net/diarioas/imagenes/2014/12/22/promocionesportada/1419263824_903086_1438799798_promo_normal.jpg
 @@||as01.epimg.net/diarioas/imagenes/2015/03/16/promocionesportada/1426503214_840949_1426503252_promo_normal.jpg
 @@||as01.epimg.net/diarioas/imagenes/2015/03/26/promocionesportada/1427397722_257398_1438244170_promo_normal.jpg
