@@ -114,7 +114,6 @@ elmundo.es##.flex__publi
 adscdn.freepik.com##.friwol_slides
 emprendices.co##.homepage-widget > #text-16
 diaridegirona.cat##.iberpi_cajaext
-modulos.grupojoly.com##.img_patrocinio[src="img/movistar.png"]
 laprovincia.es##.listaofertas
 blancas.cl,paginasblancas.com.ar,paginasblancas.com.pe##.m-pod-promo-image
 tandildiario.com##.mainContainerBanner
