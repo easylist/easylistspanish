@@ -107,7 +107,6 @@ diariodesevilla.es##.ePubli1
 elcomercio.pe##.ec-club
 estadiodeportivo.whitelabel.kelisto.es##.finance
 elmundo.es##.flex__publi
-adscdn.freepik.com##.friwol_slides
 emprendices.co##.homepage-widget > #text-16
 diaridegirona.cat##.iberpi_cajaext
 laprovincia.es##.listaofertas
@@ -139,7 +138,6 @@ muyinteresante.es##.roba1
 muyinteresante.es##.roba1_movil
 muyinteresante.es##.roba2
 muyinteresante.es##.roba2_movil
-adscdn.freepik.com##.shutterstock
 diariocorreo.pe##.sidebar-zonahogar
 marca.com##.sinergias_telva
 elliberal.com.ar##.sponsor
