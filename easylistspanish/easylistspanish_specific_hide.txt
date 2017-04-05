@@ -88,7 +88,6 @@ elonce.com##.banner-h
 elliberal.com.ar##.bannernota
 elliberal.com.ar##.bannernota2
 elliberal.com.ar##.bannernota3
-netshoes.com.ar##.banners-home + * > .bannerHolder
 180.com.uy##.banners-side-container
 tumomo.com##.bderecho
 ebay.es##.beta-placement
