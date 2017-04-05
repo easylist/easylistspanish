@@ -52,7 +52,6 @@
 ||gamestorrents.com/99mesesss.jpg
 ||gettyimages.es/gi-resources/images/*/iStock.jpg
 ||hitfm.es/view/imgs/Trident-Hit-FM-Fondo-*.jpg
-||images.eldiario.es/elasombrario/Portadas_EDIIMA20151029_0056_18.jpg
 ||img01.lavanguardia.com/2013/05/16/Logo-canal-Castellers-*.jpg
 ||img02.lavanguardia.com/*/Vaughan-certified_*.jpg
 ||inmendoza.com/wp-content/uploads/*_1140x170_
@@ -101,8 +100,6 @@
 ||st.forocoches.com/image/varios/iphone6_ipadmini.png
 ||st1.idealista.com/news/archivos/styles/348x90/public/ficheros_widget_news/img/balcon_concha_vanguardia.jpg
 ||static.emol.cl/emol50/js/funcionesComun.js?
-||static1.eldiario.es/static/EDIDiario/images/fauxcols/
-||static2.eldiario.es/static/EDIDiario/images/eld-bg-rg-body.png
 ||tiquetesbaratos.com/pruebas/periodicos/
 ||todomecanica.com/images/patrocinios/
 ||va6.thand.info/embed-^$third-party

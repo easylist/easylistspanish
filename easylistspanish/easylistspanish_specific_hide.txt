@@ -118,8 +118,6 @@ laprovincia.es##.listaofertas
 blancas.cl,paginasblancas.com.ar,paginasblancas.com.pe##.m-pod-promo-image
 tandildiario.com##.mainContainerBanner
 marca.com##.marcamotor
-eldiario.es##.md-advertisement.md.hspace.adv-container.no-adv-socios + * + * + * > .blk.mtflow
-eldiario.es##.md-opinion-lst.md.md-sk3.hspace
 abc.es##.media[href="http://loffit.abc.es/rodar/barcos/tetrahedron-un-superyate-de-ciencia-ficcion-230534/"]
 divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,torrentrapid.com,tumejortorrent.com##.mod-pubb
 atresplayer.com##.mod_roba
@@ -174,7 +172,6 @@ marca.com##.sinergias_telva
 gaceta.es##.slides[style="width: 600%; transition-duration: 0s; transform: translate3d(-320px, 0px, 0px);"]
 elliberal.com.ar##.sponsor
 ruedasgordas.es##.sponsors
-eldiario.es##.strapband:first-child
 larazon.es##.textoPatrocinio
 marca.com##.tiramillas
 mitele.es##.titleList.DestacadoBox.clearfix.ModuleSimple:last-child
