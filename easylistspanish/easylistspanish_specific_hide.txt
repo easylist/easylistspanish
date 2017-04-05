@@ -51,7 +51,6 @@ noticiaslasflores.com.ar###swiffycontainer
 emprendices.co###text-15
 livenumetal.es###text-7 > .textwidget
 abc.com.py###top-banners
-supremacy1914.es###top50\.pl
 ecuavisa.com###topbar
 verdirectotv.org###total
 mundodeportivo.com###widget-mdcribeo-loultimo
