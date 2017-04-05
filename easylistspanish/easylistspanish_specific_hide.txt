@@ -76,7 +76,6 @@ animakai.tv,mdzol.com,rosario3.com##.banner
 elonce.com##.banner-a
 elonce.com##.banner-b
 elonce.com##.banner-c
-freepik.es##.banner-crehana-holder
 elonce.com##.banner-d
 elonce.com##.banner-e
 elonce.com##.banner-f
@@ -103,7 +102,6 @@ lavoz.com.ar##.clasificados
 lavoz.com.ar##.clublavoz
 renfe.com##.comprabilletes
 tandildiario.com##.containerBannerDesplegable
-adscdn.freepik.com##.coupon
 slimdownload.co##.cssanimations
 laprovincia.es##.dcham2
 diariodesevilla.es##.ePubli1
