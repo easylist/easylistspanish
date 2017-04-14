@@ -1,5 +1,6 @@
 /uploads/advertisings/*$domain=tribunaavila.com|tribunaburgos.com|tribunaleon.com|tribunapalencia.com|tribunasalamanca.com|tribunasegovia.com|tribunasoria.com|tribunavalladolid.com|tribunazamora.com
 |blob:$domain=divxatope.com|divxatope1.com|newpct.com|newpct1.com|torrentlocura.com|torrentrapid.com|tumejortorrent.com
+|blob:https://$domain=descargasnsn.com
 |http://$script,third-party,domain=abcdefamosas.xyz|animakai.tv|elitetorrent.net|mejorenvo.com|novelasenlinea.net|reyanime.com|seriesblanco.com|submanga.org
 |http://$script,third-party,xmlhttprequest,domain=divxatope.com|divxatope1.com|divxtotal.com|estoesporno.com|estrenosdtl.com|gamestorrents.com|jkanime.net|macrojuegos.com|moviesdvdr.com|newpct.com|newpct1.com|seriesflv.net|subtorrents.com|todocvcd.com|torrentesx.com|torrentlocura.com|torrentrapid.com|tumejortorrent.com
 |https://$script,third-party,domain=abcdefamosas.xyz|animakai.tv|novelasenlinea.net
@@ -19,6 +20,7 @@
 ||chrissysinvite.co/a
 ||cinestrenostv.tv/Publi/
 ||cloudfront.net$script,third-party,domain=compucalitv.com
+||cloudfront.net^$script,third-party,domain=descargasnsn.com
 ||clubdelectores.cl/cajaEmolClub/$third-party
 ||comparador.euribor.com.es/lanzadera/retargetting/
 ||css01.lavanguardia.com/imagenes/cajaHTML/loterias.gif
@@ -48,6 +50,10 @@
 ||gamestorrents.com/99mesesss.jpg
 ||gettyimages.es/gi-resources/images/*/iStock.jpg
 ||hitfm.es/view/imgs/Trident-Hit-FM-Fondo-*.jpg
+||imagensn.com/images/2016/09/02/uploaded-banner-300.jpg
+||imagensn.com/images/2016/09/02/uploaded-banner-728.jpg
+||imagensn.com/images/2016/12/07/dedicados.jpg
+||imagensn.com/images/2016/12/07/servidores.jpg
 ||img01.lavanguardia.com/2013/05/16/Logo-canal-Castellers-*.jpg
 ||img02.lavanguardia.com/*/Vaughan-certified_*.jpg
 ||imgur.com/JlGKZ0q.jpg
