@@ -133,6 +133,7 @@ elblog.com##.pub_lat2_father
 elblog.com##.pub_lat3_father
 elonce.com##.publi-top
 motociclismo.es,publico.es##.publicidad
+intereconomia.tv##.pum-overlay
 diariosur.es,diariovasco.com,elcomercio.es,elcorreo.com,eldiariomontanes.es,elnortedecastilla.es,hoy.es,ideal.es,larioja.com,lasprovincias.es,laverdad.es,leonoticias.com,publico.es##.roba
 muyinteresante.es##.roba1
 muyinteresante.es##.roba1_movil
