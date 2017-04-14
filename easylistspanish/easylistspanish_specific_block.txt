@@ -50,6 +50,7 @@
 ||hitfm.es/view/imgs/Trident-Hit-FM-Fondo-*.jpg
 ||img01.lavanguardia.com/2013/05/16/Logo-canal-Castellers-*.jpg
 ||img02.lavanguardia.com/*/Vaughan-certified_*.jpg
+||imgur.com/JlGKZ0q.jpg
 ||inmendoza.com/wp-content/uploads/*_1140x170_
 ||inmendoza.com/wp-content/uploads/banner/
 ||inmendoza.com^*/banners/
@@ -66,6 +67,7 @@
 ||libertaddigital.com/fragmentos/guijuelo-responsive.html
 ||libertaddigital.com/fragmentos/movistarplus.html
 ||marca.com/marcador/rfsh/marcador_portada/marcador.swf$domain=pornstarsyfamosas.es
+||megawarez.org/wp-content/uploads/*/banner
 ||meteoconsult.es/publicite/
 ||millionairedream.co^$third-party
 ||misandria.info/images/JURIS.jpg

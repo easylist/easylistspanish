@@ -139,6 +139,7 @@ muyinteresante.es##.roba1
 muyinteresante.es##.roba1_movil
 muyinteresante.es##.roba2
 muyinteresante.es##.roba2_movil
+megawarez.org##.sidebar-ads
 diariocorreo.pe##.sidebar-zonahogar
 marca.com##.sinergias_telva
 elliberal.com.ar##.sponsor
