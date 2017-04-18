@@ -12,8 +12,6 @@ coches.net###banner_top
 estadio.ec###banners
 eleconomista.es###banners-superiores
 paxinasgalegas.es###banners_laterales
-marca.com###bloque_nauta360
-marca.com###bloque_tiramillas
 lagacetadesalamanca.es###bn_vandyck
 divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,torrentrapid.com,tumejortorrent.com###box-ads-tr
 divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,torrentrapid.com,tumejortorrent.com###box-ads-trailer
@@ -87,9 +85,6 @@ elliberal.com.ar##.bannernota3
 tumomo.com##.bderecho
 ebay.es##.beta-placement
 tumomo.com##.bizquierdo
-marca.com##.bloque-elmundo
-marca.com##.bloque-expansion
-marca.com##.bloque-promo
 mundodeportivo.com##.bolarosa
 pelisadicto.com##.box
 divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,torrentrapid.com,tumejortorrent.com##.box-publi-left
@@ -112,7 +107,6 @@ diaridegirona.cat##.iberpi_cajaext
 laprovincia.es##.listaofertas
 blancas.cl,paginasblancas.com.ar,paginasblancas.com.pe##.m-pod-promo-image
 tandildiario.com##.mainContainerBanner
-marca.com##.marcamotor
 divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,torrentrapid.com,tumejortorrent.com##.mod-pubb
 atresplayer.com##.mod_roba
 lavozdegalicia.es##.mujerhoy
@@ -141,11 +135,9 @@ muyinteresante.es##.roba2
 muyinteresante.es##.roba2_movil
 megawarez.org##.sidebar-ads
 diariocorreo.pe##.sidebar-zonahogar
-marca.com##.sinergias_telva
 elliberal.com.ar##.sponsor
 ruedasgordas.es##.sponsors
 larazon.es##.textoPatrocinio
-marca.com##.tiramillas
 mitele.es##.titleList.DestacadoBox.clearfix.ModuleSimple:last-child
 larazon.es##.vinculoPatrocinio
 st1.idealista.com##.widget_idealista
@@ -153,7 +145,6 @@ st1.idealista.com##A[href="http://www.idealista.com/news/vacacional/mercado-vaca
 mitele.es##A[href="http://www.premiercasino.es/redirect?provenanceCode=CONECTA5CASINO"]
 gettyimages.es##[href="http://espanol.istockphoto.com/?esource=gi_es_home_3pack_istock_3"] > .promo-hover
 st1.idealista.com##[href="http://www.idealista.com?xts=352991&xtor=AD-186-[idealista]-[]-[57601_1]-[lavanguardia.es__lavanguardia.es]-[]-[home_1_1]&source=314"]
-marca.com##[src="http://estaticos03.marca.com/deporte/imagenes/faldon_Master_Derecho-Deporte.gif"]
 va6.thand.info##[src="http://va6.thand.info/0hsfy957uswi2cgypg23"]
 va6.thand.info##a[href*="http://www.physoi.eu/script/redirect.php?url=*"]
 dreamfilmhd.bz##a[href="http://bit.ly/1Lppy4T"]
