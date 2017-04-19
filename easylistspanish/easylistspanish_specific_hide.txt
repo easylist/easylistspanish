@@ -97,6 +97,7 @@ eldefinido.cl##.cajabanners
 estadiodeportivo.whitelabel.kelisto.es##.car-insurance
 lavoz.com.ar##.clasificados
 lavoz.com.ar##.clublavoz
+deportemixtv.info##.column-right-outer
 renfe.com##.comprabilletes
 tandildiario.com##.containerBannerDesplegable
 slimdownload.co##.cssanimations
