@@ -4,6 +4,7 @@ comunio.es###advertising-right
 comunio.es###advertising-top
 animeid.tv###ap
 fmvida.com.ar,inmonauta.es###banner
+eldefinido.cl###bannerGCP
 atresplayer.com###bannerTop
 aica.org###banner_A
 divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,torrentrapid.com,tumejortorrent.com###banner_header
@@ -36,6 +37,7 @@ todocvcd.com###mbanner
 elmundo.es###modulo_buscador_sv
 chrissysinvite.co###myModal
 dle.rae.es###opciones > #patrocinio
+eldefinido.cl###pub
 tiendeo.com.ar###publiRightContainer
 ehowenespanol.com###radlinks
 realbetisbalompie.es###right-banners
@@ -52,6 +54,7 @@ realbetisbalompie.es###widget_banners
 elblog.com###z_pub_inf_new
 elblog.com###z_pub_sup_new
 guadairainformacion.com##.Banner300x100
+eldefinido.cl##.RP
 buscamultas.com##.TableWidget
 cuatro.com,divinity.es,elconfidencial.com,telecinco.es,terra.es##.ad
 elconfidencial.com##.adcrt300x600
@@ -90,6 +93,7 @@ divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,torrentrap
 emol.com##.bt_publicar_ecn
 eleconomista.es##.caja-publi-port
 laprovincia.es##.caja_cuponisimo_slider300
+eldefinido.cl##.cajabanners
 estadiodeportivo.whitelabel.kelisto.es##.car-insurance
 lavoz.com.ar##.clasificados
 lavoz.com.ar##.clublavoz
