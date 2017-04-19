@@ -59,7 +59,6 @@
 @@||pordede.com^$generichide
 @@||pubted.com/plugins/pops/adBlockCheck/adblock.js$script,third-party,domain=divxatope.com|divxatope1.com|newpct.com|newpct1.com|torrentlocura.com|torrentrapid.com|tumejortorrent.com
 @@||requiredcollectfilm.info/path/ads/ads.js$script,third-party,domain=divxatope.com|divxatope1.com|newpct.com|newpct1.com|torrentlocura.com|torrentrapid.com|tumejortorrent.com
-@@||saikoanimes.net/adb/advert.js$script,~third-party,domain=saikoanimes.net
 @@||shares.enetres.net/ads.js.php?$script,~third-party,domain=enetres.net
 @@||superdeporte.es^$generichide
 @@||telecinco.es^$generichide

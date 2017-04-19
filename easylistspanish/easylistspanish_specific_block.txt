@@ -98,8 +98,6 @@
 ||republica.com.uy/wp-content/banners/
 ||rs.20m.es/i/petitchef_cintillo.jpg
 ||s3.amazonaws.com/comparabien-default/ads/
-||saikoanimes.net/Imagens/aaaaa.png
-||saikoanimes.net/Imagens/parceiros/
 ||st.forocoches.com/image/top_c2_fcs_hd_hawkers.png
 ||st.forocoches.com/image/varios/iphone6_ipadmini.png
 ||st1.idealista.com/news/archivos/styles/348x90/public/ficheros_widget_news/img/balcon_concha_vanguardia.jpg
