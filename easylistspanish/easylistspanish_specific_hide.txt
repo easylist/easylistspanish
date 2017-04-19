@@ -104,6 +104,7 @@ laprovincia.es##.dcham2
 diariodesevilla.es##.ePubli1
 elcomercio.pe##.ec-club
 estadiodeportivo.whitelabel.kelisto.es##.finance
+marca.com##.flex-b-promociones
 elmundo.es##.flex__publi
 emprendices.co##.homepage-widget > #text-16
 diaridegirona.cat##.iberpi_cajaext

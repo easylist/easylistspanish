@@ -38,7 +38,7 @@
 @@||divxatope1.com^$generichide
 @@||ebizlatam.com^$generichide
 @@||eestatic.com/assets_js/dyn/adiframe.js
-@@||el-mundo.net/js/advertisement.js$script,third-party,domain=elmundo.es
+@@||el-mundo.net/js/advertisement.js$script,third-party,domain=elmundo.es|marca.com
 @@||eleconomista.es^$generichide
 @@||elmundo.es^$generichide
 @@||euribor.com.es^$generichide
@@ -46,6 +46,7 @@
 @@||fullpremiums.com^$generichide
 @@||kjanime.net/link/advertisement.js$script,~third-party,domain=kjanime.net
 @@||levante-emv.com^$generichide
+@@||marca.com^$generichide
 @@||megawarez.org^$generichide
 @@||menshealth.es^$generichide
 @@||mundokodi.com^$generichide

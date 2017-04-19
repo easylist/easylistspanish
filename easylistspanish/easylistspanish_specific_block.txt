@@ -10,6 +10,7 @@
 ||19640noticias.com/wp-content/uploads/2017/03/Banner-Institucional-300x200-Copiar.jpg
 ||19640noticias.com/wp-content/uploads/2017/03/Veronica-Gonzalez-Copiar-Copiar.jpg
 ||19640noticias.com/wp-content/uploads/2017/04/283x321.gif
+||91.116.142.114/iframe
 ||abc.com.py/plantillas/js/banners-mkt.js
 ||abchoy.com.ar/publicidades/
 ||abchoy.com.ar/publipopup/
@@ -115,5 +116,6 @@
 ||vigoe.es/images/pbanner/
 ||widgets.helpmycash.com/ranking-financiero/
 ! Anti-Adblock
+||el-mundo.net/js/fm*.js$script
 ||exabytetv.info/wp-content/plugins/wp-adblock-dedect/
 ||motociclismo.es/js/compiled_blockadblock_15.js
