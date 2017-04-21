@@ -2,9 +2,9 @@
 |blob:$domain=divxatope.com|divxatope1.com|newpct.com|newpct1.com|torrentlocura.com|torrentrapid.com|tumejortorrent.com
 |blob:https://$domain=descargasnsn.com
 |http://$script,third-party,domain=abcdefamosas.xyz|animakai.tv|elitetorrent.net|mejorenvo.com|novelasenlinea.net|reyanime.com|seriesblanco.com|submanga.org
-|http://$script,third-party,xmlhttprequest,domain=divxatope.com|divxatope1.com|divxtotal.com|estoesporno.com|estrenosdtl.com|gamestorrents.com|jkanime.net|macrojuegos.com|moviesdvdr.com|newpct.com|newpct1.com|seriesflv.net|subtorrents.com|todocvcd.com|torrentesx.com|torrentlocura.com|torrentrapid.com|tumejortorrent.com
+|http://$script,third-party,xmlhttprequest,domain=divxatope.com|divxatope1.com|divxtotal.com|estoesporno.com|estrenosdtl.com|gamestorrents.com|jkanime.net|moviesdvdr.com|newpct.com|newpct1.com|seriesflv.net|subtorrents.com|todocvcd.com|torrentesx.com|torrentlocura.com|torrentrapid.com|tumejortorrent.com
 |https://$script,third-party,domain=abcdefamosas.xyz|animakai.tv|novelasenlinea.net
-|https://$script,third-party,xmlhttprequest,domain=jkanime.net|macrojuegos.com
+|https://$script,third-party,xmlhttprequest,domain=jkanime.net
 ||130.211.230.53^$script,domain=animeid.tv
 ||19640noticias.com/wp-content/uploads/2017/03/200x200_OK_-1-Copiar.jpg
 ||19640noticias.com/wp-content/uploads/2017/03/Banner-Institucional-300x200-Copiar.jpg

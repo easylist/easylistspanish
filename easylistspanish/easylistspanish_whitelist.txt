@@ -1,4 +1,4 @@
-@@||ajax.googleapis.com/ajax/libs/$script,third-party,domain=macrojuegos.com|reyanime.com|seriesblanco.com
+@@||ajax.googleapis.com/ajax/libs/$script,third-party,domain=reyanime.com|seriesblanco.com
 @@||aurora-israel.co.il/wp-content/themes/Newspaper/bannersswf/banner_newsletter1.swf
 @@||aurora-israel.co.il/wp-content/themes/Newspaper/bannersswf/clima3_29_11_2016.swf
 @@||aurora-israel.co.il/wp-content/themes/Newspaper/bannersswf/facebook_twitter2.swf
