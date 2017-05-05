@@ -1,5 +1,6 @@
 diariopopular.com.ar###OBJETO861 > .ad-obj
 foro.putalocura.com,misandria.info###ad_global_below_navbar
+shippuden.tv###ads
 comunio.es###advertising-right
 comunio.es###advertising-top
 animeid.tv###ap
@@ -14,6 +15,7 @@ estadio.ec###banners
 eleconomista.es###banners-superiores
 paxinasgalegas.es###banners_laterales
 lagacetadesalamanca.es###bn_vandyck
+shippuden.tv###bottomlink
 divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,torrentrapid.com,tumejortorrent.com###box-ads-tr
 divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,torrentrapid.com,tumejortorrent.com###box-ads-trailer
 pickinup.es###brand-carousel
@@ -21,6 +23,7 @@ abchoy.com.ar###cacho-overlay
 abchoy.com.ar###cacho-popup
 laprovincia.es###caja_1_derecha_17_0
 20minutos.es###cajasbuscadoras
+shippuden.tv###categories
 cinestrenostv.tv###closeX1
 cinestrenostv.tv###closeX2
 publico.es###decine21_widget_estrenos
