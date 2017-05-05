@@ -9,15 +9,13 @@
 @@||content.jwplatform.com^$script,domain=animakai.tv
 @@||diariosanrafael.com.ar/images/banners/banner_nexo.jpg
 @@||diariosanrafael.com.ar/images/banners/banner_twitter.png
-@@||disqus.com^$script,third-party,domain=shippuden.tv
+@@||disqus.com^$script,third-party,domain=seriesblanco.com|shippuden.tv
 @@||lagacetadesalamanca.es/elementosWeb/gestionCajas/GSA/Image/2016//whatsappgacetaa.gif$image,domain=lagacetadesalamanca.es
 @@||lagacetadesalamanca.es/elementosWeb/gestionCajas/GSA/Image/2017//bannernuevastecnologias.jpg$image,domain=lagacetadesalamanca.es
 @@||lagacetadesalamanca.es/elementosWeb/gestionCajas/GSA/Image/GIF_LAGACETA_318X180.gif$image,domain=lagacetadesalamanca.es
 @@||platform.twitter.com/widgets.js$script,third-party,domain=divxatope.com|divxatope1.com|newpct.com|newpct1.com|reyanime.com|seriesblanco.com|shippuden.tv|torrentlocura.com|torrentrapid.com|tumejortorrent.com
 @@||republica.com.uy/wp-content/banners/HoroscopoDiario2016.jpg
-@@||seriesblanco.disqus.com/embed.js$script,third-party,domain=seriesblanco.com
-@@||st.chatango.com/js/gz/emb.js$script,third-party,domain=seriesblanco.com
-@@||st.chatango.com^$script,third-party,xmlhttprequest,domain=seriesflv.net
+@@||st.chatango.com^$script,third-party,xmlhttprequest,domain=seriesblanco.com|seriesflv.net
 @@||static.ak.fbcdn.net/connect.php/js/FB.Share$script,third-party,domain=divxatope.com|divxatope1.com|newpct.com|newpct1.com|torrentlocura.com|torrentrapid.com|tumejortorrent.com
 @@||w.sharethis.com/button/buttons.js$script,third-party,domain=seriesblanco.com
 ! Anti-Adblock
