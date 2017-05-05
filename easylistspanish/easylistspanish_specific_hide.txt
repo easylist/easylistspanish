@@ -48,6 +48,7 @@ noticias3d.com###skin
 bandaancha.eu###spBx
 noticiaslasflores.com.ar###swiffycontainer
 emprendices.co###text-15
+ddmix.net###text-4
 livenumetal.es###text-7 > .textwidget
 abc.com.py###top-banners
 ecuavisa.com###topbar
