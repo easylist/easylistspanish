@@ -104,6 +104,7 @@
 ||nuevaeranet.com.ar/publicidades_cate/
 ||p.a-abp.com//simgad/
 ||paxinasgalegas.es/BannerService.ashx
+||peliculas.nu/pared.js
 ||px.fotos.cdn.0223.com.ar/f/5399f9f213cd649c19000009/
 ||px.fotos.cdn.0223.com.ar/f/539f4f6c5408217c16000029/
 ||px.fotos.cdn.0223.com.ar/f/5487365314cdac0400000148/
