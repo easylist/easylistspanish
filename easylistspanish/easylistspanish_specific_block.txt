@@ -95,6 +95,7 @@
 ||netuy.net/banner_hosting_uruguay/
 ||newsweeklatino.com/flow/
 ||noticias3d.com/imagenes/banners/
+||noticiasdelaciencia.com/upload/img/periodico/img_2972.jpg
 ||nuevaeranet.com.ar/publicidades_cate/
 ||p.a-abp.com//simgad/
 ||paxinasgalegas.es/BannerService.ashx
@@ -124,3 +125,4 @@
 ||el-mundo.net/js/fm*.js$script
 ||exabytetv.info/wp-content/plugins/wp-adblock-dedect/
 ||motociclismo.es/js/compiled_blockadblock_15.js
+||noticiasdelaciencia.com/libs_oss/adblock/
