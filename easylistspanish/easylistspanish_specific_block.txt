@@ -1,7 +1,7 @@
 /uploads/advertisings/*$domain=tribunaavila.com|tribunaburgos.com|tribunaleon.com|tribunapalencia.com|tribunasalamanca.com|tribunasegovia.com|tribunasoria.com|tribunavalladolid.com|tribunazamora.com
 |blob:$domain=divxatope.com|divxatope1.com|newpct.com|newpct1.com|torrentlocura.com|torrentrapid.com|tumejortorrent.com
 |blob:https://$domain=descargasnsn.com
-|http://$script,third-party,domain=abcdefamosas.xyz|animakai.tv|elitetorrent.net|mejorenvo.com|novelasenlinea.net|reyanime.com|seriesblanco.com|shippuden.tv|submanga.org
+|http://$script,third-party,domain=abcdefamosas.xyz|animakai.tv|elitetorrent.net|ftail.tv|mejorenvo.com|novelasenlinea.net|reyanime.com|seriesblanco.com|shippuden.tv|submanga.org
 |http://$script,third-party,xmlhttprequest,domain=divxatope.com|divxatope1.com|divxtotal.com|estoesporno.com|estrenosdtl.com|gamestorrents.com|jkanime.net|moviesdvdr.com|newpct.com|newpct1.com|seriesflv.net|subtorrents.com|todocvcd.com|torrentesx.com|torrentlocura.com|torrentrapid.com|tumejortorrent.com
 |https://$script,third-party,domain=abcdefamosas.xyz|animakai.tv|novelasenlinea.net
 |https://$script,third-party,xmlhttprequest,domain=jkanime.net
@@ -52,6 +52,10 @@
 ||file02.lavanguardia.com/2015/01/19/54423532669-file.png
 ||file02.lavanguardia.com/2015/03/02/54428665978-file.jpg
 ||file02.lavanguardia.com/2015/06/30/54432622531-file.jpg
+||ftail.tv/wp-content/themes/bideopro/img/dca.gif
+||ftail.tv/wp-content/themes/bideopro/img/dpa.gif
+||ftail.tv/wp-content/themes/bideopro/img/vca.gif
+||ftail.tv/wp-content/themes/bideopro/img/vpa.gif
 ||gamestorrents.com/99mesesss.jpg
 ||gettyimages.es/gi-resources/images/*/iStock.jpg
 ||hitfm.es/view/imgs/Trident-Hit-FM-Fondo-*.jpg
