@@ -3,8 +3,7 @@
 @@||aurora-israel.co.il/wp-content/themes/Newspaper/bannersswf/clima3_29_11_2016.swf
 @@||aurora-israel.co.il/wp-content/themes/Newspaper/bannersswf/facebook_twitter2.swf
 @@||aurora-israel.co.il/wp-content/themes/Newspaper/bannersswf/notas-*.swf
-@@||code.jquery.com^$script,domain=lacajita.xyz|seriesblanco.com
-@@||code.jquery.com^$script,third-party,domain=elitetorrent.net
+@@||code.jquery.com^$script,third-party,domain=elitetorrent.net|lacajita.xyz|seriesblanco.com
 @@||connect.facebook.net/es_ES/all.js$script,third-party,domain=divxatope.com|divxatope1.com|ftail.tv|mejorenvo.com|newpct.com|newpct1.com|shippuden.tv|torrentlocura.com|torrentrapid.com|tumejortorrent.com
 @@||connect.facebook.net/es_LA/sdk.js$script,third-party,domain=lacajita.xyz|seriesblanco.com|submanga.org
 @@||content.jwplatform.com^$script,domain=animakai.tv
