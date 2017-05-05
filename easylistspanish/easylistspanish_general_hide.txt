@@ -11,6 +11,7 @@
 ###publicidad_superior
 ###slider-oferplan
 ##.ad-tl2b
+##.blog-publi
 ##.caja_cuponisimo_slider200
 ##.containerOas
 ##.dfp-queue
