@@ -38,5 +38,6 @@
 ##.publitop
 ##.robapaginas
 ##.spub
+##.wrap-bnr
 ##adsenseintermedioleft
 ##adsenseintermedioright
