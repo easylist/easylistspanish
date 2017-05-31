@@ -28,6 +28,7 @@ ftail.tv,shippuden.tv###categories
 cinestrenostv.tv###closeX1
 cinestrenostv.tv###closeX2
 publico.es###decine21_widget_estrenos
+perfil.com###div_blockTop_1
 lne.es###divderecha_1021
 laprovincia.es###divderecha_1050
 diaridegirona.cat###divderecha_1053
