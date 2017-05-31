@@ -78,6 +78,8 @@
 @@||torrentrapid.com^$generichide
 @@||tribunasalamanca.com/ads.html$subdocument,domain=tribunaavila.com|tribunaburgos.com|tribunaleon.com|tribunapalencia.com|tribunasalamanca.com|tribunasegovia.com|tribunasoria.com|tribunavalladolid.com|tribunazamora.com
 @@||tumejortorrent.com^$generichide
+@@||vercanalestv.com/adblock.js$script,domain=vercanalestv.com
+@@||vercanalestv.com^$generichide
 @@||verdirectotv.com^$generichide
 @@||verliga.net/canales/adblock.js$script,domain=verliga.net
 @@||verliga.net^$generichide
