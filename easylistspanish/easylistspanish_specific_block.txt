@@ -59,6 +59,7 @@
 ||file02.lavanguardia.com/2015/01/19/54423532669-file.png
 ||file02.lavanguardia.com/2015/03/02/54428665978-file.jpg
 ||file02.lavanguardia.com/2015/06/30/54432622531-file.jpg
+||foroparalelo.com/images/avisos/
 ||ftail.tv/wp-content/themes/bideopro/img/dca.gif
 ||ftail.tv/wp-content/themes/bideopro/img/dpa.gif
 ||ftail.tv/wp-content/themes/bideopro/img/vca.gif
