@@ -133,7 +133,7 @@ pdindustriales.com.ar##.ofertas2
 elmundo.es##.other-services
 meteoconsult.es##.partenaire_simple
 meteoconsult.es##.partenaire_simple_home
-corrienteshoy.com##.pasli
+chacohoy.com,corrienteshoy.com##.pasli
 elmundo.es,lavozdegalicia.es##.patrocinio
 deportes.televisa.com##.prime-banner
 lavoz.com.ar##.producto-tienda
