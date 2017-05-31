@@ -39,6 +39,7 @@
 ##.publitop
 ##.robapaginas
 ##.spub
+##.story-patrocinio
 ##.wrap-bnr
 ##adsenseintermedioleft
 ##adsenseintermedioright
