@@ -54,7 +54,9 @@ ddmix.net###text-4
 livenumetal.es###text-7 > .textwidget
 abc.com.py###top-banners
 ecuavisa.com###topbar
-verdirectotv.org###total
+dinostream.pw,verdirectotv.org###total
+dinostream.pw###total2
+dinostream.pw###total3
 latino-webtv.com###ventana-flotante
 burbuja.info###wfg_ad-LDB1
 burbuja.info###wfg_ad-LDB2
