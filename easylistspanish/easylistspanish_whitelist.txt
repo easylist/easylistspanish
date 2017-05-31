@@ -30,6 +30,7 @@
 @@/servicios/ads/dfp.js$script,~third-party,domain=diaridegirona.cat|diariodeibiza.es|diariodemallorca.es|diarioinformacion.com|emporda.info|farodevigo.es|laopinion.es|laopinioncoruna.es|laopiniondemalaga.es|laopiniondemurcia.es|laopiniondezamora.es|laprovincia.es|levante-emv.com|lne.es|mallorcazeitung.es|regio7.cat|superdeporte.es
 @@/static/MDSAntiAdBlock/*$script,~third-party,domain=cuatro.com|divinity.es|telecinco.es
 @@||animeflv.net/js/ads.js$script,domain=animeflv.net
+@@||atresplayer.com^$generichide
 @@||autopista.es^$generichide
 @@||bambergerkennanchitinous.com/.adframesrc.$script,third-party,domain=divxatope.com|divxatope1.com|newpct.com|newpct1.com|torrentlocura.com|torrentrapid.com|tumejortorrent.com
 @@||bemad.es^$generichide
