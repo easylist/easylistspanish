@@ -90,7 +90,7 @@ libertaddigital.com##.apuestas
 perfil.com##.ark-ad-block
 windowscracker1.blogspot.com.es##.at4-whatsnext-outer-container
 eleconomista.es##.bankia-cuerda
-animakai.tv,debate.com.mx,descargasnsn.com,gacetadeportiva.com.ar,mdzol.com,rosario3.com,voydeviaje.com.ar##.banner
+animakai.tv,debate.com.mx,descargasnsn.com,diariouno.com.ar,gacetadeportiva.com.ar,mdzol.com,rosario3.com,voydeviaje.com.ar##.banner
 elonce.com##.banner-a
 elonce.com##.banner-b
 voydeviaje.com.ar##.banner-billboard-wrapper
