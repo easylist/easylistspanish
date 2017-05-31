@@ -86,6 +86,7 @@ eleconomista.es##.bankia-cuerda
 animakai.tv,descargasnsn.com,mdzol.com,rosario3.com,voydeviaje.com.ar##.banner
 elonce.com##.banner-a
 elonce.com##.banner-b
+voydeviaje.com.ar##.banner-billboard-wrapper
 elonce.com##.banner-c
 elonce.com##.banner-d
 elonce.com##.banner-e
