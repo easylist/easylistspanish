@@ -34,6 +34,7 @@
 @@||bambergerkennanchitinous.com/.adframesrc.$script,third-party,domain=divxatope.com|divxatope1.com|newpct.com|newpct1.com|torrentlocura.com|torrentrapid.com|tumejortorrent.com
 @@||bemad.es^$generichide
 @@||booksmedicos.org^$generichide
+@@||cinestrenostv.tv^$generichide
 @@||comunio.es^$generichide
 @@||cuatro.com^$generichide
 @@||divinity.es^$generichide
