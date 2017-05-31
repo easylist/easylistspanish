@@ -30,6 +30,9 @@
 ##.publiTop
 ##.publi_horizontal
 ##.publi_lateral
+##.publicidad-300-250
+##.publicidad-300-250a
+##.publicidad-bloque-centro
 ##.publicidad-top
 ##.publicidad1
 ##.publicidad2
@@ -37,6 +40,7 @@
 ##.publicidad4
 ##.publicidad5
 ##.publicidad6
+##.publicidad_01
 ##.publitop
 ##.robapaginas
 ##.spub
