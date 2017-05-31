@@ -55,6 +55,7 @@ livenumetal.es###text-7 > .textwidget
 abc.com.py###top-banners
 ecuavisa.com###topbar
 verdirectotv.org###total
+latino-webtv.com###ventana-flotante
 burbuja.info###wfg_ad-LDB1
 burbuja.info###wfg_ad-LDB2
 burbuja.info###wfg_ad-MPU1
