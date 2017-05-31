@@ -25,9 +25,10 @@ abchoy.com.ar###cacho-popup
 laprovincia.es###caja_1_derecha_17_0
 20minutos.es###cajasbuscadoras
 ftail.tv,shippuden.tv###categories
-verliga.net###closeX
-cinestrenostv.tv###closeX1
+verdirectotv.com,verliga.net###closeX
+cinestrenostv.tv,verdirectotv.com###closeX1
 cinestrenostv.tv###closeX2
+verdirectotv.com###closeX23
 publico.es###decine21_widget_estrenos
 perfil.com###div_blockTop_1
 lne.es###divderecha_1021
