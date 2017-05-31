@@ -1,3 +1,4 @@
+/static/BB3HTML/images/*sponsor*.png$domain=diariodecadiz.es|diariodejerez.es|diariodesevilla.es|elalmeria.es|eldiadecordoba.es|europasur.es|granadahoy.com|huelvainformacion.es|malagahoy.es
 /uploads/advertisings/*$domain=tribunaavila.com|tribunaburgos.com|tribunaleon.com|tribunapalencia.com|tribunasalamanca.com|tribunasegovia.com|tribunasoria.com|tribunavalladolid.com|tribunazamora.com
 |blob:$domain=divxatope.com|divxatope1.com|newpct.com|newpct1.com|torrentlocura.com|torrentrapid.com|tumejortorrent.com
 |blob:https://$domain=descargasnsn.com
@@ -41,6 +42,7 @@
 ||diariodelaribera.org/images/banners/
 ||diariodelaribera.org/images/stories/banners2015/noviembre_2015/
 ||diariodelaribera.org/images/stories/banners2015/octubre_2015/
+||diariodesevilla.es/2016/11/09/botones_fijos/movistar-deportes_1079902371_60088437_246x27.png
 ||diariosanrafael.com.ar/images/banners/
 ||divinity.es/zentv/images/zentv-300-2.gif
 ||divxtotal.com/9mesesss.jpg
