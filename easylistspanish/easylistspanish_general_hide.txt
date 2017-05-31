@@ -26,6 +26,7 @@
 ##.pu300
 ##.pub-h
 ##.publi
+##.publi300x300
 ##.publiTop
 ##.publi_horizontal
 ##.publi_lateral
