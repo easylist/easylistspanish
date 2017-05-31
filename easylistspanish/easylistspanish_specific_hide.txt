@@ -79,6 +79,7 @@ cuatro.com,divinity.es,elconfidencial.com,telecinco.es,terra.es##.ad
 elconfidencial.com##.adcrt300x600
 elconfidencial.com##.adcrt980x250
 eslang.es,publico.es##.ads
+yorokobu.es##.ads-block
 zonatorrent.es##.adsb30
 forobeta.com##.adshare_belownav
 forobeta.com##.adshare_firstpost
@@ -138,6 +139,7 @@ elcomercio.pe##.ec-club
 estadiodeportivo.whitelabel.kelisto.es##.finance
 marca.com##.flex-b-promociones
 elmundo.es##.flex__publi
+yorokobu.es##.fw-container
 emprendices.co##.homepage-widget > #text-16
 diaridegirona.cat##.iberpi_cajaext
 laprovincia.es##.listaofertas
