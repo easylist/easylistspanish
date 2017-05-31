@@ -84,5 +84,6 @@
 @@||verdirectotv.com^$generichide
 @@||verliga.net/canales/adblock.js$script,domain=verliga.net
 @@||verliga.net^$generichide
+@@||yorokobu.es^$generichide
 @@||youtvgratis.com/themes/tutvplayer/js/fuckadblock.js$script,domain=youtvgratis.com
 @@||youtvgratis.com^$generichide
