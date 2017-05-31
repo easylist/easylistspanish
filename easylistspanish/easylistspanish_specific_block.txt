@@ -61,6 +61,7 @@
 ||ftail.tv/wp-content/themes/bideopro/img/dpa.gif
 ||ftail.tv/wp-content/themes/bideopro/img/vca.gif
 ||ftail.tv/wp-content/themes/bideopro/img/vpa.gif
+||gacetamercantil.com.ar/banners/
 ||gamestorrents.com/99mesesss.jpg
 ||gettyimages.es/gi-resources/images/*/iStock.jpg
 ||hitfm.es/view/imgs/Trident-Hit-FM-Fondo-*.jpg
