@@ -45,6 +45,7 @@
 ||ecestaticos.com/file/127008ee463cd1776595c5cf2b0ff780/1434970380.png
 ||ecestaticos.com/file/c321612b3020bee67701c43d5d3129f7/1434970318.png
 ||eldiariodetandil.com/contenido/publicidades/
+||elitegol.com/media/oficial.png
 ||elmundo.es^*/patrocinador/
 ||emol.com/_portada/cajasecciones/cajaeconomicos.aspx
 ||emol.com/www/noticias/sqn.php?zones=
@@ -128,6 +129,7 @@
 ||tiquetesbaratos.com/pruebas/periodicos/
 ||todomecanica.com/images/patrocinios/
 ||va6.thand.info/embed-^$third-party
+||verliga.net/publiverliga.html
 ||vertdtgratis.es/publi1.html
 ||vertdtgratis.es/publi2.html
 ||vertdtgratis.es/publi23.html
