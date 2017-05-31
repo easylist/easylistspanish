@@ -97,6 +97,7 @@
 ||ldu.com.ec/fotos/publi_*.png
 ||libertaddigital.com/fragmentos/guijuelo-responsive.html
 ||libertaddigital.com/fragmentos/movistarplus.html
+||linkwelove.com/widget/js/lwl.js^$domain=aquiactualidad.com
 ||marca.com/marcador/rfsh/marcador_portada/marcador.swf$domain=pornstarsyfamosas.es
 ||megawarez.org/wp-content/uploads/*/banner
 ||mejortorrent.com/includes/$subdocument
