@@ -88,7 +88,7 @@ libertaddigital.com##.apuestas
 perfil.com##.ark-ad-block
 windowscracker1.blogspot.com.es##.at4-whatsnext-outer-container
 eleconomista.es##.bankia-cuerda
-animakai.tv,descargasnsn.com,gacetadeportiva.com.ar,mdzol.com,rosario3.com,voydeviaje.com.ar##.banner
+animakai.tv,debate.com.mx,descargasnsn.com,gacetadeportiva.com.ar,mdzol.com,rosario3.com,voydeviaje.com.ar##.banner
 elonce.com##.banner-a
 elonce.com##.banner-b
 voydeviaje.com.ar##.banner-billboard-wrapper
@@ -114,6 +114,7 @@ ebay.es##.beta-placement
 tumomo.com##.bizquierdo
 mundodeportivo.com##.bolarosa
 pelisadicto.com##.box
+debate.com.mx##.box-banner
 divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,torrentrapid.com,tumejortorrent.com##.box-publi-left
 emol.com##.bt_publicar_ecn
 eleconomista.es##.caja-publi-port
