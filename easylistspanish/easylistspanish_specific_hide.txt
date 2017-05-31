@@ -15,6 +15,7 @@ coches.net###banner_top
 estadio.ec###banners
 eleconomista.es###banners-superiores
 paxinasgalegas.es###banners_laterales
+informe21.com###block-views-diosuniversal-block-1
 lagacetadesalamanca.es###bn_vandyck
 ftail.tv,shippuden.tv###bottomlink
 divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,torrentrapid.com,tumejortorrent.com###box-ads-tr
@@ -68,6 +69,7 @@ mundodeportivo.com###widget-mdcribeo-loultimo
 realbetisbalompie.es###widget_banners
 elblog.com###z_pub_inf_new
 elblog.com###z_pub_sup_new
+informe21.com###zone-user-wrapper
 guadairainformacion.com##.Banner300x100
 animeflv.net##.Dvr300
 eldefinido.cl##.RP
