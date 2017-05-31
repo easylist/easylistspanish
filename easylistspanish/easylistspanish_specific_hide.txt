@@ -5,6 +5,7 @@ comunio.es###advertising-right
 comunio.es###advertising-top
 animeid.tv###ap
 fmvida.com.ar,inmonauta.es###banner
+perfil.com###banner990
 eldefinido.cl###bannerGCP
 atresplayer.com###bannerTop
 aica.org###banner_A
