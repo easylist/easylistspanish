@@ -31,6 +31,7 @@
 ||cloudfront.net^$script,third-party,domain=descargasnsn.com
 ||clubdelectores.cl/cajaEmolClub/$third-party
 ||comparador.euribor.com.es/lanzadera/retargetting/
+||contextotucuman.com//banners/
 ||corrienteshoy.com/files/banners/
 ||css01.lavanguardia.com/imagenes/cajaHTML/loterias.gif
 ||deportetandilense.com.ar/publicidades_cate/
