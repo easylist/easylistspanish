@@ -50,6 +50,7 @@
 @@||fullpremiums.com/adblock.js$script,domain=fullpremiums.com
 @@||fullpremiums.com^$generichide
 @@||kjanime.net/link/advertisement.js$script,domain=kjanime.net
+@@||latelete.tv^$generichide
 @@||levante-emv.com^$generichide
 @@||marca.com^$generichide
 @@||mdsrwdassets-a.akamaihd.net/dist/assets/nonAdBlock/ad$script,third-party,domain=bemad.es|cuatro.com|divinity.es|energytv.es|factoriadeficcion.com|telecinco.es
