@@ -134,6 +134,7 @@
 ||static.emol.cl/emol50/js/funcionesComun.js?
 ||tiquetesbaratos.com/pruebas/periodicos/
 ||todomecanica.com/images/patrocinios/
+||todopuebla.com^$subdocument,domain=elpopular.mx
 ||va6.thand.info/embed-^$third-party
 ||vercanalestv.com/468.html
 ||vercanalestv.com/imagenes/banner300.jpg
