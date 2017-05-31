@@ -29,6 +29,7 @@
 ##.publiTop
 ##.publi_horizontal
 ##.publi_lateral
+##.publicidad-top
 ##.publicidad1
 ##.publicidad2
 ##.publicidad3
