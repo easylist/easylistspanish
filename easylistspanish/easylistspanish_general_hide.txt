@@ -45,6 +45,7 @@
 ##.robapaginas
 ##.spub
 ##.story-patrocinio
+##.widget_text_publicidad
 ##.wrap-bnr
 ##adsenseintermedioleft
 ##adsenseintermedioright
