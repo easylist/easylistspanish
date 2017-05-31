@@ -16,6 +16,7 @@
 ||abchoy.com.ar/publipopup/
 ||aica.org/publi*.html?t=
 ||aica.org/publi/
+||alicdn.com^$domain=ddmix.net
 ||animakai.tv/parceria.js
 ||aurora-israel.co.il/wp-content/themes/Newspaper/bannersswf/
 ||aurora-israel.co.il/wp-content/uploads/2016/06/oren_shabat555.jpg
