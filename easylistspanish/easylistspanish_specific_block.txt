@@ -20,6 +20,7 @@
 ||aurora-israel.co.il/wp-content/themes/Newspaper/bannersswf/
 ||aurora-israel.co.il/wp-content/uploads/2016/06/oren_shabat555.jpg
 ||babalonia.com/images/promo/*.gif
+||breves24.com.ar/banners/
 ||buyman.com.ar/pubex/
 ||cdn.exur.com/notmundo/
 ||chacohoy.com/files/banners/
