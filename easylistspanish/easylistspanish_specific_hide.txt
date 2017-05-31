@@ -101,11 +101,13 @@ elonce.com##.banner-h
 breves24.com.ar##.banner1
 breves24.com.ar##.banner2
 breves24.com.ar##.banner3
+iprofesional.com##.banner300x
 breves24.com.ar##.banner4
 breves24.com.ar##.banner5
 elliberal.com.ar##.bannernota
 elliberal.com.ar##.bannernota2
 elliberal.com.ar##.bannernota3
+iprofesional.com##.bannerpremiumnh
 180.com.uy##.banners-side-container
 tumomo.com##.bderecho
 ebay.es##.beta-placement
