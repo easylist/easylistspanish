@@ -22,6 +22,7 @@
 ||babalonia.com/images/promo/*.gif
 ||buyman.com.ar/pubex/
 ||cdn.exur.com/notmundo/
+||chacohoy.com/files/banners/
 ||chrissysinvite.co/a
 ||cinestrenostv.tv/Publi/
 ||cloudfront.net$script,third-party,domain=compucalitv.com
