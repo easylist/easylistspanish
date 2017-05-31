@@ -78,5 +78,7 @@
 @@||torrentrapid.com^$generichide
 @@||tribunasalamanca.com/ads.html$subdocument,domain=tribunaavila.com|tribunaburgos.com|tribunaleon.com|tribunapalencia.com|tribunasalamanca.com|tribunasegovia.com|tribunasoria.com|tribunavalladolid.com|tribunazamora.com
 @@||tumejortorrent.com^$generichide
+@@||verliga.net/canales/adblock.js$script,domain=verliga.net
+@@||verliga.net^$generichide
 @@||youtvgratis.com/themes/tutvplayer/js/fuckadblock.js$script,domain=youtvgratis.com
 @@||youtvgratis.com^$generichide
