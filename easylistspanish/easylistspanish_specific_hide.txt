@@ -79,6 +79,7 @@ terra.es,tribunaavila.com,tribunaburgos.com,tribunaleon.com,tribunapalencia.com,
 20minutos.es##.adx
 androidpit.es##.appSlider
 libertaddigital.com##.apuestas
+perfil.com##.ark-ad-block
 windowscracker1.blogspot.com.es##.at4-whatsnext-outer-container
 eleconomista.es##.bankia-cuerda
 animakai.tv,descargasnsn.com,mdzol.com,rosario3.com##.banner
