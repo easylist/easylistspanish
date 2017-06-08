@@ -115,6 +115,7 @@
 ||mundodeportivo.com/r/GODO/MD/p3/ContraPortada/Imagenes/*/img_cduart_*_imagenes_md_otras_fuentes_bmw_*.jpg
 ||netuy.net/banner_hosting_uruguay/
 ||newsweeklatino.com/flow/
+||noddus.com/widget_campaign?$domain=sport.es
 ||noticias3d.com/imagenes/banners/
 ||noticiasdelaciencia.com/upload/img/periodico/img_2972.jpg
 ||nuevaeranet.com.ar/publicidades_cate/
@@ -132,6 +133,7 @@
 ||s3.amazonaws.com/comparabien-default/ads/
 ||shippuden.tv/a300.html
 ||siteground.es/img/banners/
+||sport.es/resources/jpg/0/3/1496069966930.jpg
 ||st.forocoches.com/image/top_c2_fcs_hd_hawkers.png
 ||st.forocoches.com/image/varios/iphone6_ipadmini.png
 ||st1.idealista.com/news/archivos/styles/348x90/public/ficheros_widget_news/img/balcon_concha_vanguardia.jpg
