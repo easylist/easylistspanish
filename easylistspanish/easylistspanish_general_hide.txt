@@ -12,6 +12,7 @@
 ###publicidad_subir
 ###publicidad_superior
 ###slider-oferplan
+##.PublicidadCabecera
 ##.ad-tl2b
 ##.blog-publi
 ##.caja_cuponisimo_slider200
