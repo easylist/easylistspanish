@@ -71,6 +71,7 @@ realbetisbalompie.es###widget_banners
 elblog.com###z_pub_inf_new
 elblog.com###z_pub_sup_new
 informe21.com###zone-user-wrapper
+diariolagrada.com##.Banner
 guadairainformacion.com##.Banner300x100
 animeflv.net##.Dvr300
 eldefinido.cl##.RP
