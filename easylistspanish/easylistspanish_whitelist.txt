@@ -23,8 +23,8 @@
 @@||w.sharethis.com/button/buttons.js$script,third-party,domain=lacajita.xyz|seriesblanco.com
 ! Anti-Adblock
 @@.gif#$image,domain=cinestrenostv.tv
-@@.png#$image,third-party,domain=fullpremiums.com|todotumac.com
-@@.png?*#/$image,third-party,domain=pajaslocas.com
+@@.png#$image,domain=fullpremiums.com|todotumac.com
+@@.png?*#/$image,domain=pajaslocas.com
 @@/comun/js/2014/adfr*.js$script,~third-party,domain=diariosur.es|diariovasco.com|elcomercio.es|elcorreo.com|eldiariomontanes.es|elnortedecastilla.es|hoy.es|ideal.es|larioja.com|lasprovincias.es|laverdad.es|leonoticias.com
 @@/elementosWeb/js/ads.js$script,~third-party,domain=diaridegirona.cat|diariodeibiza.es|diariodemallorca.es|diarioinformacion.com|emporda.info|farodevigo.es|laopinion.es|laopinioncoruna.es|laopiniondemalaga.es|laopiniondemurcia.es|laopiniondezamora.es|laprovincia.es|levante-emv.com|lne.es|mallorcazeitung.es|regio7.cat|superdeporte.es
 @@/rsc/js/ads-godo.js$script,~third-party,domain=lavanguardia.com|mundodeportivo.com
