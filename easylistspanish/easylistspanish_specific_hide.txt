@@ -233,6 +233,7 @@ booksmedicos.org##div[style="float:none;margin:10px 0 10px 0;text-align:center;"
 concuchilloytenedor.es##div[style="margin:5px auto 5px;text-align:center;"]
 19640noticias.com##div[style="padding: Publicidad"]
 la-razon.com##div[style="position:absolute; top:12px; width:970px; height:90px; background:#FFF; z-index:100; padding:0px; margin:0px"]
+cuartopoder.es##div[style="text-align:center; margin-bottom: 15px; background-color:#F4F4F4;width: 302px;"]
 foroparalelo.com##div[style="width:120px; height:600px;"]
 aica.org##div[style="width:600px;height:60px;margin:10px 0px 10px 0px;"]
 foroparalelo.com##div[style="width:970px; height:90px;"]
