@@ -36,6 +36,7 @@
 ||contextotucuman.com//banners/
 ||corrienteshoy.com/files/banners/
 ||css01.lavanguardia.com/imagenes/cajaHTML/loterias.gif
+||cuartopoder.es//images/MovistarFusion.jpg
 ||deportetandilense.com.ar/publicidades_cate/
 ||descargasmix.com/js/p1.js
 ||descargasmix.com/js/p2.js
