@@ -55,6 +55,7 @@ noticiaslasflores.com.ar###swiffycontainer
 kiosco.net###text-12
 emprendices.co###text-15
 ddmix.net###text-4
+diariovictoria.com.ar###text-5
 livenumetal.es###text-7 > .textwidget
 abc.com.py###top-banners
 ecuavisa.com###topbar
