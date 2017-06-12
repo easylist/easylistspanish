@@ -57,6 +57,7 @@ emprendices.co###text-15
 ddmix.net###text-4
 diariovictoria.com.ar###text-5
 diariovictoria.com.ar###text-6
+diariovictoria.com.ar###text-7
 livenumetal.es###text-7 > .textwidget
 abc.com.py###top-banners
 ecuavisa.com###topbar
