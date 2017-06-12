@@ -120,6 +120,7 @@ iprofesional.com##.bannerpremiumnh
 tumomo.com##.bderecho
 ebay.es##.beta-placement
 tumomo.com##.bizquierdo
+elpopular.pe##.block-block-json-cuponidad-sidebar
 diariodecuyo.com.ar##.bnr
 mundodeportivo.com##.bolarosa
 pelisadicto.com##.box
