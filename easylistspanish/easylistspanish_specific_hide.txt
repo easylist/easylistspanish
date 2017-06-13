@@ -7,6 +7,7 @@ animeid.tv###ap
 fmvida.com.ar,inmonauta.es###banner
 perfil.com###banner990
 eldefinido.cl###bannerGCP
+perfil.com###bannerScreen01
 atresplayer.com###bannerTop
 aica.org###banner_A
 divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,torrentrapid.com,tumejortorrent.com###banner_header
