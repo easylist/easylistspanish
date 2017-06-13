@@ -9,6 +9,7 @@ perfil.com###banner990
 eldefinido.cl###bannerGCP
 perfil.com###bannerMobile01
 perfil.com###bannerMobile02
+perfil.com###bannerMobile03
 perfil.com###bannerScreen01
 perfil.com###bannerScreen02
 perfil.com###bannerScreen03
