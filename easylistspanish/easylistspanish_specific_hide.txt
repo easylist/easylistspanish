@@ -102,6 +102,7 @@ libertaddigital.com##.apuestas
 perfil.com##.ark-ad-block
 windowscracker1.blogspot.com.es##.at4-whatsnext-outer-container
 larepublica.pe##.atm-banner-middle
+larepublica.pe##.atm-banner-strip
 larepublica.pe##.atm-banner-top
 eleconomista.es##.bankia-cuerda
 animakai.tv,debate.com.mx,descargasnsn.com,diariodecuyo.com.ar,diariouno.com.ar,gacetadeportiva.com.ar,mdzol.com,rosario3.com,voydeviaje.com.ar##.banner
