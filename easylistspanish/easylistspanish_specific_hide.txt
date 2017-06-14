@@ -21,6 +21,7 @@ coches.net###banner_top
 estadio.ec###banners
 eleconomista.es###banners-superiores
 paxinasgalegas.es###banners_laterales
+libero.pe###block-externos-block-json-cuponidad
 informe21.com###block-views-diosuniversal-block-1
 lagacetadesalamanca.es###bn_vandyck
 ftail.tv,shippuden.tv###bottomlink
