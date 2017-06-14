@@ -37,7 +37,7 @@
 ||corrienteshoy.com/files/banners/
 ||css01.lavanguardia.com/imagenes/cajaHTML/loterias.gif
 ||cuartopoder.es//images/MovistarFusion.jpg
-||cuponidad.pe^$domain=elpopular.pe|larepublica.pe
+||cuponidad.pe^$domain=elpopular.pe|larepublica.pe|libero.pe
 ||deportetandilense.com.ar/publicidades_cate/
 ||descargasmix.com/js/p1.js
 ||descargasmix.com/js/p2.js
