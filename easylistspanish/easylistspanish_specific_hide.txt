@@ -96,7 +96,7 @@ forobeta.com##.adshare_belownav
 forobeta.com##.adshare_firstpost
 forobeta.com##.adshare_lastpost
 elespanol.com##.adv
-terra.cl,terra.com,terra.com.ar,terra.com.mx,terra.es,tribunaavila.com,tribunaburgos.com,tribunaleon.com,tribunapalencia.com,tribunasalamanca.com,tribunasegovia.com,tribunasoria.com,tribunavalladolid.com,tribunazamora.com##.advertising
+terra.cl,terra.com,terra.com.ar,terra.com.co,terra.com.mx,terra.es,tribunaavila.com,tribunaburgos.com,tribunaleon.com,tribunapalencia.com,tribunasalamanca.com,tribunasegovia.com,tribunasoria.com,tribunavalladolid.com,tribunazamora.com##.advertising
 20minutos.es##.adx
 androidpit.es##.appSlider
 libertaddigital.com##.apuestas
