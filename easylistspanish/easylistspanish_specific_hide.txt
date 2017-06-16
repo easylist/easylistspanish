@@ -86,7 +86,7 @@ guadairainformacion.com##.Banner300x100
 animeflv.net##.Dvr300
 eldefinido.cl##.RP
 buscamultas.com##.TableWidget
-cuatro.com,divinity.es,elconfidencial.com,telecinco.es,terra.cl,terra.com,terra.com.ar,terra.com.co,terra.com.mx,terra.es##.ad
+cuatro.com,divinity.es,elconfidencial.com,telecinco.es,terra.cl,terra.com,terra.com.ar,terra.com.co,terra.com.mx,terra.com.pe,terra.es##.ad
 elconfidencial.com##.adcrt300x600
 elconfidencial.com##.adcrt980x250
 eslang.es,publico.es##.ads
