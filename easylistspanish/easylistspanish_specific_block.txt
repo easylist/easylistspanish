@@ -16,6 +16,7 @@
 ||abc.com.py/plantillas/js/banners-mkt.js
 ||abchoy.com.ar/publicidades/
 ||abchoy.com.ar/publipopup/
+||agenciafe.com/data/img_cont/img_banners/
 ||aica.org/publi*.html?t=
 ||aica.org/publi/
 ||alicdn.com^$domain=ddmix.net
