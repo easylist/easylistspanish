@@ -198,6 +198,7 @@ megawarez.org##.sidebar-ads
 diariocorreo.pe##.sidebar-zonahogar
 elliberal.com.ar##.sponsor
 ruedasgordas.es##.sponsors
+losandes.com.ar##.sugerencias
 larazon.es##.textoPatrocinio
 mitele.es##.titleList.DestacadoBox.clearfix.ModuleSimple:last-child
 elpopular.mx##.todopuebla
