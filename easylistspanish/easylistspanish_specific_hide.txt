@@ -197,7 +197,7 @@ muyinteresante.es##.roba2
 muyinteresante.es##.roba2_movil
 megawarez.org##.sidebar-ads
 diariocorreo.pe##.sidebar-zonahogar
-elliberal.com.ar##.sponsor
+elliberal.com.ar,publico.es##.sponsor
 ruedasgordas.es##.sponsors
 losandes.com.ar##.sugerencias
 larazon.es##.textoPatrocinio
