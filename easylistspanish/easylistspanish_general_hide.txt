@@ -16,6 +16,7 @@
 ##.ad-tl2b
 ##.blog-publi
 ##.caja_cuponisimo_slider200
+##.container-ads
 ##.containerOas
 ##.dfp-queue
 ##.envoltorio_publi
