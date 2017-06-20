@@ -116,6 +116,7 @@ elonce.com##.banner-e
 elonce.com##.banner-f
 elonce.com##.banner-g
 elonce.com##.banner-h
+cronista.com##.banner-revista
 breves24.com.ar##.banner1
 breves24.com.ar##.banner2
 breves24.com.ar##.banner3
