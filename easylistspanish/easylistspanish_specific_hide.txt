@@ -154,6 +154,7 @@ laprovincia.es##.dcham2
 lavanguardia.com##.div-patrocinado5
 diariodesevilla.es##.ePubli1
 elcomercio.pe##.ec-club
+cronista.com##.entry-box-banner
 estadiodeportivo.whitelabel.kelisto.es##.finance
 marca.com##.flex-b-promociones
 elmundo.es##.flex__publi
