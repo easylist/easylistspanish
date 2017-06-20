@@ -36,6 +36,7 @@
 ||comparador.euribor.com.es/lanzadera/retargetting/
 ||contextotucuman.com//banners/
 ||corrienteshoy.com/files/banners/
+||cronista.com/arte/pcwlogo.png
 ||css01.lavanguardia.com/imagenes/cajaHTML/loterias.gif
 ||cuartopoder.es//images/MovistarFusion.jpg
 ||cuponidad.pe^$domain=elpopular.pe|larepublica.pe|libero.pe
