@@ -139,6 +139,7 @@
 ||republica.com.uy/wp-content/banners/
 ||rs.20m.es/i/petitchef_cintillo.jpg
 ||s3.amazonaws.com/comparabien-default/ads/
+||salpimenta.com.ar/wp-content/uploads/*.gif
 ||shippuden.tv/a300.html
 ||siteground.es/img/banners/
 ||sport.es/resources/jpg/0/3/1496069966930.jpg
