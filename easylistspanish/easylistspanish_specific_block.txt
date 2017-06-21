@@ -124,6 +124,7 @@
 ||noticias3d.com/imagenes/banners/
 ||noticiasdelaciencia.com/upload/img/periodico/img_2972.jpg
 ||nueva-ciudad.com.ar/advf/imagenes/*.gif
+||nueva-ciudad.com.ar/banners/
 ||nuevaeranet.com.ar/publicidades_cate/
 ||p.a-abp.com//simgad/
 ||paxinasgalegas.es/BannerService.ashx
