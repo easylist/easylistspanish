@@ -154,6 +154,7 @@
 ||tiquetesbaratos.com/pruebas/periodicos/
 ||todomecanica.com/images/patrocinios/
 ||todopuebla.com^$subdocument,domain=elpopular.mx
+||tucumanalas7.com.ar/u/banners/
 ||va6.thand.info/embed-^$third-party
 ||vercanalestv.com/468.html
 ||vercanalestv.com/imagenes/banner300.jpg
