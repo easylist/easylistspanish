@@ -106,7 +106,7 @@ larepublica.pe##.atm-banner-middle
 larepublica.pe##.atm-banner-strip
 larepublica.pe##.atm-banner-top
 eleconomista.es##.bankia-cuerda
-agenciafe.com,animakai.tv,debate.com.mx,descargasnsn.com,diariodecuyo.com.ar,diariouno.com.ar,gacetadeportiva.com.ar,mdzol.com,rosario3.com,voydeviaje.com.ar##.banner
+agenciafe.com,animakai.tv,debate.com.mx,descargasnsn.com,diariodecuyo.com.ar,diariouno.com.ar,elancasti.com.ar,gacetadeportiva.com.ar,mdzol.com,rosario3.com,voydeviaje.com.ar##.banner
 elonce.com##.banner-a
 elonce.com##.banner-b
 voydeviaje.com.ar##.banner-billboard-wrapper
