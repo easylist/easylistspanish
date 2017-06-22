@@ -91,6 +91,7 @@
 ||imgur.com/JlGKZ0q.jpg
 ||imgur.com/nUEuHxd.png
 ||imgur.com/WI1faon.png
+||infocielo.com/uploads/banners/
 ||inmendoza.com/wp-content/uploads/*_1140x170_
 ||inmendoza.com/wp-content/uploads/banner/
 ||inmendoza.com^*/banners/
