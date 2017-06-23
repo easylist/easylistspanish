@@ -104,6 +104,7 @@
 ||lagacetadesalamanca.es/elementosWeb/gestionCajas/*.gif
 ||lagacetadesalamanca.es/elementosWeb/gestionCajas/*banner*.jpg
 ||lagacetadesalamanca.es/elementosWeb/gestionCajas/comun/Flash/
+||laprensa.com.ar/Multimedios/Ads/
 ||lavozdetandil.com.ar/publicidades/
 ||ldu.com.ec/fotos/publi_*.png
 ||libertaddigital.com/fragmentos/guijuelo-responsive.html
