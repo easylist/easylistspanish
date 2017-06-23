@@ -89,7 +89,7 @@ buscamultas.com##.TableWidget
 cuatro.com,divinity.es,elconfidencial.com,telecinco.es,terra.cl,terra.com,terra.com.ar,terra.com.co,terra.com.mx,terra.com.pe,terra.es##.ad
 elconfidencial.com##.adcrt300x600
 elconfidencial.com##.adcrt980x250
-eslang.es,publico.es##.ads
+eltrecetv.com.ar,eslang.es,publico.es##.ads
 yorokobu.es##.ads-block
 zonatorrent.es##.adsb30
 forobeta.com##.adshare_belownav
