@@ -107,6 +107,7 @@ windowscracker1.blogspot.com.es##.at4-whatsnext-outer-container
 larepublica.pe##.atm-banner-middle
 larepublica.pe##.atm-banner-strip
 larepublica.pe##.atm-banner-top
+cadena3.com##.baner630x250
 eleconomista.es##.bankia-cuerda
 agenciafe.com,animakai.tv,debate.com.mx,descargasnsn.com,diariodecuyo.com.ar,diariouno.com.ar,elancasti.com.ar,gacetadeportiva.com.ar,mdzol.com,rosario3.com,voydeviaje.com.ar##.banner
 elonce.com##.banner-a
