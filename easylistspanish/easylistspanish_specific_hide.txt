@@ -110,6 +110,7 @@ larepublica.pe##.atm-banner-top
 cadena3.com##.baner300x250
 cadena3.com##.baner630x250
 cadena3.com##.baner960x50
+cadena3.com##.baners-medio-nota-ampliada
 eleconomista.es##.bankia-cuerda
 agenciafe.com,animakai.tv,debate.com.mx,descargasnsn.com,diariodecuyo.com.ar,diariouno.com.ar,elancasti.com.ar,gacetadeportiva.com.ar,mdzol.com,rosario3.com,voydeviaje.com.ar##.banner
 elonce.com##.banner-a
