@@ -50,6 +50,7 @@ supremacy1914.es###kbg
 pordede.com###lean_overlay
 todocvcd.com###mbanner
 elmundo.es###modulo_buscador_sv
+cadena3.com###mundo-descuento
 chrissysinvite.co###myModal
 dle.rae.es###opciones > #patrocinio
 eldefinido.cl###pub
