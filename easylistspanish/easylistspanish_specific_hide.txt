@@ -39,6 +39,7 @@ cinestrenostv.tv###closeX2
 verdirectotv.com###closeX23
 publico.es###decine21_widget_estrenos
 forocoches.com###div-970x90
+forocoches.com###div-970x90_respuesta
 perfil.com###div_blockTop_1
 lne.es###divderecha_1021
 laprovincia.es###divderecha_1050
