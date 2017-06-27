@@ -38,6 +38,7 @@ cinestrenostv.tv,vercanalestv.com,verdirectotv.com###closeX1
 cinestrenostv.tv###closeX2
 verdirectotv.com###closeX23
 publico.es###decine21_widget_estrenos
+forocoches.com###div-300x250
 forocoches.com###div-336x280_foro_footer
 forocoches.com###div-336x280_respuesta_medio
 forocoches.com###div-970x90
