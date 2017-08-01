@@ -99,7 +99,7 @@ cuatro.com,divinity.es,elconfidencial.com,elsol.com.ar,telecinco.es,terra.cl,ter
 ratingcero.com##.ad01-obj
 elconfidencial.com##.adcrt300x600
 elconfidencial.com##.adcrt980x250
-eltrecetv.com.ar,eslang.es,publico.es##.ads
+eltrecetv.com.ar,eslang.es,publico.es,rpp.pe##.ads
 yorokobu.es##.ads-block
 zonatorrent.es##.adsb30
 forobeta.com##.adshare_belownav
