@@ -88,6 +88,7 @@
 @@||securepubads.g.doubleclick.net^$script,domain=expansion.com
 @@||semana.com/Scripts/ads.js
 @@||shares.enetres.net/ads.js.php?$script,domain=enetres.net
+@@||sport.es^$generichide
 @@||static.vocento.com/adblock-detector/$script
 @@||superdeporte.es^$generichide
 @@||telecinco.es^$generichide
