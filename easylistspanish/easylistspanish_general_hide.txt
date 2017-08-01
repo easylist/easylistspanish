@@ -55,5 +55,6 @@
 ##a[href*="://adpv.com/?idpartner="]
 ##a[href*="://mobidea.com/?r="]
 ##a[href*="://yllix.com/publishers/"]
+##a[href^="://popads.net/users/refer/"]
 ##adsenseintermedioleft
 ##adsenseintermedioright
