@@ -78,7 +78,8 @@
 @@||newpct.com^$generichide
 @@||newpct1.com^$generichide
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=elsate.com
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=elsate.com
+@@||pagead2.googlesyndication.com/pagead/js/*7/show_ads_impl.js$domain=mialojamiento.es
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=elsate.com|mialojamiento.es
 @@||pajaslocas.com^$generichide
 @@||pcbolsa.com/css/ads.js$script,domain=pcbolsa.com
 @@||pelisplus.tv^$generichide
