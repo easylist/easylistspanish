@@ -17,6 +17,7 @@ $websocket,domain=descargasnsn.com
 ||abc.com.py/plantillas/js/banners-mkt.js
 ||abchoy.com.ar/publicidades/
 ||abchoy.com.ar/publipopup/
+||adlipay.com/away.php?
 ||agenciafe.com/data/img_cont/img_banners/
 ||aica.org/publi*.html?t=
 ||aica.org/publi/
