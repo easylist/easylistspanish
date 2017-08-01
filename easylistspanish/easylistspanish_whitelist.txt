@@ -23,7 +23,7 @@
 @@||static.ak.fbcdn.net/connect.php/js/FB.Share$script,third-party,domain=divxatope.com|divxatope1.com|newpct.com|newpct1.com|torrentlocura.com|torrentrapid.com|tumejortorrent.com
 @@||w.sharethis.com/button/buttons.js$script,third-party,domain=lacajita.xyz|seriesblanco.com
 ! Anti-Adblock
-@@.gif#$image,domain=cinestrenostv.tv
+@@.gif#$image,domain=cinestrenostv.tv|clasicotas.org
 @@.png#$image,domain=fullpremiums.com|todotumac.com
 @@.png?*#/$image,domain=pajaslocas.com
 @@/comun/js/2014/adfr*.js$script,~third-party,domain=diariosur.es|diariovasco.com|elcomercio.es|elcorreo.com|eldiariomontanes.es|elnortedecastilla.es|hoy.es|ideal.es|larioja.com|lasprovincias.es|laverdad.es|leonoticias.com
