@@ -73,6 +73,7 @@
 @@||mzsimg.com/js/ads.js$script,third-party,domain=muyzorras.com
 @@||newpct.com^$generichide
 @@||newpct1.com^$generichide
+@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=elsate.com
 @@||pajaslocas.com^$generichide
 @@||pcbolsa.com/css/ads.js$script,domain=pcbolsa.com
 @@||pelisplus.tv^$generichide
