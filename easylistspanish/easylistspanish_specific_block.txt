@@ -1,6 +1,6 @@
 /static/BB3HTML/images/*sponsor*.png$domain=diariodecadiz.es|diariodejerez.es|diariodesevilla.es|elalmeria.es|eldiadecordoba.es|europasur.es|granadahoy.com|huelvainformacion.es|malagahoy.es
 /uploads/advertisings/*$domain=tribunaavila.com|tribunaburgos.com|tribunaleon.com|tribunapalencia.com|tribunasalamanca.com|tribunasegovia.com|tribunasoria.com|tribunavalladolid.com|tribunazamora.com
-|blob:$domain=divxatope.com|divxatope1.com|newpct.com|newpct1.com|torrentlocura.com|torrentrapid.com|tumejortorrent.com
+|blob:$domain=descargasnsn.com|divxatope.com|divxatope1.com|newpct.com|newpct1.com|torrentlocura.com|torrentrapid.com|tumejortorrent.com
 |blob:https://$domain=descargasnsn.com
 |http://$script,third-party,domain=abcdefamosas.xyz|animakai.tv|elitetorrent.net|ftail.tv|lacajita.xyz|mejorenvo.com|mejortorrent.com|novelasenlinea.net|reyanime.com|seriesblanco.com|shippuden.tv|submanga.org
 |http://$script,third-party,xmlhttprequest,domain=divxatope.com|divxatope1.com|divxtotal.com|estoesporno.com|estrenosdtl.com|gamestorrents.com|jkanime.net|moviesdvdr.com|newpct.com|newpct1.com|seriesflv.net|subtorrents.com|todocvcd.com|torrentesx.com|torrentlocura.com|torrentrapid.com|tumejortorrent.com
