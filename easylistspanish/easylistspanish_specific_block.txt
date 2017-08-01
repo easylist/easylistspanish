@@ -13,6 +13,7 @@ $websocket,domain=descargasnsn.com
 ||19640noticias.com/wp-content/uploads/2017/03/Banner-Institucional-300x200-Copiar.jpg
 ||19640noticias.com/wp-content/uploads/2017/03/Veronica-Gonzalez-Copiar-Copiar.jpg
 ||19640noticias.com/wp-content/uploads/2017/04/283x321.gif
+||4.bp.blogspot.com/-tNi8RVCQRuA/*/s640/Banner%2BVIP.gif
 ||91.116.142.114/iframe
 ||abc.com.py/plantillas/js/banners-mkt.js
 ||abchoy.com.ar/publicidades/
