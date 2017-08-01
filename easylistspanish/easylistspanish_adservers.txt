@@ -3,4 +3,5 @@
 ||algocashmaster.com^$third-party
 ||canuckmethodprofit.co^$third-party
 ||cinmaland.com^$third-party
+||kwinder.club^$third-party
 ||supportcorner.co^$third-party
