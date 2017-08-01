@@ -69,6 +69,7 @@
 @@||mdsrwdassets-a.akamaihd.net/dist/assets/nonAdBlock/ad$script,third-party,domain=bemad.es|cuatro.com|divinity.es|energytv.es|factoriadeficcion.com|telecinco.es
 @@||megawarez.org^$generichide
 @@||menshealth.es^$generichide
+@@||mialojamiento.es^$generichide
 @@||motociclismo.es^$generichide
 @@||mundodesconocido.es^$generichide
 @@||mundokodi.com^$generichide
