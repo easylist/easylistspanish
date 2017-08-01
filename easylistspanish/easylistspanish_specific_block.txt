@@ -76,6 +76,7 @@ $websocket,domain=descargasnsn.com
 ||file02.lavanguardia.com/2015/03/02/54428665978-file.jpg
 ||file02.lavanguardia.com/2015/06/30/54432622531-file.jpg
 ||forocoches.com/image/varios/hawkers_2017a.png
+||forokeys.com/foro/banners/
 ||foroparalelo.com/images/avisos/
 ||ftail.tv/wp-content/themes/bideopro/img/dca.gif
 ||ftail.tv/wp-content/themes/bideopro/img/dpa.gif
