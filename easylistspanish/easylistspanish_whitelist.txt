@@ -1,3 +1,4 @@
+@@||ajax.googleapis.com/ajax/libs/$script,domain=descargasnsn.com
 @@||ajax.googleapis.com/ajax/libs/$script,third-party,domain=lacajita.xyz|reyanime.com|seriesblanco.com
 @@||aurora-israel.co.il/wp-content/themes/Newspaper/bannersswf/banner_newsletter1.swf
 @@||aurora-israel.co.il/wp-content/themes/Newspaper/bannersswf/clima3_29_11_2016.swf
