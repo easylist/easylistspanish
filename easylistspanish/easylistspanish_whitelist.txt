@@ -34,6 +34,7 @@
 @@/static/MDSAntiAdBlock/*$script,~third-party,domain=cuatro.com|divinity.es|telecinco.es
 @@||active.cache.el-mundo.net/js/advertisement.js
 @@||animeflv.net/js/ads.js$script,domain=animeflv.net
+@@||arenavision.ru^$generichide
 @@||atresplayer.com^$generichide
 @@||autopista.es^$generichide
 @@||bambergerkennanchitinous.com/.adframesrc.$script,third-party,domain=divxatope.com|divxatope1.com|newpct.com|newpct1.com|torrentlocura.com|torrentrapid.com|tumejortorrent.com
