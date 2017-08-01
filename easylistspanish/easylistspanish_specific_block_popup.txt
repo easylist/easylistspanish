@@ -1,1 +1,2 @@
 |http://$popup,third-party,domain=animeid.tv|jkanime.net
+||acortar.net$popup
