@@ -38,6 +38,7 @@
 @@||bemad.es^$generichide
 @@||booksmedicos.org^$generichide
 @@||cinestrenostv.tv^$generichide
+@@||clasicotas.org^$generichide
 @@||comunio.es^$generichide
 @@||cuatro.com^$generichide
 @@||divinity.es^$generichide
