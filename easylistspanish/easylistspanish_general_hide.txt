@@ -53,5 +53,6 @@
 ##.widget_text_publicidad
 ##.wrap-bnr
 ##a[href*="://mobidea.com/?r="]
+##a[href*="://yllix.com/publishers/"]
 ##adsenseintermedioleft
 ##adsenseintermedioright
