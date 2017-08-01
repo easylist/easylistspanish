@@ -6,6 +6,7 @@
 ||cinmaland.com^$third-party
 ||copiapop.net^$third-party
 ||kwinder.club^$third-party
+||niceduckies.com^$third-party
 ||onclicktop.com^$third-party
 ||supportcorner.co^$third-party
 ||the-ufo.com^$third-party
