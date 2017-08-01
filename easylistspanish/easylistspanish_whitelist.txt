@@ -85,6 +85,7 @@
 @@||pubted.com/plugins/pops/adBlockCheck/adblock.js$script,third-party,domain=divxatope.com|divxatope1.com|newpct.com|newpct1.com|torrentlocura.com|torrentrapid.com|tumejortorrent.com
 @@||requiredcollectfilm.info/path/ads/ads.js$script,third-party,domain=divxatope.com|divxatope1.com|newpct.com|newpct1.com|torrentlocura.com|torrentrapid.com|tumejortorrent.com
 @@||securepubads.g.doubleclick.net^$script,domain=expansion.com
+@@||semana.com/Scripts/ads.js
 @@||shares.enetres.net/ads.js.php?$script,domain=enetres.net
 @@||static.vocento.com/adblock-detector/$script
 @@||superdeporte.es^$generichide
