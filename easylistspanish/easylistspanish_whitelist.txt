@@ -93,7 +93,6 @@
 @@||vercanalestv.com/adblock.js$script,domain=vercanalestv.com
 @@||vercanalestv.com^$generichide
 @@||verdirectotv.com^$generichide
-@@||verliga.net/canales/adblock.js
 @@||verliga.net/canales/adblock.js$script,domain=verliga.net
 @@||verliga.net^$generichide
 @@||yorokobu.es^$generichide
