@@ -1,4 +1,5 @@
 /publi/publi
 /txt_publi_vert.
 ! Anti-Adblock
+&adbIsActive=
 /adblocker/modal.
