@@ -52,5 +52,6 @@
 ##.story-patrocinio
 ##.widget_text_publicidad
 ##.wrap-bnr
+##a[href*="://mobidea.com/?r="]
 ##adsenseintermedioleft
 ##adsenseintermedioright
