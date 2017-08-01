@@ -5,3 +5,4 @@
 ||cinmaland.com^$third-party
 ||kwinder.club^$third-party
 ||supportcorner.co^$third-party
+||the-ufo.com^$third-party
