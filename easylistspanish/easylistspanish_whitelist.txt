@@ -53,6 +53,7 @@
 @@||el-mundo.net/js/advertisement.js$script,third-party,domain=elmundo.es|marca.com
 @@||eleconomista.es^$generichide
 @@||elmundo.es^$generichide
+@@||elperiodico.cat^$generichide
 @@||elsate.com^$generichide
 @@||energytv.es^$generichide
 @@||euribor.com.es^$generichide
