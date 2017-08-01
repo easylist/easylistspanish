@@ -56,5 +56,6 @@
 ##a[href*="://mobidea.com/?r="]
 ##a[href*="://yllix.com/publishers/"]
 ##a[href^="://popads.net/users/refer/"]
+##a[href^="://seedingup.es/afiliados.html?id="]
 ##adsenseintermedioleft
 ##adsenseintermedioright
