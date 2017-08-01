@@ -8,5 +8,6 @@
 ||kwinder.club^$third-party
 ||niceduckies.com^$third-party
 ||onclicktop.com^$third-party
+||palmshapednontransferable.com^$third-party
 ||supportcorner.co^$third-party
 ||the-ufo.com^$third-party
