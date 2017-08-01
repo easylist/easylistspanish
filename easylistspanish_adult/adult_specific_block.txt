@@ -4,3 +4,4 @@
 ||pajarracos.es/wp-content/themes/*/images/sidebar-
 ||paraisowebcam.com/*banner
 ||paraisowebcam.com^$subdocument,third-party
+||ra.poringa.net^
