@@ -52,6 +52,7 @@
 ##.story-patrocinio
 ##.widget_text_publicidad
 ##.wrap-bnr
+##a[href*="://adpv.com/?idpartner="]
 ##a[href*="://mobidea.com/?r="]
 ##a[href*="://yllix.com/publishers/"]
 ##adsenseintermedioleft
