@@ -164,6 +164,7 @@ $websocket,domain=descargasnsn.com
 ||static.emol.cl/emol50/js/funcionesComun.js?
 ||static.htcmania.com/*_180x150-
 ||static.htcmania.com/180-150-
+||teliad.es/*/banner/
 ||tiemposur.com.ar/banners/
 ||tiquetesbaratos.com/pruebas/periodicos/
 ||todomecanica.com/images/patrocinios/
