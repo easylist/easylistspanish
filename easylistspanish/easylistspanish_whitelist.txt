@@ -75,6 +75,7 @@
 @@||pajaslocas.com^$generichide
 @@||pcbolsa.com/css/ads.js$script,domain=pcbolsa.com
 @@||pelisplus.tv^$generichide
+@@||pordede.com/myjs/ads.js?$script
 @@||pordede.com^$generichide
 @@||pubted.com/plugins/pops/adBlockCheck/adblock.js$script,third-party,domain=divxatope.com|divxatope1.com|newpct.com|newpct1.com|torrentlocura.com|torrentrapid.com|tumejortorrent.com
 @@||requiredcollectfilm.info/path/ads/ads.js$script,third-party,domain=divxatope.com|divxatope1.com|newpct.com|newpct1.com|torrentlocura.com|torrentrapid.com|tumejortorrent.com
