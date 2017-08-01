@@ -2,3 +2,4 @@
 @@||bambergerkennanchitinous.com/.adframesrc.$script,third-party,domain=mivideox.com
 @@||mivideox.com^$generichide
 @@||mujeres-desnudas.com^$generichide
+@@||vjs.zencdn.net^$domain=mujeres-desnudas.com
