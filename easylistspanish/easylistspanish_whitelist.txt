@@ -52,6 +52,7 @@
 @@||elmundo.es^$generichide
 @@||energytv.es^$generichide
 @@||euribor.com.es^$generichide
+@@||expansion.com^$generichide
 @@||factoriadeficcion.com^$generichide
 @@||fullpremiums.com/adblock.js$script,domain=fullpremiums.com
 @@||fullpremiums.com^$generichide
