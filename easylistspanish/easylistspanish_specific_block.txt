@@ -156,6 +156,7 @@
 ||st.forocoches.com/image/varios/iphone6_ipadmini.png
 ||st1.idealista.com/news/archivos/styles/348x90/public/ficheros_widget_news/img/balcon_concha_vanguardia.jpg
 ||static.emol.cl/emol50/js/funcionesComun.js?
+||static.htcmania.com/180-150-
 ||tiemposur.com.ar/banners/
 ||tiquetesbaratos.com/pruebas/periodicos/
 ||todomecanica.com/images/patrocinios/
