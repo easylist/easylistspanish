@@ -186,6 +186,7 @@ $websocket,domain=descargasnsn.com
 ||vertdtgratis.es/publi23.html
 ||vigoe.es/images/pbanner/
 ||widgets.helpmycash.com/ranking-financiero/
+||wp.com/autoblog.com.ar/wp-content/uploads/*.gif
 ! Anti-Adblock
 ||el-mundo.net/js/fm*.js$script
 ||exabytetv.info/wp-content/plugins/wp-adblock-dedect/
