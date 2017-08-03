@@ -107,7 +107,7 @@ zonatorrent.es##.adsb30
 forobeta.com##.adshare_belownav
 forobeta.com##.adshare_firstpost
 forobeta.com##.adshare_lastpost
-elespanol.com##.adv
+elespanol.com,elsol.com.ar##.adv
 terra.cl,terra.com,terra.com.ar,terra.com.co,terra.com.mx,terra.com.pe,terra.es,tribunaavila.com,tribunaburgos.com,tribunaleon.com,tribunapalencia.com,tribunasalamanca.com,tribunasegovia.com,tribunasoria.com,tribunavalladolid.com,tribunazamora.com##.advertising
 20minutos.es##.adx
 htcmania.com##.afterlogo
