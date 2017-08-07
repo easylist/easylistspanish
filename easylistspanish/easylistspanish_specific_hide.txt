@@ -217,6 +217,7 @@ elonce.com##.publi-top
 eltribuno.info,motociclismo.es,publico.es##.publicidad
 intereconomia.tv##.pum-overlay
 salpimenta.com.ar##.quadro-ads-widget-1col
+televisa.com##.rapid_banner_sidebar
 diariosur.es,diariovasco.com,elcomercio.es,elcorreo.com,eldiariomontanes.es,elnortedecastilla.es,hoy.es,ideal.es,larioja.com,lasprovincias.es,laverdad.es,leonoticias.com,publico.es##.roba
 muyinteresante.es##.roba1
 muyinteresante.es##.roba1_movil
