@@ -101,6 +101,7 @@ milenio.com##.ad-box2
 autoblog.com.ar##.ad-header-right
 ratingcero.com##.ad01-obj
 elpatagonico.com##.ad02-obj
+televisa.com##.ad_space_large
 elconfidencial.com##.adcrt300x600
 elconfidencial.com##.adcrt980x250
 eltrecetv.com.ar,eslang.es,publico.es,rpp.pe##.ads
