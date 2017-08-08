@@ -180,6 +180,7 @@ diariodesevilla.es##.ePubli1
 elcomercio.pe##.ec-club
 cronista.com##.entry-box-banner
 estadiodeportivo.whitelabel.kelisto.es##.finance
+cronica.com.ar##.fixed-banner
 marca.com##.flex-b-promociones
 elmundo.es##.flex__publi
 yorokobu.es##.fw-container
