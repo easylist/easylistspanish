@@ -24,6 +24,7 @@
 ##.find_bar_publicidades
 ##.flex__publi
 ##.mclics
+##.myml-menu-navigation > .purchases-banner
 ##.patrocinio
 ##.promocion_libre
 ##.pu300
