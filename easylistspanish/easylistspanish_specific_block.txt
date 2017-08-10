@@ -55,6 +55,7 @@ $websocket,domain=descargasnsn.com
 ||diariodelaribera.org/images/stories/banners2015/noviembre_2015/
 ||diariodelaribera.org/images/stories/banners2015/octubre_2015/
 ||diariodesevilla.es/2016/11/09/botones_fijos/movistar-deportes_1079902371_60088437_246x27.png
+||diarioelzondasj.com.ar/images/Imagenes/*.gif
 ||diariosanrafael.com.ar/images/banners/
 ||diariovictoria.com.ar/wp-content/uploads/*.gif
 ||divinity.es/zentv/images/zentv-300-2.gif
