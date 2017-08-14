@@ -28,6 +28,7 @@
 ##.patrocinio
 ##.promocion_libre
 ##.pu300
+##.pub-300x250
 ##.pub-h
 ##.publi
 ##.publi300x300
