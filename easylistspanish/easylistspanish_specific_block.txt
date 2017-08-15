@@ -23,6 +23,7 @@ $websocket,domain=descargasnsn.com
 ||agenciafe.com/data/img_cont/img_banners/
 ||aica.org/publi*.html?t=
 ||aica.org/publi/
+||aimdigital.com.ar/wp-content/uploads/*.gif
 ||alicdn.com^$domain=ddmix.net
 ||amazonaws.com^$domain=pasateatorrent.com
 ||animakai.tv/parceria.js
