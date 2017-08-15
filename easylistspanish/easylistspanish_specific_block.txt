@@ -24,6 +24,7 @@ $websocket,domain=descargasnsn.com
 ||aica.org/publi*.html?t=
 ||aica.org/publi/
 ||aimdigital.com.ar/wp-content/uploads/*.gif
+||aimdigital.com.ar/wp-content/uploads/2017/08/300_x_250_min_de_turismo1.jpg
 ||alicdn.com^$domain=ddmix.net
 ||amazonaws.com^$domain=pasateatorrent.com
 ||animakai.tv/parceria.js
