@@ -184,6 +184,7 @@ $websocket,domain=descargasnsn.com
 ||todopuebla.com^$subdocument,domain=elpopular.mx
 ||tomadivx.org/publi_*.php
 ||tucumanalas7.com.ar/u/banners/
+||ushuaia24.com.ar/download/multimedia.normal.*.gif
 ||va6.thand.info/embed-^$third-party
 ||vercanalestv.com/468.html
 ||vercanalestv.com/imagenes/banner300.jpg
