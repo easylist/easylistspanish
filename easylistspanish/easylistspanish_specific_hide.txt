@@ -23,7 +23,6 @@ eleconomista.es###banners-superiores
 paxinasgalegas.es###banners_laterales
 libero.pe###block-externos-block-json-cuponidad
 informe21.com###block-views-diosuniversal-block-1
-ushuaia.com.ar###bloque-11
 lagacetadesalamanca.es###bn_vandyck
 ftail.tv,shippuden.tv###bottomlink
 divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,torrentrapid.com,tumejortorrent.com###box-ads-tr
