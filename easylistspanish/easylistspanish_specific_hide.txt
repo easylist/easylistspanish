@@ -137,6 +137,7 @@ elonce.com##.banner-e
 elonce.com##.banner-f
 elonce.com##.banner-g
 elonce.com##.banner-h
+minutouno.com##.banner-libre
 minutouno.com##.banner-listado-simple
 lacapital.com.ar,primiciasya.com##.banner-nativo
 cronista.com##.banner-revista
