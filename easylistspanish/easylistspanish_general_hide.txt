@@ -14,6 +14,7 @@
 ###slider-oferplan
 ##.PublicidadCabecera
 ##.ad-tl2b
+##.block-dfp-midcentral_home
 ##.blog-publi
 ##.caja_cuponisimo_slider200
 ##.container-ads
