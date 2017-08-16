@@ -126,7 +126,7 @@ cadena3.com##.baner630x250
 cadena3.com##.baner960x50
 cadena3.com##.baners-medio-nota-ampliada
 eleconomista.es##.bankia-cuerda
-agenciafe.com,animakai.tv,debate.com.mx,descargasnsn.com,diariodecuyo.com.ar,diariouno.com.ar,elancasti.com.ar,elpatagonico.com,gacetadeportiva.com.ar,infocanuelas.com,lacapital.com.ar,lanacion.com.ar,mdzol.com,primiciasya.com,rosario3.com,voydeviaje.com.ar##.banner
+agenciafe.com,animakai.tv,debate.com.mx,descargasnsn.com,diariodecuyo.com.ar,diariouno.com.ar,elancasti.com.ar,elpatagonico.com,gacetadeportiva.com.ar,infocanuelas.com,lacapital.com.ar,lanacion.com.ar,mdzol.com,minutouno.com,primiciasya.com,rosario3.com,voydeviaje.com.ar##.banner
 elonce.com##.banner-a
 elonce.com##.banner-b
 voydeviaje.com.ar##.banner-billboard-wrapper
