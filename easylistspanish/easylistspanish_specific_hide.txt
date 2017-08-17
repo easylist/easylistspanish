@@ -132,6 +132,7 @@ elonce.com##.banner-a
 elonce.com##.banner-b
 voydeviaje.com.ar##.banner-billboard-wrapper
 elonce.com##.banner-c
+noticiasurbanas.com.ar##.banner-center
 apertura.com,elnueve.com,infotechnology.com##.banner-container
 elonce.com##.banner-d
 elonce.com##.banner-e
