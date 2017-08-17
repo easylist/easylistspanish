@@ -149,6 +149,7 @@ $websocket,domain=descargasnsn.com
 ||noddus.com/widget_campaign?$domain=sport.es
 ||noticias3d.com/imagenes/banners/
 ||noticiasdelaciencia.com/upload/img/periodico/img_2972.jpg
+||noticiasurbanas.com.ar/wp-content/uploads/*.gif
 ||noticiasyprotagonistas.com/wp-content/uploads/*.gif
 ||nueva-ciudad.com.ar/advf/imagenes/*.gif
 ||nueva-ciudad.com.ar/advf/imagenes/2016/09/57eaba064c5fc.png
