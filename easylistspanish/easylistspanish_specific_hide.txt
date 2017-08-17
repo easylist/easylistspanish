@@ -142,6 +142,7 @@ elonce.com##.banner-h
 minutouno.com##.banner-libre
 minutouno.com##.banner-listado-simple
 lacapital.com.ar,primiciasya.com##.banner-nativo
+noticiasurbanas.com.ar##.banner-noticia
 cronista.com##.banner-revista
 breves24.com.ar##.banner1
 breves24.com.ar##.banner2
