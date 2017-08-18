@@ -293,6 +293,7 @@ entornointeligente.com##div[style="background-color:#FFFFFF;border-top:2px solid
 entornointeligente.com##div[style="background-color:#ffffff;border-top:2px solid red; margin-bottom: 16px;"]
 dreamfilmhd.bz##div[style="background-color:rgba(0,0,0,0.1);width:750px;height:100px;max-width:100%;margin:0 5px 10px 8px"]
 euribor.com.es##div[style="border: 2px solid #1D8FC1; width: 320px; height:280px; clear:both; margin-bottom: 25px"]
+entornointeligente.com##div[style="clear:both;width:100%;background-color: #EFEFEF;height:90px;"]
 elitetorrent.net##div[style="color:#ccc;font-size:10px;text-align:right;margin-bottom:20px;"]
 booksmedicos.org##div[style="float:none;margin:10px 0 10px 0;text-align:center;"]
 concuchilloytenedor.es##div[style="margin:5px auto 5px;text-align:center;"]
