@@ -7,6 +7,7 @@ animeid.tv###ap
 fmvida.com.ar,inmonauta.es###banner
 perfil.com###banner990
 eldefinido.cl###bannerGCP
+entornointeligente.com###bannerHorizontal
 perfil.com###bannerMobile01
 perfil.com###bannerMobile02
 perfil.com###bannerMobile03
