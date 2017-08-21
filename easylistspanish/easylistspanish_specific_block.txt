@@ -71,6 +71,7 @@ $websocket,domain=descargasnsn.com
 ||elancasti.com.ar/u/banners/
 ||eldestapeweb.com/adjuntos/177/banners/
 ||eldiariodetandil.com/contenido/publicidades/
+||eldiarionuevodia.com.ar/u/banners/
 ||elitegol.com/media/oficial.png
 ||elmundo.es^*/patrocinador/
 ||elpatagonico.com/adjuntos/193/banners/
