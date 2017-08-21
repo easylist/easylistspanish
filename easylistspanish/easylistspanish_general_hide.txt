@@ -55,6 +55,7 @@
 ##.robapaginas
 ##.spub
 ##.story-patrocinio
+##.vip-section-advertising
 ##.widget_text_publicidad
 ##.wrap-bnr
 ##a[href*="://adpv.com/?idpartner="]
