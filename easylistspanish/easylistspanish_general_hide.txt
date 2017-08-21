@@ -41,6 +41,7 @@
 ##.publicidad-300-250
 ##.publicidad-300-250a
 ##.publicidad-bloque-centro
+##.publicidad-cabecera
 ##.publicidad-top
 ##.publicidad1
 ##.publicidad2
