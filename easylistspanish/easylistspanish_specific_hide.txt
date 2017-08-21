@@ -154,6 +154,7 @@ breves24.com.ar##.banner5
 elliberal.com.ar##.bannernota
 elliberal.com.ar##.bannernota2
 elliberal.com.ar##.bannernota3
+eldiarionuevodia.com.ar##.bannerpopup
 iprofesional.com##.bannerpremiumnh
 180.com.uy##.banners-side-container
 tiemposur.com.ar##.banners_flash
