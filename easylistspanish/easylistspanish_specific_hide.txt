@@ -39,6 +39,7 @@ verdirectotv.com,verliga.net###closeX
 cinestrenostv.tv,vercanalestv.com,verdirectotv.com###closeX1
 cinestrenostv.tv###closeX2
 verdirectotv.com###closeX23
+montevideo.com.uy###conectab
 publico.es###decine21_widget_estrenos
 forocoches.com###div-300x250
 forocoches.com###div-336x280_foro_footer
