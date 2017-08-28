@@ -38,6 +38,7 @@
 ##.publiTop
 ##.publi_horizontal
 ##.publi_lateral
+##.publi_mar_top
 ##.publicidad-300-250
 ##.publicidad-300-250a
 ##.publicidad-bloque-centro
