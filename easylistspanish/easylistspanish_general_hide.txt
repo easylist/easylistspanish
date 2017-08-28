@@ -37,6 +37,7 @@
 ##.publi
 ##.publi300x300
 ##.publiTop
+##.publi_710x176
 ##.publi_horizontal
 ##.publi_lateral
 ##.publi_mar_top
