@@ -134,6 +134,7 @@ eleconomista.es##.bankia-cuerda
 agenciafe.com,animakai.tv,canal-ar.com.ar,debate.com.mx,descargasnsn.com,diariodecuyo.com.ar,diariouno.com.ar,elancasti.com.ar,eldiarionuevodia.com.ar,elpatagonico.com,gacetadeportiva.com.ar,infocanuelas.com,lacapital.com.ar,lanacion.com.ar,mdzol.com,minutouno.com,primiciasya.com,rosario3.com,voydeviaje.com.ar##.banner
 elonce.com##.banner-a
 adnradio.cl##.banner-ancho
+adnradio.cl##.banner-ancho-movil
 elonce.com##.banner-b
 voydeviaje.com.ar##.banner-billboard-wrapper
 elonce.com##.banner-c
