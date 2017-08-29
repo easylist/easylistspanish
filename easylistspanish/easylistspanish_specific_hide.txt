@@ -215,6 +215,7 @@ chacohoy.com,corrienteshoy.com##.pasli
 elmundo.es,lavozdegalicia.es##.patrocinio
 elheraldo.co##.pauta
 infobae.com##.pb-f-utilities-ad
+descargar.mobi##.placeholder__item--banner
 eldia.com##.ppp
 deportes.televisa.com##.prime-banner
 lavoz.com.ar##.producto-tienda
