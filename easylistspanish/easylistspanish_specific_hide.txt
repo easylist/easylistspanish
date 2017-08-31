@@ -55,6 +55,7 @@ laprovincia.es###divderecha_1050
 diaridegirona.cat###divderecha_1053
 estrenosdtl.com,moviesdvdr.com###f_find_bar
 tvenganchado.com###g
+interviu.es###headerBanner
 realbetisbalompie.es###horizotal-banners
 tribunaavila.com,tribunaburgos.com,tribunaleon.com,tribunapalencia.com,tribunasalamanca.com,tribunasegovia.com,tribunasoria.com,tribunavalladolid.com,tribunazamora.com###interstitial_container
 supremacy1914.es###kbg
