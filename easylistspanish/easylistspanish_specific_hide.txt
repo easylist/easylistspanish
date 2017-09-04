@@ -244,6 +244,7 @@ muyinteresante.es##.roba1
 muyinteresante.es##.roba1_movil
 muyinteresante.es##.roba2
 muyinteresante.es##.roba2_movil
+lapoliticaonline.com##.section-banner
 megawarez.org##.sidebar-ads
 diariocorreo.pe##.sidebar-zonahogar
 cronista.com,elliberal.com.ar,publico.es,rpp.pe##.sponsor
