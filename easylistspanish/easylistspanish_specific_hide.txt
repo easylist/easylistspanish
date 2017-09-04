@@ -167,6 +167,7 @@ eldiarionuevodia.com.ar##.bannerpopup
 iprofesional.com##.bannerpremiumnh
 180.com.uy##.banners-side-container
 tiemposur.com.ar##.banners_flash
+gente.com.ar##.bannnerTop
 tumomo.com##.bderecho
 ebay.es##.beta-placement
 tumomo.com##.bizquierdo
