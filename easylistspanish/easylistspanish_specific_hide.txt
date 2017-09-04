@@ -159,6 +159,7 @@ iprofesional.com##.banner300x
 breves24.com.ar##.banner4
 breves24.com.ar##.banner5
 interviu.es##.bannerBlock
+gente.com.ar##.bannerSide
 elliberal.com.ar##.bannernota
 elliberal.com.ar##.bannernota2
 elliberal.com.ar##.bannernota3
