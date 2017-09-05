@@ -254,6 +254,7 @@ losandes.com.ar##.sugerencias
 larazon.es##.textoPatrocinio
 mitele.es##.titleList.DestacadoBox.clearfix.ModuleSimple:last-child
 elpopular.mx##.todopuebla
+peliculasaudiolatino.com##.topads728
 elpopular.mx##.tp-centro
 larazon.es##.vinculoPatrocinio
 st1.idealista.com##.widget_idealista
