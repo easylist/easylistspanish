@@ -114,6 +114,7 @@ elconfidencial.com##.adcrt980x250
 eltrecetv.com.ar,eslang.es,publico.es,rpp.pe##.ads
 yorokobu.es##.ads-block
 zonatorrent.es##.adsb30
+peliculasaudiolatino.com##.adsderecha
 forobeta.com##.adshare_belownav
 forobeta.com##.adshare_firstpost
 forobeta.com##.adshare_lastpost
