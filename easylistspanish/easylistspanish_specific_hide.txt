@@ -118,6 +118,7 @@ peliculasaudiolatino.com##.adsderecha
 forobeta.com##.adshare_belownav
 forobeta.com##.adshare_firstpost
 forobeta.com##.adshare_lastpost
+peliculasaudiolatino.com##.adsmovie
 elespanol.com,elsol.com.ar##.adv
 tribunaavila.com,tribunaburgos.com,tribunaleon.com,tribunapalencia.com,tribunasalamanca.com,tribunasegovia.com,tribunasoria.com,tribunavalladolid.com,tribunazamora.com##.advertising
 20minutos.es##.adx
