@@ -60,6 +60,7 @@
 ##.robapaginas
 ##.spub
 ##.story-patrocinio
+##.topads728
 ##.vip-section-advertising
 ##.widget_text_publicidad
 ##.wrap-bnr
