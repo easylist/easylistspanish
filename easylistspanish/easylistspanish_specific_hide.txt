@@ -182,6 +182,7 @@ debate.com.mx##.box-banner
 divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,torrentrapid.com,tumejortorrent.com##.box-publi-left
 lavanguardia.com##.box900
 emol.com##.bt_publicar_ecn
+peliculasaudiolatino.com##.btnads
 eleconomista.es##.caja-publi-port
 laprovincia.es##.caja_cuponisimo_slider300
 eldefinido.cl##.cajabanners
