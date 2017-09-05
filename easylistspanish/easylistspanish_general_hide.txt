@@ -14,6 +14,7 @@
 ###slider-oferplan
 ##.PublicidadCabecera
 ##.ad-tl2b
+##.adsderecha
 ##.block-dfp-midcentral_home
 ##.block-dfp-roba_pagina_top_home
 ##.blog-publi
