@@ -178,6 +178,7 @@ $websocket,domain=descargasnsn.com
 ||smnoticias.com/wp-content/uploads/2017/03/gelay.jpg
 ||smnoticias.com/wp-content/uploads/2017/03/san.miguel.municipio.jpg
 ||smnoticias.com/wp-content/uploads/2017/05/Banner-Concejo-Deliberante.jpg
+||smnoticias.com/wp-content/uploads/2017/06/maraton-asi.jpg
 ||sport.es/resources/jpg/0/3/1496069966930.jpg
 ||st.forocoches.com/image/top_c2_fcs_hd_hawkers.png
 ||st.forocoches.com/image/varios/iphone6_ipadmini.png
