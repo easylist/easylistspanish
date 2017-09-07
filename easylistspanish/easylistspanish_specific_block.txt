@@ -175,6 +175,7 @@ $websocket,domain=descargasnsn.com
 ||shippuden.tv/a300.html
 ||siteground.es/img/banners/
 ||smnoticias.com/wp-content/uploads/*/*.gif
+||smnoticias.com/wp-content/uploads/2017/03/gelay.jpg
 ||sport.es/resources/jpg/0/3/1496069966930.jpg
 ||st.forocoches.com/image/top_c2_fcs_hd_hawkers.png
 ||st.forocoches.com/image/varios/iphone6_ipadmini.png
