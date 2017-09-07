@@ -109,11 +109,11 @@ milenio.com##.ad-box2
 autoblog.com.ar##.ad-header-right
 ratingcero.com##.ad01-obj
 elpatagonico.com##.ad02-obj
-smnoticias.com##.ad2
-smnoticias.com##.ad3
-smnoticias.com##.ad4
-smnoticias.com##.ad5
-smnoticias.com##.ad6
+smnoticias.com,smnoticias.info##.ad2
+smnoticias.com,smnoticias.info##.ad3
+smnoticias.com,smnoticias.info##.ad4
+smnoticias.com,smnoticias.info##.ad5
+smnoticias.com,smnoticias.info##.ad6
 televisa.com##.ad_space_large
 elconfidencial.com##.adcrt300x600
 elconfidencial.com##.adcrt980x250
