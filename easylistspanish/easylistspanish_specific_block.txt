@@ -184,6 +184,7 @@ $websocket,domain=descargasnsn.com
 ||smnoticias.com/wp-content/uploads/2017/09/Banner-Plaza-Barrio-Estudiantes.jpg
 ||smnoticias.com/wp-content/uploads/2017/09/Prensa_Senado3.jpg
 ||smnoticias.info/*.gif
+||smnoticias.info/mpa.jpg
 ||sport.es/resources/jpg/0/3/1496069966930.jpg
 ||st.forocoches.com/image/top_c2_fcs_hd_hawkers.png
 ||st.forocoches.com/image/varios/iphone6_ipadmini.png
