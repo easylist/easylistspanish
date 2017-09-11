@@ -74,7 +74,10 @@ noticias3d.com###skin
 bandaancha.eu###spBx
 noticiaslasflores.com.ar###swiffycontainer
 kiosco.net###text-12
-emprendices.co###text-15
+misionesonline.net###text-14
+emprendices.co,misionesonline.net###text-15
+misionesonline.net###text-16
+misionesonline.net###text-17
 ddmix.net###text-4
 diariovictoria.com.ar###text-5
 smnoticias.com,smnoticias.info###text-52
