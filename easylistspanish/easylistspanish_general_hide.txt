@@ -2,6 +2,7 @@
 ###afsposicion2
 ###eplAdDivlateralder
 ###eplAdDivlateralizq
+###eplAdDivtopbanner
 ###fix_publicidad_inferior
 ###publiLink
 ###publicidad-top
