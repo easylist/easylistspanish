@@ -60,6 +60,7 @@
 ##.publicidad6
 ##.publicidad_01
 ##.publicidad_especial
+##.publicidad_modulo1
 ##.publitop
 ##.roba-container
 ##.robapaginas
