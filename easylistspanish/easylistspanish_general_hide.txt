@@ -8,6 +8,7 @@
 ###publicidad-top
 ###publicidadMovil
 ###publicidadTablet
+###publicidad_header
 ###publicidad_inferior
 ###publicidad_lateral_inferior
 ###publicidad_lateral_medio
