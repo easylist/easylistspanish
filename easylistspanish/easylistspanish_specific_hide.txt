@@ -256,7 +256,7 @@ elblog.com##.pub_lat1_father
 elblog.com##.pub_lat2_father
 elblog.com##.pub_lat3_father
 elonce.com##.publi-top
-eltribuno.info,motociclismo.es,publico.es##.publicidad
+diario.mx,eltribuno.info,motociclismo.es,publico.es##.publicidad
 intereconomia.tv##.pum-overlay
 salpimenta.com.ar##.quadro-ads-widget-1col
 televisa.com##.rapid_banner_home
