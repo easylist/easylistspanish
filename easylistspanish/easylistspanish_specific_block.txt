@@ -56,6 +56,7 @@ $websocket,domain=descargasnsn.com
 ||descargasmix.com/js/p2.js
 ||descargasmix.com/js/p3.js
 ||diagonales.com/Multimedios/Ads/
+||diario.mx/baners/
 ||diariodelaribera.org/images/banners/
 ||diariodelaribera.org/images/stories/banners2015/noviembre_2015/
 ||diariodelaribera.org/images/stories/banners2015/octubre_2015/
