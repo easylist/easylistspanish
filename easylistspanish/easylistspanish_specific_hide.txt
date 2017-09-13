@@ -36,6 +36,7 @@ abchoy.com.ar###cacho-popup
 laprovincia.es###caja_1_derecha_17_0
 20minutos.es###cajasbuscadoras
 ftail.tv,shippuden.tv###categories
+diario.mx###centro_pub
 pantallazo.com.uy###clima-banner
 verdirectotv.com,verliga.net###closeX
 cinestrenostv.tv,vercanalestv.com,verdirectotv.com###closeX1
