@@ -341,6 +341,7 @@ cuartopoder.es##div[style="text-align:center; margin-bottom: 15px; background-co
 cuartopoder.es##div[style="text-align:center; margin-bottom: 15px; background-color:#F4F4F4;width: 728px;"]
 foroparalelo.com##div[style="width:120px; height:600px;"]
 aica.org##div[style="width:600px;height:60px;margin:10px 0px 10px 0px;"]
+diario.mx##div[style="width:970px; height:90px; display:block !important; margin:0 auto; overflow:hidden; margin-bottom: 10px;"]
 foroparalelo.com##div[style="width:970px; height:90px;"]
 divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,torrentrapid.com,tumejortorrent.com##div[style="z-index:98;width:570px;height:400px;position:absolute;top:0px;left:0px;"]
 hitfm.es##header
