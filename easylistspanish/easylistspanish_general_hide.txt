@@ -59,6 +59,7 @@
 ##.publicidad5
 ##.publicidad6
 ##.publicidad_01
+##.publicidad_especial
 ##.publitop
 ##.roba-container
 ##.robapaginas
