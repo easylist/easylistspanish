@@ -243,6 +243,7 @@ elheraldo.co##.pauta
 infobae.com##.pb-f-utilities-ad
 descargar.mobi##.placeholder__item--banner
 diario.mx##.portada_1LB
+diario.mx##.portada_1MT
 eldia.com##.ppp
 deportes.televisa.com##.prime-banner
 lavoz.com.ar##.producto-tienda
