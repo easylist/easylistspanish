@@ -169,6 +169,7 @@ minutouno.com##.banner-listado-simple
 lacapital.com.ar,primiciasya.com,unosantafe.com.ar##.banner-nativo
 noticiasurbanas.com.ar##.banner-noticia
 cronista.com##.banner-revista
+unosantafe.com.ar##.banner-side
 breves24.com.ar##.banner1
 breves24.com.ar##.banner2
 breves24.com.ar##.banner3
