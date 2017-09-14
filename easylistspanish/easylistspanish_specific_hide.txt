@@ -166,7 +166,7 @@ elonce.com##.banner-g
 elonce.com##.banner-h
 minutouno.com##.banner-libre
 minutouno.com##.banner-listado-simple
-lacapital.com.ar,primiciasya.com##.banner-nativo
+lacapital.com.ar,primiciasya.com,unosantafe.com.ar##.banner-nativo
 noticiasurbanas.com.ar##.banner-noticia
 cronista.com##.banner-revista
 breves24.com.ar##.banner1
