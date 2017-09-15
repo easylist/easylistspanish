@@ -90,6 +90,7 @@ smnoticias.com,smnoticias.info###text-52
 diariovictoria.com.ar###text-6
 diariovictoria.com.ar###text-7
 livenumetal.es###text-7 > .textwidget
+elcolombiano.com###tiquetesMasBaratos
 abc.com.py###top-banners
 ecuavisa.com###topbar
 dinostream.pw,verdirectotv.org###total
