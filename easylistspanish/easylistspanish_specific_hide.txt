@@ -274,6 +274,7 @@ lapoliticaonline.com##.section-banner
 megawarez.org##.sidebar-ads
 diariocorreo.pe##.sidebar-zonahogar
 cronista.com,elliberal.com.ar,publico.es,rpp.pe##.sponsor
+maximaonline.com.ar##.sponsored
 ruedasgordas.es##.sponsors
 losandes.com.ar##.sugerencias
 larazon.es##.textoPatrocinio
