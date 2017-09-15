@@ -211,6 +211,7 @@ deportemixtv.info##.column-right-outer
 renfe.com##.comprabilletes
 tandildiario.com##.containerBannerDesplegable
 cronista.com##.content-banner
+elcolombiano.com##.contentBannerIntelecto
 slimdownload.co##.cssanimations
 laprovincia.es##.dcham2
 lavanguardia.com##.div-patrocinado5
