@@ -99,6 +99,7 @@ $websocket,domain=descargasnsn.com
 ||gacetamercantil.com.ar/banners/
 ||gamestorrents.com/99mesesss.jpg
 ||gettyimages.es/gi-resources/images/*/iStock.jpg
+||gualeguaychu.gov.ar/apps/web/images/temporales/municipalidad-06.png
 ||guiatv.biz/adporn.html
 ||hitfm.es/view/imgs/Trident-Hit-FM-Fondo-*.jpg
 ||imagensn.com/images/2016/09/02/uploaded-banner-300.jpg
