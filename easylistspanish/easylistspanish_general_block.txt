@@ -1,3 +1,4 @@
+/multimedia/publicidades/*
 /publi/publi
 /txt_publi_vert.
 ! Anti-Adblock
