@@ -127,6 +127,7 @@ smnoticias.com,smnoticias.info##.ad6
 televisa.com##.ad_space_large
 elconfidencial.com##.adcrt300x600
 elconfidencial.com##.adcrt980x250
+lagaceta.com.ar##.add
 eltrecetv.com.ar,eslang.es,publico.es,rpp.pe##.ads
 yorokobu.es##.ads-block
 zonatorrent.es##.adsb30
