@@ -276,6 +276,7 @@ diariocorreo.pe##.sidebar-zonahogar
 cronista.com,elliberal.com.ar,publico.es,rpp.pe##.sponsor
 maximaonline.com.ar##.sponsored
 ruedasgordas.es##.sponsors
+diariolarepublica.com.ar##.st-banner
 losandes.com.ar##.sugerencias
 larazon.es##.textoPatrocinio
 mitele.es##.titleList.DestacadoBox.clearfix.ModuleSimple:last-child
