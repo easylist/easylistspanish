@@ -126,6 +126,7 @@ $websocket,domain=descargasnsn.com
 ||lagacetadesalamanca.es/elementosWeb/gestionCajas/*.gif
 ||lagacetadesalamanca.es/elementosWeb/gestionCajas/*banner*.jpg
 ||lagacetadesalamanca.es/elementosWeb/gestionCajas/comun/Flash/
+||laopinionsemanario.com.ar/sites/default/files/*.gif
 ||laprensa.com.ar/Multimedios/Ads/
 ||lavozdetandil.com.ar/publicidades/
 ||ldu.com.ec/fotos/publi_*.png
