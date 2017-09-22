@@ -340,6 +340,7 @@ entornointeligente.com##div[style="clear:both;width:100%;background-color: #EFEF
 entornointeligente.com##div[style="clear:both;width:100%;background-color: #EFEFEF;height:90px;"]
 elitetorrent.net##div[style="color:#ccc;font-size:10px;text-align:right;margin-bottom:20px;"]
 booksmedicos.org##div[style="float:none;margin:10px 0 10px 0;text-align:center;"]
+girabsas.com##div[style="margin: 0 0 15px 0; overflow: hidden; position: relative; height: 0; padding-bottom: 25.39%;"]
 concuchilloytenedor.es##div[style="margin:5px auto 5px;text-align:center;"]
 19640noticias.com##div[style="padding: Publicidad"]
 la-razon.com##div[style="position:absolute; top:12px; width:970px; height:90px; background:#FFF; z-index:100; padding:0px; margin:0px"]
