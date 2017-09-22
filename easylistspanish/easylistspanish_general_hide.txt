@@ -35,6 +35,7 @@
 ##.flex__publi
 ##.mclics
 ##.myml-menu-navigation > .purchases-banner
+##.pane-publicidad
 ##.pane-publicidades
 ##.patrocinio
 ##.promocion_libre
