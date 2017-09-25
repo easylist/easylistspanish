@@ -73,6 +73,7 @@ $websocket,domain=descargasnsn.com
 ||ecestaticos.com/file/c321612b3020bee67701c43d5d3129f7/1434970318.png
 ||elancasti.com.ar/u/banners/
 ||eldestapeweb.com/adjuntos/177/banners/
+||eldiariodelapampa.com.ar/images/banners/
 ||eldiariodetandil.com/contenido/publicidades/
 ||eldiarionuevodia.com.ar/u/banners/
 ||elitegol.com/media/oficial.png
