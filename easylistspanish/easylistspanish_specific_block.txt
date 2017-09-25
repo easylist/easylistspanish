@@ -35,6 +35,7 @@ $websocket,domain=descargasnsn.com
 ||babalonia.com/images/promo/*.gif
 ||blogspot.com/*.gif$domain=puertocampoynegocios.com
 ||breves24.com.ar/banners/
+||butlercdn.com^$domain=eldiariodelapampa.com.ar
 ||buyman.com.ar/pubex/
 ||cdn.exur.com/notmundo/
 ||chacohoy.com/files/banners/
