@@ -106,6 +106,7 @@ $websocket,domain=descargasnsn.com
 ||hitfm.es/view/imgs/Trident-Hit-FM-Fondo-*.jpg
 ||i0.wp.com/www.radiosantiago.cl/wp-content/uploads/2017/01/sound_tech228x76.jpg?
 ||i0.wp.com/www.radiosantiago.cl/wp-content/uploads/2017/01/zappa228x114.gif?
+||i0.wp.com/www.radiosantiago.cl/wp-content/uploads/2017/02/unimarc-228x76.jpg
 ||imagensn.com/images/2016/09/02/uploaded-banner-300.jpg
 ||imagensn.com/images/2016/09/02/uploaded-banner-728.jpg
 ||imagensn.com/images/2016/12/07/dedicados.jpg
