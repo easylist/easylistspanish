@@ -113,6 +113,7 @@ $websocket,domain=descargasnsn.com
 ||i2.wp.com/www.radiosantiago.cl/wp-content/uploads/2017/01/Alsacia_228x76.gif?
 ||i2.wp.com/www.radiosantiago.cl/wp-content/uploads/2017/01/bruno_228x114.gif?
 ||i2.wp.com/www.radiosantiago.cl/wp-content/uploads/2017/01/margot_228x76.jpg?
+||i2.wp.com/www.radiosantiago.cl/wp-content/uploads/2017/01/mingo228x114.gif?
 ||imagensn.com/images/2016/09/02/uploaded-banner-300.jpg
 ||imagensn.com/images/2016/09/02/uploaded-banner-728.jpg
 ||imagensn.com/images/2016/12/07/dedicados.jpg
