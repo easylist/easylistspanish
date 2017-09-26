@@ -104,6 +104,7 @@ $websocket,domain=descargasnsn.com
 ||gualeguaychu.gov.ar/apps/web/images/temporales/municipalidad-06.png
 ||guiatv.biz/adporn.html
 ||hitfm.es/view/imgs/Trident-Hit-FM-Fondo-*.jpg
+||i0.wp.com/www.radiosantiago.cl/wp-content/uploads/2017/01/sound_tech228x76.jpg?
 ||imagensn.com/images/2016/09/02/uploaded-banner-300.jpg
 ||imagensn.com/images/2016/09/02/uploaded-banner-728.jpg
 ||imagensn.com/images/2016/12/07/dedicados.jpg
