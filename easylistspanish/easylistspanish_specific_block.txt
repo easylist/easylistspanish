@@ -119,6 +119,7 @@ $websocket,domain=descargasnsn.com
 ||i2.wp.com/www.radiosantiago.cl/wp-content/uploads/2017/02/Logo-Nutri-225x99.png
 ||i2.wp.com/www.radiosantiago.cl/wp-content/uploads/2017/02/netexplora_228x50.png?
 ||i2.wp.com/www.radiosantiago.cl/wp-content/uploads/2017/02/sintonia-228x228.png
+||i2.wp.com/www.radiosantiago.cl/wp-content/uploads/2017/02/tecnoera228x34.png?
 ||imagensn.com/images/2016/09/02/uploaded-banner-300.jpg
 ||imagensn.com/images/2016/09/02/uploaded-banner-728.jpg
 ||imagensn.com/images/2016/12/07/dedicados.jpg
