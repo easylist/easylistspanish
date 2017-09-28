@@ -45,6 +45,7 @@
 ##.pub-300x600
 ##.pub-950x100
 ##.pub-h
+##.pub950
 ##.publi
 ##.publi300x300
 ##.publiTop
