@@ -50,6 +50,7 @@ forocoches.com###div-336x280_respuesta_medio
 forocoches.com###div-970x90
 forocoches.com###div-970x90_respuesta
 forocoches.com###div-970x90_respuesta_final
+abcsaladillo.com.ar###div-abc_1024x100_arriba_logo
 perfil.com###div_blockTop_1
 lne.es###divderecha_1021
 laprovincia.es###divderecha_1050
