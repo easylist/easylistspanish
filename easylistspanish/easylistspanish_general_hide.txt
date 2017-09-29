@@ -16,6 +16,7 @@
 ###publicidad_subir
 ###publicidad_superior
 ###slider-oferplan
+##.Adboost300x250
 ##.PublicidadCabecera
 ##.ad-tl2b
 ##.ad_dfp_estandar
