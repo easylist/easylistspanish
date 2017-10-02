@@ -142,6 +142,7 @@ $websocket,domain=descargasnsn.com
 ||interbenavente.es/upload/img/periodico/img_31937.gif
 ||interbenavente.es/upload/img/periodico/img_35176.gif
 ||interbenavente.es/upload/img/periodico/img_36015.gif
+||laconversacion.net/wp-content/uploads/2017/07/IMG-20170710-WA0000.jpg
 ||lagacetadesalamanca.es/elementosWeb/gestionCajas/*.gif
 ||lagacetadesalamanca.es/elementosWeb/gestionCajas/*banner*.jpg
 ||lagacetadesalamanca.es/elementosWeb/gestionCajas/comun/Flash/
