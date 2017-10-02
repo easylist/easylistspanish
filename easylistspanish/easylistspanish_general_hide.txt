@@ -60,6 +60,7 @@
 ##.publicidad-160-600
 ##.publicidad-300-250
 ##.publicidad-300-250a
+##.publicidad-300x250
 ##.publicidad-bloque-centro
 ##.publicidad-cabecera
 ##.publicidad-top
