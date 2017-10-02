@@ -56,6 +56,7 @@
 ##.publi_horizontal
 ##.publi_lateral
 ##.publi_mar_top
+##.publicidad-1110x90
 ##.publicidad-300-250
 ##.publicidad-300-250a
 ##.publicidad-bloque-centro
