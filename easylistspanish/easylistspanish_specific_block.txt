@@ -33,6 +33,7 @@ $websocket,domain=descargasnsn.com
 ||aurora-israel.co.il/wp-content/themes/Newspaper/bannersswf/
 ||aurora-israel.co.il/wp-content/uploads/2016/06/oren_shabat555.jpg
 ||babalonia.com/images/promo/*.gif
+||biodiesel.com.ar/wp-content/uploads/2016/07/00.gif
 ||blogspot.com/*.gif$domain=puertocampoynegocios.com
 ||breves24.com.ar/banners/
 ||butlercdn.com^$domain=eldiariodelapampa.com.ar
