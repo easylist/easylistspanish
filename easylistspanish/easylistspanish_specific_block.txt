@@ -34,6 +34,7 @@ $websocket,domain=descargasnsn.com
 ||aurora-israel.co.il/wp-content/uploads/2016/06/oren_shabat555.jpg
 ||babalonia.com/images/promo/*.gif
 ||biodiesel.com.ar/wp-content/uploads/2016/07/00.gif
+||biodiesel.com.ar/wp-content/uploads/2017/10/Banner-Biodiesel-300x180-px-1.gif
 ||blogspot.com/*.gif$domain=puertocampoynegocios.com
 ||breves24.com.ar/banners/
 ||butlercdn.com^$domain=eldiariodelapampa.com.ar
