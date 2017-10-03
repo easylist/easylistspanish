@@ -65,6 +65,7 @@
 ##.publicidad-728x90-Nota
 ##.publicidad-bloque-centro
 ##.publicidad-cabecera
+##.publicidad-label
 ##.publicidad-top
 ##.publicidad1
 ##.publicidad2
