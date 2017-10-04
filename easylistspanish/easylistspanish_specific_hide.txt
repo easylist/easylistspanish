@@ -153,7 +153,7 @@ cadena3.com##.baner630x250
 cadena3.com##.baner960x50
 cadena3.com##.baners-medio-nota-ampliada
 eleconomista.es##.bankia-cuerda
-agenciafe.com,animakai.tv,canal-ar.com.ar,debate.com.mx,descargasnsn.com,diariodecuyo.com.ar,diariopopular.com.ar,diariouno.com.ar,elancasti.com.ar,eldiarionuevodia.com.ar,elpatagonico.com,gacetadeportiva.com.ar,infocanuelas.com,lacapital.com.ar,lanacion.com.ar,lapoliticaonline.com,mdzol.com,meristation.com.mx,minutouno.com,primiciasya.com,rosario3.com,sanjuan8.com,unosantafe.com.ar,voydeviaje.com.ar##.banner
+agenciafe.com,agritotal.com,animakai.tv,canal-ar.com.ar,debate.com.mx,descargasnsn.com,diariodecuyo.com.ar,diariopopular.com.ar,diariouno.com.ar,elancasti.com.ar,eldiarionuevodia.com.ar,elpatagonico.com,gacetadeportiva.com.ar,infocanuelas.com,lacapital.com.ar,lanacion.com.ar,lapoliticaonline.com,mdzol.com,meristation.com.mx,minutouno.com,primiciasya.com,rosario3.com,sanjuan8.com,unosantafe.com.ar,voydeviaje.com.ar##.banner
 elonce.com##.banner-a
 adnradio.cl##.banner-ancho
 adnradio.cl##.banner-ancho-movil
