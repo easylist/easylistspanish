@@ -227,6 +227,7 @@ cronica.com.ar##.fixed-banner
 marca.com##.flex-b-promociones
 elmundo.es##.flex__publi
 yorokobu.es##.fw-container
+peru21.pe##.hiraoka
 emprendices.co##.homepage-widget > #text-16
 diaridegirona.cat##.iberpi_cajaext
 laprovincia.es##.listaofertas
