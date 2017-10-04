@@ -278,7 +278,7 @@ muyinteresante.es##.roba2_movil
 lapoliticaonline.com##.section-banner
 megawarez.org##.sidebar-ads
 diariocorreo.pe##.sidebar-zonahogar
-cronista.com,elliberal.com.ar,publico.es,rpp.pe##.sponsor
+cronista.com,elliberal.com.ar,elobservador.com.uy,publico.es,rpp.pe##.sponsor
 maximaonline.com.ar##.sponsored
 ruedasgordas.es##.sponsors
 diariolarepublica.com.ar##.st-banner
