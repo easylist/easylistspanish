@@ -21,6 +21,7 @@ $websocket,domain=descargasnsn.com
 ||abchoy.com.ar/publipopup/
 ||adlipay.com/away.php?
 ||agenciafe.com/data/img_cont/img_banners/
+||agritotal.com/file/image/*.gif
 ||aica.org/publi*.html?t=
 ||aica.org/publi/
 ||aimdigital.com.ar/wp-content/uploads/*.gif
