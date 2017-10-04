@@ -136,6 +136,7 @@ $websocket,domain=descargasnsn.com
 ||imgur.com/WI1faon.png
 ||infocanuelas.com/media/banner/
 ||infocielo.com/uploads/banners/
+||infofueguina.com/u/banners/
 ||inmendoza.com/wp-content/uploads/*_1140x170_
 ||inmendoza.com/wp-content/uploads/banner/
 ||inmendoza.com^*/banners/
