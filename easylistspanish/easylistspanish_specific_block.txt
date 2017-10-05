@@ -10,6 +10,7 @@ $websocket,domain=descargasnsn.com
 |https://$script,third-party,domain=abcdefamosas.xyz|animakai.tv|novelasenlinea.net
 |https://$script,third-party,xmlhttprequest,domain=descargasnsn.com|jkanime.net
 ||130.211.230.53^$script,domain=animeid.tv
+||16valvulas.com.ar/wp-content/uploads/*.gif
 ||19640noticias.com/wp-content/uploads/2017/03/200x200_OK_-1-Copiar.jpg
 ||19640noticias.com/wp-content/uploads/2017/03/Banner-Institucional-300x200-Copiar.jpg
 ||19640noticias.com/wp-content/uploads/2017/03/Veronica-Gonzalez-Copiar-Copiar.jpg
