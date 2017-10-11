@@ -98,6 +98,7 @@ $websocket,domain=descargasnsn.com
 ||file02.lavanguardia.com/2015/06/30/54432622531-file.jpg
 ||fm899.com.ar/public/images/banners/
 ||fmgol.com.ar/index_htm_files/CECAITRA_TRANSITO.gif
+||fmgol.com.ar/index_htm_files/EDELAP_300X300.gif
 ||forocoches.com/image/varios/hawkers_2017a.png
 ||forokeys.com/foro/banners/
 ||foroparalelo.com/images/avisos/
