@@ -68,6 +68,7 @@
 ##.publicidad-horizontal
 ##.publicidad-label
 ##.publicidad-top
+##.publicidad-vertical
 ##.publicidad1
 ##.publicidad2
 ##.publicidad3
