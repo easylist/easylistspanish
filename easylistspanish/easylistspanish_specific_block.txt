@@ -201,6 +201,7 @@ $websocket,domain=descargasnsn.com
 ||px.fotos.cdn.0223.com.ar/f/5487365314cdac0400000148/
 ||px.fotos.cdn.0223.com.ar/f/55cd3fc7b07ac20500000282/
 ||rae.es/sites/all/common/images/logos/
+||red92.com/images/uploaded/spots/
 ||religionenlibertad.com/imgpbs/
 ||republica.com.uy/wp-content/banners/
 ||rs.20m.es/i/petitchef_cintillo.jpg
