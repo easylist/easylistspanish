@@ -158,6 +158,7 @@ $websocket,domain=descargasnsn.com
 ||lanoticia1.com/sites/default/files/*.gif
 ||laopinionsemanario.com.ar/sites/default/files/*.gif
 ||laprensa.com.ar/Multimedios/Ads/
+||lavozdecataratas.com/contenido/banners/
 ||lavozdetandil.com.ar/publicidades/
 ||ldu.com.ec/fotos/publi_*.png
 ||libertaddigital.com/fragmentos/guijuelo-responsive.html
