@@ -87,6 +87,7 @@
 ##.story-patrocinio
 ##.topads728
 ##.vip-section-advertising
+##.widget-publi
 ##.widget_text_publicidad
 ##.wrap-bnr
 ##a[href*="://adpv.com/?idpartner="]
