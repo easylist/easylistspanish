@@ -199,6 +199,7 @@ $websocket,domain=descargasnsn.com
 ||p.a-abp.com//simgad/
 ||paxinasgalegas.es/BannerService.ashx
 ||peliculas.nu/pared.js
+||planbnoticias.com.ar/pb/wp-content/uploads/2017/03/IMG_0762.jpg
 ||publicidad.milenio.com/
 ||px.fotos.cdn.0223.com.ar/f/5399f9f213cd649c19000009/
 ||px.fotos.cdn.0223.com.ar/f/539f4f6c5408217c16000029/
