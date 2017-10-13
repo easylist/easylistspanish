@@ -6,6 +6,7 @@ comunio.es###advertising-top
 animeid.tv###ap
 fmvida.com.ar,inmonauta.es###banner
 perfil.com###banner990
+diariotextual.com###bannerDiv
 pantallazo.com.uy###bannerEspeciales
 eldefinido.cl###bannerGCP
 entornointeligente.com###bannerHorizontal
