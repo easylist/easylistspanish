@@ -59,6 +59,7 @@ diaridegirona.cat###divderecha_1053
 estrenosdtl.com,moviesdvdr.com###f_find_bar
 tvenganchado.com###g
 gente.com.ar###generico
+diariotextual.com###gkRightBottom
 interviu.es###headerBanner
 realbetisbalompie.es###horizotal-banners
 tribunaavila.com,tribunaburgos.com,tribunaleon.com,tribunapalencia.com,tribunasalamanca.com,tribunasegovia.com,tribunasoria.com,tribunavalladolid.com,tribunazamora.com###interstitial_container
