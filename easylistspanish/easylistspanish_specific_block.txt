@@ -209,6 +209,7 @@ $websocket,domain=descargasnsn.com
 ||planbnoticias.com.ar/pb/wp-content/uploads/2017/10/rlt-1.jpg
 ||planbnoticias.com.ar/pb/wp-content/uploads/2017/11/camioneros-baner.jpg
 ||planbnoticias.com.ar/pb/wp-content/uploads/2017/11/catrilo-muni.jpg
+||planbnoticias.com.ar/pb/wp-content/uploads/2017/11/red-habita2.jpg
 ||publicidad.milenio.com/
 ||px.fotos.cdn.0223.com.ar/f/5399f9f213cd649c19000009/
 ||px.fotos.cdn.0223.com.ar/f/539f4f6c5408217c16000029/
