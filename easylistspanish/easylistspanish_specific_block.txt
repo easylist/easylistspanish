@@ -72,6 +72,7 @@ $websocket,domain=descargasnsn.com
 ||diarioelzondasj.com.ar/images/Videos/*.swf
 ||diariosanrafael.com.ar/images/banners/
 ||diariotextual.com/images/articulos-2014/*.gif
+||diariotextual.com/images/articulos-2014/*banner
 ||diariovictoria.com.ar/wp-content/uploads/*.gif
 ||divinity.es/zentv/images/zentv-300-2.gif
 ||divxtotal.com/9mesesss.jpg
