@@ -80,6 +80,7 @@ realbetisbalompie.es###right-banners
 noticias3d.com###skin
 bandaancha.eu###spBx
 noticiaslasflores.com.ar###swiffycontainer
+elheraldo.hn###taboola_nota
 kiosco.net###text-12
 misionesonline.net###text-14
 emprendices.co,misionesonline.net###text-15
