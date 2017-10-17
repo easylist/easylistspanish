@@ -231,6 +231,7 @@ lavanguardia.com##.div-patrocinado5
 diariodesevilla.es##.ePubli1
 elcomercio.pe##.ec-club
 cronista.com##.entry-box-banner
+elespectador.com##.external-logos
 estadiodeportivo.whitelabel.kelisto.es##.finance
 cronica.com.ar##.fixed-banner
 marca.com##.flex-b-promociones
