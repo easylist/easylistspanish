@@ -178,7 +178,7 @@ elonce.com##.banner-h
 abcsaladillo.com.ar##.banner-lateral
 minutouno.com##.banner-libre
 minutouno.com##.banner-listado-simple
-lacapital.com.ar,primiciasya.com,unosantafe.com.ar##.banner-nativo
+lacapital.com.ar,primiciasya.com,unoentrerios.com.ar,unosantafe.com.ar##.banner-nativo
 noticiasurbanas.com.ar##.banner-noticia
 cronista.com##.banner-revista
 unosantafe.com.ar##.banner-side
