@@ -19,6 +19,7 @@
 ##.Adboost300x250
 ##.Adboost300x600
 ##.PublicidadCabecera
+##.ad-300x250-solo
 ##.ad-tl2b
 ##.ad_dfp_estandar
 ##.adcontainer-portlet
