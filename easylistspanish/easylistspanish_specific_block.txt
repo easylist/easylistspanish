@@ -16,6 +16,7 @@ $websocket,domain=descargasnsn.com
 ||19640noticias.com/wp-content/uploads/2017/03/Veronica-Gonzalez-Copiar-Copiar.jpg
 ||19640noticias.com/wp-content/uploads/2017/04/283x321.gif
 ||24con.com/files/image/228/228563/59e666afdced4.jpg
+||24con.com/files/image/230/230804/5a01a74262820_300_!.jpg
 ||4.bp.blogspot.com/-tNi8RVCQRuA/*/s640/Banner%2BVIP.gif
 ||91.116.142.114/iframe
 ||abc.com.py/plantillas/js/banners-mkt.js
