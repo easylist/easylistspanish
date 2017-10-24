@@ -212,6 +212,7 @@ pelisadicto.com##.box
 debate.com.mx##.box-banner
 divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,torrentrapid.com,tumejortorrent.com##.box-publi-left
 lavanguardia.com##.box900
+mundoejecutivo.com.mx##.boxbanner
 emol.com##.bt_publicar_ecn
 peliculasaudiolatino.com##.btnads
 eleconomista.es##.caja-publi-port
