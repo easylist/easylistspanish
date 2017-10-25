@@ -173,6 +173,7 @@ apertura.com,elnueve.com,infotechnology.com##.banner-container
 elonce.com##.banner-d
 elonce.com##.banner-e
 elonce.com##.banner-f
+abc.com.py##.banner-full-60
 elonce.com##.banner-g
 elonce.com##.banner-h
 abcsaladillo.com.ar##.banner-lateral
