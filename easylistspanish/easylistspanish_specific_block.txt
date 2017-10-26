@@ -79,6 +79,7 @@ $websocket,domain=descargasnsn.com
 ||eldiarionuevodia.com.ar/u/banners/
 ||elitegol.com/media/oficial.png
 ||elmundo.es^*/patrocinador/
+||elotrolado.net^*.php?mode=
 ||elpatagonico.com/adjuntos/193/banners/
 ||emol.com/_portada/cajasecciones/cajaeconomicos.aspx
 ||emol.com/www/noticias/sqn.php?zones=
