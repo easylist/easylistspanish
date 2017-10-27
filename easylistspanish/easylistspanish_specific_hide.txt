@@ -24,6 +24,7 @@ coches.net###banner_top
 estadio.ec###banners
 eleconomista.es###banners-superiores
 paxinasgalegas.es###banners_laterales
+mundoejecutivo.com.mx###block-block-15
 libero.pe###block-externos-block-json-cuponidad
 informe21.com###block-views-diosuniversal-block-1
 ushuaia24.com.ar###bloque-11
