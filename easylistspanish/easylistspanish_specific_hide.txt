@@ -192,6 +192,7 @@ breves24.com.ar##.banner4
 breves24.com.ar##.banner5
 interviu.es##.bannerBlock
 gente.com.ar##.bannerSide
+animeid.io##.banner_center
 elliberal.com.ar##.bannernota
 elliberal.com.ar##.bannernota2
 elliberal.com.ar##.bannernota3
