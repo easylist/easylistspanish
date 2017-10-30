@@ -370,6 +370,7 @@ girabsas.com##div[style="margin: 0 0 15px 0; overflow: hidden; position: relativ
 girabsas.com##div[style="margin: 0 0 15px 0; overflow: hidden; position: relative; height: 0; padding-bottom: 9.39%;"]
 concuchilloytenedor.es##div[style="margin:5px auto 5px;text-align:center;"]
 19640noticias.com##div[style="padding: Publicidad"]
+animeid.io##div[style="position: absolute; top: 660px; right: -228px;"]
 la-razon.com##div[style="position:absolute; top:12px; width:970px; height:90px; background:#FFF; z-index:100; padding:0px; margin:0px"]
 cuartopoder.es##div[style="text-align:center; margin-bottom: 15px; background-color:#F4F4F4;width: 302px;"]
 cuartopoder.es##div[style="text-align:center; margin-bottom: 15px; background-color:#F4F4F4;width: 728px;"]
