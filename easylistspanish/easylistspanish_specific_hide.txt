@@ -274,6 +274,7 @@ diario.mx##.portada_1MT
 eldia.com##.ppp
 letrap.com.ar##.ppp_H12
 letrap.com.ar##.ppp_H13
+letrap.com.ar##.ppp_H14
 letrap.com.ar##.ppp_H4
 letrap.com.ar##.ppp_H5
 letrap.com.ar##.ppp_H6
