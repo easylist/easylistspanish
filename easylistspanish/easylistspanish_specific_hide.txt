@@ -272,6 +272,7 @@ descargar.mobi##.placeholder__item--banner
 diario.mx##.portada_1LB
 diario.mx##.portada_1MT
 eldia.com##.ppp
+letrap.com.ar##.ppp_P5
 deportes.televisa.com##.prime-banner
 lavoz.com.ar##.producto-tienda
 rumbo.es##.promo262x90
