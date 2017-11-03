@@ -293,6 +293,7 @@ diario.mx##.pub__portada
 elblog.com##.pub_lat1_father
 elblog.com##.pub_lat2_father
 elblog.com##.pub_lat3_father
+tiempo.com.mx##.publi-4
 elonce.com##.publi-top
 diario.mx,eltribuno.info,motociclismo.es,publico.es##.publicidad
 intereconomia.tv##.pum-overlay
