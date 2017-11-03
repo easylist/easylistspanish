@@ -295,6 +295,7 @@ elblog.com##.pub_lat2_father
 elblog.com##.pub_lat3_father
 tiempo.com.mx##.publi-4
 tiempo.com.mx##.publi-5
+tiempo.com.mx##.publi-6
 elonce.com##.publi-top
 diario.mx,eltribuno.info,motociclismo.es,publico.es##.publicidad
 intereconomia.tv##.pum-overlay
