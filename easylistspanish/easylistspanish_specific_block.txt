@@ -203,6 +203,7 @@ $websocket,domain=descargasnsn.com
 ||nueva-ciudad.com.ar/banners/
 ||nuevaeranet.com.ar/publicidades_cate/
 ||p.a-abp.com//simgad/
+||parlamentario.com/db/000/
 ||parlamentario.com/db/000/*.gif
 ||parlamentario.com/db/000/*banner*.jpg
 ||parlamentario.com/db/000/000218_coca_cola_324x250.jpg
