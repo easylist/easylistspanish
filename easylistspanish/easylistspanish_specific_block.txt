@@ -207,6 +207,7 @@ $websocket,domain=descargasnsn.com
 ||parlamentario.com/db/000/*banner*.jpg
 ||parlamentario.com/db/000/000218_coca_cola_324x250.jpg
 ||parlamentario.com/db/000/000331_barrick_324x250.jpg
+||parlamentario.com/db/000/000473_aviso_exxon_-_nuevo_junio_2017.jpg
 ||parlamentario.com/db/000/000496_324.jpg
 ||parlamentario.com/db/000/000500_presidencia_agosto_2017.jpg
 ||paxinasgalegas.es/BannerService.ashx
