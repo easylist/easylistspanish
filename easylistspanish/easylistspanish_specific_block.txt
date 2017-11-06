@@ -204,6 +204,7 @@ $websocket,domain=descargasnsn.com
 ||nuevaeranet.com.ar/publicidades_cate/
 ||p.a-abp.com//simgad/
 ||parlamentario.com/db/000/*.gif
+||parlamentario.com/db/000/*banner*.jpg
 ||parlamentario.com/db/000/000331_barrick_324x250.jpg
 ||paxinasgalegas.es/BannerService.ashx
 ||peliculas.nu/pared.js
