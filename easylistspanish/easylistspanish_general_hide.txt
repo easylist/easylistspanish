@@ -87,6 +87,7 @@
 ##.robapaginas
 ##.spub
 ##.story-patrocinio
+##.td-g-rec-id-custom_ad_3
 ##.topads728
 ##.vip-section-advertising
 ##.widget-publi
