@@ -90,6 +90,7 @@
 ##.story-patrocinio
 ##.td-g-rec-id-custom_ad_3
 ##.topads728
+##.views-row-ads
 ##.vip-section-advertising
 ##.widget-publi
 ##.widget_text_publicidad
