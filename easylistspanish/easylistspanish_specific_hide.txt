@@ -27,6 +27,7 @@ eleconomista.es###banners-superiores
 paxinasgalegas.es###banners_laterales
 mundoejecutivo.com.mx###block-block-15
 libero.pe###block-externos-block-json-cuponidad
+hsbnoticias.com###block-infoblocks-infoblocks-fixedsize-17
 hsbnoticias.com###block-infoblocks-infoblocks-fixedsize-18
 hsbnoticias.com###block-infoblocks-infoblocks-fixedsize-5
 informe21.com###block-views-diosuniversal-block-1
