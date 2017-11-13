@@ -238,6 +238,7 @@ $websocket,domain=descargasnsn.com
 ||s3.amazonaws.com/comparabien-default/ads/
 ||salpimenta.com.ar/wp-content/uploads/*.gif
 ||shippuden.tv/a300.html
+||sinmordaza.com/banners/
 ||sinmordaza.com/images/*banner*.jpg
 ||siteground.es/img/banners/
 ||smnoticias.com/wp-content/uploads/*/*.gif
