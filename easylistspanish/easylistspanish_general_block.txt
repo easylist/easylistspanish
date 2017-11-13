@@ -1,3 +1,4 @@
+/advertisements?
 /multimedia/publicidades/*
 /publi/publi
 /txt_publi_vert.
