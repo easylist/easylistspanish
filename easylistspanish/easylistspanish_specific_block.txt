@@ -149,6 +149,7 @@ $websocket,domain=descargasnsn.com
 ||imgur.com/JlGKZ0q.jpg
 ||imgur.com/nUEuHxd.png
 ||imgur.com/WI1faon.png
+||impulsobaires.com.ar/uploads/banners/
 ||infocanuelas.com/media/banner/
 ||infocielo.com/uploads/banners/
 ||infofueguina.com/u/banners/
