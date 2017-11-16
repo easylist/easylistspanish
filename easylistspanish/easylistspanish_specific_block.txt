@@ -256,6 +256,7 @@ $websocket,domain=descargasnsn.com
 ||smnoticias.info/mpa.jpg
 ||smnoticias.info/separador.banner.jpg
 ||sport.es/resources/jpg/0/3/1496069966930.jpg
+||srennab.chacodiapordia.com/delivery/afr.php?zoneid=$subdocument
 ||st.forocoches.com/image/top_c2_fcs_hd_hawkers.png
 ||st.forocoches.com/image/varios/iphone6_ipadmini.png
 ||st1.idealista.com/news/archivos/styles/348x90/public/ficheros_widget_news/img/balcon_concha_vanguardia.jpg
