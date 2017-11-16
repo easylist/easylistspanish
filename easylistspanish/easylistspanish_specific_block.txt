@@ -277,3 +277,4 @@ $websocket,domain=descargasnsn.com
 ||exabytetv.info/wp-content/plugins/wp-adblock-dedect/
 ||motociclismo.es/js/compiled_blockadblock_15.js
 ||noticiasdelaciencia.com/libs_oss/adblock/
+||static.vocento.com/adbd/
