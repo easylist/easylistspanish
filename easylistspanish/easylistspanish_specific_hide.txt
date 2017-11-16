@@ -324,6 +324,7 @@ maximaonline.com.ar##.sponsored
 ruedasgordas.es##.sponsors
 diariolarepublica.com.ar##.st-banner
 losandes.com.ar##.sugerencias
+chacodiapordia.com##.td-a-rec
 planbnoticias.com.ar##.text-4
 planbnoticias.com.ar##.text-7
 larazon.es##.textoPatrocinio
