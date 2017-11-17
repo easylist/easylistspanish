@@ -62,6 +62,7 @@
 ##.publi_pie_2
 ##.publi_skin_wrap
 ##.publi_sky
+##.publi_widget_1
 ##.publicidad-1110x90
 ##.publicidad-160-600
 ##.publicidad-300-250
