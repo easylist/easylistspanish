@@ -86,6 +86,7 @@
 ##.publicidad_especial
 ##.publicidad_modulo1
 ##.publicidad_modulo2
+##.publicidad_titulo
 ##.publitop
 ##.roba-container
 ##.robapagina
