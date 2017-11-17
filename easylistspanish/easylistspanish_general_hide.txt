@@ -87,6 +87,7 @@
 ##.publicidad_modulo1
 ##.publicidad_modulo2
 ##.publicidad_titulo
+##.publicidad_tras_bajada
 ##.publitop
 ##.roba-container
 ##.robapagina
