@@ -305,7 +305,7 @@ tiempo.com.mx##.publi-4
 tiempo.com.mx##.publi-5
 tiempo.com.mx##.publi-6
 elonce.com##.publi-top
-diario.mx,eltribuno.info,laizquierdadiario.com,motociclismo.es,publico.es##.publicidad
+diario.mx,eltribuno.info,laizquierdadiario.com,latercera.com,motociclismo.es,publico.es##.publicidad
 intereconomia.tv##.pum-overlay
 salpimenta.com.ar##.quadro-ads-widget-1col
 televisa.com##.rapid_banner_home
