@@ -59,6 +59,7 @@
 ##.publi_horizontal
 ##.publi_lateral
 ##.publi_mar_top
+##.publi_opinion
 ##.publi_pie_2
 ##.publi_skin_wrap
 ##.publi_sky
