@@ -196,6 +196,7 @@ $websocket,domain=descargasnsn.com
 ||newsweeklatino.com/flow/
 ||noddus.com/widget_campaign?$domain=sport.es
 ||noticias3d.com/imagenes/banners/
+||noticiasdel6.com/*.gif
 ||noticiasdelaciencia.com/upload/img/periodico/img_2972.jpg
 ||noticiasurbanas.com.ar/wp-content/uploads/*.gif
 ||noticiasurbanas.com.ar/wp-content/uploads/*.swf
