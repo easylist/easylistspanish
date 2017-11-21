@@ -216,6 +216,7 @@ $websocket,domain=descargasnsn.com
 ||parlamentario.com/db/000/000500_presidencia_agosto_2017.jpg
 ||paxinasgalegas.es/BannerService.ashx
 ||peliculas.nu/pared.js
+||pescare.com.ar/banners/
 ||pescare.com.ar/img/banner-top.jpg
 ||planbnoticias.com.ar/pb/wp-content/uploads/2017/03/IMG_0762.jpg
 ||planbnoticias.com.ar/pb/wp-content/uploads/2017/05/gif-*-de-socios.gif
