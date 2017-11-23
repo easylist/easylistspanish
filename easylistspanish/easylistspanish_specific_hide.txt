@@ -323,6 +323,7 @@ cuyonoticias.com##.sidebar > #text-html-widget-11
 megawarez.org##.sidebar-ads
 diariocorreo.pe##.sidebar-zonahogar
 cronista.com,elliberal.com.ar,elobservador.com.uy,publico.es,rpp.pe##.sponsor
+lacapitalmdp.com##.sponsor_stats
 maximaonline.com.ar##.sponsored
 ruedasgordas.es##.sponsors
 diariolarepublica.com.ar##.st-banner
