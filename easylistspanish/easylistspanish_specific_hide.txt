@@ -169,7 +169,7 @@ cadena3.com##.baner630x250
 cadena3.com##.baner960x50
 cadena3.com##.baners-medio-nota-ampliada
 eleconomista.es##.bankia-cuerda
-24con.com,agenciafe.com,agritotal.com,animakai.tv,canal-ar.com.ar,debate.com.mx,descargasnsn.com,diariodecuyo.com.ar,diariohoy.net,diariopopular.com.ar,diariouno.com.ar,elancasti.com.ar,eldiarionuevodia.com.ar,elpatagonico.com,gacetadeportiva.com.ar,impulsobaires.com.ar,infocanuelas.com,informador.mx,lacapital.com.ar,lanacion.com.ar,lapoliticaonline.com,mdzol.com,meristation.com.mx,minutouno.com,primiciasya.com,rosario3.com,sanjuan8.com,tutecnomundo.com,unoentrerios.com.ar,unosantafe.com.ar,voydeviaje.com.ar##.banner
+24con.com,agenciafe.com,agritotal.com,animakai.tv,canal-ar.com.ar,debate.com.mx,descargasnsn.com,diariodecuyo.com.ar,diariohoy.net,diariolaprovinciasj.com,diariopopular.com.ar,diariouno.com.ar,elancasti.com.ar,eldiarionuevodia.com.ar,elpatagonico.com,gacetadeportiva.com.ar,impulsobaires.com.ar,infocanuelas.com,informador.mx,lacapital.com.ar,lanacion.com.ar,lapoliticaonline.com,mdzol.com,meristation.com.mx,minutouno.com,primiciasya.com,rosario3.com,sanjuan8.com,tutecnomundo.com,unoentrerios.com.ar,unosantafe.com.ar,voydeviaje.com.ar##.banner
 elonce.com##.banner-a
 adnradio.cl##.banner-ancho
 adnradio.cl##.banner-ancho-movil
