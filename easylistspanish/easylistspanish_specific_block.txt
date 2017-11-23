@@ -164,6 +164,7 @@ $websocket,domain=descargasnsn.com
 ||interbenavente.es/upload/img/periodico/img_35176.gif
 ||interbenavente.es/upload/img/periodico/img_36015.gif
 ||lacapitalmdp.com/assets/images/publicidades/
+||lacapitalmdp.com/img_design/paseo_aero.jpg
 ||lacapitalmdp.com/publicidades/
 ||laconversacion.net/wp-content/uploads/2017/07/IMG-20170710-WA0000.jpg
 ||laconversacion.net/wp-content/uploads/2017/10/Banner-3.jpg
