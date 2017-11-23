@@ -76,6 +76,7 @@ $websocket,domain=descargasnsn.com
 ||diarioelzondasj.com.ar/images/Imagenes/*.gif
 ||diarioelzondasj.com.ar/images/Imagenes/lima.png
 ||diarioelzondasj.com.ar/images/Videos/*.swf
+||diariolaprovinciasj.com/u/banners/
 ||diariosanrafael.com.ar/images/banners/
 ||diariotextual.com/images/articulos-2014/*.gif
 ||diariotextual.com/images/articulos-2014/*banner
