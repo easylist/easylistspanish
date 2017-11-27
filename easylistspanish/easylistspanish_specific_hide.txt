@@ -192,6 +192,7 @@ lacapital.com.ar,primiciasya.com,unoentrerios.com.ar,unosantafe.com.ar##.banner-
 noticiasurbanas.com.ar##.banner-noticia
 cronista.com##.banner-revista
 unosantafe.com.ar##.banner-side
+cooperativa.cl##.banner-top
 breves24.com.ar##.banner1
 breves24.com.ar##.banner2
 breves24.com.ar##.banner3
