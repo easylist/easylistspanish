@@ -183,6 +183,7 @@ $websocket,domain=descargasnsn.com
 ||libertaddigital.com/fragmentos/movistarplus.html
 ||linkwelove.com/widget/js/lwl.js^$domain=aquiactualidad.com
 ||loteriasmundiales.com.ar/images/columna_publi_2/anuncie_aqui2.gif
+||loteriasmundiales.com.ar/images/loterias/banners/
 ||marca.com/marcador/rfsh/marcador_portada/marcador.swf$domain=pornstarsyfamosas.es
 ||mediainterior.com.ar/images/
 ||megawarez.org/wp-content/uploads/*/banner
