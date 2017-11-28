@@ -258,6 +258,7 @@ yorokobu.es##.fw-container
 peru21.pe##.hiraoka
 emprendices.co##.homepage-widget > #text-16
 diaridegirona.cat##.iberpi_cajaext
+sipse.com##.leaderboard
 laprovincia.es##.listaofertas
 lavanguardia.com##.lv-publi-box
 blancas.cl,paginasblancas.com.ar,paginasblancas.com.pe##.m-pod-promo-image
