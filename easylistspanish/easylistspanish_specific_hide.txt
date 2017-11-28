@@ -283,7 +283,7 @@ planbnoticias.com.ar##.penci-featured-cat-custom-ads
 descargar.mobi##.placeholder__item--banner
 diario.mx##.portada_1LB
 diario.mx##.portada_1MT
-eldia.com##.ppp
+eldia.com,infoplatense.com.ar##.ppp
 letrap.com.ar##.ppp_H12
 letrap.com.ar##.ppp_H13
 letrap.com.ar##.ppp_H14
