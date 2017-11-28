@@ -157,6 +157,7 @@ $websocket,domain=descargasnsn.com
 ||infocielo.com/uploads/banners/
 ||infofueguina.com/u/banners/
 ||infoplatense.com.ar/*/*.gif
+||infoplatense.com.ar/*/banner
 ||inmendoza.com/wp-content/uploads/*_1140x170_
 ||inmendoza.com/wp-content/uploads/banner/
 ||inmendoza.com^*/banners/
