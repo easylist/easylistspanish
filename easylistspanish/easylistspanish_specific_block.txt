@@ -288,6 +288,7 @@ $websocket,domain=descargasnsn.com
 ||tomadivx.org/publi_*.php
 ||tucumanalas7.com.ar/u/banners/
 ||ushuaia24.com.ar/download/multimedia.normal.*.gif
+||ushuaianoticias.com/public/media/publicidades/
 ||va6.thand.info/embed-^$third-party
 ||vercanalestv.com/468.html
 ||vercanalestv.com/imagenes/banner300.jpg
