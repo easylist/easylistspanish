@@ -252,6 +252,7 @@ $websocket,domain=descargasnsn.com
 ||radiosantiago.cl/wp-content/uploads/2017/01/falabella_228x114.jpg
 ||radiosantiago.cl/wp-content/uploads/2017/02/COPEC.png
 ||radiosantiago.cl/wp-content/uploads/2017/02/MO-233x64.png
+||radiosantiago.cl/wp-content/uploads/2017/02/tecnoera228x34.png
 ||radiosantiago.cl/wp-content/uploads/2017/02/unimarc-228x76.jpg
 ||rae.es/sites/all/common/images/logos/
 ||realpolitik.com.ar/uploads/banners/
