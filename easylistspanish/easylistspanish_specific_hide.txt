@@ -185,6 +185,7 @@ elonce.com##.banner-f
 abc.com.py##.banner-full-60
 elonce.com##.banner-g
 elonce.com##.banner-h
+ushuaianoticias.com##.banner-header
 abcsaladillo.com.ar##.banner-lateral
 minutouno.com##.banner-libre
 minutouno.com##.banner-listado-simple
