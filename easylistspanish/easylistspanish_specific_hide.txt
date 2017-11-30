@@ -147,6 +147,7 @@ elconfidencial.com##.adcrt980x250
 laconversacion.net,lagaceta.com.ar,lagacetasalta.com.ar##.add
 eltrecetv.com.ar,eslang.es,lostiempos.com,publico.es,rpp.pe##.ads
 yorokobu.es##.ads-block
+meristation.com.mx##.ads-notificator
 zonatorrent.es##.adsb30
 peliculasaudiolatino.com##.adsderecha
 forobeta.com##.adshare_belownav
