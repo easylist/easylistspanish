@@ -4,6 +4,7 @@
 ###eplAdDivlateralizq
 ###eplAdDivtopbanner
 ###fix_publicidad_inferior
+###pub_superior_left
 ###publiLink
 ###publicidad-top
 ###publicidadMovil
