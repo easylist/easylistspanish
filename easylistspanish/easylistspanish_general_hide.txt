@@ -33,6 +33,7 @@
 ##.cont_mer_publicidades
 ##.container-ads
 ##.containerOas
+##.contenedor_superior_publi
 ##.dfp-queue
 ##.envoltorio_publi
 ##.ep-pub
