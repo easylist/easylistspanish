@@ -408,6 +408,7 @@ entornointeligente.com##div[style="clear:both;width:100%;background-color: #EFEF
 entornointeligente.com##div[style="clear:both;width:100%;background-color: #EFEFEF;height:90px;"]
 elitetorrent.net##div[style="color:#ccc;font-size:10px;text-align:right;margin-bottom:20px;"]
 booksmedicos.org##div[style="float:none;margin:10px 0 10px 0;text-align:center;"]
+vanguardia.com##div[style="font-size: 0.8em; text-align: left; color: rgb(136, 136, 136);"]
 elcomercial.com.ar##div[style="margin-top:10px;float: left;"]
 girabsas.com##div[style="margin: 0 0 15px 0; overflow: hidden; position: relative; height: 0; padding-bottom: 25.39%;"]
 girabsas.com##div[style="margin: 0 0 15px 0; overflow: hidden; position: relative; height: 0; padding-bottom: 338.34%;"]
