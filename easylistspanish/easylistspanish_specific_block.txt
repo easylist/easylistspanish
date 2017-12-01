@@ -298,6 +298,7 @@ $websocket,domain=descargasnsn.com
 ||todopuebla.com^$subdocument,domain=elpopular.mx
 ||tomadivx.org/publi_*.php
 ||tucumanalas7.com.ar/u/banners/
+||tumblr.com/omgciym/ApWozdebj/sin-t__tulo-2.jpg
 ||ushuaia24.com.ar/download/multimedia.normal.*.gif
 ||ushuaianoticias.com/public/media/publicidades/
 ||va6.thand.info/embed-^$third-party
