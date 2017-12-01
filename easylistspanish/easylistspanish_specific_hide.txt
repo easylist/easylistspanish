@@ -202,6 +202,7 @@ unosantafe.com.ar##.banner-side
 cooperativa.cl##.banner-top
 breves24.com.ar##.banner1
 breves24.com.ar##.banner2
+nomellamesfriki.com##.banner250
 breves24.com.ar##.banner3
 iprofesional.com##.banner300x
 breves24.com.ar##.banner4
