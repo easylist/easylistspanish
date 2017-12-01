@@ -298,6 +298,7 @@ $websocket,domain=descargasnsn.com
 ||todopuebla.com^$subdocument,domain=elpopular.mx
 ||tomadivx.org/publi_*.php
 ||tucumanalas7.com.ar/u/banners/
+||tumblr.com/eqq8p0h/2f9mqpk3y/gif__1_.gif
 ||tumblr.com/omgciym/ApWozdebj/sin-t__tulo-2.jpg
 ||tumblr.com/omgciym/bDjozcv4x/pampling.jpg
 ||tumblr.com/omgciym/Gylmyj90o/finovinilos.jpg
