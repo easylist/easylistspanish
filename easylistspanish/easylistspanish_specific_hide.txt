@@ -1,6 +1,7 @@
 diariopopular.com.ar###OBJETO861 > .ad-obj
 foro.putalocura.com,foroparalelo.com,misandria.info###ad_global_below_navbar
 nomellamesfriki.com###adpv1
+nomellamesfriki.com###adpv2
 ftail.tv,shippuden.tv###ads
 comunio.es###advertising-right
 comunio.es###advertising-top
