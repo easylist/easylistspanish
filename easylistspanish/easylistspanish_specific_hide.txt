@@ -311,6 +311,7 @@ letrap.com.ar##.ppp_P6
 deportes.televisa.com##.prime-banner
 lavoz.com.ar##.producto-tienda
 rumbo.es##.promo262x90
+peliculas69.com##.pub
 divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,torrentrapid.com,tumejortorrent.com##.pub300x250
 divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,torrentrapid.com,tumejortorrent.com##.pub728x90
 diaridegirona.cat##.pub_340x250
