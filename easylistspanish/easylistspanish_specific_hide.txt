@@ -260,6 +260,7 @@ diariodesevilla.es##.ePubli1
 elcomercio.pe##.ec-club
 cronista.com##.entry-box-banner
 elespectador.com##.external-logos
+peliculas69.com##.fake
 estadiodeportivo.whitelabel.kelisto.es##.finance
 cronica.com.ar##.fixed-banner
 marca.com##.flex-b-promociones
