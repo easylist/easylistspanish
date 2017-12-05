@@ -245,6 +245,7 @@ eldefinido.cl##.cajabanners
 estadiodeportivo.whitelabel.kelisto.es##.car-insurance
 noticiasdel6.com##.cc3
 divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,torrentrapid.com,tumejortorrent.com##.centerBanner
+cienradios.com##.cienradios-ads
 lavoz.com.ar##.clublavoz
 abc.com.py##.col-banner
 deportemixtv.info##.column-right-outer
