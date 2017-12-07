@@ -372,6 +372,7 @@ st1.idealista.com##[href="http://www.idealista.com?xts=352991&xtor=AD-186-[ideal
 va6.thand.info##[src="http://va6.thand.info/0hsfy957uswi2cgypg23"]
 descargasnsn.com##a[href*="://bit.ly/"]
 htcmania.com##a[href*="_banner.php?id="]
+ddmix.net##a[href*="aliexpress.com"]
 va6.thand.info##a[href*="http://www.physoi.eu/script/redirect.php?url=*"]
 dreamfilmhd.bz##a[href="http://bit.ly/1Lppy4T"]
 20minutos.es##a[href="http://boticariagarcia.com/"]
