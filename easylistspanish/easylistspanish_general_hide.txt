@@ -106,6 +106,7 @@
 ##.views-row-ads
 ##.vip-section-advertising
 ##.voc-advertising
+##.voc-oferplan
 ##.widget-publi
 ##.widget_text_publicidad
 ##.wrap-bnr
