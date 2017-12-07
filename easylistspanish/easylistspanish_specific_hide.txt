@@ -132,6 +132,7 @@ informe21.com###zone-user-wrapper
 diariolagrada.com##.Banner
 guadairainformacion.com##.Banner300x100
 animeflv.net##.Dvr300
+hipertextual.com##.M50B--md
 eldefinido.cl##.RP
 buscamultas.com##.TableWidget
 mediavida.com##._p-ft
