@@ -105,6 +105,7 @@
 ##.topads728
 ##.views-row-ads
 ##.vip-section-advertising
+##.voc-advertising
 ##.widget-publi
 ##.widget_text_publicidad
 ##.wrap-bnr
