@@ -189,6 +189,7 @@ $websocket,domain=descargasnsn.com
 ||marca.com/marcador/rfsh/marcador_portada/marcador.swf$domain=pornstarsyfamosas.es
 ||mediainterior.com.ar/images/
 ||megawarez.org/wp-content/uploads/*/banner
+||mejorenvo.com/publi$subdocument
 ||mejortorrent.com/includes/$subdocument
 ||meteoconsult.es/publicite/
 ||millionairedream.co^$third-party
