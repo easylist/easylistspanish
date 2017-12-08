@@ -355,6 +355,7 @@ losandes.com.ar##.sugerencias
 pescare.com.ar##.swf-banner-1
 pescare.com.ar##.swf-banner-2
 chacodiapordia.com##.td-a-rec
+aldeaviral.com##.td-header-sp-recs
 planbnoticias.com.ar##.text-4
 planbnoticias.com.ar##.text-7
 larazon.es##.textoPatrocinio
