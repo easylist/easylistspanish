@@ -8,6 +8,7 @@ comunio.es###advertising-top
 animeid.tv###ap
 abc.com.py###article-banner-comentarios
 fmvida.com.ar,inmonauta.es###banner
+viralizalo.com###banner-mega
 perfil.com###banner990
 diariotextual.com###bannerDiv
 pantallazo.com.uy###bannerEspeciales
