@@ -61,6 +61,7 @@
 @@||exclusivomen.com/jsad/advertisement.js$xmlhttprequest
 @@||expansion.com^$generichide
 @@||factoriadeficcion.com^$generichide
+@@||foro.nmn900.net/_nmn900/adsbygoogle.js$script,domain=foro.nmn900.net
 @@||fullpremiums.com/adblock.js$script,domain=fullpremiums.com
 @@||fullpremiums.com^$generichide
 @@||kjanime.net/link/advertisement.js$script,domain=kjanime.net
