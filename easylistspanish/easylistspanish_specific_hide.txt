@@ -288,6 +288,7 @@ atresplayer.com##.mod_roba
 larepublica.pe##.mol-bl_Cuponidad
 lavozdegalicia.es##.mujerhoy
 elheraldo.hn##.multimedia_taboola
+foro.nmn900.net##.nmn900_bottom_ad
 hsbnoticias.com##.node-advertisement
 gaceta.es##.node-anuncio-megabanner
 elnueve.com##.note-home-container--1-space
