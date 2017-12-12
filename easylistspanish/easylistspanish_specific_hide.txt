@@ -184,6 +184,7 @@ eleconomista.es##.bankia-cuerda
 hipertextual.com##.banner--evento
 ushuaianoticias.com##.banner-970
 elonce.com##.banner-a
+misionescuatro.com##.banner-ad-not-top
 adnradio.cl##.banner-ancho
 adnradio.cl##.banner-ancho-movil
 elonce.com##.banner-b
