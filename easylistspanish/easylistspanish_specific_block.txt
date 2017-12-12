@@ -194,6 +194,7 @@ $websocket,domain=descargasnsn.com
 ||meteoconsult.es/publicite/
 ||millionairedream.co^$third-party
 ||misandria.info/images/JURIS.jpg
+||misionescuatro.com/wp-content/uploads/*.gif
 ||mlstatic.com/img/mclics-images-merchAds
 ||mmedia.20m.es/modulos/pastillas/nuevas/pastillas/Home/Gonzoogenerica.png
 ||montevideo.com.uy/clima/imagenes/claroclima
