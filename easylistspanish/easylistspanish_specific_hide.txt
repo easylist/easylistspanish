@@ -128,6 +128,7 @@ burbuja.info###wfg_ad-MPU1
 burbuja.info###wfg_ad-MPU2
 mundodeportivo.com###widget-mdcribeo-loultimo
 realbetisbalompie.es###widget_banners
+misionescuatro.com###wrapper-20
 misionescuatro.com###wrapper-65
 misionescuatro.com###wrapper-7
 elblog.com###z_pub_inf_new
