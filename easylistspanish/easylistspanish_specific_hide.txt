@@ -60,6 +60,7 @@ cinestrenostv.tv,vercanalestv.com,verdirectotv.com###closeX1
 cinestrenostv.tv###closeX2
 verdirectotv.com###closeX23
 montevideo.com.uy###conectab
+elcucodigital.com###custom_html-53
 elcucodigital.com###custom_html-54
 publico.es###decine21_widget_estrenos
 forocoches.com###div-300x250
