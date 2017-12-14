@@ -95,6 +95,7 @@ dle.rae.es###opciones > #patrocinio
 eldefinido.cl###pub
 tiendeo.com.ar###publiRightContainer
 ddmix.net###publicidaddescarga1
+elcucodigital.com###publitopfondo
 ehowenespanol.com###radlinks
 realbetisbalompie.es###right-banners
 nomellamesfriki.com###shopall1
