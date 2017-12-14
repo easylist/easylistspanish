@@ -288,6 +288,7 @@ marca.com##.flex-b-promociones
 elmundo.es##.flex__publi
 loteriasmundiales.com.ar##.fondo_column_publi2
 elcucodigital.com##.fullwidthabanner
+elcucodigital.com##.fullwidthbanner-container
 yorokobu.es##.fw-container
 peru21.pe##.hiraoka
 emprendices.co##.homepage-widget > #text-16
