@@ -79,6 +79,7 @@ diariotextual.com###gkRightBottom
 diariotextual.com###gkRightTop
 telesemana.com###header-banner
 interviu.es###headerBanner
+telesemana.com###highlights-banner
 realbetisbalompie.es###horizotal-banners
 tribunaavila.com,tribunaburgos.com,tribunaleon.com,tribunapalencia.com,tribunasalamanca.com,tribunasegovia.com,tribunasoria.com,tribunavalladolid.com,tribunazamora.com###interstitial_container
 supremacy1914.es###kbg
