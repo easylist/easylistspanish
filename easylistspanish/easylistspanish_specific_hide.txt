@@ -76,6 +76,7 @@ tvenganchado.com###g
 gente.com.ar###generico
 diariotextual.com###gkRightBottom
 diariotextual.com###gkRightTop
+telesemana.com###header-banner
 interviu.es###headerBanner
 realbetisbalompie.es###horizotal-banners
 tribunaavila.com,tribunaburgos.com,tribunaleon.com,tribunapalencia.com,tribunasalamanca.com,tribunasegovia.com,tribunasoria.com,tribunavalladolid.com,tribunazamora.com###interstitial_container
