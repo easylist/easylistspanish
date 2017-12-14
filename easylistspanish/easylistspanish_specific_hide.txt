@@ -119,6 +119,7 @@ diariovictoria.com.ar,elsigloweb.com###text-6
 telesemana.com###text-69
 diariovictoria.com.ar###text-7
 livenumetal.es###text-7 > .textwidget
+telesemana.com###text-86
 telesemana.com###text-87
 elcolombiano.com###tiquetesMasBaratos
 abc.com.py###top-banners
