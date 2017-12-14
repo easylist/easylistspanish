@@ -2,6 +2,7 @@
 ||adturtle.biz^$third-party
 ||ainder.club^$third-party
 ||algocashmaster.com^$third-party
+||brand.ad^$third-party
 ||canuckmethodprofit.co^$third-party
 ||cinmaland.com^$third-party
 ||copiapop.net^$third-party
