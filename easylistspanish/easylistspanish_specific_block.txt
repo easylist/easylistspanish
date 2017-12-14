@@ -87,6 +87,7 @@ $websocket,domain=descargasnsn.com
 ||ecestaticos.com/file/127008ee463cd1776595c5cf2b0ff780/1434970380.png
 ||ecestaticos.com/file/c321612b3020bee67701c43d5d3129f7/1434970318.png
 ||elancasti.com.ar/u/banners/
+||elcucodigital.com/*.gif
 ||eldestapeweb.com/adjuntos/177/banners/
 ||eldiariodelapampa.com.ar/images/banners/
 ||eldiariodemadryn.com/wp-content/themes/ElDiario_2017_bootstrap/images/Ecoplas-Banner-300x250px-1.gif
