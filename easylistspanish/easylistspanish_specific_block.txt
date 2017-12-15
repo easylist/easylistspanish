@@ -41,6 +41,7 @@ $websocket,domain=descargasnsn.com
 ||aurora-israel.co.il/wp-content/themes/Newspaper/bannersswf/
 ||aurora-israel.co.il/wp-content/uploads/2016/06/oren_shabat555.jpg
 ||azarplus.com/fotos/banners
+||azarplus.com/includes/greybox/AJS.js
 ||babalonia.com/images/promo/*.gif
 ||biodiesel.com.ar/wp-content/uploads/2016/07/00.gif
 ||biodiesel.com.ar/wp-content/uploads/2017/10/Banner-Biodiesel-300x180-px-1.gif
