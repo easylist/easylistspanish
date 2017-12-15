@@ -235,6 +235,7 @@ gente.com.ar##.bannerSide
 animeid.io##.banner_center
 miltorrents.com##.banner_detail_files
 miltorrents.com##.banner_detail_top
+azarplus.com##.bannerfijoizda2
 ennaranja.com##.bannering
 elliberal.com.ar##.bannernota
 elliberal.com.ar##.bannernota2
