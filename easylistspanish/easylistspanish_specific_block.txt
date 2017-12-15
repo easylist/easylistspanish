@@ -324,6 +324,7 @@ $websocket,domain=descargasnsn.com
 ! Anti-Adblock
 ||el-mundo.net/js/fm*.js$script
 ||exabytetv.info/wp-content/plugins/wp-adblock-dedect/
+||gtsstatic.com/static/mscripts/index_457.js
 ||motociclismo.es/js/compiled_blockadblock_15.js
 ||noticiasdelaciencia.com/libs_oss/adblock/
 ||vocento.com/adbd/
