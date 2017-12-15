@@ -94,7 +94,7 @@ elmundo.es###modulo_buscador_sv
 cadena3.com###mundo-descuento
 chrissysinvite.co###myModal
 dle.rae.es###opciones > #patrocinio
-esgentside.com###pave_haut
+esgentside.com,ohmirevista.com###pave_haut
 eldefinido.cl###pub
 tiendeo.com.ar###publiRightContainer
 ddmix.net###publicidaddescarga1
