@@ -233,6 +233,7 @@ breves24.com.ar##.banner5
 interviu.es##.bannerBlock
 gente.com.ar##.bannerSide
 animeid.io##.banner_center
+miltorrents.com##.banner_detail_files
 miltorrents.com##.banner_detail_top
 ennaranja.com##.bannering
 elliberal.com.ar##.bannernota
