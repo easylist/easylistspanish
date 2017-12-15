@@ -244,6 +244,7 @@ iprofesional.com##.bannerpremiumnh
 azarplus.com,fm899.com.ar##.banners
 180.com.uy##.banners-side-container
 tiemposur.com.ar##.banners_flash
+azarplus.com##.bannerskinhome
 gente.com.ar##.bannnerTop
 tumomo.com##.bderecho
 ebay.es##.beta-placement
