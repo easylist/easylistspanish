@@ -38,6 +38,7 @@
 ##.container-ads
 ##.containerOas
 ##.contenedor_superior_publi
+##.des-adv
 ##.dfp-queue
 ##.envoltorio_publi
 ##.ep-pub
