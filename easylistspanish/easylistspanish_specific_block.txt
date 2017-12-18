@@ -99,6 +99,7 @@ $websocket,domain=descargasnsn.com
 ||elmundo.es^*/patrocinador/
 ||elotrolado.net^*.php?mode=
 ||elpatagonico.com/adjuntos/193/banners/
+||elpuntodeequilibrio.com/assets/banners/
 ||emol.com/_portada/cajasecciones/cajaeconomicos.aspx
 ||emol.com/www/noticias/sqn.php?zones=
 ||ennaranja.com/wp-content/themes/ingblog-fa/assets/images/logoing.png
