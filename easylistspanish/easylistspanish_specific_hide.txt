@@ -303,6 +303,7 @@ emprendices.co##.homepage-widget > #text-16
 diaridegirona.cat##.iberpi_cajaext
 sipse.com##.insterstitial
 sipse.com##.leaderboard
+ehowenespanol.com##.leaderboard-wrap
 laprovincia.es##.listaofertas
 lavanguardia.com##.lv-publi-box
 blancas.cl,paginasblancas.com.ar,paginasblancas.com.pe##.m-pod-promo-image
