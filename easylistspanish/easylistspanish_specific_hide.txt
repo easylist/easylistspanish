@@ -298,6 +298,7 @@ loteriasmundiales.com.ar##.fondo_column_publi2
 elcucodigital.com##.fullwidthabanner
 elcucodigital.com##.fullwidthbanner-container
 yorokobu.es##.fw-container
+ehowenespanol.com##.gpt_300
 peru21.pe##.hiraoka
 emprendices.co##.homepage-widget > #text-16
 diaridegirona.cat##.iberpi_cajaext
