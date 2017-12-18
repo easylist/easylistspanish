@@ -207,7 +207,7 @@ voydeviaje.com.ar##.banner-billboard-wrapper
 elonce.com##.banner-c
 capital.cl##.banner-capital
 noticiasurbanas.com.ar##.banner-center
-apertura.com,elnueve.com,infotechnology.com##.banner-container
+apertura.com,elnueve.com,elpuntodeequilibrio.com,infotechnology.com##.banner-container
 elonce.com##.banner-d
 elonce.com##.banner-e
 elonce.com##.banner-f
