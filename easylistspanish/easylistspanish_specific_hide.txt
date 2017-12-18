@@ -326,6 +326,7 @@ elheraldo.co##.pauta
 infobae.com##.pb-f-utilities-ad
 planbnoticias.com.ar##.penci-featured-cat-custom-ads
 descargar.mobi##.placeholder__item--banner
+casinonewsdaily.es##.popup-promo
 diario.mx##.portada_1LB
 diario.mx##.portada_1MT
 eldia.com,infoplatense.com.ar##.ppp
