@@ -1,3 +1,4 @@
+$webrtc,domain=pelispedia.tv
 $websocket,domain=descargasnsn.com
 /*badge*.png$domain=rpp.pe
 /static/BB3HTML/images/*sponsor*.png$domain=diariodecadiz.es|diariodejerez.es|diariodesevilla.es|elalmeria.es|eldiadecordoba.es|europasur.es|granadahoy.com|huelvainformacion.es|malagahoy.es
