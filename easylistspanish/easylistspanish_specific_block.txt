@@ -211,6 +211,7 @@ $websocket,domain=descargasnsn.com
 ||mundodescuento.s3.amazonaws.com^$domain=cadena3.com
 ||musiquiatra.com/uploads/banners
 ||netuy.net/banner_hosting_uruguay/
+||newpct1.com/pct1/publicidad/$subdocument
 ||newsweeklatino.com/flow/
 ||noddus.com/widget_campaign?$domain=sport.es
 ||noticias3d.com/imagenes/banners/
