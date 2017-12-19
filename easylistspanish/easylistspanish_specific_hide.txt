@@ -374,6 +374,7 @@ muyinteresante.es##.roba2
 muyinteresante.es##.roba2_movil
 lapoliticaonline.com##.section-banner
 ushuaianoticias.com##.side-banner
+newpct1.com##.sidebar
 cuyonoticias.com##.sidebar > #text-html-widget-11
 megawarez.org##.sidebar-ads
 diariocorreo.pe##.sidebar-zonahogar
