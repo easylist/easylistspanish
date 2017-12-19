@@ -475,6 +475,7 @@ la-razon.com##div[style="position:absolute; top:12px; width:970px; height:90px; 
 newpct1.com##div[style="position:relative;margin-left:-30px;width:639px;min-height:1px;overflow:hidden;"]
 cuartopoder.es##div[style="text-align:center; margin-bottom: 15px; background-color:#F4F4F4;width: 302px;"]
 cuartopoder.es##div[style="text-align:center; margin-bottom: 15px; background-color:#F4F4F4;width: 728px;"]
+torrentlocura.com##div[style="text-align:center;padding:0px;width:100%;"]
 ahorradororata.com##div[style="width: 300px; height: 600px;"]
 ahorradororata.com##div[style="width: 640px; height: 480px;"]
 ahorradororata.com##div[style="width: 728px; height: 90px;"]
