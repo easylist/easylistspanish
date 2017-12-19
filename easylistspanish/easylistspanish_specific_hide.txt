@@ -349,6 +349,7 @@ lavoz.com.ar##.producto-tienda
 rumbo.es##.promo262x90
 peliculas69.com##.pub
 divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,torrentrapid.com,tumejortorrent.com##.pub300x250
+newpct1.com##.pub468x80
 divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,torrentrapid.com,tumejortorrent.com##.pub728x90
 diaridegirona.cat##.pub_340x250
 diario.mx##.pub__portada
