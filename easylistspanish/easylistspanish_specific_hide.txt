@@ -457,6 +457,7 @@ entornointeligente.com##div[style="clear:both;width:100%;background-color: #EFEF
 entornointeligente.com##div[style="clear:both;width:100%;background-color: #EFEFEF;height:90px;"]
 elitetorrent.net##div[style="color:#ccc;font-size:10px;text-align:right;margin-bottom:20px;"]
 newpct1.com##div[style="float:left;width:100%;height:160px;"]
+torrentlocura.com##div[style="float:left;width:100%;height:275px;margin:0px 0px 20px 0px;"]
 newpct1.com##div[style="float:left;width:100%;height:90px;"]
 torrentlocura.com##div[style="float:left;width:100%;min-height:1px;margin:20px 0px 10px 0px;"]
 newpct1.com##div[style="float:left;width:100%;min-height:1px;margin:4px 0px 4px 0px;"]
