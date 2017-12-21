@@ -214,7 +214,7 @@ $websocket,domain=descargasnsn.com
 ||netuy.net/banner_hosting_uruguay/
 ||newpct1.com/pct1/publicidad/$subdocument
 ||newsweeklatino.com/flow/
-||noddus.com/widget_campaign?$domain=sport.es
+||noddus.com^$domain=sport.es
 ||noticias3d.com/imagenes/banners/
 ||noticiasdel6.com/*.gif
 ||noticiasdelaciencia.com/upload/img/periodico/img_2972.jpg
