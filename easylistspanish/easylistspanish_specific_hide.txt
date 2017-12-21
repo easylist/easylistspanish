@@ -306,6 +306,7 @@ sipse.com##.insterstitial
 sipse.com##.leaderboard
 ehowenespanol.com##.leaderboard-wrap
 laprovincia.es##.listaofertas
+sport.es##.logoadvertiser
 lavanguardia.com##.lv-publi-box
 blancas.cl,paginasblancas.com.ar,paginasblancas.com.pe##.m-pod-promo-image
 tandildiario.com##.mainContainerBanner
