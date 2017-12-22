@@ -72,6 +72,7 @@
 @@||megawarez.org^$generichide
 @@||menshealth.es^$generichide
 @@||mialojamiento.es^$generichide
+@@||mitele.es^$generichide
 @@||motociclismo.es^$generichide
 @@||mundodesconocido.es^$generichide
 @@||mundokodi.com^$generichide
