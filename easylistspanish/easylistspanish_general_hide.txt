@@ -24,6 +24,7 @@
 ##.PublicidadCabecera
 ##.ad-300x250-solo
 ##.ad-tl2b
+##.ad_728_90_page
 ##.ad_dfp_estandar
 ##.adcontainer-portlet
 ##.ads-block-panel-tipo-1
