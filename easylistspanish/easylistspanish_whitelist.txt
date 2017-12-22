@@ -35,6 +35,7 @@
 @@||09stream.com/reproductores/adblock.js
 @@||active.cache.el-mundo.net/js/advertisement.js
 @@||akamaihd.net/*/defaultview/*/fuckadblock.js$script,third-party,xmlhttprequest,domain=mitele.es
+@@||akamaihd.net/defaultview/adjs.js$script,third-party,xmlhttprequest,domain=mitele.es
 @@||animeflv.net/js/ads.js$script,domain=animeflv.net
 @@||arenavision.ru^$generichide
 @@||atresplayer.com^$generichide
