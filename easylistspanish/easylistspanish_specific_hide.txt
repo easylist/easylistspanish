@@ -159,6 +159,7 @@ cuatro.com,divinity.es,elconfidencial.com,elsol.com.ar,telecinco.es##.ad
 milenio.com##.ad-box1
 milenio.com##.ad-box2
 autoblog.com.ar##.ad-header-right
+mitele.es##.ad-wrapper
 ratingcero.com##.ad01-obj
 elpatagonico.com##.ad02-obj
 smnoticias.com,smnoticias.info##.ad2
