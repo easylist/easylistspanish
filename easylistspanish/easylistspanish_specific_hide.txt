@@ -402,6 +402,7 @@ peliculasaudiolatino.com##.topads728
 elpopular.mx##.tp-centro
 hoylosangeles.com##.trb_taboola
 larazon.es##.vinculoPatrocinio
+equipar.es##.widget_custom_html
 st1.idealista.com##.widget_idealista
 hipertextual.com##.wrapperBanner
 nuevodiarioweb.com.ar##.zona_banners
