@@ -311,6 +311,7 @@ diaridegirona.cat##.iberpi_cajaext
 sipse.com##.insterstitial
 sipse.com##.leaderboard
 ehowenespanol.com##.leaderboard-wrap
+eldeber.com.bo##.leftSidebar
 laprovincia.es##.listaofertas
 sport.es##.logoadvertiser
 lavanguardia.com##.lv-publi-box
