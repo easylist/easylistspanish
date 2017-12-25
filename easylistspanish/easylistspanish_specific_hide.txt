@@ -156,6 +156,7 @@ eldefinido.cl##.RP
 buscamultas.com##.TableWidget
 mediavida.com##._p-ft
 mediavida.com##._p-tp
+equipar.es##.aalb-pa-ad-unit
 cuatro.com,divinity.es,elconfidencial.com,elsol.com.ar,telecinco.es##.ad
 milenio.com##.ad-box1
 milenio.com##.ad-box2
