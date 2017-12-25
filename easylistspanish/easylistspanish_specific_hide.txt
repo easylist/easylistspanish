@@ -292,6 +292,7 @@ laprovincia.es##.dcham2
 lavanguardia.com##.div-patrocinado5
 diariodesevilla.es##.ePubli1
 elcomercio.pe##.ec-club
+eldeber.com.bo##.ed-ads
 cronista.com##.entry-box-banner
 elespectador.com##.external-logos
 peliculas69.com##.fake
