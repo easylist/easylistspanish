@@ -197,6 +197,7 @@ $websocket,domain=descargasnsn.com
 ||megawarez.org/wp-content/uploads/*/banner
 ||mejorenvo.com/publi$subdocument
 ||mejortorrent.com/includes/$subdocument
+||meridiano.com.ve/Picfiles/logo-merbet_96x34.png
 ||meteoconsult.es/publicite/
 ||millionairedream.co^$third-party
 ||misandria.info/images/JURIS.jpg
