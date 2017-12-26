@@ -255,6 +255,7 @@ $websocket,domain=descargasnsn.com
 ||planbnoticias.com.ar/pb/wp-content/uploads/publicidades/
 ||practisistemas.com/images/home/claro.png
 ||practisistemas.com/images/home/movistar.png
+||practisistemas.com/images/home/tigo.png
 ||publicidad.milenio.com/
 ||px.fotos.cdn.0223.com.ar/f/5399f9f213cd649c19000009/
 ||px.fotos.cdn.0223.com.ar/f/539f4f6c5408217c16000029/
