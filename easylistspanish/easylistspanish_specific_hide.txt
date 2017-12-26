@@ -157,6 +157,7 @@ buscamultas.com##.TableWidget
 practisistemas.com##.Txt_PROMOCIONES
 practisistemas.com##.Txt_Promociones
 practisistemas.com##.Txt_promoclaro
+practisistemas.com##.Txt_promomovistar
 practisistemas.com##.Txt_promotigo
 mediavida.com##._p-ft
 mediavida.com##._p-tp
