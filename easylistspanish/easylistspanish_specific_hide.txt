@@ -154,6 +154,7 @@ animeflv.net##.Dvr300
 hipertextual.com##.M50B--md
 eldefinido.cl##.RP
 buscamultas.com##.TableWidget
+practisistemas.com##.Txt_Promociones
 mediavida.com##._p-ft
 mediavida.com##._p-tp
 equipar.es##.aalb-pa-ad-unit
