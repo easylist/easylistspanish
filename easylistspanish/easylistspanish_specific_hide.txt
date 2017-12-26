@@ -154,6 +154,7 @@ animeflv.net##.Dvr300
 hipertextual.com##.M50B--md
 eldefinido.cl##.RP
 buscamultas.com##.TableWidget
+practisistemas.com##.Txt_PROMOCIONES
 practisistemas.com##.Txt_Promociones
 practisistemas.com##.Txt_promoclaro
 practisistemas.com##.Txt_promotigo
