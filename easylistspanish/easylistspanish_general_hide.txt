@@ -41,6 +41,7 @@
 ##.contenedor_superior_publi
 ##.des-adv
 ##.dfp-queue
+##.div_publicidad
 ##.envoltorio_publi
 ##.ep-pub
 ##.find_bar_publicidades
