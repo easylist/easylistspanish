@@ -42,6 +42,7 @@
 ##.des-adv
 ##.dfp-queue
 ##.div_publicidad
+##.div_publicidades
 ##.envoltorio_publi
 ##.ep-pub
 ##.find_bar_publicidades
