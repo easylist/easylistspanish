@@ -167,6 +167,7 @@ cuatro.com,divinity.es,elconfidencial.com,elsol.com.ar,telecinco.es##.ad
 milenio.com##.ad-box1
 milenio.com##.ad-box2
 autoblog.com.ar##.ad-header-right
+juegosdecanciones.net##.ad-latest
 mitele.es##.ad-wrapper
 ratingcero.com##.ad01-obj
 elpatagonico.com##.ad02-obj
