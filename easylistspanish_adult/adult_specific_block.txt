@@ -8,3 +8,4 @@
 ||paraisowebcam.com^$subdocument,third-party
 ||ra.poringa.net^
 ||teatroporno.com/ai/
+||todorelatos.com/images/*.gif
