@@ -67,6 +67,7 @@
 @@||foro.nmn900.net/_nmn900/adsbygoogle.js$script,domain=foro.nmn900.net
 @@||fullpremiums.com/adblock.js$script,domain=fullpremiums.com
 @@||fullpremiums.com^$generichide
+@@||jovenesweb.com/plugins/ABchecker/src/advertisement.js$script,domain=jovenesweb.com
 @@||kjanime.net/link/advertisement.js$script,domain=kjanime.net
 @@||latelete.tv^$generichide
 @@||levante-emv.com^$generichide
