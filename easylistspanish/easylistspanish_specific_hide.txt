@@ -7,6 +7,7 @@ ftail.tv,shippuden.tv###ads
 eltiempo.es###ads_position_2
 comunio.es###advertising-right
 comunio.es###advertising-top
+cualesmiip.com###anuncio
 animeid.tv###ap
 abc.com.py###article-banner-comentarios
 telesemana.com###author-banner
