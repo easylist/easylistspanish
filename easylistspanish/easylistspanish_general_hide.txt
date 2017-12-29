@@ -19,6 +19,7 @@
 ###publicidad_subir
 ###publicidad_superior
 ###slider-oferplan
+###titulo-publicidad
 ##.Adboost300x250
 ##.Adboost300x600
 ##.PublicidadCabecera
