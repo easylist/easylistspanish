@@ -64,6 +64,7 @@ $websocket,domain=descargasnsn.com
 ||corrienteshoy.com/files/banners/
 ||cronista.com/arte/pcwlogo.png
 ||css01.lavanguardia.com/imagenes/cajaHTML/loterias.gif
+||cualesmiip.com/images/banner
 ||cuartopoder.es//images/MovistarFusion.jpg
 ||cuponidad.pe^$domain=elpopular.pe|larepublica.pe|libero.pe
 ||defiendase.com/media/file/2014/Publicidades/
