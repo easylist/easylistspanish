@@ -275,6 +275,7 @@ $websocket,domain=descargasnsn.com
 ||radiosantiago.cl/wp-content/uploads/2017/02/unimarc-228x76.jpg
 ||rae.es/sites/all/common/images/logos/
 ||realpolitik.com.ar/uploads/banners/
+||recambios-expres.es/medias/oil-bundle-oil-es.png
 ||red92.com/images/uploaded/spots/
 ||religionenlibertad.com/imgpbs/
 ||republica.com.uy/wp-content/banners/
