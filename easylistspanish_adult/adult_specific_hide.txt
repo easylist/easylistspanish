@@ -12,5 +12,6 @@ hitomi.la##.hitomi-birestra
 muyzorras.com##.pds
 torrentesx.com##.slide
 pajarracos.es##.vp
+spalumi.com##a[href*="http://www.adcean.com/"]
 pajarracos.es##a[href^="http://www.fresalia.com/"]
 pajarracos.es##a[href^="http://www.fuegodevida.com/"]
