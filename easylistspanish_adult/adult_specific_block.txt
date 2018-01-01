@@ -8,6 +8,7 @@
 ||paraisowebcam.com^$subdocument,third-party
 ||ra.poringa.net^
 ||spalumi.com/a1.gif
+||spalumi.com/a4b.gif
 ||spalumi.com/floating.gif
 ||spalumi.com/macrocleo3.gif
 ||spalumi.com/nlp2.gif
