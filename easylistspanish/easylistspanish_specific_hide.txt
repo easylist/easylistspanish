@@ -195,6 +195,7 @@ elespanol.com,elsol.com.ar##.adv
 tribunaavila.com,tribunaburgos.com,tribunaleon.com,tribunapalencia.com,tribunasalamanca.com,tribunasegovia.com,tribunasoria.com,tribunavalladolid.com,tribunazamora.com##.advertising
 vibbo.com##.advertisingTop
 20minutos.es##.adx
+vibbo.com##.afs-block
 htcmania.com##.afterlogo
 androidpit.es##.appSlider
 libertaddigital.com##.apuestas
