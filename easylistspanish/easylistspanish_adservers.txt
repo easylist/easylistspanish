@@ -7,6 +7,7 @@
 ||cinmaland.com^$third-party
 ||copiapop.net^$third-party
 ||kwinder.club^$third-party
+||mmoframes.com^$third-party
 ||niceduckies.com^$third-party
 ||onclicktop.com^$third-party
 ||palmshapednontransferable.com^$third-party
