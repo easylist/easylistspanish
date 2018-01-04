@@ -396,6 +396,7 @@ muyinteresante.es##.roba1_movil
 muyinteresante.es##.roba2
 muyinteresante.es##.roba2_movil
 lapoliticaonline.com##.section-banner
+seriesanimadas.net##.section-right > .BoxContent:nth-of-type(2)
 ushuaianoticias.com##.side-banner
 newpct1.com##.sidebar
 cuyonoticias.com##.sidebar > #text-html-widget-11
