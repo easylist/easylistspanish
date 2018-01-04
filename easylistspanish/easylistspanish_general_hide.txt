@@ -108,6 +108,7 @@
 ##.publicidad_modulo2
 ##.publicidad_titulo
 ##.publicidad_tras_bajada
+##.publicity-content
 ##.publitop
 ##.roba-container
 ##.robapagina
