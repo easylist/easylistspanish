@@ -109,6 +109,7 @@
 ##.publicidad_titulo
 ##.publicidad_tras_bajada
 ##.publicity-content
+##.publicity-content-google
 ##.publitop
 ##.roba-container
 ##.robapagina
