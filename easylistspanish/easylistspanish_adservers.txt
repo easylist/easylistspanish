@@ -13,3 +13,4 @@
 ||palmshapednontransferable.com^$third-party
 ||supportcorner.co^$third-party
 ||the-ufo.com^$third-party
+||vitalads.net^$third-party
