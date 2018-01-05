@@ -345,7 +345,7 @@ elmundo.es##.other-services
 meteoconsult.es##.partenaire_simple
 meteoconsult.es##.partenaire_simple_home
 chacohoy.com,corrienteshoy.com##.pasli
-elmundo.es,lavozdegalicia.es##.patrocinio
+elmundo.es,expansion.com,lavozdegalicia.es##.patrocinio
 elheraldo.co##.pauta
 infobae.com##.pb-f-utilities-ad
 planbnoticias.com.ar##.penci-featured-cat-custom-ads
