@@ -536,4 +536,4 @@ divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,torrentrap
 eluniversal.com##p[style="color: rgb(144, 144, 144); background-color: rgb(235, 235, 235);font-size: 12px;padding-left:5px;"]
 apfdigital.com.ar##p[style="margin:2px auto 2px auto;padding:2px 2px 2px 2px;border:0px solid #999999; background-color:#f0f0f0; overflow:hidden;"]
 ! Anti-Adblock
-espinof.com##.ad
+espinof.com,vidaextra.com##.ad
