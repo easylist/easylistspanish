@@ -389,6 +389,7 @@ salpimenta.com.ar##.quadro-ads-widget-1col
 televisa.com##.rapid_banner_home
 televisa.com##.rapid_banner_sidebar
 sipse.com##.rectangle
+expansion.com##.retargetting
 eldeber.com.bo##.rightSidebar
 diariosur.es,diariovasco.com,digitalcamera.es,elcomercio.es,elcorreo.com,eldiariomontanes.es,elnortedecastilla.es,hoy.es,ideal.es,larioja.com,lasprovincias.es,laverdad.es,leonoticias.com,primeralinea.es,publico.es##.roba
 muyinteresante.es##.roba1
