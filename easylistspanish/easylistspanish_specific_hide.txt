@@ -424,6 +424,7 @@ planbnoticias.com.ar##.text-7
 larazon.es##.textoPatrocinio
 mitele.es##.titleList.DestacadoBox.clearfix.ModuleSimple:last-child
 elpopular.mx##.todopuebla
+reverso.net##.top-horizontal
 peliculasaudiolatino.com##.topads728
 reverso.net##.toprightdiv
 elpopular.mx##.tp-centro
