@@ -423,6 +423,7 @@ larazon.es##.textoPatrocinio
 mitele.es##.titleList.DestacadoBox.clearfix.ModuleSimple:last-child
 elpopular.mx##.todopuebla
 peliculasaudiolatino.com##.topads728
+reverso.net##.toprightdiv
 elpopular.mx##.tp-centro
 hoylosangeles.com##.trb_taboola
 reverso.net##.vda-block
