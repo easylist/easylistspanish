@@ -329,6 +329,7 @@ sipse.com##.leaderboard
 ehowenespanol.com##.leaderboard-wrap
 eldeber.com.bo##.leftSidebar
 laprovincia.es##.listaofertas
+reverso.net##.locdrcas
 sport.es##.logoadvertiser
 lavanguardia.com##.lv-publi-box
 blancas.cl,paginasblancas.com.ar,paginasblancas.com.pe##.m-pod-promo-image
