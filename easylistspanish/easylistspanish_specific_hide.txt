@@ -137,6 +137,7 @@ ecuavisa.com###topbar
 dinostream.pw,verdirectotv.org###total
 dinostream.pw###total2
 dinostream.pw###total3
+reverso.net###vdasection
 latino-webtv.com###ventana-flotante
 burbuja.info###wfg_ad-LDB1
 burbuja.info###wfg_ad-LDB2
