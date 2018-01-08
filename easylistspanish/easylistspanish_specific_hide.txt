@@ -92,6 +92,7 @@ supremacy1914.es###kbg
 freepik.es###layer_coupon
 pordede.com###lean_overlay
 diariocronica.com.ar###lik
+reverso.net###locdbanner
 diario.mx###main__dehit
 todocvcd.com###mbanner
 elmundo.es###modulo_buscador_sv
