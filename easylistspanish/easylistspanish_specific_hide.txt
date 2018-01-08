@@ -431,6 +431,7 @@ elpopular.mx##.tp-centro
 hoylosangeles.com##.trb_taboola
 reverso.net##.vda-block
 reverso.net##.vda-section
+reverso.net##.verticalbox
 larazon.es##.vinculoPatrocinio
 equipar.es##.widget_custom_html
 st1.idealista.com##.widget_idealista
