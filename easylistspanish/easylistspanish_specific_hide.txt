@@ -424,6 +424,7 @@ elpopular.mx##.todopuebla
 peliculasaudiolatino.com##.topads728
 elpopular.mx##.tp-centro
 hoylosangeles.com##.trb_taboola
+reverso.net##.vda-block
 larazon.es##.vinculoPatrocinio
 equipar.es##.widget_custom_html
 st1.idealista.com##.widget_idealista
