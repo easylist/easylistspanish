@@ -265,6 +265,7 @@ elliberal.com.ar##.bannernota3
 eldiarionuevodia.com.ar##.bannerpopup
 iprofesional.com##.bannerpremiumnh
 azarplus.com,fm899.com.ar##.banners
+planetabocajuniors.com.ar##.banners-rotate
 180.com.uy##.banners-side-container
 tiemposur.com.ar##.banners_flash
 azarplus.com##.bannerskinhome
