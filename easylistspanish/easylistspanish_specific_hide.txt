@@ -277,6 +277,7 @@ tumomo.com##.bizquierdo
 larepublica.pe##.bl-cuponidad
 elpopular.pe##.block-block-json-cuponidad-sidebar
 vix.com##.block-crvt-adbtgmedia
+planetabocajuniors.com.ar##.bloque-secondary
 diariolaprovinciasj.com,infofueguina.com##.bnn
 diariodecuyo.com.ar##.bnr
 mundodeportivo.com##.bolarosa
