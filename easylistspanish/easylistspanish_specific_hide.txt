@@ -202,6 +202,7 @@ htcmania.com##.afterlogo
 androidpit.es##.appSlider
 libertaddigital.com##.apuestas
 perfil.com##.ark-ad-block
+planetabocajuniors.com.ar##.article-banner
 windowscracker1.blogspot.com.es##.at4-whatsnext-outer-container
 larepublica.pe##.atm-banner-middle
 larepublica.pe##.atm-banner-strip
