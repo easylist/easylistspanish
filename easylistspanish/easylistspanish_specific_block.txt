@@ -254,6 +254,7 @@ $websocket,domain=descargasnsn.com
 ||planbnoticias.com.ar/pb/wp-content/uploads/2017/11/catrilo-muni.jpg
 ||planbnoticias.com.ar/pb/wp-content/uploads/2017/11/red-habita2.jpg
 ||planbnoticias.com.ar/pb/wp-content/uploads/publicidades/
+||planetabocajuniors.com.ar/imagenes/jaen/
 ||practisistemas.com/images/home/claro.png
 ||practisistemas.com/images/home/movistar.png
 ||practisistemas.com/images/home/tigo.png
