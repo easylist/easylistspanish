@@ -314,6 +314,7 @@ eldeber.com.bo##.ed-ads
 cronista.com##.entry-box-banner
 elespectador.com##.external-logos
 peliculas69.com##.fake
+planetabocajuniors.com.ar##.featured-banner
 estadiodeportivo.whitelabel.kelisto.es##.finance
 cronica.com.ar##.fixed-banner
 marca.com##.flex-b-promociones
