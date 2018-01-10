@@ -161,6 +161,7 @@ $websocket,domain=descargasnsn.com
 ||imgur.com/nUEuHxd.png
 ||imgur.com/WI1faon.png
 ||impulsobaires.com.ar/uploads/banners/
+||infoban.com.ar/imgpublicidad/
 ||infocanuelas.com/media/banner/
 ||infocielo.com/uploads/banners/
 ||infofueguina.com/u/banners/
