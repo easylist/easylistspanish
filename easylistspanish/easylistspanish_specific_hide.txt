@@ -391,7 +391,7 @@ tiempo.com.mx##.publi-5
 tiempo.com.mx##.publi-6
 elonce.com##.publi-top
 meristation.as.com,meristation.com.mx##.publi1
-diario.mx,eltribuno.info,expansion.com,laizquierdadiario.com,latercera.com,motociclismo.es,okdiario.com,publico.es##.publicidad
+diario.mx,eltribuno.info,expansion.com,laizquierdadiario.com,latercera.com,lne.es,motociclismo.es,okdiario.com,publico.es##.publicidad
 noticiasdel6.com##.publii
 intereconomia.tv##.pum-overlay
 salpimenta.com.ar##.quadro-ads-widget-1col
