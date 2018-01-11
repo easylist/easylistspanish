@@ -183,6 +183,7 @@ $websocket,domain=descargasnsn.com
 ||lagacetadesalamanca.es/elementosWeb/gestionCajas/*.gif
 ||lagacetadesalamanca.es/elementosWeb/gestionCajas/*banner*.jpg
 ||lagacetadesalamanca.es/elementosWeb/gestionCajas/comun/Flash/
+||laloterianavidad.com/widgets/widget.html$subdocument,domain=lne.es
 ||lanoticia1.com/sites/default/files/*.gif
 ||laopinionsemanario.com.ar/sites/default/files/*.gif
 ||laprensa.com.ar/Multimedios/Ads/
