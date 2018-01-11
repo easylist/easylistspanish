@@ -75,6 +75,7 @@ forocoches.com###div-970x90_respuesta_final
 abcsaladillo.com.ar###div-abc_1024x100_arriba_logo
 perfil.com###div_blockTop_1
 lne.es###divderecha_1001
+lne.es###divderecha_1007
 lne.es###divderecha_1021
 laprovincia.es###divderecha_1050
 diaridegirona.cat###divderecha_1053
