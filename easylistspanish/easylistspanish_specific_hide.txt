@@ -77,6 +77,7 @@ perfil.com###div_blockTop_1
 lne.es###divderecha_1021
 laprovincia.es###divderecha_1050
 diaridegirona.cat###divderecha_1053
+lne.es###divderecha_1055
 estrenosdtl.com,moviesdvdr.com###f_find_bar
 abc.com.py###fullwidth-banner
 tvenganchado.com###g
