@@ -342,4 +342,5 @@ $websocket,domain=descargasnsn.com
 ||gtsstatic.com/static/mscripts/index_457.js
 ||motociclismo.es/js/compiled_blockadblock_15.js
 ||noticiasdelaciencia.com/libs_oss/adblock/
+||okdiario.com/app/4/js/check-blocker.js
 ||tumangaonline.com/img/adblock1.png
