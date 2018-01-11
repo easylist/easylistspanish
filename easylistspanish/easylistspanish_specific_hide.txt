@@ -329,6 +329,7 @@ cronica.com.ar##.fixed-banner
 marca.com##.flex-b-promociones
 elmundo.es##.flex__publi
 loteriasmundiales.com.ar##.fondo_column_publi2
+lne.es##.fondo_patrocicio
 elcucodigital.com##.fullwidthabanner
 elcucodigital.com##.fullwidthbanner-container
 yorokobu.es##.fw-container
