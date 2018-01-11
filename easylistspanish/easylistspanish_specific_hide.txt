@@ -311,6 +311,7 @@ force-download.es##.col-sm-2
 deportemixtv.info##.column-right-outer
 renfe.com##.comprabilletes
 tandildiario.com##.containerBannerDesplegable
+lne.es##.contenedor_widget_1col
 cronista.com##.content-banner
 elcolombiano.com##.contentBannerIntelecto
 slimdownload.co##.cssanimations
