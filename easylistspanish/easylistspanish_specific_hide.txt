@@ -338,6 +338,7 @@ lne.es##.fondo_patrocicio
 elcucodigital.com##.fullwidthabanner
 elcucodigital.com##.fullwidthbanner-container
 yorokobu.es##.fw-container
+rpp.pe##.gogoWidget3V
 ehowenespanol.com##.gpt_300
 peru21.pe##.hiraoka
 emprendices.co##.homepage-widget > #text-16
