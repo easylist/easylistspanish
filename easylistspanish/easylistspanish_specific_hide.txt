@@ -269,6 +269,7 @@ animeid.io##.banner_center
 rosariogarage.com##.banner_centro_inf
 miltorrents.com##.banner_detail_files
 miltorrents.com##.banner_detail_top
+bienesrosario.com##.banner_dinamic
 lne.es##.banner_doscolum
 bienesrosario.com,rosariogarage.com##.banner_sop
 bienesrosario.com,rosariogarage.com##.banner_superior
