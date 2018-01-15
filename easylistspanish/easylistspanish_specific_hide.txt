@@ -270,7 +270,7 @@ rosariogarage.com##.banner_centro_inf
 miltorrents.com##.banner_detail_files
 miltorrents.com##.banner_detail_top
 lne.es##.banner_doscolum
-rosariogarage.com##.banner_sop
+bienesrosario.com,rosariogarage.com##.banner_sop
 bienesrosario.com,rosariogarage.com##.banner_superior
 azarplus.com##.bannerfijodcha
 azarplus.com##.bannerfijoizda2
