@@ -269,6 +269,7 @@ miltorrents.com##.banner_detail_files
 miltorrents.com##.banner_detail_top
 lne.es##.banner_doscolum
 rosariogarage.com##.banner_sop
+rosariogarage.com##.banner_superior
 azarplus.com##.bannerfijodcha
 azarplus.com##.bannerfijoizda2
 ennaranja.com##.bannering
