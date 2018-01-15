@@ -271,6 +271,7 @@ miltorrents.com##.banner_detail_files
 miltorrents.com##.banner_detail_top
 bienesrosario.com##.banner_dinamic
 lne.es##.banner_doscolum
+bienesrosario.com##.banner_inferior
 bienesrosario.com,rosariogarage.com##.banner_sop
 bienesrosario.com,rosariogarage.com##.banner_superior
 azarplus.com##.bannerfijodcha
