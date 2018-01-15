@@ -264,6 +264,7 @@ breves24.com.ar##.banner4
 breves24.com.ar##.banner5
 interviu.es##.bannerBlock
 gente.com.ar##.bannerSide
+rosariogarage.com##.banner_bienes_rosario
 animeid.io##.banner_center
 rosariogarage.com##.banner_centro_inf
 miltorrents.com##.banner_detail_files
