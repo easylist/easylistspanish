@@ -285,6 +285,7 @@ $websocket,domain=descargasnsn.com
 ||red92.com/images/uploaded/spots/
 ||religionenlibertad.com/imgpbs/
 ||republica.com.uy/wp-content/banners/
+||rosariogarage.com/resources/banner/
 ||rs.20m.es/i/petitchef_cintillo.jpg
 ||s3.amazonaws.com/comparabien-default/ads/
 ||salpimenta.com.ar/wp-content/uploads/*.gif
