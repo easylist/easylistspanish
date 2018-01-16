@@ -1,2 +1,3 @@
+about:blank$popup,domain=identi.li
 |http://$popup,third-party,domain=animeid.tv|jkanime.net
 ||acortar.net$popup
