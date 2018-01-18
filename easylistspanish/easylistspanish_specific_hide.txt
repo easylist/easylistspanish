@@ -491,6 +491,7 @@ antena3.com##a[href="http://www.neoxkidz.com/revista/estais-preparados-neox-kidz
 antena3.com##a[href="http://www.objetivobienestar.com/"]
 mitele.es##a[href="http://www.tiendagranhermano.com"]
 antena3.com##a[href="http://www.tualbum.es/"]
+ddmix.net##a[href="https://ddmix.net/bdi"]
 ruedasgordas.es##a[href="https://www.facebook.com/pages/BENIBIKES-Benidorm/177123992350243?fref=ts"]
 ole.com.ar##a[href="https://www.youtube.com/watch?v=IZPtel51MlA"]
 teknofilo.com##a[href^="//clk.tradedoubler.com/click?"]
