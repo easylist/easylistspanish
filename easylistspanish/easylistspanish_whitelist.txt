@@ -102,7 +102,7 @@
 @@||seriesgato.com^$generichide
 @@||shares.enetres.net/ads.js.php?$script,domain=enetres.net
 @@||sport.es^$generichide
-@@||static.vocento.com/adblock-detector/$script
+@@||static.vocento.com/adbd/$script
 @@||superdeporte.es^$generichide
 @@||telecinco.es^$generichide
 @@||todomecanica.com/js/ads.js$script,domain=todomecanica.com
