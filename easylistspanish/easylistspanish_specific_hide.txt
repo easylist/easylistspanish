@@ -1,4 +1,5 @@
 puromarketing.com###AdsTextHomeCenter
+puromarketing.com###AdsTextHomeMultiple
 diariopopular.com.ar###OBJETO861 > .ad-obj
 foro.putalocura.com,foroparalelo.com###ad_global_below_navbar
 es.nametests.com###ad_wrapper_head
