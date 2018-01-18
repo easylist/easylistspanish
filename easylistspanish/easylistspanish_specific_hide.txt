@@ -320,6 +320,7 @@ elcolombiano.com##.contentBannerIntelecto
 slimdownload.co##.cssanimations
 laprovincia.es##.dcham2
 lavanguardia.com##.div-patrocinado5
+teknofilo.com##.e3lan
 diariodesevilla.es##.ePubli1
 elcomercio.pe##.ec-club
 eldeber.com.bo##.ed-ads
