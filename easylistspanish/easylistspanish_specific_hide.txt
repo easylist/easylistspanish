@@ -313,6 +313,7 @@ renfe.com##.comprabilletes
 tandildiario.com##.containerBannerDesplegable
 lne.es##.contenedor_widget_1col
 cronista.com##.content-banner
+puromarketing.com##.content-pub-top
 elcolombiano.com##.contentBannerIntelecto
 slimdownload.co##.cssanimations
 laprovincia.es##.dcham2
