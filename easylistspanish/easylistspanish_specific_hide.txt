@@ -198,6 +198,7 @@ eltrecetv.com.ar,eslang.es,lostiempos.com,pelispedia.tv,publico.es,rpp.pe##.ads
 yorokobu.es##.ads-block
 meristation.as.com,meristation.com.mx##.ads-notificator
 rpp.pe##.ads-sidebar-widget
+fuerzasarmadas.eu##.ads_block
 zonatorrent.es##.adsb30
 peliculasaudiolatino.com##.adsderecha
 forobeta.com##.adshare_belownav
