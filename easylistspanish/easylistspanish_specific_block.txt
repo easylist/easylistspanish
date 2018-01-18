@@ -338,6 +338,7 @@ $websocket,domain=descargasnsn.com
 ||vertdtgratis.es/publi2.html
 ||vertdtgratis.es/publi23.html
 ||vigoe.es/images/pbanner/
+||whathyx.com/pandi.js
 ||widgets.helpmycash.com/ranking-financiero/
 ||wp.com/autoblog.com.ar/wp-content/uploads/*.gif
 ! Anti-Adblock
