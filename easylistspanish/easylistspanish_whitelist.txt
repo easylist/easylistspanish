@@ -88,6 +88,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=elsate.com
 @@||pagead2.googlesyndication.com/pagead/js/*7/show_ads_impl.js$domain=mialojamiento.es
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=elsate.com|mialojamiento.es
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,third-party,domain=todopolicia.com
 @@||pajaslocas.com^$generichide
 @@||pcbolsa.com/css/ads.js$script,domain=pcbolsa.com
 @@||pelisplus.tv^$generichide
@@ -107,6 +108,7 @@
 @@||telecinco.es^$generichide
 @@||todomecanica.com/js/ads.js$script,domain=todomecanica.com
 @@||todomecanica.net/js/ads.js$script,third-party,domain=todomecanica.com
+@@||todopolicia.com^$generichide
 @@||todotumac.com^$generichide
 @@||torrentlocura.com^$generichide
 @@||torrentrapid.com^$generichide

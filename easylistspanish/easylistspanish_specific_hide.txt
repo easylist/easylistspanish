@@ -131,7 +131,7 @@ planbnoticias.com.ar###text-2
 misionesonline.net###text-20
 misionesonline.net###text-21
 misionesonline.net###text-22
-16valvulas.com.ar,elsigloweb.com###text-3
+16valvulas.com.ar,elsigloweb.com,todopolicia.com###text-3
 ddmix.net###text-4
 diariovictoria.com.ar,elsigloweb.com###text-5
 smnoticias.com,smnoticias.info###text-52
@@ -139,6 +139,7 @@ diariovictoria.com.ar,elsigloweb.com###text-6
 telesemana.com###text-69
 diariovictoria.com.ar###text-7
 livenumetal.es###text-7 > .textwidget
+todopolicia.com###text-8
 telesemana.com###text-86
 telesemana.com###text-87
 elcolombiano.com###tiquetesMasBaratos
@@ -472,6 +473,7 @@ st1.idealista.com##[href="http://www.idealista.com?xts=352991&xtor=AD-186-[ideal
 va6.thand.info##[src="http://va6.thand.info/0hsfy957uswi2cgypg23"]
 descargasnsn.com##a[href*="://bit.ly/"]
 teknofilo.com##a[href*="://clk.tradedoubler.com/click?"]
+todopolicia.com##a[href*="://psicotecnicos2x.es/"]
 htcmania.com##a[href*="_banner.php?id="]
 ddmix.net##a[href*="aliexpress.com"]
 va6.thand.info##a[href*="http://www.physoi.eu/script/redirect.php?url=*"]
@@ -500,6 +502,7 @@ ruedasgordas.es##a[href="http://www.morellasingletracks.com/"]
 ruedasgordas.es##a[href="http://www.mybikenet.com/development/"]
 antena3.com##a[href="http://www.neoxkidz.com/revista/estais-preparados-neox-kidz-estrena-revista_2015051255521d350cf2c05b5ea0c08b.html"]
 antena3.com##a[href="http://www.objetivobienestar.com/"]
+todopolicia.com##a[href="http://www.sespol.es"]
 mitele.es##a[href="http://www.tiendagranhermano.com"]
 antena3.com##a[href="http://www.tualbum.es/"]
 ddmix.net##a[href="https://ddmix.net/bdi"]
