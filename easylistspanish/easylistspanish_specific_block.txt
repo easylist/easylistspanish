@@ -57,7 +57,6 @@ $websocket,domain=descargasnsn.com
 ||chrissysinvite.co/a
 ||cinestrenostv.tv/Publi/
 ||cloudfront.net$script,third-party,domain=compucalitv.com
-||cloudfront.net/?tid=$domain=identi.li
 ||cloudfront.net^$domain=pasateatorrent.com|zaipoc.com
 ||cloudfront.net^$script,third-party,domain=descargasnsn.com
 ||clubdelectores.cl/cajaEmolClub/$third-party
