@@ -132,3 +132,4 @@
 ##a[href^="://seedingup.es/afiliados.html?id="]
 ##adsenseintermedioleft
 ##adsenseintermedioright
+##div[id^="M"][id*="Composite"]
