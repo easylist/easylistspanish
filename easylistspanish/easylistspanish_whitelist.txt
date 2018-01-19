@@ -109,7 +109,6 @@
 @@||telecinco.es^$generichide
 @@||todomecanica.com/js/ads.js$script,domain=todomecanica.com
 @@||todomecanica.net/js/ads.js$script,third-party,domain=todomecanica.com
-@@||todopolicia.com^$generichide
 @@||todotumac.com^$generichide
 @@||torrentlocura.com^$generichide
 @@||torrentrapid.com^$generichide

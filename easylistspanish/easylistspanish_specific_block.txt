@@ -350,4 +350,5 @@ $websocket,domain=descargasnsn.com
 ||motociclismo.es/js/compiled_blockadblock_15.js
 ||noticiasdelaciencia.com/libs_oss/adblock/
 ||okdiario.com/app/4/js/check-blocker.js
+||todopolicia.com/wp-content/uploads/$script
 ||tumangaonline.com/img/adblock1.png
