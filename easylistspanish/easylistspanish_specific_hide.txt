@@ -473,6 +473,7 @@ gettyimages.es##[href="http://espanol.istockphoto.com/?esource=gi_es_home_3pack_
 st1.idealista.com##[href="http://www.idealista.com?xts=352991&xtor=AD-186-[idealista]-[]-[57601_1]-[lavanguardia.es__lavanguardia.es]-[]-[home_1_1]&source=314"]
 va6.thand.info##[src="http://va6.thand.info/0hsfy957uswi2cgypg23"]
 ddmix.net##a[href*=".click.aliexpress.com/"]
+foropolicia.es##a[href*="/publicidad.php?id="]
 ddmix.net,descargasnsn.com##a[href*="://bit.ly/"]
 teknofilo.com##a[href*="://clk.tradedoubler.com/click?"]
 todopolicia.com##a[href*="://psicotecnicos2x.es/"]
@@ -562,6 +563,7 @@ diario.mx##div[style="width:970px; height:90px; display:block !important; margin
 foroparalelo.com##div[style="width:970px; height:90px;"]
 divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,torrentrapid.com,tumejortorrent.com##div[style="z-index:98;width:570px;height:400px;position:absolute;top:0px;left:0px;"]
 hitfm.es##header
+foropolicia.es##iframe[src*="://www.netpol.es/"]
 interbenavente.es##img[alt="http://interbenavente.es/pag/serviciosweb"]
 interbenavente.es##img[alt="http://www.ford.es/serviciopostventa/PromocionesPostventa2013"]
 interbenavente.es##img[alt="http://www.serviciosfunerarioszamoranos.com/"]
