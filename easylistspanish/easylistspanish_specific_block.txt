@@ -45,6 +45,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||azarplus.com/includes/greybox/AJS.js
 ||babalonia.com/images/promo/*.gif
 ||bienesrosario.com/resources/banner/
+||bikezona.tv/img/banner-publi
 ||biodiesel.com.ar/wp-content/uploads/2016/07/00.gif
 ||biodiesel.com.ar/wp-content/uploads/2017/10/Banner-Biodiesel-300x180-px-1.gif
 ||blogspot.com/*.gif$domain=puertocampoynegocios.com
@@ -195,6 +196,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||ldu.com.ec/fotos/publi_*.png
 ||libertaddigital.com/fragmentos/guijuelo-responsive.html
 ||libertaddigital.com/fragmentos/movistarplus.html
+||lifezona.com/public_data/img/banners/
 ||linkwelove.com/widget/js/lwl.js^$domain=aquiactualidad.com
 ||loteriasmundiales.com.ar/images/columna_publi_2/anuncie_aqui2.gif
 ||loteriasmundiales.com.ar/images/loterias/banners/
