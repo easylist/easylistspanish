@@ -39,6 +39,9 @@
 @@||akamaihd.net/dist/assets/nonAdBlock/$script,third-party,xmlhttprequest,domain=mitele.es
 @@||akamaihd.net/letrascom/static/js/ads.*.js$script,third-party,domain=letras.com
 @@||animeflv.net/js/ads.js$script,domain=animeflv.net
+@@||animextre.me/js/fuckadblock.js$script,~third-party
+@@||animextre.me/js/showads.js$script,~third-party
+@@||animextre.me^$generichide
 @@||arenavision.ru^$generichide
 @@||atresplayer.com^$generichide
 @@||autopista.es^$generichide
