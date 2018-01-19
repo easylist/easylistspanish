@@ -566,6 +566,7 @@ foroparalelo.com##div[style="width:970px; height:90px;"]
 divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,torrentrapid.com,tumejortorrent.com##div[style="z-index:98;width:570px;height:400px;position:absolute;top:0px;left:0px;"]
 hitfm.es##header
 foropolicia.es##iframe[src*="://www.netpol.es/"]
+buenaisla.net##iframe[src*="ads.ad4game.com/"]
 interbenavente.es##img[alt="http://interbenavente.es/pag/serviciosweb"]
 interbenavente.es##img[alt="http://www.ford.es/serviciopostventa/PromocionesPostventa2013"]
 interbenavente.es##img[alt="http://www.serviciosfunerarioszamoranos.com/"]
