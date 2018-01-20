@@ -200,7 +200,6 @@ meristation.as.com,meristation.com.mx##.ads-notificator
 rpp.pe##.ads-sidebar-widget
 fuerzasarmadas.eu##.ads_block
 zonatorrent.es##.adsb30
-peliculasaudiolatino.com##.adsderecha
 forobeta.com##.adshare_belownav
 forobeta.com##.adshare_firstpost
 forobeta.com##.adshare_lastpost
@@ -381,7 +380,7 @@ elmundo.es##.other-services
 meteoconsult.es##.partenaire_simple
 meteoconsult.es##.partenaire_simple_home
 chacohoy.com,corrienteshoy.com##.pasli
-elmundo.es,expansion.com,lavozdegalicia.es##.patrocinio
+elmundo.es,expansion.com##.patrocinio
 elheraldo.co##.pauta
 infobae.com##.pb-f-utilities-ad
 planbnoticias.com.ar##.penci-featured-cat-custom-ads
@@ -456,7 +455,6 @@ larazon.es##.textoPatrocinio
 mitele.es##.titleList.DestacadoBox.clearfix.ModuleSimple:last-child
 elpopular.mx##.todopuebla
 reverso.net##.top-horizontal
-peliculasaudiolatino.com##.topads728
 reverso.net##.toprightdiv
 elpopular.mx##.tp-centro
 hoylosangeles.com##.trb_taboola

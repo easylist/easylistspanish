@@ -4,7 +4,6 @@ $websocket,domain=ddmix.net|descargasnsn.com
 /static/BB3HTML/images/*sponsor*.png$domain=diariodecadiz.es|diariodejerez.es|diariodesevilla.es|elalmeria.es|eldiadecordoba.es|europasur.es|granadahoy.com|huelvainformacion.es|malagahoy.es
 /uploads/advertisings/*$domain=tribunaavila.com|tribunaburgos.com|tribunaleon.com|tribunapalencia.com|tribunasalamanca.com|tribunasegovia.com|tribunasoria.com|tribunavalladolid.com|tribunazamora.com
 |blob:$domain=ddmix.net|descargasnsn.com|divxatope.com|divxatope1.com|newpct.com|newpct1.com|torrentlocura.com|torrentrapid.com|tumejortorrent.com
-|blob:https://$domain=descargasnsn.com
 |http://$script,third-party,domain=abcdefamosas.xyz|animakai.tv|elitetorrent.net|ftail.tv|lacajita.xyz|mejorenvo.com|mejortorrent.com|novelasenlinea.net|reyanime.com|seriesblanco.com|shippuden.tv|submanga.org
 |http://$script,third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|divxatope1.com|divxtotal.com|estoesporno.com|estrenosdtl.com|gamestorrents.com|jkanime.net|moviesdvdr.com|newpct.com|newpct1.com|seriesflv.net|subtorrents.com|todocvcd.com|torrentesx.com|torrentlocura.com|torrentrapid.com|tumejortorrent.com
 |http://zetaestaticos.com/comun/upload/0/628/628692.jpg
@@ -236,13 +235,6 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||nuevaeranet.com.ar/publicidades_cate/
 ||p.a-abp.com//simgad/
 ||parlamentario.com/db/000/
-||parlamentario.com/db/000/*.gif
-||parlamentario.com/db/000/*banner*.jpg
-||parlamentario.com/db/000/000218_coca_cola_324x250.jpg
-||parlamentario.com/db/000/000331_barrick_324x250.jpg
-||parlamentario.com/db/000/000473_aviso_exxon_-_nuevo_junio_2017.jpg
-||parlamentario.com/db/000/000496_324.jpg
-||parlamentario.com/db/000/000500_presidencia_agosto_2017.jpg
 ||paxinasgalegas.es/BannerService.ashx
 ||peliculas.nu/pared.js
 ||pescare.com.ar/banners/
