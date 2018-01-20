@@ -36,6 +36,7 @@
 ##.adcontainer-portlet
 ##.ads-block-panel-tipo-1
 ##.adsderecha
+##.app-container > .questions-container-banner
 ##.bl_publi_top
 ##.block-dfp-midcentral_home
 ##.block-dfp-roba_pagina_top_home
@@ -55,6 +56,7 @@
 ##.find_bar_publicidades
 ##.flex__publi
 ##.mclics
+##.myml-menu-navigation > .container-banner
 ##.myml-menu-navigation > .purchases-banner
 ##.offer-add
 ##.pane-publicidad
