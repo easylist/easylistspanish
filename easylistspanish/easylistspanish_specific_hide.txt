@@ -353,6 +353,7 @@ elcucodigital.com##.fullwidthbanner-container
 yorokobu.es##.fw-container
 rpp.pe##.gogoWidget3V
 ehowenespanol.com##.gpt_300
+canalciclismo.com##.hide-for-small
 peru21.pe##.hiraoka
 emprendices.co##.homepage-widget > #text-16
 diaridegirona.cat##.iberpi_cajaext

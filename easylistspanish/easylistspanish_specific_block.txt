@@ -50,6 +50,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||breves24.com.ar/banners/
 ||butlercdn.com^$domain=eldiariodelapampa.com.ar
 ||buyman.com.ar/pubex/
+||canalciclismo.com/media/banners/
 ||casinonewsdaily.es/wp-content/uploads/popups/
 ||cdn.exur.com/notmundo/
 ||cdn23.merca20.com/wp-content/uploads/2017/10/panorama-marketing-farmaceutico.jpg
