@@ -331,7 +331,7 @@ renfe.com##.comprabilletes
 tandildiario.com##.containerBannerDesplegable
 lne.es##.contenedor_widget_1col
 cronista.com##.content-banner
-puromarketing.com##.content-pub-top
+inmodiario.com,puromarketing.com##.content-pub-top
 elcolombiano.com##.contentBannerIntelecto
 slimdownload.co##.cssanimations
 laprovincia.es##.dcham2
@@ -479,6 +479,7 @@ gettyimages.es##[href="http://espanol.istockphoto.com/?esource=gi_es_home_3pack_
 st1.idealista.com##[href="http://www.idealista.com?xts=352991&xtor=AD-186-[idealista]-[]-[57601_1]-[lavanguardia.es__lavanguardia.es]-[]-[home_1_1]&source=314"]
 va6.thand.info##[src="http://va6.thand.info/0hsfy957uswi2cgypg23"]
 ddmix.net##a[href*=".click.aliexpress.com/"]
+inmodiario.com##a[href*="/ads.php?id="]
 foropolicia.es##a[href*="/publicidad.php?id="]
 ddmix.net,descargasnsn.com##a[href*="://bit.ly/"]
 teknofilo.com##a[href*="://clk.tradedoubler.com/click?"]

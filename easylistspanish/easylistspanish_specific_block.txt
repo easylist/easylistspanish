@@ -173,6 +173,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||inmendoza.com/wp-content/uploads/*_1140x170_
 ||inmendoza.com/wp-content/uploads/banner/
 ||inmendoza.com^*/banners/
+||inmodiario.com/img/banners/
 ||interbenavente.es/upload/img/periodico/img_2369.gif
 ||interbenavente.es/upload/img/periodico/img_28084.gif
 ||interbenavente.es/upload/img/periodico/img_31937.gif
