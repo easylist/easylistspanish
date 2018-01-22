@@ -209,6 +209,7 @@ forobeta.com##.adshare_firstpost
 forobeta.com##.adshare_lastpost
 peliculasaudiolatino.com##.adsmovie
 elespanol.com,elsol.com.ar##.adv
+juegos.com##.advert
 tribunaavila.com,tribunaburgos.com,tribunaleon.com,tribunapalencia.com,tribunasalamanca.com,tribunasegovia.com,tribunasoria.com,tribunavalladolid.com,tribunazamora.com##.advertising
 vibbo.com##.advertisingTop
 20minutos.es##.adx
