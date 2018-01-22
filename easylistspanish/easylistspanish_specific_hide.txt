@@ -1,5 +1,7 @@
 puromarketing.com###AdsTextHomeCenter
 puromarketing.com###AdsTextHomeMultiple
+forocoches.com###AutoNumber1 > tbody > tr > td:nth-of-type(3)
+forocoches.com###AutoNumber30
 rpp.pe###Joinnuscontainerprinc
 diariopopular.com.ar###OBJETO861 > .ad-obj
 foro.putalocura.com,foroparalelo.com###ad_global_below_navbar
@@ -107,6 +109,7 @@ todocvcd.com###mbanner
 elmundo.es###modulo_buscador_sv
 cadena3.com###mundo-descuento
 chrissysinvite.co###myModal
+forocoches.com###notices
 dle.rae.es###opciones > #patrocinio
 esgentside.com,ohmirevista.com###pave_haut
 eldefinido.cl###pub
