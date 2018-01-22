@@ -2,6 +2,7 @@ puromarketing.com###AdsTextHomeCenter
 puromarketing.com###AdsTextHomeMultiple
 forocoches.com###AutoNumber1 > tbody > tr > td:nth-of-type(3)
 forocoches.com###AutoNumber30
+pcbolsa.com###Conten
 rpp.pe###Joinnuscontainerprinc
 diariopopular.com.ar###OBJETO861 > .ad-obj
 foro.putalocura.com,foroparalelo.com###ad_global_below_navbar
@@ -168,6 +169,8 @@ elblog.com###z_pub_sup_new
 informe21.com###zone-user-wrapper
 diariolagrada.com##.Banner
 guadairainformacion.com##.Banner300x100
+pcbolsa.com##.ContenidoClassPubliCotiza
+pcbolsa.com##.ContenidoClassPubliForo300
 animeflv.net##.Dvr300
 hipertextual.com##.M50B--md
 eldefinido.cl##.RP
