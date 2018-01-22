@@ -7,6 +7,8 @@
 ||pajarracos.es/wp-content/themes/*/images/sidebar-
 ||paraisowebcam.com/*banner
 ||paraisowebcam.com^$subdocument,third-party
+||pic-upload.xyz/images/2017/02/18/sKh2MNmQ.png
+||pic-upload.xyz/images/2017/11/13/bannertzvercomics.jpg
 ||ra.poringa.net^
 ||spalumi.com/a1.gif
 ||spalumi.com/a4b.gif

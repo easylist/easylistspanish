@@ -1,4 +1,5 @@
 teatroporno.com###a-insd
+vercomicsporno.com###afi
 mujeres-desnudas.com###anuncio-300
 todorelatos.com###chat-show
 pornstarsyfamosas.es###enjuego
@@ -18,5 +19,6 @@ torrentesx.com##.slide
 mujeres-desnudas.com##.vjs-ads
 pajarracos.es##.vp
 spalumi.com##a[href*="http://www.adcean.com/"]
+vercomicsporno.com##a[href="http://vermangasporno.com/"]
 pajarracos.es##a[href^="http://www.fresalia.com/"]
 pajarracos.es##a[href^="http://www.fuegodevida.com/"]
