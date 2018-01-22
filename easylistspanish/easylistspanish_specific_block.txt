@@ -262,8 +262,6 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||practisistemas.com/images/home/virgin.png
 ||publicidad.milenio.com/
 ||puromarketing.com//img/banners/
-||puromarketing.com//img/interface/text_publi_01.gif
-||puromarketing.com/img/interface/text_publi_01.gif
 ||px.fotos.cdn.0223.com.ar/f/5399f9f213cd649c19000009/
 ||px.fotos.cdn.0223.com.ar/f/539f4f6c5408217c16000029/
 ||px.fotos.cdn.0223.com.ar/f/5487365314cdac0400000148/
