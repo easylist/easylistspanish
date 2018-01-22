@@ -1,4 +1,5 @@
 /advertisements?
+/banner-publi-lateral.gif
 /multimedia/publicidades/*
 /publi/publi
 /txt_publi_vert.
