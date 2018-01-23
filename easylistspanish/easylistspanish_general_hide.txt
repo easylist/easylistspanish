@@ -115,6 +115,7 @@
 ##.publicity-content
 ##.publicity-content-google
 ##.publitop
+##.rmsads
 ##.roba-container
 ##.robapagina
 ##.robapaginas
