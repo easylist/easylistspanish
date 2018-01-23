@@ -11,6 +11,7 @@ nomellamesfriki.com###adpv1
 nomellamesfriki.com###adpv2
 ftail.tv,reverso.net,shippuden.tv###ads
 eltiempo.es###ads_position_2
+deportesmax.com###adsdiv
 comunio.es###advertising-right
 comunio.es###advertising-top
 cualesmiip.com###anuncio
@@ -172,6 +173,9 @@ guadairainformacion.com##.Banner300x100
 pcbolsa.com##.ContenidoClassPubliCotiza
 pcbolsa.com##.ContenidoClassPubliForo300
 animeflv.net##.Dvr300
+deportesmax.com##.Estilo11
+deportesmax.com##.Estilo12
+deportesmax.com##.Estilo13
 hipertextual.com##.M50B--md
 eldefinido.cl##.RP
 buscamultas.com##.TableWidget
