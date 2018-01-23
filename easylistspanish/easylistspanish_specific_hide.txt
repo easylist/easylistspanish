@@ -366,6 +366,7 @@ diaridegirona.cat##.iberpi_cajaext
 sipse.com##.insterstitial
 sipse.com##.leaderboard
 ehowenespanol.com##.leaderboard-wrap
+infojobs.net##.lecourse
 eldeber.com.bo##.leftSidebar
 laprovincia.es##.listaofertas
 reverso.net##.locdrcas
@@ -450,6 +451,7 @@ newpct1.com##.sidebar
 cuyonoticias.com##.sidebar > #text-html-widget-11
 megawarez.org##.sidebar-ads
 diariocorreo.pe##.sidebar-zonahogar
+infojobs.net##.slotbanner-top
 cronista.com,elliberal.com.ar,elobservador.com.uy,publico.es,rpp.pe##.sponsor
 lacapitalmdp.com##.sponsor_stats
 maximaonline.com.ar##.sponsored
@@ -560,6 +562,7 @@ girabsas.com##div[style="margin: 0 0 15px 0; overflow: hidden; position: relativ
 girabsas.com##div[style="margin: 0 0 15px 0; overflow: hidden; position: relative; height: 0; padding-bottom: 338.34%;"]
 girabsas.com##div[style="margin: 0 0 15px 0; overflow: hidden; position: relative; height: 0; padding-bottom: 344.09%;"]
 girabsas.com##div[style="margin: 0 0 15px 0; overflow: hidden; position: relative; height: 0; padding-bottom: 9.39%;"]
+infojobs.net##div[style="margin:0px 20px 20px 30px;font-size:16px;border:1px solid #d5e1e5"]
 concuchilloytenedor.es##div[style="margin:5px auto 5px;text-align:center;"]
 19640noticias.com##div[style="padding: Publicidad"]
 mejortorrent.com##div[style="padding:5px; font-family:arial; font-size:11px; color:#555555;"]
