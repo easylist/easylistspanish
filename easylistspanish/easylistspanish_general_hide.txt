@@ -44,6 +44,7 @@
 ##.block-dfp-roba_pagina_top_home
 ##.blog-publi
 ##.caja_cuponisimo_slider200
+##.cnt-pub
 ##.cnt-publicidad
 ##.cont_mer_publicidades
 ##.container-ads
