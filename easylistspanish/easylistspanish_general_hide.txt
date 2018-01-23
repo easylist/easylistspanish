@@ -36,6 +36,8 @@
 ##.adcontainer-portlet
 ##.ads-block-panel-tipo-1
 ##.adsderecha
+##.adunit-container
+##.adunit-title
 ##.app-container > .questions-container-banner
 ##.bl_publi_top
 ##.block-dfp-midcentral_home
