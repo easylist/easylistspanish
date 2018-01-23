@@ -100,6 +100,9 @@
 @@||pcbolsa.com/css/ads.js$script,domain=pcbolsa.com
 @@||pelisplus.tv^$generichide
 @@||player.animeid.io/static/ads.js
+@@||playview.io/themes/pv/js/FuckAdBlock/fuckadblock.js$script,domain=playview.io
+@@||playview.io/themes/pv/js/showads.js$xmlhttprequest,domain=playview.io
+@@||playview.io^$generichide
 @@||pordede.com/myjs/ads.js?$script
 @@||pordede.com^$generichide
 @@||pronunciaciones.com^$generichide
