@@ -126,6 +126,7 @@ bandaancha.eu###spBx
 pagina12.com.ar###sticky-banner-article
 noticiaslasflores.com.ar###swiffycontainer
 elheraldo.hn###taboola_nota
+mega-mkv.com###taplay
 kiosco.net###text-12
 misionesonline.net###text-14
 emprendices.co,misionesonline.net###text-15
