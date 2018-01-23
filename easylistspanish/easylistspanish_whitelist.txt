@@ -1,3 +1,4 @@
+@@$xmlhttprequest,domain=mitele.es
 @@-publicidad.$~third-party,domain=regalos-publicidad.es|todo-publicidad.com
 @@||ajax.googleapis.com/ajax/libs/$script,third-party,domain=animeflv.net|descargasnsn.com|lacajita.xyz|reyanime.com|seriesblanco.com
 @@||aurora-israel.co.il/wp-content/themes/Newspaper/bannersswf/banner_newsletter1.swf
@@ -13,9 +14,11 @@
 @@||disqus.com^$script,third-party,domain=ftail.tv|lacajita.xyz|seriesblanco.com|shippuden.tv
 @@||elitegol.com/lanzalayer.php$script,third-party,domain=elitetorrent.net
 @@||grupoet.com/ewn_pie.php$script,third-party,domain=elitetorrent.net
+@@||imasdk.googleapis.com/js/sdkloader/$script,domain=mitele.es
 @@||lagacetadesalamanca.es/elementosWeb/gestionCajas/GSA/Image/2016//whatsappgacetaa.gif$image,domain=lagacetadesalamanca.es
 @@||lagacetadesalamanca.es/elementosWeb/gestionCajas/GSA/Image/2017//bannernuevastecnologias.jpg$image,domain=lagacetadesalamanca.es
 @@||lagacetadesalamanca.es/elementosWeb/gestionCajas/GSA/Image/GIF_LAGACETA_318X180.gif$image,domain=lagacetadesalamanca.es
+@@||mdsrwdassets-a.akamaihd.net^$script,domain=mitele.es
 @@||platform.twitter.com/widgets.js$script,third-party,domain=divxatope.com|divxatope1.com|ftail.tv|lacajita.xyz|newpct.com|newpct1.com|reyanime.com|seriesblanco.com|shippuden.tv|torrentlocura.com|torrentrapid.com|tumejortorrent.com
 @@||republica.com.uy/wp-content/banners/HoroscopoDiario2016.jpg
 @@||seriesblanco.com/jquery*.min.js$script,third-party,domain=lacajita.xyz
