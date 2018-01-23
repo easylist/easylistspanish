@@ -35,7 +35,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||aimdigital.com.ar/wp-content/uploads/2017/10/salud.jpg
 ||aimdigital.com.ar/wp-content/uploads/2017/10/turismo.jpg
 ||alicdn.com^$domain=ddmix.net
-||amazonaws.com^$domain=pasateatorrent.com
+||amazonaws.com^$domain=grantorrent.com
 ||andaluciainformacion.es/cms/media/banners/
 ||animakai.tv/parceria.js
 ||apfdigital.com.ar/imgpublicidad/
@@ -59,7 +59,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||chrissysinvite.co/a
 ||cinestrenostv.tv/Publi/
 ||cloudfront.net$script,third-party,domain=compucalitv.com
-||cloudfront.net^$domain=pasateatorrent.com|zaipoc.com
+||cloudfront.net^$domain=grantorrent.com|zaipoc.com
 ||cloudfront.net^$script,third-party,domain=descargasnsn.com
 ||clubdelectores.cl/cajaEmolClub/$third-party
 ||comparador.euribor.com.es/lanzadera/retargetting/
