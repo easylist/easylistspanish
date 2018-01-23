@@ -133,11 +133,13 @@
 ##.widget-publi
 ##.widget_text_publicidad
 ##.wrap-bnr
+##a > #bg-ad
 ##a[href*="://adpv.com/?idpartner="]
 ##a[href*="://mobidea.com/?r="]
 ##a[href*="://yllix.com/publishers/"]
 ##a[href^="://popads.net/users/refer/"]
 ##a[href^="://seedingup.es/afiliados.html?id="]
+##a[href^="http://wlx-secure.com/"]
 ##adsenseintermedioleft
 ##adsenseintermedioright
 ##div[id^="M"][id*="Composite"]
