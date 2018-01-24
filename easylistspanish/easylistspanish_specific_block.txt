@@ -56,6 +56,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||cdn.exur.com/notmundo/
 ||cdn23.merca20.com/wp-content/uploads/2017/10/panorama-marketing-farmaceutico.jpg
 ||chacohoy.com/files/banners/
+||chatzona.net/img/amigos-banner.jpg
 ||chrissysinvite.co/a
 ||cinestrenostv.tv/Publi/
 ||cloudfront.net$script,third-party,domain=compucalitv.com

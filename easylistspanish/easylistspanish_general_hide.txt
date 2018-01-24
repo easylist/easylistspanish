@@ -142,6 +142,7 @@
 ##a[href^="://popads.net/users/refer/"]
 ##a[href^="://seedingup.es/afiliados.html?id="]
 ##a[href^="http://wlx-secure.com/"]
+##a[href^="http://www.amigos.com/go/"]
 ##adsenseintermedioleft
 ##adsenseintermedioright
 ##div[id^="M"][id*="Composite"]
