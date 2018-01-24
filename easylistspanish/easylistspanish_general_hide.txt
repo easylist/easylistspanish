@@ -130,6 +130,8 @@
 ##.vip-section-advertising
 ##.voc-advertising
 ##.voc-oferplan
+##.voc-sponsored
+##.voc-sponsored-and-adv
 ##.widget-publi
 ##.widget_text_publicidad
 ##.wrap-bnr
