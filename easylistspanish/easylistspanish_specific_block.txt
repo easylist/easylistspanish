@@ -349,6 +349,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||el-mundo.net/js/fm*.js$script
 ||exabytetv.info/wp-content/plugins/wp-adblock-dedect/
 ||gtsstatic.com/static/mscripts/index_457.js
+||lavozdealmeria.es/js/addblock.js
 ||motociclismo.es/js/compiled_blockadblock_15.js
 ||noticiasdelaciencia.com/libs_oss/adblock/
 ||okdiario.com/app/4/js/check-blocker.js

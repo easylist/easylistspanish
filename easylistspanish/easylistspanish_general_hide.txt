@@ -133,6 +133,7 @@
 ##.voc-sponsored
 ##.voc-sponsored-and-adv
 ##.widget-publi
+##.widget_categorias_publi
 ##.widget_text_publicidad
 ##.wrap-bnr
 ##a > #bg-ad
