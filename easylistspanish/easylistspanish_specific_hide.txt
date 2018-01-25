@@ -535,6 +535,7 @@ ruedasgordas.es##a[href="https://www.facebook.com/pages/BENIBIKES-Benidorm/17712
 ole.com.ar##a[href="https://www.youtube.com/watch?v=IZPtel51MlA"]
 teknofilo.com##a[href^="//clk.tradedoubler.com/click?"]
 adlipay.com##a[href^="/away.php?"]
+autoblog.com.ar##a[href^="http://bit.ly/"]
 cuatro.com,telecinco.es##a[href^="http://premiercasino.es/"]
 compucalitv.com##a[href^="http://toroadvertisingmedia.com/"]
 pelisplus.tv##a[href^="http://www.maxonclick.com/"]
