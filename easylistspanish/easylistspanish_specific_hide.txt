@@ -352,6 +352,7 @@ elcomercio.pe##.ec-club
 eldeber.com.bo##.ed-ads
 cronista.com##.entry-box-banner
 elespectador.com##.external-logos
+seriesgato.com##.externo
 peliculas69.com##.fake
 planetabocajuniors.com.ar##.featured-banner
 estadiodeportivo.whitelabel.kelisto.es##.finance
@@ -491,6 +492,7 @@ gettyimages.es##[href="http://espanol.istockphoto.com/?esource=gi_es_home_3pack_
 st1.idealista.com##[href="http://www.idealista.com?xts=352991&xtor=AD-186-[idealista]-[]-[57601_1]-[lavanguardia.es__lavanguardia.es]-[]-[home_1_1]&source=314"]
 va6.thand.info##[src="http://va6.thand.info/0hsfy957uswi2cgypg23"]
 ddmix.net##a[href*=".click.aliexpress.com/"]
+seriesgato.com##a[href*=".leadzutw.com/"]
 inmodiario.com##a[href*="/ads.php?id="]
 foropolicia.es##a[href*="/publicidad.php?id="]
 ddmix.net,descargasnsn.com##a[href*="://bit.ly/"]
