@@ -483,7 +483,7 @@ reverso.net##.vda-block
 reverso.net##.vda-section
 reverso.net##.verticalbox
 larazon.es##.vinculoPatrocinio
-equipar.es##.widget_custom_html
+equipar.es,futbolchile.net##.widget_custom_html
 st1.idealista.com##.widget_idealista
 hipertextual.com##.wrapperBanner
 nuevodiarioweb.com.ar##.zona_banners
