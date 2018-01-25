@@ -35,6 +35,7 @@ atresplayer.com###bannerTop
 aica.org###banner_A
 ahorradororata.com###banner_footer
 divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,torrentrapid.com,tumejortorrent.com###banner_header
+cinecalidad.to###banner_sinopsis
 paxinasgalegas.es###banner_superior
 coches.net###banner_top
 nomellamesfriki.com###banneralto
