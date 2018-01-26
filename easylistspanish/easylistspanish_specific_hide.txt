@@ -218,7 +218,7 @@ forobeta.com##.adshare_belownav
 forobeta.com##.adshare_firstpost
 forobeta.com##.adshare_lastpost
 peliculasaudiolatino.com##.adsmovie
-elespanol.com,elsol.com.ar##.adv
+20minutos.es,elespanol.com,elsol.com.ar##.adv
 juegos.com##.advert
 tribunaavila.com,tribunaburgos.com,tribunaleon.com,tribunapalencia.com,tribunasalamanca.com,tribunasegovia.com,tribunasoria.com,tribunavalladolid.com,tribunazamora.com##.advertising
 vibbo.com##.advertisingTop
@@ -264,7 +264,7 @@ elonce.com##.banner-f
 abc.com.py##.banner-full-60
 elonce.com##.banner-g
 elonce.com##.banner-h
-ushuaianoticias.com##.banner-header
+20minutos.es,ushuaianoticias.com##.banner-header
 abcsaladillo.com.ar##.banner-lateral
 minutouno.com##.banner-libre
 minutouno.com##.banner-listado-simple
@@ -514,7 +514,6 @@ forocoches.com##a[href="http://goo.gl/NDrfcW"]
 telecinco.es##a[href="http://turismourense.com/index"]
 divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,torrentrapid.com,tumejortorrent.com##a[href="http://ul.to/ref/4037259"]
 180.com.uy##a[href="http://www.180.com.uy/banner?ID=857&CODE=portal.index"]
-20minutos.es##a[href="http://www.20minutos.es/motor"]
 elsiglodetorreon.com.mx##a[href="http://www.ayojon.mx/"]
 ruedasgordas.es##a[href="http://www.cyclosaltamirano.es/"]
 mitele.es##a[href="http://www.eltiempohoy.es/"]
@@ -597,6 +596,7 @@ hitfm.es##header
 boardzona.com##iframe[src*="://supercore.adm-vids.com/video_offer?"]
 foropolicia.es##iframe[src*="://www.netpol.es/"]
 buenaisla.net##iframe[src*="ads.ad4game.com/"]
+20minutos.es##iframe[src^="https://www.20minutos.es/cajasbuscadoras/"]
 mejortorrent.com##iframe[style="margin-top:0px; margin-bottom:10px; border:1px solid black;"]
 interbenavente.es##img[alt="http://interbenavente.es/pag/serviciosweb"]
 interbenavente.es##img[alt="http://www.ford.es/serviciopostventa/PromocionesPostventa2013"]
