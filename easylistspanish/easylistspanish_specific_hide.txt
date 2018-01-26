@@ -437,7 +437,7 @@ tiempo.com.mx##.publi-5
 tiempo.com.mx##.publi-6
 elonce.com##.publi-top
 meristation.as.com,meristation.com.mx##.publi1
-carasycaretas.org.ar,ciclismoafondo.es,diario.mx,eltribuno.info,expansion.com,gonzoo.com,laizquierdadiario.com,latercera.com,lne.es,motociclismo.es,mountainbike.es,okdiario.com,publico.es##.publicidad
+carasycaretas.org.ar,ciclismoafondo.es,diario.mx,eltribuno.info,expansion.com,gonzoo.com,laizquierdadiario.com,latercera.com,lne.es,motociclismo.es,mountainbike.es,okdiario.com,publico.es,semana.com##.publicidad
 noticiasdel6.com##.publii
 intereconomia.tv##.pum-overlay
 salpimenta.com.ar##.quadro-ads-widget-1col

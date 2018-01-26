@@ -109,6 +109,7 @@
 ##.publicidad4
 ##.publicidad5
 ##.publicidad6
+##.publicidadPaga
 ##.publicidad_01
 ##.publicidad_especial
 ##.publicidad_modulo1
