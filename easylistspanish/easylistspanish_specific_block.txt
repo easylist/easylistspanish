@@ -1,4 +1,4 @@
-$webrtc,domain=booksmedicos.org|pelispedia.tv
+$webrtc,domain=animeid.tv|booksmedicos.org|pelispedia.tv
 $websocket,domain=ddmix.net|descargasnsn.com
 /*badge*.png$domain=rpp.pe
 /static/BB3HTML/images/*sponsor*.png$domain=diariodecadiz.es|diariodejerez.es|diariodesevilla.es|elalmeria.es|eldiadecordoba.es|europasur.es|granadahoy.com|huelvainformacion.es|malagahoy.es
