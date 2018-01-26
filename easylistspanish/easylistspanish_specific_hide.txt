@@ -218,11 +218,11 @@ forobeta.com##.adshare_belownav
 forobeta.com##.adshare_firstpost
 forobeta.com##.adshare_lastpost
 peliculasaudiolatino.com##.adsmovie
-20minutos.es,elespanol.com,elsol.com.ar##.adv
+20minutos.com.mx,20minutos.es,elespanol.com,elsol.com.ar##.adv
 juegos.com##.advert
 tribunaavila.com,tribunaburgos.com,tribunaleon.com,tribunapalencia.com,tribunasalamanca.com,tribunasegovia.com,tribunasoria.com,tribunavalladolid.com,tribunazamora.com##.advertising
 vibbo.com##.advertisingTop
-20minutos.es##.adx
+20minutos.com.mx,20minutos.es##.adx
 vibbo.com##.afs-block
 htcmania.com##.afterlogo
 elplural.com##.anuncio
@@ -264,7 +264,7 @@ elonce.com##.banner-f
 abc.com.py##.banner-full-60
 elonce.com##.banner-g
 elonce.com##.banner-h
-20minutos.es,ushuaianoticias.com##.banner-header
+20minutos.com.mx,20minutos.es,ushuaianoticias.com##.banner-header
 abcsaladillo.com.ar##.banner-lateral
 minutouno.com##.banner-libre
 minutouno.com##.banner-listado-simple
