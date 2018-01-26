@@ -437,7 +437,7 @@ tiempo.com.mx##.publi-5
 tiempo.com.mx##.publi-6
 elonce.com##.publi-top
 meristation.as.com,meristation.com.mx##.publi1
-carasycaretas.org.ar,ciclismoafondo.es,diario.mx,eltribuno.info,expansion.com,laizquierdadiario.com,latercera.com,lne.es,motociclismo.es,mountainbike.es,okdiario.com,publico.es##.publicidad
+carasycaretas.org.ar,ciclismoafondo.es,diario.mx,eltribuno.info,expansion.com,gonzoo.com,laizquierdadiario.com,latercera.com,lne.es,motociclismo.es,mountainbike.es,okdiario.com,publico.es##.publicidad
 noticiasdel6.com##.publii
 intereconomia.tv##.pum-overlay
 salpimenta.com.ar##.quadro-ads-widget-1col
@@ -446,7 +446,7 @@ televisa.com##.rapid_banner_sidebar
 sipse.com##.rectangle
 expansion.com##.retargetting
 eldeber.com.bo##.rightSidebar
-diariosur.es,diariovasco.com,digitalcamera.es,elcomercio.es,elcorreo.com,eldiariomontanes.es,elnortedecastilla.es,hoy.es,ideal.es,larioja.com,lasprovincias.es,laverdad.es,leonoticias.com,primeralinea.es,publico.es##.roba
+diariosur.es,diariovasco.com,digitalcamera.es,elcomercio.es,elcorreo.com,eldiariomontanes.es,elnortedecastilla.es,gonzoo.com,hoy.es,ideal.es,larioja.com,lasprovincias.es,laverdad.es,leonoticias.com,primeralinea.es,publico.es##.roba
 muyinteresante.es##.roba1
 muyinteresante.es##.roba1_movil
 muyinteresante.es##.roba2
