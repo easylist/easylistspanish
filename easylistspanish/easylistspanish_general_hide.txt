@@ -35,6 +35,7 @@
 ##.ad_dfp_estandar
 ##.adcontainer-portlet
 ##.ads-block-panel-tipo-1
+##.ads_160x600
 ##.adsderecha
 ##.adunit-container
 ##.adunit-title
@@ -52,6 +53,7 @@
 ##.contenedor_superior_publi
 ##.des-adv
 ##.dfp-queue
+##.digo_ads
 ##.div_publicidad
 ##.div_publicidades
 ##.envoltorio_publi
