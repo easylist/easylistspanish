@@ -324,6 +324,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||static.htcmania.com/180-150-
 ||teliad.es/*/banner/
 ||tiemposur.com.ar/banners/
+||tiemposur.com.ar/uploads/banners
 ||tiquetesbaratos.com/pruebas/periodicos/
 ||todomecanica.com/images/patrocinios/
 ||todopuebla.com^$subdocument,domain=elpopular.mx
