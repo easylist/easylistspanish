@@ -196,6 +196,7 @@ practisistemas.com##.Txt_Promociones
 practisistemas.com##.Txt_promoclaro
 practisistemas.com##.Txt_promomovistar
 practisistemas.com##.Txt_promotigo
+elimparcial.com##.___-N
 mediavida.com##._p-ft
 mediavida.com##._p-tp
 equipar.es##.aalb-pa-ad-unit
@@ -293,6 +294,8 @@ interviu.es##.bannerBlock
 gente.com.ar##.bannerSide
 rosariogarage.com##.banner_bienes_rosario
 bienesrosario.com##.banner_bienes_rosario_contenido
+elimparcial.com##.banner_box
+elimparcial.com##.banner_box_p
 animeid.io##.banner_center
 rosariogarage.com##.banner_centro_inf
 miltorrents.com##.banner_detail_files
