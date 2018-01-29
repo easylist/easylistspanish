@@ -93,6 +93,7 @@ lne.es###divderecha_1055
 lne.es###divderecha_1061
 livesports.pw###divpubli
 estrenosdtl.com,moviesdvdr.com###f_find_bar
+25digital.com.ar###footer-widgets
 abc.com.py###fullwidth-banner
 tvenganchado.com###g
 gente.com.ar###generico
@@ -371,6 +372,7 @@ marca.com##.flex-b-promociones
 elmundo.es##.flex__publi
 loteriasmundiales.com.ar##.fondo_column_publi2
 lne.es##.fondo_patrocicio
+25digital.com.ar##.fp-slider
 elcucodigital.com##.fullwidthabanner
 elcucodigital.com##.fullwidthbanner-container
 yorokobu.es##.fw-container
@@ -503,6 +505,9 @@ bro.adca.st##.xclo
 bro.adca.st##.xpepinx
 bro.adca.st##.xraulitox
 nuevodiarioweb.com.ar##.zona_banners
+25digital.com.ar#?#.widget-container:-abp-has(.banners-125)
+25digital.com.ar#?#.widget-container:-abp-has(.metaslider)
+25digital.com.ar#?#.widget-container:-abp-has(.widget_random_banner_widget)
 st1.idealista.com##A[href="http://www.idealista.com/news/vacacional/mercado-vacacional/2015/08/12/738750-competencia-arremete-contra-la-ley-que-limita-los-pisos-turisticos-en-el?xts=352991&xtor=AD-186-[node/738750]-[]-[57601_1]-[lavanguardia.es__lavanguardia.es]-[]-[titulo_1_1]&source=314"]
 mitele.es##A[href="http://www.premiercasino.es/redirect?provenanceCode=CONECTA5CASINO"]
 gettyimages.es##[href="http://espanol.istockphoto.com/?esource=gi_es_home_3pack_istock_3"] > .promo-hover
@@ -626,6 +631,7 @@ interbenavente.es##img[alt="http://www.ford.es/serviciopostventa/PromocionesPost
 interbenavente.es##img[alt="http://www.serviciosfunerarioszamoranos.com/"]
 interbenavente.es##img[alt="https://www.facebook.com/pages/Caprichos-Benavente/1151234814894029?fref=ts"]
 interbenavente.es##img[alt="https://www.facebook.com/zarabanda.regalos?fref=ts"]
+25digital.com.ar##img[class^=slider]
 publico.es##img[src="http://ficheros.publico.es/resources/cintillos/iberia-express.jpg"]
 cdn.cxpublic.com##img[src="http://logos.cdn.cxpublic.com/PAN_logo_38px.png"]
 diariodesevilla.es##img[src="http://media.grupojoly.com//0001985000/0001985392.gif"]

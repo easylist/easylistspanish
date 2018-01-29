@@ -17,6 +17,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||19640noticias.com/wp-content/uploads/2017/04/283x321.gif
 ||24con.com/files/image/228/228563/59e666afdced4.jpg
 ||24con.com/files/image/230/230804/5a01a74262820_300_!.jpg
+||25digital.com.ar/wp-content/uploads/*.gif
 ||4.bp.blogspot.com/-tNi8RVCQRuA/*/s640/Banner%2BVIP.gif
 ||91.116.142.114/iframe
 ||abc.com.py/plantillas/js/banners-mkt.js
@@ -186,6 +187,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||interbenavente.es/upload/img/periodico/img_31937.gif
 ||interbenavente.es/upload/img/periodico/img_35176.gif
 ||interbenavente.es/upload/img/periodico/img_36015.gif
+||jugandoonline.com.ar/entusitio/grafica/banner
 ||lacapitalmdp.com/2017/11/fl-1.gif
 ||lacapitalmdp.com/assets/images/publicidades/
 ||lacapitalmdp.com/img_design/paseo_aero.jpg
