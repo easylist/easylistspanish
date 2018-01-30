@@ -40,6 +40,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||animakai.tv/parceria.js
 ||apfdigital.com.ar/imgpublicidad/
 ||artesacro.org/banner/Salvar-Torre-San-Bartolome-2017.gif
+||assets.bro.adca.st/watchhd.html
 ||aurora-israel.co.il/wp-content/themes/Newspaper/bannersswf/
 ||aurora-israel.co.il/wp-content/uploads/2016/06/oren_shabat555.jpg
 ||azarplus.com/fotos/banners
@@ -161,6 +162,8 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||imagensn.com/images/2016/12/07/dedicados.jpg
 ||imagensn.com/images/2016/12/07/servidores.jpg
 ||images.eldiario.es/fotos/Articulo-patrocinado
+||images.futbolbase.us/pepon.html
+||images.futbolbase.us/raulito.html
 ||images.sprinklecontent.com^$domain=mdzol.com
 ||img01.lavanguardia.com/2013/05/16/Logo-canal-Castellers-*.jpg
 ||img02.lavanguardia.com/*/Vaughan-certified_*.jpg
@@ -206,6 +209,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||loteriasmundiales.com.ar/images/columna_publi_2/anuncie_aqui2.gif
 ||loteriasmundiales.com.ar/images/loterias/banners/
 ||marca.com/marcador/rfsh/marcador_portada/marcador.swf$domain=pornstarsyfamosas.es
+||max-deportv.com/arriba2.html
 ||mediainterior.com.ar/images/
 ||megawarez.org/wp-content/uploads/*/banner
 ||mejorenvo.com/publi$subdocument

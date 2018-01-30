@@ -178,8 +178,8 @@ pcbolsa.com##.ContenidoClassPubliCotiza
 pcbolsa.com##.ContenidoClassPubliForo300
 animeflv.net##.Dvr300
 deportesmax.com##.Estilo11
-deportesmax.com##.Estilo12
-deportesmax.com##.Estilo13
+deportesmax.com,maxdeportv.net##.Estilo12
+deportesmax.com,maxdeportv.net##.Estilo13
 hipertextual.com##.M50B--md
 eldefinido.cl##.RP
 buscamultas.com##.TableWidget
@@ -335,6 +335,7 @@ estadiodeportivo.whitelabel.kelisto.es##.car-insurance
 noticiasdel6.com##.cc3
 divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,torrentrapid.com,tumejortorrent.com##.centerBanner
 cienradios.com##.cienradios-ads
+bro.adca.st##.close
 lavoz.com.ar##.clublavoz
 abc.com.py##.col-banner
 force-download.es##.col-sm-2
@@ -405,6 +406,7 @@ elheraldo.co##.pauta
 infobae.com##.pb-f-utilities-ad
 forochicas.com##.pbanner
 planbnoticias.com.ar##.penci-featured-cat-custom-ads
+bro.adca.st##.pepin
 descargar.mobi##.placeholder__item--banner
 casinonewsdaily.es##.popup-promo
 diario.mx##.portada_1LB
@@ -445,6 +447,7 @@ intereconomia.tv##.pum-overlay
 salpimenta.com.ar##.quadro-ads-widget-1col
 televisa.com##.rapid_banner_home
 televisa.com##.rapid_banner_sidebar
+bro.adca.st##.raulito
 sipse.com##.rectangle
 expansion.com##.retargetting
 eldeber.com.bo##.rightSidebar
@@ -488,6 +491,9 @@ larazon.es##.vinculoPatrocinio
 equipar.es,futbolchile.net##.widget_custom_html
 st1.idealista.com##.widget_idealista
 hipertextual.com##.wrapperBanner
+bro.adca.st##.xclo
+bro.adca.st##.xpepinx
+bro.adca.st##.xraulitox
 nuevodiarioweb.com.ar##.zona_banners
 st1.idealista.com##A[href="http://www.idealista.com/news/vacacional/mercado-vacacional/2015/08/12/738750-competencia-arremete-contra-la-ley-que-limita-los-pisos-turisticos-en-el?xts=352991&xtor=AD-186-[node/738750]-[]-[57601_1]-[lavanguardia.es__lavanguardia.es]-[]-[titulo_1_1]&source=314"]
 mitele.es##A[href="http://www.premiercasino.es/redirect?provenanceCode=CONECTA5CASINO"]
@@ -556,6 +562,7 @@ euribor.com.es##div[style="border: 2px solid #1D8FC1; width: 320px; height:280px
 entornointeligente.com##div[style="clear:both;width:100%;background-color: #EFEFEF;height:90px"]
 entornointeligente.com##div[style="clear:both;width:100%;background-color: #EFEFEF;height:90px;"]
 elitetorrent.net##div[style="color:#ccc;font-size:10px;text-align:right;margin-bottom:20px;"]
+maxdeportv.net##div[style="color:#ffffff; font-family:verdana; font-size:12px; padding-bottom:0px;"]
 newpct1.com##div[style="float:left;width:100%;height:160px;"]
 torrentlocura.com##div[style="float:left;width:100%;height:275px;margin:0px 0px 20px 0px;"]
 newpct1.com,torrentlocura.com##div[style="float:left;width:100%;height:90px;"]
