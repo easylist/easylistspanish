@@ -358,5 +358,6 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||noticiasdelaciencia.com/libs_oss/adblock/
 ||okdiario.com/app/4/js/check-blocker.js
 ||pcbolsa.com/css/Rasted.js
+||superligatv.com/js/jquery.blockBlock.js
 ||todopolicia.com/wp-content/uploads/$script
 ||tumangaonline.com/img/adblock1.png
