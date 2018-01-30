@@ -102,6 +102,13 @@ telesemana.com###header-banner
 interviu.es###headerBanner
 telesemana.com###highlights-banner
 realbetisbalompie.es###horizotal-banners
+superligatv.com###imCell_10
+superligatv.com###imCell_117
+superligatv.com###imCell_119
+superligatv.com###imCell_120
+superligatv.com###imCell_180
+superligatv.com###imCell_182
+superligatv.com###imHeader_imHTMLObject_27_wrapper
 tribunaavila.com,tribunaburgos.com,tribunaleon.com,tribunapalencia.com,tribunasalamanca.com,tribunasegovia.com,tribunasoria.com,tribunavalladolid.com,tribunazamora.com###interstitial_container
 supremacy1914.es###kbg
 freepik.es###layer_coupon
