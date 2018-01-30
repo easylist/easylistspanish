@@ -113,9 +113,10 @@ todocvcd.com###mbanner
 elmundo.es###modulo_buscador_sv
 cadena3.com###mundo-descuento
 chrissysinvite.co###myModal
-forocoches.com###notices
+forochicas.com,forocoches.com###notices
 dle.rae.es###opciones > #patrocinio
 esgentside.com,ohmirevista.com###pave_haut
+forochicas.com###posts > div > div > div[style="padding:0px 0px 0px 0px"]
 eldefinido.cl###pub
 tiendeo.com.ar###publiRightContainer
 ddmix.net###publicidaddescarga1
@@ -402,6 +403,7 @@ chacohoy.com,corrienteshoy.com##.pasli
 elmundo.es,expansion.com##.patrocinio
 elheraldo.co##.pauta
 infobae.com##.pb-f-utilities-ad
+forochicas.com##.pbanner
 planbnoticias.com.ar##.penci-featured-cat-custom-ads
 descargar.mobi##.placeholder__item--banner
 casinonewsdaily.es##.popup-promo
@@ -503,6 +505,7 @@ ddmix.net##a[href*="://ul.to/"]
 htcmania.com##a[href*="_banner.php?id="]
 va6.thand.info##a[href*="http://www.physoi.eu/script/redirect.php?url=*"]
 animeid.tv##a[href*="leadzupc.com/"]
+forochicas.com##a[href*="www.amazon.es/"]
 ddmix.net##a[href="/bnr"]
 dreamfilmhd.bz##a[href="http://bit.ly/1Lppy4T"]
 20minutos.es##a[href="http://boticariagarcia.com/"]
@@ -593,6 +596,8 @@ aica.org##div[style="width:600px;height:60px;margin:10px 0px 10px 0px;"]
 diario.mx##div[style="width:970px; height:90px; display:block !important; margin:0 auto; overflow:hidden; margin-bottom: 10px;"]
 foroparalelo.com##div[style="width:970px; height:90px;"]
 divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,torrentrapid.com,tumejortorrent.com##div[style="z-index:98;width:570px;height:400px;position:absolute;top:0px;left:0px;"]
+forochicas.com#?#.tborder:-abp-contains(eBay.es)
+forochicas.com#?#.tborder:-abp-contains(elcorteingles.es)
 hitfm.es##header
 boardzona.com##iframe[src*="://supercore.adm-vids.com/video_offer?"]
 foropolicia.es##iframe[src*="://www.netpol.es/"]
