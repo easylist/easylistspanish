@@ -4,7 +4,7 @@ forocoches.com###AutoNumber30
 pcbolsa.com###Conten
 rpp.pe###Joinnuscontainerprinc
 diariopopular.com.ar###OBJETO861 > .ad-obj
-foro.putalocura.com,foroparalelo.com###ad_global_below_navbar
+foroparalelo.com###ad_global_below_navbar
 es.nametests.com###ad_wrapper_head
 nomellamesfriki.com###adpv1
 nomellamesfriki.com###adpv2
