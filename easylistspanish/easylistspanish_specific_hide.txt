@@ -230,7 +230,6 @@ forobeta.com##.adshare_lastpost
 peliculasaudiolatino.com##.adsmovie
 20minutos.com,20minutos.com.mx,20minutos.es,elespanol.com,elsol.com.ar##.adv
 juegos.com##.advert
-spalumi.com##.advertisement + .tborder
 tribunaavila.com,tribunaburgos.com,tribunaleon.com,tribunapalencia.com,tribunasalamanca.com,tribunasegovia.com,tribunasoria.com,tribunavalladolid.com,tribunazamora.com##.advertising
 vibbo.com##.advertisingTop
 20minutos.com,20minutos.com.mx,20minutos.es##.adx
@@ -569,7 +568,6 @@ cuatro.com,telecinco.es##a[href^="http://premiercasino.es/"]
 compucalitv.com##a[href^="http://toroadvertisingmedia.com/"]
 pelisplus.tv##a[href^="http://www.maxonclick.com/"]
 compucalitv.com##a[href^="https://a2g-secure.com/"]
-esaschicas.com##a[href^="https://esaschicas.com/rbs_banner.php?"]
 cuatro.com,telecinco.es##a[href^="https://premiercasino.es/"]
 divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,torrentrapid.com,tumejortorrent.com##a[onclick*="pop.redirect.adsjudo.com"]
 ddmix.net##a[style="height: 98%; position: fixed; right: 1px; bottom: 2px; top: 1px; left: 0px; width: 99%; z-index: 60342561;"]
@@ -649,7 +647,6 @@ finofilipino.org##img[src="http://static.tumblr.com/omgciym/2bBmgb175/juegacos.j
 finofilipino.org##img[src="http://static.tumblr.com/omgciym/Pnenkw34v/edrfwregwrgwtrgwr.jpg"]
 finofilipino.org##img[src="http://static.tumblr.com/omgciym/SXxm66n6y/lol-logo.png"]
 divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,torrentrapid.com,tumejortorrent.com##li[style="width:100%;height:98px;"]
-spalumi.com##marquee
 eluniversal.com##p[style="color: rgb(144, 144, 144); background-color: rgb(235, 235, 235);font-size: 12px;padding-left:5px;"]
 infoban.com.ar##p[style="margin:2px 2px 2px 2px;padding:2px 2px 2px 2px;border:0px dashed #999999; overflow:hidden;"]
 apfdigital.com.ar,infoban.com.ar##p[style="margin:2px auto 2px auto;padding:2px 2px 2px 2px;border:0px solid #999999; background-color:#f0f0f0; overflow:hidden;"]

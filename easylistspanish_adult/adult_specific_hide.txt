@@ -8,6 +8,7 @@ laschicascalientes.es###text-11
 spalumi.com###topbar
 xxxvideosputas.xxx###ventana-flotante
 teatroporno.com##.adspots
+spalumi.com##.advertisement + .tborder
 mujeres-desnudas.com##.annunce
 poringa.net,teatroporno.com##.banner
 absoluporn.es##.bloc-bub-860
@@ -25,4 +26,6 @@ spalumi.com##a[href*="http://www.adcean.com/"]
 vercomicsporno.com##a[href="http://vermangasporno.com/"]
 pajarracos.es##a[href^="http://www.fresalia.com/"]
 pajarracos.es##a[href^="http://www.fuegodevida.com/"]
+esaschicas.com##a[href^="https://esaschicas.com/rbs_banner.php?"]
 xxxvideosputas.xxx##iframe[src^="http://xxxvideosputas.xxx/includes/adds/"]
+spalumi.com##marquee
