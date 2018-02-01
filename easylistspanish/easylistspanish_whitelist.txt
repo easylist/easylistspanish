@@ -84,6 +84,7 @@
 @@||kjanime.net/link/advertisement.js$script,domain=kjanime.net
 @@||latelete.tv^$generichide
 @@||levante-emv.com^$generichide
+@@||livesports.pw//adblock.js$script,domain=livesports.pw
 @@||livesports.pw/adblock.js$script,domain=livesports.pw
 @@||livesports.pw^$generichide
 @@||marca.com^$generichide
