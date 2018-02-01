@@ -78,6 +78,7 @@
 @@||fullpremiums.com/adblock.js$script,domain=fullpremiums.com
 @@||fullpremiums.com^$generichide
 @@||futbolchile.net^$generichide
+@@||golrojadirecta.com^$generichide
 @@||inmanga.com/Scripts/fuckadblock.js$script,domain=inmanga.com
 @@||jovenesweb.com/plugins/ABchecker/src/advertisement.js$script,domain=jovenesweb.com
 @@||kjanime.net/link/advertisement.js$script,domain=kjanime.net
