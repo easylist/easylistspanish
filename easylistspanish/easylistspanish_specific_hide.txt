@@ -201,7 +201,7 @@ mediavida.com##._p-ft
 mediavida.com##._p-tp
 equipar.es##.aalb-pa-ad-unit
 equipar.es##.aalb-pg-ad-unit
-cuatro.com,divinity.es,elconfidencial.com,elsol.com.ar,telecinco.es##.ad
+cuatro.com,divinity.es,elconfidencial.com,elsol.com.ar,salvajes.com,telecinco.es##.ad
 milenio.com##.ad-box1
 milenio.com##.ad-box2
 autoblog.com.ar##.ad-header-right
