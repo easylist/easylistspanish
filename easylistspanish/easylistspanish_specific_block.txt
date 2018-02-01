@@ -254,6 +254,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||pescare.com.ar/img/banner-top.jpg
 ||pescare.com.ar/wp-content/uploads/2015/10/bpg5.jpg
 ||pescare.com.ar/wp-content/uploads/2015/10/solimeno.jpg
+||pirlotv.es/js/anuncio.js
 ||planbnoticias.com.ar/pb/wp-content/uploads/2017/03/IMG_0762.jpg
 ||planbnoticias.com.ar/pb/wp-content/uploads/2017/05/gif-*-de-socios.gif
 ||planbnoticias.com.ar/pb/wp-content/uploads/2017/05/Pauta2017-300x300.jpg
