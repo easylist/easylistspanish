@@ -379,6 +379,7 @@ lne.es##.fondo_patrocicio
 elcucodigital.com##.fullwidthabanner
 elcucodigital.com##.fullwidthbanner-container
 yorokobu.es##.fw-container
+juegos.com##.game-page-sidebar
 rpp.pe##.gogoWidget3V
 ehowenespanol.com##.gpt_300
 canalciclismo.com##.hide-for-small
