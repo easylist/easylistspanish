@@ -348,6 +348,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||vertdtgratis.es/publi1.html
 ||vertdtgratis.es/publi2.html
 ||vertdtgratis.es/publi23.html
+||vertelevisor.com/publivertelevisor
 ||vigoe.es/images/pbanner/
 ||whathyx.com/pandi.js
 ||widgets.helpmycash.com/ranking-financiero/
