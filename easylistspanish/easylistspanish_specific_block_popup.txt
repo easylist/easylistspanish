@@ -1,3 +1,3 @@
-about:blank$popup,domain=identi.li,seriesblanco.com
+about:blank$popup,domain=identi.li,seriesblanco.com,gnula.nu
 |http://$popup,third-party,domain=animeid.tv|jkanime.net
 ||acortar.net$popup
