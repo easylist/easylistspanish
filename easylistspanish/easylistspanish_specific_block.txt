@@ -251,6 +251,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||nueva-ciudad.com.ar/advf/imagenes/2016/09/57eaba064c5fc.png
 ||nueva-ciudad.com.ar/banners/
 ||nuevaeranet.com.ar/publicidades_cate/
+||objetivocastillalamancha.es/sites/default/files/styles/banercolumna
 ||objetivocastillalamancha.es/sites/default/files/styles/bannercolumna
 ||okdiario.com/img/endesa/endesa_300x90.gif
 ||p.a-abp.com//simgad/
