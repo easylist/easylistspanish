@@ -140,6 +140,7 @@ ehowenespanol.com###radlinks
 realbetisbalompie.es###right-banners
 nomellamesfriki.com###shopall1
 noticias3d.com###skin
+noticiasmallorca.es###slider-wrapper
 bandaancha.eu###spBx
 pagina12.com.ar###sticky-banner-article
 noticiaslasflores.com.ar###swiffycontainer
