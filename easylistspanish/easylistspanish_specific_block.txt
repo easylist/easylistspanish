@@ -256,6 +256,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||objetivocastillalamancha.es/sites/default/files/styles/bannercolumna
 ||okdiario.com/img/endesa/endesa_300x90.gif
 ||p.a-abp.com//simgad/
+||pamplonaactual.com/wp-content/uploads/*.gif
 ||parlamentario.com/db/000/
 ||paxinasgalegas.es/BannerService.ashx
 ||peliculas.nu/pared.js
