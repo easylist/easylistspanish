@@ -11,6 +11,7 @@ nomellamesfriki.com###adpv2
 ftail.tv,reverso.net,shippuden.tv###ads
 eltiempo.es###ads_position_2
 deportesmax.com###adsdiv
+hazteveg.com###advertising
 comunio.es###advertising-right
 comunio.es###advertising-top
 cualesmiip.com###anuncio
@@ -283,6 +284,7 @@ noticiasurbanas.com.ar##.banner-noticia
 cronista.com##.banner-revista
 unosantafe.com.ar##.banner-side
 cooperativa.cl##.banner-top
+hazteveg.com##.banner-wrapper
 breves24.com.ar##.banner1
 breves24.com.ar##.banner2
 nomellamesfriki.com##.banner250
