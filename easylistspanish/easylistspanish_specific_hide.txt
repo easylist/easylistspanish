@@ -296,7 +296,7 @@ rosariogarage.com##.banner_bienes_rosario
 bienesrosario.com##.banner_bienes_rosario_contenido
 elimparcial.com##.banner_box
 elimparcial.com##.banner_box_p
-animeid.io##.banner_center
+animeid.io,jkanime.co##.banner_center
 rosariogarage.com##.banner_centro_inf
 miltorrents.com##.banner_detail_files
 miltorrents.com##.banner_detail_top
