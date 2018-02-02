@@ -1,3 +1,4 @@
+@@||spalumi.com/images/
 ! Anti-Adblock
 @@||bambergerkennanchitinous.com/.adframesrc.$script,third-party,domain=mivideox.com
 @@||mivideox.com^$generichide
