@@ -63,6 +63,7 @@ ftail.tv,shippuden.tv###bottomlink
 divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,torrentrapid.com,tumejortorrent.com###box-ads-tr
 divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,torrentrapid.com,tumejortorrent.com###box-ads-trailer
 pickinup.es###brand-carousel
+abc.com.py###breaking-news-banner1
 abchoy.com.ar###cacho-overlay
 abchoy.com.ar###cacho-popup
 laprovincia.es###caja_1_derecha_17_0
@@ -363,6 +364,7 @@ cienradios.com##.cienradios-ads
 bro.adca.st##.close
 lavoz.com.ar##.clublavoz
 abc.com.py##.col-banner
+abc.com.py##.col-banner-45
 frontera.info##.col-banner_c2
 force-download.es##.col-sm-2
 deportemixtv.info##.column-right-outer
