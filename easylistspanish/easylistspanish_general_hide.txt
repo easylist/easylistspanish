@@ -9,6 +9,7 @@
 ###afsposicion2
 ###contenedor_pub_superior
 ###content-ads-top
+###derpub
 ###eplAdDivlateralder
 ###eplAdDivlateralizq
 ###eplAdDivtopbanner
