@@ -207,7 +207,7 @@ practisistemas.com##.Txt_promotigo
 elimparcial.com##.___-N
 mediavida.com##._p-ft
 mediavida.com##._p-tp
-sticknoticias.com##.a-single
+gasteizhoy.com,sticknoticias.com##.a-single
 equipar.es##.aalb-pa-ad-unit
 equipar.es##.aalb-pg-ad-unit
 cuatro.com,divinity.es,elconfidencial.com,elsol.com.ar,laverdad.com,salvajes.com,telecinco.es##.ad
