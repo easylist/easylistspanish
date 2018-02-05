@@ -272,6 +272,7 @@ misionescuatro.com##.banner-ad-not-top
 adnradio.cl##.banner-ancho
 adnradio.cl##.banner-ancho-movil
 elonce.com##.banner-b
+gasteizhoy.com##.banner-bajo-header
 voydeviaje.com.ar##.banner-billboard-wrapper
 elonce.com##.banner-c
 andaluciainformacion.es##.banner-cabecero
