@@ -1,3 +1,4 @@
+$script,third-party,domain=ddmix.net
 $webrtc,domain=animeid.tv|booksmedicos.org|pelispedia.tv
 $websocket,domain=ddmix.net|descargasnsn.com
 /*badge*.png$domain=rpp.pe
@@ -74,6 +75,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||cualesmiip.com/images/banner
 ||cuartopoder.es//images/MovistarFusion.jpg
 ||cuponidad.pe^$domain=elpopular.pe|larepublica.pe|libero.pe
+||ddmix.net/doggy*js$script
 ||ddmix.net/wp-content/plugins/popup-builder/
 ||defiendase.com/media/file/2014/Publicidades/
 ||deportetandilense.com.ar/publicidades_cate/
