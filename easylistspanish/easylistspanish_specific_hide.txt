@@ -129,6 +129,8 @@ forochicas.com###posts > div > div > div[style="padding:0px 0px 0px 0px"]
 eldefinido.cl###pub
 tiendeo.com.ar###publiRightContainer
 ddmix.net###publicidaddescarga1
+naciodigital.cat###publicos
+naciodigital.cat###publientrenotis
 elcucodigital.com###publitopfondo
 ehowenespanol.com###radlinks
 realbetisbalompie.es###right-banners
