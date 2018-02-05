@@ -397,6 +397,7 @@ elcucodigital.com##.fullwidthabanner
 elcucodigital.com##.fullwidthbanner-container
 diariodepasion.es##.fusion-header-banner
 yorokobu.es##.fw-container
+gasteizhoy.com##.g-single
 juegos.com##.game-page-sidebar
 rpp.pe##.gogoWidget3V
 ehowenespanol.com##.gpt_300
