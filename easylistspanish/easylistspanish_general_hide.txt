@@ -99,6 +99,9 @@
 ##.publi_sky
 ##.publi_widget_1
 ##.publi_widget_2
+##.publicLateral
+##.publicLateralTop
+##.publicVert
 ##.publicidad-1110x90
 ##.publicidad-160-600
 ##.publicidad-300-250
@@ -158,4 +161,5 @@
 ##a[href^="http://www.amigos.com/go/"]
 ##adsenseintermedioleft
 ##adsenseintermedioright
+##div[class^="publicHoriz"]
 ##div[id^="M"][id*="Composite"]
