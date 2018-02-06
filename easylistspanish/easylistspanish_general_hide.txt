@@ -3,6 +3,7 @@
 ###PubRight
 ###PubTop1
 ###PubTop2
+###adGgV160
 ###ad_250x300
 ###afsposicion1
 ###afsposicion2
@@ -12,6 +13,9 @@
 ###eplAdDivlateralizq
 ###eplAdDivtopbanner
 ###fix_publicidad_inferior
+###gAddTop
+###google-ad2
+###googleads_dr
 ###oasTOP
 ###pub_superior_left
 ###publiLink

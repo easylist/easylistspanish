@@ -359,6 +359,9 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||wp.com/autoblog.com.ar/wp-content/uploads/*.gif
 ! Anti-Adblock
 ||el-mundo.net/js/fm*.js$script
+||epasatiempos.es/js/af.js
+||epasatiempos.es/js/dab.js
+||epasatiempos.es/js/pagead2.js
 ||exabytetv.info/wp-content/plugins/wp-adblock-dedect/
 ||gtsstatic.com/static/mscripts/index_457.js
 ||lavozdealmeria.es/js/addblock.js
