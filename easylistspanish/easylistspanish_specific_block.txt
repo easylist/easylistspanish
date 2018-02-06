@@ -253,6 +253,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||parlamentario.com/db/000/
 ||paxinasgalegas.es/BannerService.ashx
 ||peliculas.nu/pared.js
+||peliculasyseries.org//images/desactiva.gif
 ||pescare.com.ar/banners/
 ||pescare.com.ar/img/banner-top.jpg
 ||pescare.com.ar/wp-content/uploads/2015/10/bpg5.jpg

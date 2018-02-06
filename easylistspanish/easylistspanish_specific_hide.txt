@@ -620,6 +620,7 @@ mejortorrent.com##div[style="padding:5px; font-family:arial; font-size:11px; col
 animeid.io##div[style="position: absolute; top: 660px; right: -228px;"]
 la-razon.com##div[style="position:absolute; top:12px; width:970px; height:90px; background:#FFF; z-index:100; padding:0px; margin:0px"]
 newpct1.com##div[style="position:relative;margin-left:-30px;width:639px;min-height:1px;overflow:hidden;"]
+peliculasyseries.org##div[style="position:relative;z-index:100;height:450px"]
 cuartopoder.es##div[style="text-align:center; margin-bottom: 15px; background-color:#F4F4F4;width: 302px;"]
 cuartopoder.es##div[style="text-align:center; margin-bottom: 15px; background-color:#F4F4F4;width: 728px;"]
 torrentlocura.com##div[style="text-align:center;padding:0px;width:100%;"]
