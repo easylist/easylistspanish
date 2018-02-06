@@ -26,6 +26,7 @@
 ###publicidad_subir
 ###publicidad_superior
 ###slider-oferplan
+###sp-top-ads
 ###titulo-publicidad
 ##.Adboost300x250
 ##.Adboost300x600
@@ -131,6 +132,7 @@
 ##.spub
 ##.story-patrocinio
 ##.td-g-rec-id-custom_ad_3
+##.top-add
 ##.topads728
 ##.views-row-ads
 ##.vip-section-advertising

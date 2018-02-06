@@ -311,6 +311,7 @@ bienesrosario.com,rosariogarage.com##.banner_sop
 bienesrosario.com,rosariogarage.com##.banner_superior
 azarplus.com##.bannerfijodcha
 azarplus.com##.bannerfijoizda2
+expreso.com.mx##.bannergroup
 ennaranja.com##.bannering
 elliberal.com.ar##.bannernota
 elliberal.com.ar##.bannernota2
@@ -415,6 +416,7 @@ foro.nmn900.net##.nmn900_bottom_ad
 hsbnoticias.com##.node-advertisement
 gaceta.es##.node-anuncio-megabanner
 elnueve.com##.note-home-container--1-space
+expreso.com.mx##.nspColWAds
 pdindustriales.com.ar##.ofertas2
 elmundo.es##.other-services
 frontera.info##.p15_banners_box1_234

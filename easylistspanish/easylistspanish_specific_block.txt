@@ -118,6 +118,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||escolar.net/wp-content/hoyenvertele*.jpg
 ||especiales.woman.es/wid-deportivos/index.html
 ||estaticos.sport.es/resources/png/8/1/1434710825318.png
+||expreso.com.mx/images/anuncios/
 ||exvagos1.com/clientscript/license.*.js
 ||farox.com/barra_productos/
 ||file01.lavanguardia.com/2013/04/09/54371066983-file.jpg

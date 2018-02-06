@@ -12,6 +12,7 @@
 @@||diariosanrafael.com.ar/images/banners/banner_twitter.png
 @@||disqus.com^$script,third-party,domain=ftail.tv|lacajita.xyz|seriesblanco.com|shippuden.tv
 @@||elitegol.com/lanzalayer.php$script,third-party,domain=elitetorrent.net
+@@||expreso.com.mx/images/anuncios/newsletter-anuncio.jpg$image,domain=expreso.com.mx
 @@||grupoet.com/ewn_pie.php$script,third-party,domain=elitetorrent.net
 @@||imasdk.googleapis.com/js/sdkloader/$script,domain=mitele.es
 @@||lagacetadesalamanca.es/elementosWeb/gestionCajas/GSA/Image/2016//whatsappgacetaa.gif$image,domain=lagacetadesalamanca.es
