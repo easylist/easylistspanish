@@ -221,7 +221,7 @@ televisa.com##.ad_space_large
 elconfidencial.com##.adcrt300x600
 elconfidencial.com##.adcrt980x250
 elperiodico.cat,laconversacion.net,lagaceta.com.ar,lagacetasalta.com.ar,sport.es##.add
-eltrecetv.com.ar,eslang.es,gnula.se,lostiempos.com,pelispedia.tv,publico.es,rpp.pe##.ads
+eltrecetv.com.ar,eslang.es,gnula.se,lostiempos.com,pelispedia.tv,peru.com,publico.es,rpp.pe##.ads
 yorokobu.es##.ads-block
 meristation.as.com,meristation.com.mx##.ads-notificator
 rpp.pe##.ads-sidebar-widget
@@ -370,6 +370,7 @@ diariodesevilla.es##.ePubli1
 elcomercio.pe##.ec-club
 eldeber.com.bo##.ed-ads
 cronista.com##.entry-box-banner
+peru.com##.epl-space
 elespectador.com##.external-logos
 seriesgato.com##.externo
 peliculas69.com##.fake

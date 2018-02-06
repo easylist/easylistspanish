@@ -36,7 +36,9 @@
 ##.ad_dfp_estandar
 ##.adcontainer-portlet
 ##.ads-block-panel-tipo-1
+##.adsCon
 ##.ads_160x600
+##.ads_960x90
 ##.adsderecha
 ##.adunit-container
 ##.adunit-title
