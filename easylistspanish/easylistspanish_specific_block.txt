@@ -298,6 +298,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||red92.com/images/uploaded/spots/
 ||religionenlibertad.com/imgpbs/
 ||republica.com.uy/wp-content/banners/
+||rioja2.com/images/banners/
 ||rosariogarage.com/resources/banner/
 ||rs.20m.es/i/petitchef_cintillo.jpg
 ||s3.amazonaws.com/comparabien-default/ads/
