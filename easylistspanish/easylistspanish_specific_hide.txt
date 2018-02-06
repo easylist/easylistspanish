@@ -258,7 +258,7 @@ expansion.com##.bankimia
 hipertextual.com##.banner--evento
 ambito.com##.banner-3-col
 ushuaianoticias.com##.banner-970
-elonce.com##.banner-a
+elonce.com,frontera.info##.banner-a
 misionescuatro.com##.banner-ad-not-1
 misionescuatro.com##.banner-ad-not-top
 adnradio.cl##.banner-ancho
@@ -299,7 +299,7 @@ gente.com.ar##.bannerSide
 rosariogarage.com##.banner_bienes_rosario
 bienesrosario.com##.banner_bienes_rosario_contenido
 elimparcial.com##.banner_box
-elimparcial.com##.banner_box_p
+elimparcial.com,frontera.info##.banner_box_p
 animeid.io,jkanime.co##.banner_center
 rosariogarage.com##.banner_centro_inf
 miltorrents.com##.banner_detail_files
@@ -353,6 +353,7 @@ cienradios.com##.cienradios-ads
 bro.adca.st##.close
 lavoz.com.ar##.clublavoz
 abc.com.py##.col-banner
+frontera.info##.col-banner_c2
 force-download.es##.col-sm-2
 deportemixtv.info##.column-right-outer
 renfe.com##.comprabilletes
@@ -415,6 +416,7 @@ gaceta.es##.node-anuncio-megabanner
 elnueve.com##.note-home-container--1-space
 pdindustriales.com.ar##.ofertas2
 elmundo.es##.other-services
+frontera.info##.p15_banners_box1_234
 meteoconsult.es##.partenaire_simple
 meteoconsult.es##.partenaire_simple_home
 chacohoy.com,corrienteshoy.com##.pasli
