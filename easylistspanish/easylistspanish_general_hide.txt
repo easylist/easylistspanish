@@ -68,6 +68,7 @@
 ##.ep-pub
 ##.find_bar_publicidades
 ##.flex__publi
+##.header-adds
 ##.mclics
 ##.myml-menu-navigation > .container-banner
 ##.myml-menu-navigation > .purchases-banner
