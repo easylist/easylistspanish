@@ -520,6 +520,7 @@ larazon.es##.vinculoPatrocinio
 equipar.es,futbolchile.net##.widget_custom_html
 st1.idealista.com##.widget_idealista
 envilladelparque.com,envilladevoto.com##.widget_metaslider_widget
+cafevirtual.cl##.widget_text
 envilladelparque.com,envilladevoto.com##.widget_wp_views
 cronicadigital.cl##.wpb_text_column
 hipertextual.com##.wrapperBanner
