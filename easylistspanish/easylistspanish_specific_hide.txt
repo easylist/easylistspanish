@@ -4,6 +4,7 @@ forocoches.com###AutoNumber30
 pcbolsa.com###Conten
 rpp.pe###Joinnuscontainerprinc
 diariopopular.com.ar###OBJETO861 > .ad-obj
+pepecine.tv###SlideMenu1:nth-of-type(2) + h2
 pepecine.tv###ad
 foroparalelo.com###ad_global_below_navbar
 es.nametests.com###ad_wrapper_head
