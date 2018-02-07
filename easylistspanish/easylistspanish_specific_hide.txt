@@ -508,6 +508,7 @@ cronicadigital.cl##.td-main-sidebar > .td-ss-main-sidebar > .td_block_template_5
 planbnoticias.com.ar##.text-4
 planbnoticias.com.ar##.text-7
 larazon.es##.textoPatrocinio
+miradetodo.io##.tit
 mitele.es##.titleList.DestacadoBox.clearfix.ModuleSimple:last-child
 elpopular.mx##.todopuebla
 reverso.net##.top-horizontal
@@ -553,6 +554,8 @@ va6.thand.info##a[href*="http://www.physoi.eu/script/redirect.php?url=*"]
 animeid.tv##a[href*="leadzupc.com/"]
 juegos.com##a[href*="smarturl.it/"]
 forochicas.com##a[href*="www.amazon.es/"]
+miradetodo.io##a[href="#div0"]
+miradetodo.io##a[href="#playerads"]
 dreamfilmhd.bz##a[href="http://bit.ly/1Lppy4T"]
 20minutos.es##a[href="http://boticariagarcia.com/"]
 dreamfilmhd.bz##a[href="http://byggboss.se"]
