@@ -496,6 +496,8 @@ lacapitalmdp.com##.sponsor_stats
 maximaonline.com.ar##.sponsored
 ruedasgordas.es##.sponsors
 diariolarepublica.com.ar##.st-banner
+envilladevoto.com##.stream-item-mag
+envilladevoto.com##.stream-item-widget
 losandes.com.ar##.sugerencias
 pescare.com.ar##.swf-banner-1
 pescare.com.ar##.swf-banner-2
@@ -516,6 +518,8 @@ reverso.net##.verticalbox
 larazon.es##.vinculoPatrocinio
 equipar.es,futbolchile.net##.widget_custom_html
 st1.idealista.com##.widget_idealista
+envilladevoto.com##.widget_metaslider_widget
+envilladevoto.com##.widget_wp_views
 hipertextual.com##.wrapperBanner
 bro.adca.st##.xclo
 bro.adca.st##.xpepinx
