@@ -152,7 +152,6 @@ misionesonline.net###text-20
 misionesonline.net###text-21
 misionesonline.net###text-22
 16valvulas.com.ar,elplanetaurbano.com,elsigloweb.com,todopolicia.com###text-3
-ddmix.net###text-4
 diariovictoria.com.ar,elsigloweb.com###text-5
 smnoticias.com,smnoticias.info###text-52
 diariovictoria.com.ar,elsigloweb.com###text-6
@@ -522,7 +521,7 @@ larazon.es##.vinculoPatrocinio
 equipar.es,futbolchile.net##.widget_custom_html
 st1.idealista.com##.widget_idealista
 envilladelparque.com,envilladevoto.com##.widget_metaslider_widget
-cafevirtual.cl##.widget_text
+cafevirtual.cl,ddmix.net##.widget_text
 envilladelparque.com,envilladevoto.com##.widget_wp_views
 cronicadigital.cl##.wpb_text_column
 hipertextual.com##.wrapperBanner
@@ -542,6 +541,8 @@ va6.thand.info##[src="http://va6.thand.info/0hsfy957uswi2cgypg23"]
 ddmix.net##a[href*=".click.aliexpress.com/"]
 seriesgato.com##a[href*=".leadzutw.com/"]
 inmodiario.com##a[href*="/ads.php?id="]
+ddmix.net##a[href*="/bdi"]
+ddmix.net##a[href*="/bnr"]
 foropolicia.es##a[href*="/publicidad.php?id="]
 ddmix.net,descargasnsn.com##a[href*="://bit.ly/"]
 teknofilo.com##a[href*="://clk.tradedoubler.com/click?"]
@@ -552,7 +553,6 @@ va6.thand.info##a[href*="http://www.physoi.eu/script/redirect.php?url=*"]
 animeid.tv##a[href*="leadzupc.com/"]
 juegos.com##a[href*="smarturl.it/"]
 forochicas.com##a[href*="www.amazon.es/"]
-ddmix.net##a[href="/bnr"]
 dreamfilmhd.bz##a[href="http://bit.ly/1Lppy4T"]
 20minutos.es##a[href="http://boticariagarcia.com/"]
 dreamfilmhd.bz##a[href="http://byggboss.se"]
@@ -579,7 +579,6 @@ antena3.com##a[href="http://www.objetivobienestar.com/"]
 todopolicia.com##a[href="http://www.sespol.es"]
 mitele.es##a[href="http://www.tiendagranhermano.com"]
 antena3.com##a[href="http://www.tualbum.es/"]
-ddmix.net##a[href="https://ddmix.net/bdi"]
 ruedasgordas.es##a[href="https://www.facebook.com/pages/BENIBIKES-Benidorm/177123992350243?fref=ts"]
 elperiodico.cl##a[href="https://www.santotomas.cl"]
 ole.com.ar##a[href="https://www.youtube.com/watch?v=IZPtel51MlA"]
