@@ -35,6 +35,7 @@
 ##.Adboost300x250
 ##.Adboost300x600
 ##.PublicidadCabecera
+##.a_pub
 ##.ad-300x250-solo
 ##.ad-tl2b
 ##.ad_728_90_page

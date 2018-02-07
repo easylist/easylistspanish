@@ -107,6 +107,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||eldiariodemadryn.com/wp-content/themes/ElDiario_2017_bootstrap/images/Ecoplas-Banner-300x250px-1.gif
 ||eldiariodetandil.com/contenido/publicidades/
 ||eldiarionuevodia.com.ar/u/banners/
+||eldivisadero.cl/media/banner/
 ||elitegol.com/media/oficial.png
 ||elmundo.es^*/patrocinador/
 ||elpatagonico.com/adjuntos/193/banners/
