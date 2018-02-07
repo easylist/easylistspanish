@@ -255,7 +255,7 @@ cadena3.com##.baner960x50
 cadena3.com##.baners-medio-nota-ampliada
 eleconomista.es##.bankia-cuerda
 expansion.com##.bankimia
-24con.com,agenciafe.com,agritotal.com,animakai.tv,azarplus.com,canal-ar.com.ar,debate.com.mx,descargasnsn.com,diariodecuyo.com.ar,diariohoy.net,diariolaprovinciasj.com,diariopopular.com.ar,diariouno.com.ar,elancasti.com.ar,eldiarionuevodia.com.ar,elpatagonico.com,gacetadeportiva.com.ar,impulsobaires.com.ar,infocanuelas.com,informador.mx,lacapital.com.ar,laiguana.tv,lanacion.com.ar,lapoliticaonline.com,mdzol.com,meristation.com.mx,minutouno.com,paraveronline.com,primiciasya.com,realpolitik.com.ar,rosario3.com,sanjuan8.com,sport.es,tutecnomundo.com,unoentrerios.com.ar,unosantafe.com.ar,voydeviaje.com.ar##.banner
+24con.com,agenciafe.com,agritotal.com,animakai.tv,azarplus.com,canal-ar.com.ar,debate.com.mx,descargasnsn.com,diariodecuyo.com.ar,diariohoy.net,diariolaprovinciasj.com,diariopopular.com.ar,diariouno.com.ar,elancasti.com.ar,eldiarionuevodia.com.ar,elpatagonico.com,gacetadeportiva.com.ar,impulsobaires.com.ar,infocanuelas.com,informador.mx,lacapital.com.ar,laiguana.tv,lanacion.com.ar,lapoliticaonline.com,mdzol.com,meristation.com.mx,minutouno.com,paraveronline.com,primiciasya.com,realpolitik.com.ar,rosario3.com,sanjuan8.com,sport.es,t13.cl,tutecnomundo.com,unoentrerios.com.ar,unosantafe.com.ar,voydeviaje.com.ar##.banner
 hipertextual.com##.banner--evento
 ambito.com##.banner-3-col
 ushuaianoticias.com##.banner-970
@@ -365,6 +365,7 @@ cronista.com##.content-banner
 inmodiario.com,puromarketing.com##.content-pub-top
 elcolombiano.com##.contentBannerIntelecto
 slimdownload.co##.cssanimations
+t13.cl##.d_banner_t13
 laprovincia.es##.dcham2
 lavanguardia.com##.div-patrocinado5
 teknofilo.com##.e3lan
@@ -501,6 +502,7 @@ envilladelparque.com,envilladevoto.com##.stream-item-widget
 losandes.com.ar##.sugerencias
 pescare.com.ar##.swf-banner-1
 pescare.com.ar##.swf-banner-2
+t13.cl##.t_banner_t13
 chacodiapordia.com##.td-a-rec
 aldeaviral.com##.td-header-sp-recs
 cronicadigital.cl##.td-main-sidebar > .td-ss-main-sidebar > .td_block_template_5:nth-of-type(1)
