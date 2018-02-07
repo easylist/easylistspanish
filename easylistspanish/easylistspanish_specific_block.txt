@@ -110,6 +110,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||elitegol.com/media/oficial.png
 ||elmundo.es^*/patrocinador/
 ||elpatagonico.com/adjuntos/193/banners/
+||elperiodico.cl/wp-content/uploads/2016/05/diariouchile.swf
 ||elpuntodeequilibrio.com/assets/banners/
 ||emol.com/_portada/cajasecciones/cajaeconomicos.aspx
 ||emol.com/www/noticias/sqn.php?zones=

@@ -576,6 +576,7 @@ mitele.es##a[href="http://www.tiendagranhermano.com"]
 antena3.com##a[href="http://www.tualbum.es/"]
 ddmix.net##a[href="https://ddmix.net/bdi"]
 ruedasgordas.es##a[href="https://www.facebook.com/pages/BENIBIKES-Benidorm/177123992350243?fref=ts"]
+elperiodico.cl##a[href="https://www.santotomas.cl"]
 ole.com.ar##a[href="https://www.youtube.com/watch?v=IZPtel51MlA"]
 teknofilo.com##a[href^="//clk.tradedoubler.com/click?"]
 adlipay.com##a[href^="/away.php?"]
@@ -587,6 +588,7 @@ compucalitv.com##a[href^="https://a2g-secure.com/"]
 cuatro.com,telecinco.es##a[href^="https://premiercasino.es/"]
 divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,torrentrapid.com,tumejortorrent.com##a[onclick*="pop.redirect.adsjudo.com"]
 ddmix.net##a[style="height: 98%; position: fixed; right: 1px; bottom: 2px; top: 1px; left: 0px; width: 99%; z-index: 60342561;"]
+elperiodico.cl##div[style=" width: 300px;height: 200px;background-color:#ededed; text-align: center;"]
 milenio.com##div[style="align:center; margin-bottom:10px; margin-left:10px; border: 1px solid #cacaca; padding:5px; width:300px; height:250px;"]
 nuevamujer.com##div[style="background-color: #E6E6E6; padding: 2px; text-align: center"]
 monografias.com##div[style="background-color:#FFF;margin-bottom:10px;height:250px;"]
@@ -645,6 +647,7 @@ diario.mx##div[style="width:970px; height:90px; display:block !important; margin
 foroparalelo.com##div[style="width:970px; height:90px;"]
 epasatiempos.es##div[style="width:970px;height:90px;margin:0 auto;margin-bottom:5px;"]
 divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,torrentrapid.com,tumejortorrent.com##div[style="z-index:98;width:570px;height:400px;position:absolute;top:0px;left:0px;"]
+elperiodico.cl##embed[href="http://www.radio.uchile.cl/"]
 forochicas.com#?#.tborder:-abp-contains(eBay.es)
 forochicas.com#?#.tborder:-abp-contains(elcorteingles.es)
 hitfm.es##header
