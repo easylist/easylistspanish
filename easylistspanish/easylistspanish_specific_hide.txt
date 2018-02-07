@@ -503,6 +503,7 @@ pescare.com.ar##.swf-banner-1
 pescare.com.ar##.swf-banner-2
 chacodiapordia.com##.td-a-rec
 aldeaviral.com##.td-header-sp-recs
+cronicadigital.cl##.td-main-sidebar > .td-ss-main-sidebar > .td_block_template_5:nth-of-type(1)
 planbnoticias.com.ar##.text-4
 planbnoticias.com.ar##.text-7
 larazon.es##.textoPatrocinio
@@ -520,6 +521,7 @@ equipar.es,futbolchile.net##.widget_custom_html
 st1.idealista.com##.widget_idealista
 envilladelparque.com,envilladevoto.com##.widget_metaslider_widget
 envilladelparque.com,envilladevoto.com##.widget_wp_views
+cronicadigital.cl##.wpb_text_column
 hipertextual.com##.wrapperBanner
 bro.adca.st##.xclo
 bro.adca.st##.xpepinx
