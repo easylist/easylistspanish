@@ -677,6 +677,8 @@ foroparalelo.com##div[style="width:970px; height:90px;"]
 epasatiempos.es##div[style="width:970px;height:90px;margin:0 auto;margin-bottom:5px;"]
 divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,torrentrapid.com,tumejortorrent.com##div[style="z-index:98;width:570px;height:400px;position:absolute;top:0px;left:0px;"]
 elperiodico.cl##embed[href="http://www.radio.uchile.cl/"]
+finofilipino.org#?#.adpv:-abp-has(> .adsbygoogle)
+finofilipino.org#?#.posts:-abp-has(> div > div > .adsbygoogle)
 forochicas.com#?#.tborder:-abp-contains(eBay.es)
 forochicas.com#?#.tborder:-abp-contains(elcorteingles.es)
 hitfm.es##header
@@ -705,6 +707,7 @@ divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,torrentrap
 eluniversal.com##p[style="color: rgb(144, 144, 144); background-color: rgb(235, 235, 235);font-size: 12px;padding-left:5px;"]
 infoban.com.ar##p[style="margin:2px 2px 2px 2px;padding:2px 2px 2px 2px;border:0px dashed #999999; overflow:hidden;"]
 apfdigital.com.ar,infoban.com.ar##p[style="margin:2px auto 2px auto;padding:2px 2px 2px 2px;border:0px solid #999999; background-color:#f0f0f0; overflow:hidden;"]
+finofilipino.org#?##sidebar > .adpv:-abp-contains(Camiseta de la semana)
 seriesdanko.to##span[style="font-weight:bold; cursor:pointer; text-decoration:underline"]
 sailingzona.com##td[style="color:#666666; font-size:11px; padding:2px;"]
 fitnesszona.com##td[style="font-family:Arial, Helvetica, sans-serif;font-size:9px;color:#efefef"]
