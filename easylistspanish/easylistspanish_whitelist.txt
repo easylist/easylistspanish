@@ -54,6 +54,7 @@
 @@||ciclismoafondo.es^$generichide
 @@||cinestrenostv.tv^$generichide
 @@||clasicotas.org^$generichide
+@@||cloudflare.com/ajax/libs/fuckadblock/*/fuckadblock.js$script,domain=hlat.me
 @@||comunio.es^$generichide
 @@||corporacionwarez.com^$generichide
 @@||cualbondi.com.ar^$generichide
@@ -80,6 +81,7 @@
 @@||fullpremiums.com^$generichide
 @@||futbolchile.net^$generichide
 @@||golrojadirecta.com^$generichide
+@@||hlat.me^$generichide
 @@||inmanga.com/Scripts/fuckadblock.js$script,domain=inmanga.com
 @@||jovenesweb.com/plugins/ABchecker/src/advertisement.js$script,domain=jovenesweb.com
 @@||kjanime.net/link/advertisement.js$script,domain=kjanime.net

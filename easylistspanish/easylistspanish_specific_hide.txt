@@ -10,7 +10,9 @@ foroparalelo.com###ad_global_below_navbar
 es.nametests.com###ad_wrapper_head
 nomellamesfriki.com###adpv1
 nomellamesfriki.com###adpv2
-ftail.tv,reverso.net,shippuden.tv###ads
+ftail.tv,hlat.me,reverso.net,shippuden.tv###ads
+hlat.me###ads2
+hlat.me###ads4
 eltiempo.es###ads_position_2
 deportesmax.com###adsdiv
 hazteveg.com###advertising
@@ -392,6 +394,7 @@ yorokobu.es##.fw-container
 juegos.com##.game-page-sidebar
 rpp.pe##.gogoWidget3V
 ehowenespanol.com##.gpt_300
+hlat.me##.grid_12
 tallasgrandes.es##.grid_24
 canalciclismo.com##.hide-for-small
 peru21.pe##.hiraoka
