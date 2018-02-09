@@ -395,6 +395,7 @@ juegos.com##.game-page-sidebar
 rpp.pe##.gogoWidget3V
 ehowenespanol.com##.gpt_300
 hlat.me##.grid_12
+ondaluz.tv##.grid_12 > .grid_4
 tallasgrandes.es##.grid_24
 canalciclismo.com##.hide-for-small
 peru21.pe##.hiraoka
