@@ -391,6 +391,7 @@ lne.es##.fondo_patrocicio
 25digital.com.ar##.fp-slider
 elcucodigital.com##.fullwidthabanner
 elcucodigital.com##.fullwidthbanner-container
+diariodepasion.es##.fusion-header-banner
 yorokobu.es##.fw-container
 juegos.com##.game-page-sidebar
 rpp.pe##.gogoWidget3V
