@@ -162,6 +162,7 @@ diariovictoria.com.ar,elsigloweb.com###text-6
 telesemana.com###text-69
 animechou.com,diariovictoria.com.ar###text-7
 livenumetal.es###text-7 > .textwidget
+irispress.es###text-72
 todopolicia.com###text-8
 telesemana.com###text-86
 telesemana.com###text-87
