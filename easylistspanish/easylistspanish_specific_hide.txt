@@ -149,7 +149,7 @@ kiosco.net###text-12
 misionesonline.net###text-14
 emprendices.co,misionesonline.net###text-15
 misionesonline.net###text-16
-misionesonline.net###text-17
+jerezcofrade.tv,misionesonline.net###text-17
 misionesonline.net###text-19
 elplanetaurbano.com,planbnoticias.com.ar###text-2
 misionesonline.net###text-20
