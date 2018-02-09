@@ -237,6 +237,7 @@ forobeta.com##.adshare_lastpost
 peliculasaudiolatino.com##.adsmovie
 20minutos.com,20minutos.com.mx,20minutos.es,elespanol.com,elsol.com.ar##.adv
 juegos.com##.advert
+jerezcofrade.tv##.advertisement
 tribunaavila.com,tribunaburgos.com,tribunaleon.com,tribunapalencia.com,tribunasalamanca.com,tribunasegovia.com,tribunasoria.com,tribunavalladolid.com,tribunazamora.com##.advertising
 vibbo.com##.advertisingTop
 20minutos.com,20minutos.com.mx,20minutos.es##.adx
