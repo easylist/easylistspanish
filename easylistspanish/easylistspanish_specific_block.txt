@@ -303,6 +303,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||republica.com.uy/wp-content/banners/
 ||rioja2.com/images/banners/
 ||rosariogarage.com/resources/banner/
+||rota-cofrade.net/images/fotosdiseno/publi
 ||rs.20m.es/i/petitchef_cintillo.jpg
 ||s3.amazonaws.com/comparabien-default/ads/
 ||salpimenta.com.ar/wp-content/uploads/*.gif
