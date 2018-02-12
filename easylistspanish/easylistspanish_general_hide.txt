@@ -56,6 +56,7 @@
 ##.block-dfp-midcentral_home
 ##.block-dfp-roba_pagina_top_home
 ##.blog-publi
+##.bloquepubli
 ##.caja_cuponisimo_slider200
 ##.cnt-pub
 ##.cnt-publicidad
@@ -118,6 +119,7 @@
 ##.publicidad-cabecera
 ##.publicidad-content
 ##.publicidad-horizontal
+##.publicidad-izq
 ##.publicidad-label
 ##.publicidad-top
 ##.publicidad-vertical

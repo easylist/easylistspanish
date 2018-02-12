@@ -100,6 +100,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||diariovictoria.com.ar/wp-content/uploads/*.gif
 ||divinity.es/zentv/images/zentv-300-2.gif
 ||divxtotal.com/9mesesss.jpg
+||domisfera.com/img/patrocinadores/
 ||ecestaticos.com/file/127008ee463cd1776595c5cf2b0ff780/1434970380.png
 ||ecestaticos.com/file/c321612b3020bee67701c43d5d3129f7/1434970318.png
 ||elancasti.com.ar/u/banners/
@@ -148,6 +149,8 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||guiatv.biz/adporn.html
 ||hazteveg.com/img/banner
 ||hitfm.es/view/imgs/Trident-Hit-FM-Fondo-*.jpg
+||hostinet.com/comprar/affiliate/resource/
+||hostinet.com/hstatics/templates/images/banner/
 ||huelva24.com/upload/img/periodico/*.gif
 ||i0.wp.com/www.radiosantiago.cl/wp-content/uploads/2017/01/sound_tech228x76.jpg?
 ||i0.wp.com/www.radiosantiago.cl/wp-content/uploads/2017/01/zappa228x114.gif?
