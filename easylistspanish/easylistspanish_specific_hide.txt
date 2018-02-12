@@ -525,6 +525,7 @@ cronicadigital.cl##.td-main-sidebar > .td-ss-main-sidebar > .td_block_template_5
 planbnoticias.com.ar##.text-4
 planbnoticias.com.ar##.text-7
 larazon.es##.textoPatrocinio
+elbierzodigital.com##.textwidget
 miradetodo.io##.tit
 mitele.es##.titleList.DestacadoBox.clearfix.ModuleSimple:last-child
 elpopular.mx##.todopuebla
