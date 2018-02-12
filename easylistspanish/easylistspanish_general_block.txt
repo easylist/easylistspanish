@@ -1,5 +1,6 @@
 /advertisements?
 /banner-publi-lateral.gif
+/img/patrocinios/*
 /modules/pinpan/inc_ifra.php?par=
 /multimedia/publicidades/*
 /publi/publi
