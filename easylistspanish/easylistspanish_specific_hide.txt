@@ -157,7 +157,7 @@ elplanetaurbano.com,planbnoticias.com.ar###text-2
 misionesonline.net###text-20
 misionesonline.net###text-21
 misionesonline.net###text-22
-16valvulas.com.ar,elplanetaurbano.com,elsigloweb.com,todopolicia.com###text-3
+16valvulas.com.ar,bufeo.do,elplanetaurbano.com,elsigloweb.com,todopolicia.com###text-3
 diariovictoria.com.ar,elsigloweb.com###text-5
 smnoticias.com,smnoticias.info###text-52
 diariovictoria.com.ar,elsigloweb.com###text-6
@@ -165,7 +165,7 @@ telesemana.com###text-69
 animechou.com,diariovictoria.com.ar###text-7
 livenumetal.es###text-7 > .textwidget
 irispress.es###text-72
-todopolicia.com###text-8
+bufeo.do,todopolicia.com###text-8
 telesemana.com###text-86
 telesemana.com###text-87
 elcolombiano.com###tiquetesMasBaratos
@@ -651,6 +651,7 @@ girabsas.com##div[style="margin: 0 0 15px 0; overflow: hidden; position: relativ
 girabsas.com##div[style="margin: 0 0 15px 0; overflow: hidden; position: relative; height: 0; padding-bottom: 338.34%;"]
 girabsas.com##div[style="margin: 0 0 15px 0; overflow: hidden; position: relative; height: 0; padding-bottom: 344.09%;"]
 girabsas.com##div[style="margin: 0 0 15px 0; overflow: hidden; position: relative; height: 0; padding-bottom: 9.39%;"]
+bufeo.do##div[style="margin: 0px;padding: 0px; background-color: transparent;"]
 infojobs.net##div[style="margin:0px 20px 20px 30px;font-size:16px;border:1px solid #d5e1e5"]
 concuchilloytenedor.es##div[style="margin:5px auto 5px;text-align:center;"]
 19640noticias.com##div[style="padding: Publicidad"]
@@ -690,6 +691,7 @@ foropolicia.es##iframe[src*="://www.netpol.es/"]
 buenaisla.net##iframe[src*="ads.ad4game.com/"]
 20minutos.es##iframe[src^="https://www.20minutos.es/cajasbuscadoras/"]
 mejortorrent.com##iframe[style="margin-top:0px; margin-bottom:10px; border:1px solid black;"]
+bufeo.do##img[alt="Espacio Publicitario"]
 interbenavente.es##img[alt="http://interbenavente.es/pag/serviciosweb"]
 interbenavente.es##img[alt="http://www.ford.es/serviciopostventa/PromocionesPostventa2013"]
 interbenavente.es##img[alt="http://www.serviciosfunerarioszamoranos.com/"]
