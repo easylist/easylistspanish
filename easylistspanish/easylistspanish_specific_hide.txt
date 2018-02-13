@@ -274,7 +274,7 @@ cadena3.com##.baner960x50
 cadena3.com##.baners-medio-nota-ampliada
 eleconomista.es##.bankia-cuerda
 expansion.com##.bankimia
-24con.com,agenciafe.com,agritotal.com,animakai.tv,azarplus.com,canal-ar.com.ar,debate.com.mx,descargasnsn.com,diariodecuyo.com.ar,diariohoy.net,diariolaprovinciasj.com,diariopopular.com.ar,diariouno.com.ar,elancasti.com.ar,eldiarionuevodia.com.ar,elpatagonico.com,gacetadeportiva.com.ar,impulsobaires.com.ar,infocanuelas.com,informador.mx,lacapital.com.ar,laiguana.tv,lanacion.com.ar,lapoliticaonline.com,mdzol.com,meristation.com.mx,minutouno.com,paraveronline.com,primiciasya.com,realpolitik.com.ar,rosario3.com,sanjuan8.com,sport.es,t13.cl,tutecnomundo.com,unoentrerios.com.ar,unosantafe.com.ar,voydeviaje.com.ar##.banner
+24con.com,agenciafe.com,agritotal.com,animakai.tv,azarplus.com,canal-ar.com.ar,debate.com.mx,descargasnsn.com,diariodecuyo.com.ar,diariohoy.net,diariolaprovinciasj.com,diariopopular.com.ar,diariouno.com.ar,elancasti.com.ar,eldiarionuevodia.com.ar,elpatagonico.com,gacetadeportiva.com.ar,impulsobaires.com.ar,infocanuelas.com,informador.mx,lacapital.com.ar,laiguana.tv,lanacion.com.ar,lapoliticaonline.com,mdzol.com,meristation.com.mx,minutouno.com,paraveronline.com,planetadeagostini.es,primiciasya.com,realpolitik.com.ar,rosario3.com,sanjuan8.com,sport.es,t13.cl,tutecnomundo.com,unoentrerios.com.ar,unosantafe.com.ar,voydeviaje.com.ar##.banner
 hipertextual.com##.banner--evento
 ambito.com##.banner-3-col
 ushuaianoticias.com##.banner-970
@@ -635,6 +635,7 @@ compucalitv.com##a[href^="https://a2g-secure.com/"]
 cuatro.com,telecinco.es##a[href^="https://premiercasino.es/"]
 divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,torrentrapid.com,tumejortorrent.com##a[onclick*="pop.redirect.adsjudo.com"]
 ddmix.net##a[style="height: 98%; position: fixed; right: 1px; bottom: 2px; top: 1px; left: 0px; width: 99%; z-index: 60342561;"]
+planetadeagostini.es##article[id^="divAdserver"]
 elperiodico.cl##div[style=" width: 300px;height: 200px;background-color:#ededed; text-align: center;"]
 milenio.com##div[style="align:center; margin-bottom:10px; margin-left:10px; border: 1px solid #cacaca; padding:5px; width:300px; height:250px;"]
 nuevamujer.com##div[style="background-color: #E6E6E6; padding: 2px; text-align: center"]
