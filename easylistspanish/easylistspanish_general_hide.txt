@@ -76,6 +76,8 @@
 ##.flex__publi
 ##.header-adds
 ##.mclics
+##.mod-ad-top
+##.mod-roba
 ##.modPublicidad
 ##.myml-menu-navigation > .container-banner
 ##.myml-menu-navigation > .purchases-banner
@@ -93,6 +95,7 @@
 ##.pub468x80
 ##.pub950
 ##.publi
+##.publi-texto
 ##.publi-vertical
 ##.publi300x300
 ##.publiTop
