@@ -22,6 +22,10 @@ cualesmiip.com###anuncio
 animeid.tv###ap
 abc.com.py###article-banner-comentarios
 telesemana.com###author-banner
+lacuerda.net###ban160
+lacuerda.net###ban300
+lacuerda.net###ban728
+lacuerda.net###banTxt
 elitegol.me,fmvida.com.ar,inmonauta.es###banner
 viralizalo.com###banner-mega
 perfil.com###banner990
@@ -151,6 +155,7 @@ noticiasmallorca.es###slider-wrapper
 bandaancha.eu###spBx
 pagina12.com.ar###sticky-banner-article
 noticiaslasflores.com.ar###swiffycontainer
+lacuerda.net###t_diag
 elheraldo.hn###taboola_nota
 mega-mkv.com###taplay
 kiosco.net###text-12
