@@ -332,6 +332,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||rota-cofrade.net/images/fotosdiseno/publi
 ||rs.20m.es/i/petitchef_cintillo.jpg
 ||s3.amazonaws.com/comparabien-default/ads/
+||s3.amazonaws.com/neoauto.com%2Felements%2FhomeCover
 ||salpimenta.com.ar/wp-content/uploads/*.gif
 ||shippuden.tv/a300.html
 ||sinmordaza.com/banners/
