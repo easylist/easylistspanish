@@ -139,6 +139,7 @@
 ##.publicidad_especial
 ##.publicidad_modulo1
 ##.publicidad_modulo2
+##.publicidad_pc
 ##.publicidad_titulo
 ##.publicidad_tras_bajada
 ##.publicity-content
