@@ -554,7 +554,7 @@ reverso.net##.vda-section
 reverso.net##.verticalbox
 larazon.es##.vinculoPatrocinio
 neoauto.com##.widescreen
-equipar.es,futbolchile.net##.widget_custom_html
+equipar.es,futbolchile.net,nicaraguahoy.info##.widget_custom_html
 st1.idealista.com##.widget_idealista
 envilladelparque.com,envilladevoto.com##.widget_metaslider_widget
 cafevirtual.cl,ddmix.net,pamplonaactual.com##.widget_text
