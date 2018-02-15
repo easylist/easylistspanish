@@ -451,6 +451,7 @@ elnueve.com##.note-home-container--1-space
 expreso.com.mx##.nspColWAds
 pdindustriales.com.ar##.ofertas2
 elmundo.es##.other-services
+mariosegura.com##.owl-example
 frontera.info##.p15_banners_box1_234
 meteoconsult.es##.partenaire_simple
 meteoconsult.es##.partenaire_simple_home
@@ -560,6 +561,7 @@ envilladelparque.com,envilladevoto.com##.widget_metaslider_widget
 cafevirtual.cl,ddmix.net,pamplonaactual.com##.widget_text
 jerezcofrade.tv##.widget_ti_image_banner
 envilladelparque.com,envilladevoto.com##.widget_wp_views
+mariosegura.com##.wpb_single_image
 cronicadigital.cl##.wpb_text_column
 hipertextual.com##.wrapperBanner
 bro.adca.st##.xclo

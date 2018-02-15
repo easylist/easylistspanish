@@ -234,6 +234,8 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||loteriasmundiales.com.ar/images/columna_publi_2/anuncie_aqui2.gif
 ||loteriasmundiales.com.ar/images/loterias/banners/
 ||marca.com/marcador/rfsh/marcador_portada/marcador.swf$domain=pornstarsyfamosas.es
+||mariosegura.com/wp-content/plugins/wp-owl-carousel/
+||mariosegura.com/wp-content/uploads/*/*/*.gif
 ||max-deportv.com/arriba2.html
 ||maxdeportv.club/arriba
 ||mediainterior.com.ar/images/
