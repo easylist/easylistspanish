@@ -52,6 +52,7 @@ laindustria.pe###bannercentral
 laindustria.pe###bannercentral2
 estadio.ec###banners
 eleconomista.es###banners-superiores
+manerasdevivir.com###banners_cabecera
 paxinasgalegas.es###banners_laterales
 laindustria.pe###bannertop
 mundoejecutivo.com.mx###block-block-15
@@ -709,6 +710,7 @@ finofilipino.org#?#.posts:-abp-has(> div > div > .adsbygoogle)
 forochicas.com#?#.tborder:-abp-contains(eBay.es)
 forochicas.com#?#.tborder:-abp-contains(elcorteingles.es)
 hitfm.es##header
+manerasdevivir.com##hr[style="width:5px; color:#CC6600; background-color:#CC6600; margin-top:3px; margin-bottom: 3px;"]
 boardzona.com##iframe[src*="://supercore.adm-vids.com/video_offer?"]
 foropolicia.es##iframe[src*="://www.netpol.es/"]
 buenaisla.net##iframe[src*="ads.ad4game.com/"]

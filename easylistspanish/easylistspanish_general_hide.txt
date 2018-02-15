@@ -33,6 +33,7 @@
 ###publicidad_superior
 ###slider-oferplan
 ###sp-top-ads
+###texto_publicidad
 ###titulo-publicidad
 ##.Adboost300x250
 ##.Adboost300x600
