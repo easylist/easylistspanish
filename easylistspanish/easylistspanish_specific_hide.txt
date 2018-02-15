@@ -411,6 +411,7 @@ elcucodigital.com##.fullwidthabanner
 elcucodigital.com##.fullwidthbanner-container
 diariodepasion.es##.fusion-header-banner
 yorokobu.es##.fw-container
+aptitus.com##.g-eplanning
 gasteizhoy.com##.g-single
 juegos.com##.game-page-sidebar
 rpp.pe##.gogoWidget3V
