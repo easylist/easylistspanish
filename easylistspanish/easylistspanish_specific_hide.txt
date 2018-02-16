@@ -643,6 +643,7 @@ vanguardia.com##div[style="font-size: 0.8em; text-align: left; color: rgb(136, 1
 lifezona.com##div[style="font-size:15px;height:19px;color:white;font-weight:bold;"]
 foro.nmn900.net##div[style="margin-bottom:10px;"]
 canalchic.com##div[style="margin-bottom:1px; padding-bottom:1px; height:70px; margin-top:1px"]
+gamezfull.com##div[style="margin-top: -60px;"]
 elcomercial.com.ar##div[style="margin-top:10px;float: left;"]
 vanguardia.com##div[style="margin-top:15px;float:left;width:100%;"]
 mejortorrent.com##div[style="margin-top:5px; margin-bottom:5px; padding:0px;"]
