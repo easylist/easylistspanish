@@ -565,6 +565,7 @@ jerezcofrade.tv##.widget_ti_image_banner
 envilladelparque.com,envilladevoto.com##.widget_wp_views
 mariosegura.com##.wpb_single_image
 cronicadigital.cl##.wpb_text_column
+lajornadanet.com##.wpipa-container
 hipertextual.com##.wrapperBanner
 bro.adca.st##.xclo
 bro.adca.st##.xpepinx
