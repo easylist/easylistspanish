@@ -159,6 +159,8 @@ noticiaslasflores.com.ar###swiffycontainer
 lacuerda.net###t_diag
 elheraldo.hn###taboola_nota
 mega-mkv.com###taplay
+comodorodeportes.gov.ar###text-1000
+comodorodeportes.gov.ar###text-1001
 kiosco.net###text-12
 misionesonline.net###text-14
 emprendices.co,misionesonline.net###text-15
@@ -169,6 +171,7 @@ elplanetaurbano.com,planbnoticias.com.ar###text-2
 misionesonline.net###text-20
 misionesonline.net###text-21
 misionesonline.net###text-22
+comodorodeportes.gov.ar###text-25
 16valvulas.com.ar,bufeo.do,elplanetaurbano.com,elsigloweb.com,todopolicia.com###text-3
 diariovictoria.com.ar,elsigloweb.com###text-5
 smnoticias.com,smnoticias.info###text-52
@@ -180,6 +183,7 @@ irispress.es###text-72
 bufeo.do,todopolicia.com###text-8
 telesemana.com###text-86
 telesemana.com###text-87
+comodorodeportes.gov.ar###text-999
 elcolombiano.com###tiquetesMasBaratos
 abc.com.py###top-banners
 ecuavisa.com###topbar

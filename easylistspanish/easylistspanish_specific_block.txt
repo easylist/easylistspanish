@@ -76,6 +76,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||cloudfront.net^$domain=divxtotal.co|grantorrent.com|zaipoc.com
 ||cloudfront.net^$script,domain=compucalitv.com|descargasnsn.com|extremotvplay.com|gamezfull.com
 ||clubdelectores.cl/cajaEmolClub/$third-party
+||comodorodeportes.gov.ar/wp-content/uploads/*/*/*.gif
 ||comparador.euribor.com.es/lanzadera/retargetting/
 ||contextotucuman.com//banners/
 ||corrienteshoy.com/files/banners/
