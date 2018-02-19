@@ -202,8 +202,10 @@ elblog.com###z_pub_inf_new
 elblog.com###z_pub_sup_new
 informe21.com###zone-user-wrapper
 madridpress.com##.BANNER-IMAGES
-diariolagrada.com##.Banner
+diariolagrada.com,globalasia.com##.Banner
 guadairainformacion.com##.Banner300x100
+globalasia.com##.BannerColumna
+globalasia.com##.BannerHeader_Contenedor
 pcbolsa.com##.ContenidoClassPubliCotiza
 pcbolsa.com##.ContenidoClassPubliForo300
 animeflv.net##.Dvr300
