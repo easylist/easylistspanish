@@ -415,6 +415,7 @@ diariodepasion.es##.fusion-header-banner
 yorokobu.es##.fw-container
 aptitus.com##.g-eplanning
 gasteizhoy.com##.g-single
+yucatan.com.mx##.g1-delta
 juegos.com##.game-page-sidebar
 rpp.pe##.gogoWidget3V
 ehowenespanol.com##.gpt_300
@@ -713,6 +714,8 @@ finofilipino.org#?#.adpv:-abp-has(> .adsbygoogle)
 finofilipino.org#?#.posts:-abp-has(> div > div > .adsbygoogle)
 forochicas.com#?#.tborder:-abp-contains(eBay.es)
 forochicas.com#?#.tborder:-abp-contains(elcorteingles.es)
+yucatan.com.mx##h2[style="color: #000000;text-align: left"]
+yucatan.com.mx##h2[style="text-align: center;"]
 hitfm.es##header
 manerasdevivir.com##hr[style="width:5px; color:#CC6600; background-color:#CC6600; margin-top:3px; margin-bottom: 3px;"]
 boardzona.com##iframe[src*="://supercore.adm-vids.com/video_offer?"]
