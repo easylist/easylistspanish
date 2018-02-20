@@ -445,6 +445,7 @@ rpp.pe##.logo-min
 sport.es##.logoadvertiser
 lavanguardia.com##.lv-publi-box
 blancas.cl,paginasblancas.com.ar,paginasblancas.com.pe##.m-pod-promo-image
+eltiempo.es##.m_gollum
 tandildiario.com##.mainContainerBanner
 publico.es##.megabanner-container
 reverso.net##.message-wrap--powered
