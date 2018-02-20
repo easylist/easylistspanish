@@ -422,3 +422,4 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||superligatv.com/js/jquery.blockBlock.js
 ||todopolicia.com/wp-content/uploads/$script
 ||tumangaonline.com/img/adblock1.png
+||tumangaonline.com/img/no-pub-*.png
