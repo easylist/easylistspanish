@@ -23,7 +23,7 @@
 @@||privatelink.de/$popup,third-party,domain=jkanime.net
 @@||republica.com.uy/wp-content/banners/HoroscopoDiario2016.jpg
 @@||seriesblanco.com/jquery*.min.js$script,third-party,domain=lacajita.xyz
-@@||st.chatango.com^$script,third-party,xmlhttprequest,domain=lacajita.xyz|seriesblanco.com|seriesflv.net
+@@||st.chatango.com^$script,third-party,xmlhttprequest,domain=lacajita.xyz|pepecine.info|seriesblanco.com|seriesflv.net
 @@||static.ak.fbcdn.net/connect.php/js/FB.Share$script,third-party,domain=divxatope.com|divxatope1.com|newpct.com|newpct1.com|torrentlocura.com|torrentrapid.com|tumejortorrent.com
 @@||w.sharethis.com/button/buttons.js$script,third-party,domain=lacajita.xyz|seriesblanco.com
 ! Anti-Adblock

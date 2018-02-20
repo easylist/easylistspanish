@@ -1,4 +1,4 @@
-$script,third-party,domain=ddmix.net
+$script,third-party,domain=ddmix.net|pepecine.info
 $webrtc,domain=animeid.tv|booksmedicos.org|jkanime.net|pelispedia.tv
 $websocket,domain=ddmix.net|descargasnsn.com
 /*badge*.png$domain=rpp.pe
