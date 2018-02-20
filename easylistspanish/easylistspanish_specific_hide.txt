@@ -80,7 +80,7 @@ ftail.tv,shippuden.tv###categories
 artesacro.org###ccr-sidebar-add-place
 diario.mx###centro_pub
 pantallazo.com.uy###clima-banner
-verdirectotv.com,verliga.net,vertelevisor.com###closeX
+verdirectotv.com,vergol.com,verliga.net,vertelevisor.com###closeX
 cinestrenostv.tv,vercanalestv.com,verdirectotv.com###closeX1
 cinestrenostv.tv###closeX2
 verdirectotv.com###closeX23
@@ -762,6 +762,7 @@ sailingzona.com##td[style="color:#666666; font-size:11px; padding:2px;"]
 fitnesszona.com##td[style="font-family:Arial, Helvetica, sans-serif;font-size:9px;color:#efefef"]
 ! Anti-Adblock
 diariodenavarra.es###abMsgWrap
+vergol.com,verliga.net###adb-enabled
 huelva24.com###adblockadvice
 applesfera.com,bebesymas.com,compradiccion.com,diariodelviajero.com,directoalpaladar.com,elblogsalmon.com,espinof.com,genbeta.com,genbetadev.com,motorpasion.com,motorpasionmoto.com,pymesyautonomos.com,trendencias.com,trendenciashombre.com,vidaextra.com,vitonica.com,xataka.com,xatakaciencia.com,xatakafoto.com,xatakahome.com,xatakamovil.com,xatakandroid.com,xatakawindows.com##.ad
 bikezona.com##.addblock
