@@ -140,6 +140,7 @@ cadena3.com###mundo-descuento
 chrissysinvite.co###myModal
 forochicas.com,forocoches.com###notices
 dle.rae.es###opciones > #patrocinio
+frontera.info###p15_box_1
 esgentside.com,ohmirevista.com###pave_haut
 forochicas.com###posts > div > div > div[style="padding:0px 0px 0px 0px"]
 eldefinido.cl###pub
@@ -328,7 +329,7 @@ interviu.es##.bannerBlock
 gente.com.ar##.bannerSide
 rosariogarage.com##.banner_bienes_rosario
 bienesrosario.com##.banner_bienes_rosario_contenido
-elimparcial.com##.banner_box
+elimparcial.com,frontera.info##.banner_box
 elimparcial.com,frontera.info##.banner_box_p
 animeid.io,jkanime.co##.banner_center
 rosariogarage.com##.banner_centro_inf
