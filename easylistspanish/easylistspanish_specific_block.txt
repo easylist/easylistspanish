@@ -227,6 +227,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||laprensa.com.ar/Multimedios/Ads/
 ||lavozdecataratas.com/contenido/banners/
 ||lavozdetandil.com.ar/publicidades/
+||laxarxa.com/media/asset_publics/resources/000/009/887/original/publicitat.gif
 ||ldu.com.ec/fotos/publi_*.png
 ||libertaddigital.com/fragmentos/guijuelo-responsive.html
 ||libertaddigital.com/fragmentos/movistarplus.html
