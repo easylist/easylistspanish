@@ -72,6 +72,7 @@ divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,torrentrap
 divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,torrentrapid.com,tumejortorrent.com###box-ads-trailer
 pickinup.es###brand-carousel
 abc.com.py###breaking-news-banner1
+rinconforero.mforos.com###by_hawkers
 abchoy.com.ar###cacho-overlay
 abchoy.com.ar###cacho-popup
 laprovincia.es###caja_1_derecha_17_0
