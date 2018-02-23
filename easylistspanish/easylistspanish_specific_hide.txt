@@ -671,6 +671,7 @@ cuartopoder.es##div[style="text-align:center; margin-bottom: 15px; background-co
 torrentlocura.com##div[style="text-align:center;padding:0px;width:100%;"]
 ahorradororata.com##div[style="width: 300px; height: 600px;"]
 epasatiempos.es##div[style="width: 336px; height: 565px; float: right; margin-top: 30px;"]
+jkanime.net##div[style="width: 354px; padding: 0px; text-align: center; margin: 0px;"]
 ahorradororata.com##div[style="width: 640px; height: 480px;"]
 ahorradororata.com##div[style="width: 728px; height: 90px;"]
 biodiesel.com.ar##div[style="width: 90%; height: 90px; background: #fff; text-align: center; display: inline-block; color: #bbb; font-family: 'Open Sans', sans-serif; font-weight: 700; font-size: 1.2rem; white-space: nowrap; padding: 0px 5% 0; overflow: hidden;"]

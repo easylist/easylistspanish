@@ -20,6 +20,7 @@
 @@||lagacetadesalamanca.es/elementosWeb/gestionCajas/GSA/Image/GIF_LAGACETA_318X180.gif$image,domain=lagacetadesalamanca.es
 @@||mdsrwdassets-a.akamaihd.net^$script,domain=mitele.es
 @@||platform.twitter.com/widgets.js$script,third-party,domain=divxatope.com|divxatope1.com|ftail.tv|lacajita.xyz|newpct.com|newpct1.com|reyanime.com|seriesblanco.com|shippuden.tv|torrentlocura.com|torrentrapid.com|tumejortorrent.com
+@@||privatelink.de/$popup,third-party,domain=jkanime.net
 @@||republica.com.uy/wp-content/banners/HoroscopoDiario2016.jpg
 @@||seriesblanco.com/jquery*.min.js$script,third-party,domain=lacajita.xyz
 @@||st.chatango.com^$script,third-party,xmlhttprequest,domain=lacajita.xyz|seriesblanco.com|seriesflv.net
