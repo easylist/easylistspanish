@@ -64,6 +64,7 @@
 ##.container-ads
 ##.containerOas
 ##.contenedor_superior_publi
+##.contpubliSuper
 ##.des-adv
 ##.dfp-queue
 ##.digo_ads
@@ -148,6 +149,7 @@
 ##.td-g-rec-id-custom_ad_3
 ##.top-add
 ##.topads728
+##.txtPubli
 ##.views-row-ads
 ##.vip-section-advertising
 ##.voc-advertising
