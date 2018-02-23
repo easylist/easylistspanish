@@ -44,9 +44,12 @@ paxinasgalegas.es###banner_superior
 coches.net###banner_top
 nomellamesfriki.com###banneralto
 tresubresdobles.com###bannerbajo
+laindustria.pe###bannercentral
+laindustria.pe###bannercentral2
 estadio.ec###banners
 eleconomista.es###banners-superiores
 paxinasgalegas.es###banners_laterales
+laindustria.pe###bannertop
 mundoejecutivo.com.mx###block-block-15
 hsbnoticias.com###block-block-42
 libero.pe###block-externos-block-json-cuponidad

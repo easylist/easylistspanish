@@ -49,6 +49,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||azarplus.com/fotos/banners
 ||azarplus.com/includes/greybox/AJS.js
 ||babalonia.com/images/promo/*.gif
+||bannersweb.s3.amazonaws.com^
 ||bienesrosario.com/resources/banner/
 ||biodiesel.com.ar/wp-content/uploads/2016/07/00.gif
 ||biodiesel.com.ar/wp-content/uploads/2017/10/Banner-Biodiesel-300x180-px-1.gif
@@ -210,6 +211,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||lagacetadesalamanca.es/elementosWeb/gestionCajas/*.gif
 ||lagacetadesalamanca.es/elementosWeb/gestionCajas/*banner*.jpg
 ||lagacetadesalamanca.es/elementosWeb/gestionCajas/comun/Flash/
+||laindustria.pe/banners/
 ||laloterianavidad.com/widgets/widget.html$subdocument,domain=lne.es
 ||lanoticia1.com/sites/default/files/*.gif
 ||laopinionsemanario.com.ar/sites/default/files/*.gif
