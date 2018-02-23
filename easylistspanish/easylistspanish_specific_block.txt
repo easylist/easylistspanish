@@ -65,10 +65,8 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||chatzona.net/img/amigos-banner.jpg
 ||chrissysinvite.co/a
 ||cinestrenostv.tv/Publi/
-||cloudfront.net$script,third-party,domain=compucalitv.com
 ||cloudfront.net^$domain=divxtotal.co|grantorrent.com|zaipoc.com
-||cloudfront.net^$script,domain=gamezfull.com
-||cloudfront.net^$script,third-party,domain=descargasnsn.com
+||cloudfront.net^$script,domain=compucalitv.com|descargasnsn.com|gamezfull.com
 ||clubdelectores.cl/cajaEmolClub/$third-party
 ||comparador.euribor.com.es/lanzadera/retargetting/
 ||contextotucuman.com//banners/
