@@ -60,6 +60,7 @@
 @@||cualbondi.com.ar^$generichide
 @@||cuatro.com^$generichide
 @@||deportesmax.com^$generichide
+@@||des.smartclip.net/ads?$script,domain=esradio.libertaddigital.com
 @@||divinity.es^$generichide
 @@||divxatope.com^$generichide
 @@||divxatope1.com^$generichide
@@ -88,6 +89,7 @@
 @@||kjanime.net/link/advertisement.js$script,domain=kjanime.net
 @@||latelete.tv^$generichide
 @@||levante-emv.com^$generichide
+@@||libertaddigital.com/js/ads.js$script,domain=esradio.libertaddigital.com
 @@||livesports.pw//adblock.js$script,domain=livesports.pw
 @@||livesports.pw/adblock.js$script,domain=livesports.pw
 @@||livesports.pw^$generichide
