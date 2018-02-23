@@ -25,6 +25,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||abchoy.com.ar/publicidades/
 ||abchoy.com.ar/publipopup/
 ||abocados.es/wp-content/uploads/*/*/banner-
+||acortalo.net/js/clasicotas.js
 ||adlipay.com/away.php?
 ||agenciafe.com/data/img_cont/img_banners/
 ||agritotal.com/file/image/*.gif
