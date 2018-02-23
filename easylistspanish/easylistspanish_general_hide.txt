@@ -76,6 +76,7 @@
 ##.flex__publi
 ##.header-adds
 ##.mclics
+##.modPublicidad
 ##.myml-menu-navigation > .container-banner
 ##.myml-menu-navigation > .purchases-banner
 ##.offer-add
