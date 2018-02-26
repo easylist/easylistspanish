@@ -701,6 +701,7 @@ hitfm.es##header
 boardzona.com##iframe[src*="://supercore.adm-vids.com/video_offer?"]
 foropolicia.es##iframe[src*="://www.netpol.es/"]
 buenaisla.net##iframe[src*="ads.ad4game.com/"]
+tarjetaroja-tv.info##iframe[src="about:blank"]
 20minutos.es##iframe[src^="https://www.20minutos.es/cajasbuscadoras/"]
 mejortorrent.com##iframe[style="margin-top:0px; margin-bottom:10px; border:1px solid black;"]
 bufeo.do##img[alt="Espacio Publicitario"]

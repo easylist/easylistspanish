@@ -356,6 +356,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||static.emol.cl/emol50/js/funcionesComun.js?
 ||static.htcmania.com/*_180x150-
 ||static.htcmania.com/180-150-
+||tarjetaroja-tv.info/publicity/
 ||teliad.es/*/banner/
 ||tiemposur.com.ar/banners/
 ||tiemposur.com.ar/uploads/banners
