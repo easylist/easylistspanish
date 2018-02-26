@@ -10,6 +10,7 @@
 ||earnco.in^$third-party
 ||enlarget.com^$third-party
 ||kwinder.club^$third-party
+||leadzutw.com^$third-party
 ||mmoframes.com^$third-party
 ||niceduckies.com^$third-party
 ||onclicktop.com^$third-party
