@@ -1,3 +1,4 @@
+$popup,domain=adca.st
 $popup,third-party,domain=animeid.tv,jkanime.net,divxtotal.co
 about:blank$popup,domain=identi.li,seriesblanco.com,gnula.nu
 ||acortar.net^$popup
