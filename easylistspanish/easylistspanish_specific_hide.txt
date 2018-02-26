@@ -201,8 +201,8 @@ pcbolsa.com##.ContenidoClassPubliCotiza
 pcbolsa.com##.ContenidoClassPubliForo300
 animeflv.net##.Dvr300
 deportesmax.com##.Estilo11
-deportesmax.com,maxdeportv.net##.Estilo12
-deportesmax.com,maxdeportv.net##.Estilo13
+deportesmax.com,maxdeportv.club,maxdeportv.net##.Estilo12
+deportesmax.com,maxdeportv.club,maxdeportv.net##.Estilo13
 hipertextual.com##.M50B--md
 eldefinido.cl##.RP
 buscamultas.com##.TableWidget
@@ -641,7 +641,7 @@ euribor.com.es##div[style="border: 2px solid #1D8FC1; width: 320px; height:280px
 entornointeligente.com##div[style="clear:both;width:100%;background-color: #EFEFEF;height:90px"]
 entornointeligente.com##div[style="clear:both;width:100%;background-color: #EFEFEF;height:90px;"]
 elitetorrent.net##div[style="color:#ccc;font-size:10px;text-align:right;margin-bottom:20px;"]
-maxdeportv.net##div[style="color:#ffffff; font-family:verdana; font-size:12px; padding-bottom:0px;"]
+maxdeportv.club,maxdeportv.net##div[style="color:#ffffff; font-family:verdana; font-size:12px; padding-bottom:0px;"]
 newpct1.com##div[style="float:left;width:100%;height:160px;"]
 torrentlocura.com##div[style="float:left;width:100%;height:275px;margin:0px 0px 20px 0px;"]
 newpct1.com,torrentlocura.com##div[style="float:left;width:100%;height:90px;"]

@@ -95,6 +95,7 @@
 @@||livesports.pw/adblock.js$script,domain=livesports.pw
 @@||livesports.pw^$generichide
 @@||marca.com^$generichide
+@@||maxdeportv.club^$generichide
 @@||maxdeportv.net^$generichide
 @@||mdsrwdassets-a.akamaihd.net/dist/assets/nonAdBlock/ad$script,third-party,domain=bemad.es|cuatro.com|divinity.es|energytv.es|factoriadeficcion.com|telecinco.es
 @@||megawarez.org^$generichide
