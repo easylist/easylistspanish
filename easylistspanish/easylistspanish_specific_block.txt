@@ -26,6 +26,9 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||abchoy.com.ar/publipopup/
 ||abocados.es/wp-content/uploads/*/*/banner-
 ||acortalo.net/js/clasicotas.js
+||adca.st/adpops
+||adca.st/broadcast/xclo.gif
+||adca.st/watchonline.png
 ||adlipay.com/away.php?
 ||agenciafe.com/data/img_cont/img_banners/
 ||agritotal.com/file/image/*.gif
@@ -49,6 +52,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||aurora-israel.co.il/wp-content/uploads/2016/06/oren_shabat555.jpg
 ||azarplus.com/fotos/banners
 ||azarplus.com/includes/greybox/AJS.js
+||azcast.live/img/close1.png
 ||babalonia.com/images/promo/*.gif
 ||bannersweb.s3.amazonaws.com^
 ||bienesrosario.com/resources/banner/
@@ -59,6 +63,9 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||butlercdn.com^$domain=eldiariodelapampa.com.ar
 ||buyman.com.ar/pubex/
 ||canalciclismo.com/media/banners/
+||capodeportes.net/extremotv/abajo.php
+||capodeportes.net/extremotv/arriba.php
+||capodeportes.net/extremotv/lateral.php
 ||casinonewsdaily.es/wp-content/uploads/popups/
 ||cdn.exur.com/notmundo/
 ||cdn23.merca20.com/wp-content/uploads/2017/10/panorama-marketing-farmaceutico.jpg
@@ -67,7 +74,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||chrissysinvite.co/a
 ||cinestrenostv.tv/Publi/
 ||cloudfront.net^$domain=divxtotal.co|grantorrent.com|zaipoc.com
-||cloudfront.net^$script,domain=compucalitv.com|descargasnsn.com|gamezfull.com
+||cloudfront.net^$script,domain=compucalitv.com|descargasnsn.com|extremotvplay.com|gamezfull.com
 ||clubdelectores.cl/cajaEmolClub/$third-party
 ||comparador.euribor.com.es/lanzadera/retargetting/
 ||contextotucuman.com//banners/
@@ -145,6 +152,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||ftail.tv/wp-content/themes/bideopro/img/dpa.gif
 ||ftail.tv/wp-content/themes/bideopro/img/vca.gif
 ||ftail.tv/wp-content/themes/bideopro/img/vpa.gif
+||futbolbase.us^$subdocument,domain=adca.st
 ||gacetamercantil.com.ar/banners/
 ||gamestorrents.com/99mesesss.jpg
 ||gettyimages.es/gi-resources/images/*/iStock.jpg

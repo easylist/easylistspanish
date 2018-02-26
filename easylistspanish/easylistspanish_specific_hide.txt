@@ -103,6 +103,7 @@ lne.es###divderecha_1061
 livesports.pw###divpubli
 mega1080.com###enla
 estrenosdtl.com,moviesdvdr.com###f_find_bar
+capodeportes.net###floatLayer2
 25digital.com.ar###footer-widgets
 abc.com.py###fullwidth-banner
 tvenganchado.com###g
@@ -143,6 +144,7 @@ naciodigital.cat###publientrenotis
 elcucodigital.com###publitopfondo
 ehowenespanol.com###radlinks
 realbetisbalompie.es###right-banners
+adca.st###roviralta
 nomellamesfriki.com###shopall1
 noticias3d.com###skin
 noticiasmallorca.es###slider-wrapper
@@ -386,6 +388,7 @@ teknofilo.com##.e3lan
 diariodesevilla.es##.ePubli1
 elcomercio.pe##.ec-club
 eldeber.com.bo##.ed-ads
+extremotvplay.com##.encabezados
 cronista.com##.entry-box-banner
 peru.com##.epl-space
 elespectador.com##.external-logos
@@ -415,6 +418,7 @@ peru21.pe##.hiraoka
 emprendices.co##.homepage-widget > #text-16
 diaridegirona.cat##.iberpi_cajaext
 sipse.com##.insterstitial
+adca.st##.jaimiquito
 noticiasmallorca.es##.lateral
 sipse.com##.leaderboard
 ehowenespanol.com##.leaderboard-wrap
@@ -491,6 +495,7 @@ animekb.com,carasycaretas.org.ar,ciclismoafondo.es,diario.mx,eltribuno.info,expa
 noticiasdel6.com##.publii
 intereconomia.tv##.pum-overlay
 salpimenta.com.ar##.quadro-ads-widget-1col
+adca.st##.ramirito
 televisa.com##.rapid_banner_home
 televisa.com##.rapid_banner_sidebar
 bro.adca.st##.raulito
