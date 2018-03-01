@@ -45,6 +45,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||amazonaws.com^$domain=grantorrent.co|grantorrent.com
 ||andaluciainformacion.es/cms/media/banners/
 ||animakai.tv/parceria.js
+||anroca.com.ar/uploads/archivos/*.gif
 ||apfdigital.com.ar/imgpublicidad/
 ||artesacro.org/banner/Salvar-Torre-San-Bartolome-2017.gif
 ||assets.bro.adca.st/watchhd.html
