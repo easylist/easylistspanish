@@ -394,7 +394,7 @@ deportemixtv.info##.column-right-outer
 renfe.com##.comprabilletes
 tandildiario.com##.containerBannerDesplegable
 anbariloche.com.ar,anroca.com.ar##.contenedor_banner_popup
-anroca.com.ar##.contenedor_principal_banner_lateral
+anbariloche.com.ar,anroca.com.ar##.contenedor_principal_banner_lateral
 lne.es##.contenedor_widget_1col
 cronista.com##.content-banner
 inmodiario.com,puromarketing.com##.content-pub-top
