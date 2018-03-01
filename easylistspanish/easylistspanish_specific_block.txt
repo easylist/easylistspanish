@@ -43,6 +43,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||aimdigital.com.ar/wp-content/uploads/2017/10/turismo.jpg
 ||alicdn.com^$domain=ddmix.net
 ||amazonaws.com^$domain=grantorrent.co|grantorrent.com
+||anbariloche.com.ar/uploads/archivos/*.gif
 ||andaluciainformacion.es/cms/media/banners/
 ||animakai.tv/parceria.js
 ||anroca.com.ar/uploads/archivos/*.gif
