@@ -393,6 +393,7 @@ force-download.es##.col-sm-2
 deportemixtv.info##.column-right-outer
 renfe.com##.comprabilletes
 tandildiario.com##.containerBannerDesplegable
+anroca.com.ar##.contenedor_principal_banner_lateral
 lne.es##.contenedor_widget_1col
 cronista.com##.content-banner
 inmodiario.com,puromarketing.com##.content-pub-top
