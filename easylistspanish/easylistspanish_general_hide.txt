@@ -62,6 +62,7 @@
 ##.cnt-pub
 ##.cnt-publicidad
 ##.cont_mer_publicidades
+##.cont_publicidad
 ##.container-ads
 ##.containerOas
 ##.contenedor_superior_publi
