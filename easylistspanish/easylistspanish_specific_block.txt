@@ -116,6 +116,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||domisfera.com/img/patrocinadores/
 ||ecestaticos.com/file/127008ee463cd1776595c5cf2b0ff780/1434970380.png
 ||ecestaticos.com/file/c321612b3020bee67701c43d5d3129f7/1434970318.png
+||economia3.com/wp-content/uploads/*/*/*.gif
 ||eestatic.com/assets_css/img/axa-portada-deportes.png
 ||elancasti.com.ar/u/banners/
 ||elcucodigital.com/*.gif
