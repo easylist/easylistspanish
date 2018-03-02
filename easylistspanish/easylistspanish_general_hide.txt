@@ -58,6 +58,7 @@
 ##.block-dfp-roba_pagina_top_home
 ##.blog-publi
 ##.bloquepubli
+##.borde_publi
 ##.caja_cuponisimo_slider200
 ##.cnt-pub
 ##.cnt-publicidad
