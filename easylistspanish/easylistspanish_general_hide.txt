@@ -50,7 +50,6 @@
 ##.ads_160x600
 ##.ads_960x90
 ##.adsderecha
-##.adunit-title
 ##.app-container > .questions-container-banner
 ##.bl_publi_top
 ##.block-dfp-midcentral_home
