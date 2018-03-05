@@ -68,6 +68,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||capodeportes.net/extremotv/abajo.php
 ||capodeportes.net/extremotv/arriba.php
 ||capodeportes.net/extremotv/lateral.php
+||cartademexico.com/web/banner/
 ||casinonewsdaily.es/wp-content/uploads/popups/
 ||cdn.exur.com/notmundo/
 ||cdn23.merca20.com/wp-content/uploads/2017/10/panorama-marketing-farmaceutico.jpg
