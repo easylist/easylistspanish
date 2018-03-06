@@ -95,6 +95,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||descargasmix.com/js/p1.js
 ||descargasmix.com/js/p2.js
 ||descargasmix.com/js/p3.js
+||desdesoria.es/wp-content/uploads/*/*/*.gif
 ||diagonales.com/Multimedios/Ads/
 ||diario.mx/baners/
 ||diariocorreo.pe/static/diariocorreo_redesign/img/manual-del-exportador.jpg
