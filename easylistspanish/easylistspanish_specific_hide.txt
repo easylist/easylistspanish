@@ -86,6 +86,7 @@ verdirectotv.com,vergol.com,verliga.net,vertelevisor.com###closeX
 cinestrenostv.tv,vercanalestv.com,verdirectotv.com###closeX1
 cinestrenostv.tv###closeX2
 verdirectotv.com###closeX23
+desdesoria.es###columnapublicidad
 montevideo.com.uy###conectab
 economia3.com###contiene_orejeras
 elcucodigital.com###custom_html-53
