@@ -431,7 +431,7 @@ elcucodigital.com##.fullwidthbanner-container
 diariodepasion.es##.fusion-header-banner
 yorokobu.es##.fw-container
 aptitus.com##.g-eplanning
-economia3.com,gasteizhoy.com##.g-single
+desdesoria.es,economia3.com,gasteizhoy.com##.g-single
 yucatan.com.mx##.g1-delta
 juegos.com##.game-page-sidebar
 rpp.pe##.gogoWidget3V
