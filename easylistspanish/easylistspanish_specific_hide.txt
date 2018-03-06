@@ -138,6 +138,7 @@ diariocronica.com.ar###lik
 reverso.net###locdbanner
 diario.mx###main__dehit
 todocvcd.com###mbanner
+desdesoria.es###mediacolumna
 elmundo.es###modulo_buscador_sv
 cadena3.com###mundo-descuento
 chrissysinvite.co###myModal
