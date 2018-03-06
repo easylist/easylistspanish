@@ -56,6 +56,7 @@ eleconomista.es###banners-superiores
 manerasdevivir.com###banners_cabecera
 paxinasgalegas.es###banners_laterales
 laindustria.pe###bannertop
+desdesoria.es###bhorizontal
 mundoejecutivo.com.mx###block-block-15
 hsbnoticias.com###block-block-42
 libero.pe###block-externos-block-json-cuponidad
