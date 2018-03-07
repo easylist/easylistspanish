@@ -88,6 +88,7 @@
 ##.pane-publicidad
 ##.pane-publicidades
 ##.patrocinio
+##.penci-google-adsense-1
 ##.producto-doble-publi
 ##.promocion_libre
 ##.pu300
