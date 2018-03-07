@@ -584,6 +584,7 @@ envilladelparque.com,envilladevoto.com##.widget_metaslider_widget
 cafevirtual.cl,ddmix.net,pamplonaactual.com,trincheraonline.com##.widget_text
 jerezcofrade.tv##.widget_ti_image_banner
 envilladelparque.com,envilladevoto.com##.widget_wp_views
+diariotextual.com##.wpb_raw_html
 mariosegura.com##.wpb_single_image
 cronicadigital.cl##.wpb_text_column
 lajornadanet.com##.wpipa-container
