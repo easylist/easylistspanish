@@ -112,6 +112,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||diariosanrafael.com.ar/images/banners/
 ||diariotextual.com/images/articulos-2014/*.gif
 ||diariotextual.com/images/articulos-2014/*banner
+||diariotextual.com/inicio/wp-content/uploads/*/*/*.gif
 ||diariovictoria.com.ar/wp-content/uploads/*.gif
 ||divinity.es/zentv/images/zentv-300-2.gif
 ||divxtotal.com/9mesesss.jpg
