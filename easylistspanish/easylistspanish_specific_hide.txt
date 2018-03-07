@@ -580,6 +580,7 @@ neoauto.com##.widescreen
 equipar.es,futbolchile.net,nicaraguahoy.info##.widget_custom_html
 lajornadanet.com##.widget_custom_html > .block-title
 st1.idealista.com##.widget_idealista
+diariotextual.com##.widget_media_image
 envilladelparque.com,envilladevoto.com##.widget_metaslider_widget
 cafevirtual.cl,ddmix.net,pamplonaactual.com,trincheraonline.com##.widget_text
 jerezcofrade.tv##.widget_ti_image_banner
