@@ -40,6 +40,7 @@
 ##.Adboost300x250
 ##.Adboost300x600
 ##.PublicidadCabecera
+##.RobaPagina
 ##.WIDGET-Publicidad
 ##.a_pub
 ##.ad-300x250-solo
