@@ -16,6 +16,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||19640noticias.com/wp-content/uploads/2017/03/Banner-Institucional-300x200-Copiar.jpg
 ||19640noticias.com/wp-content/uploads/2017/03/Veronica-Gonzalez-Copiar-Copiar.jpg
 ||19640noticias.com/wp-content/uploads/2017/04/283x321.gif
+||20m.es/css4/img/ui/pastilla_forbes.png
 ||24con.com/files/image/228/228563/59e666afdced4.jpg
 ||24con.com/files/image/230/230804/5a01a74262820_300_!.jpg
 ||25digital.com.ar/wp-content/uploads/*.gif
