@@ -360,6 +360,7 @@ planetabocajuniors.com.ar##.banners-rotate
 180.com.uy##.banners-side-container
 tiemposur.com.ar##.banners_flash
 azarplus.com##.bannerskinhome
+noticierodigital.com##.bannerspace
 azarplus.com##.bannersuperiorhomebajomenu
 gente.com.ar##.bannnerTop
 tumomo.com##.bderecho
