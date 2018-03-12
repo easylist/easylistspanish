@@ -72,6 +72,7 @@
 ##.contpubliSuper
 ##.des-adv
 ##.dfp-queue
+##.dfpbanners
 ##.digo_ads
 ##.div_publicidad
 ##.div_publicidades
