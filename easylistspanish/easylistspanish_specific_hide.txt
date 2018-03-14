@@ -212,7 +212,7 @@ misionescuatro.com###wrapper-7
 elblog.com###z_pub_inf_new
 elblog.com###z_pub_sup_new
 informe21.com###zone-user-wrapper
-madridpress.com##.BANNER-IMAGES
+madridpress.com,sahagundigital.com##.BANNER-IMAGES
 diariolagrada.com,globalasia.com##.Banner
 guadairainformacion.com##.Banner300x100
 globalasia.com##.BannerColumna
