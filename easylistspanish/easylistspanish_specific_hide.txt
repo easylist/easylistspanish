@@ -670,7 +670,7 @@ divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,torrentrap
 ddmix.net##a[style="height: 98%; position: fixed; right: 1px; bottom: 2px; top: 1px; left: 0px; width: 99%; z-index: 60342561;"]
 torrentlocura.com##a[style][rel]
 planetadeagostini.es##article[id^="divAdserver"]
-madridpress.com##div[id^="detection"]
+madridpress.com,sahagundigital.com##div[id^="detection"]
 tutiempo.net##div[id^="fab-on"]
 elperiodico.cl##div[style=" width: 300px;height: 200px;background-color:#ededed; text-align: center;"]
 milenio.com##div[style="align:center; margin-bottom:10px; margin-left:10px; border: 1px solid #cacaca; padding:5px; width:300px; height:250px;"]
