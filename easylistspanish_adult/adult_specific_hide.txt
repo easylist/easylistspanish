@@ -29,7 +29,6 @@ vercomicsporno.com##a[href="http://vermangasporno.com/"]
 pajarracos.es##a[href^="http://www.fresalia.com/"]
 pajarracos.es##a[href^="http://www.fuegodevida.com/"]
 esaschicas.com##a[href^="https://esaschicas.com/rbs_banner.php?"]
-laarena.com.ar##div[style="box-shadow: rgba(0, 0, 0, 0.4) 0px 0px 20px; background: rgb(255, 255, 255); animation-duration: 0.4s; animation-delay: 0.2s; border-radius: 4px; width: 900px; height: 500px; margin: auto; padding: 30px;"]
 datoporn.co##div[style="position:absolute;top:0;right:0;bottom:0;left:0;z-index:99999;cursor:pointer"]
 xxxvideosputas.xxx##iframe[src^="http://xxxvideosputas.xxx/includes/adds/"]
 spalumi.com##marquee
