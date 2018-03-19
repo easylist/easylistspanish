@@ -22,6 +22,7 @@ hitomi.la##.hitomi-birestra
 xvideospanish.net##.inside-player-ad
 muyzorras.com##.pds
 torrentesx.com##.slide
+diarionoticias.com.ar##.visable
 mujeres-desnudas.com##.vjs-ads
 pajarracos.es##.vp
 spalumi.com##a[href*="http://www.adcean.com/"]
