@@ -4,7 +4,6 @@
 ||diarionoticias.com.ar/images/banner/BANNER
 ||diarionoticias.com.ar/images/banner_
 ||hitomi.la/hitomi/nutaku/*.gif
-||horadeopinion.com.ar/imagenes/*.gif
 ||horadeopinion.com.ar/wp-content/uploads/*/*/*.gif
 ||laschicascalientes.es/wp-content/uploads/*banner
 ||laschicascalientes.es/wp-content/uploads/boton-sexshop.jpg
