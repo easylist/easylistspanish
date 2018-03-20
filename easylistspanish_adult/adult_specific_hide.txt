@@ -23,7 +23,6 @@ xvideospanish.net##.inside-player-ad
 horadeopinion.com.ar##.ml-slider
 muyzorras.com##.pds
 torrentesx.com##.slide
-diarionoticias.com.ar##.visable
 mujeres-desnudas.com##.vjs-ads
 pajarracos.es##.vp
 spalumi.com##a[href*="http://www.adcean.com/"]
