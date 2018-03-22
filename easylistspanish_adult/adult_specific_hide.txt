@@ -34,4 +34,5 @@ esaschicas.com##a[href^="https://esaschicas.com/rbs_banner.php?"]
 datoporn.co##div[style="position:absolute;top:0;right:0;bottom:0;left:0;z-index:99999;cursor:pointer"]
 xxxvideosputas.xxx##iframe[src^="http://xxxvideosputas.xxx/includes/adds/"]
 lapampadiaxdia.com.ar#?#.HTML:-abp-contains(Espacio Publicitario)
+lapampadiaxdia.com.ar#?#.HTML:-abp-has(.adsbygoogle)
 spalumi.com##marquee
