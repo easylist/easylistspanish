@@ -27,6 +27,7 @@ lacuerda.net###ban300
 lacuerda.net###ban728
 lacuerda.net###banTxt
 elitegol.me,fmvida.com.ar,inmonauta.es###banner
+elrellano.com###banner-ficha
 viralizalo.com###banner-mega
 perfil.com###banner990
 diariotextual.com###bannerDiv
