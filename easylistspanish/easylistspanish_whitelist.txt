@@ -72,6 +72,7 @@
 @@||eleconomista.es^$generichide
 @@||elmundo.es^$generichide
 @@||elperiodico.cat^$generichide
+@@||elrellano.com^$generichide
 @@||elsate.com^$generichide
 @@||energytv.es^$generichide
 @@||euribor.com.es^$generichide
