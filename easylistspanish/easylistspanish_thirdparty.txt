@@ -1,6 +1,8 @@
 ||doragonborusupa.com^$third-party
 ||economicos.cl/widgets/$third-party
 ||guioteca.com/widget.php^$third-party
+||musicatorrents.com/wp-content/themes/*/js/script.js
+||musicatorrents.com^$script,third-party
 ||partner.leguide.com^$third-party
 ||rvv.emol.com^$third-party
 ||static.playspace.com^$third-party
