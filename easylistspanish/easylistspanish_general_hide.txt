@@ -94,6 +94,7 @@
 ##.pub-950x100
 ##.pub-h
 ##.pub468x80
+##.pub728x90
 ##.pub950
 ##.publi
 ##.publi-texto

@@ -6,6 +6,7 @@
 ||freelotto.com^$popup,third-party
 ||fuegodevida.com^$popup,third-party
 ||jlflzjdt.com^$popup,third-party
+||liveadoptimizer.com^$popup,third-party
 ||millionairedream.co^$popup,third-party
 ||supportcorner.co^$popup,third-party
 ||traffic.getmyads.com^$popup,third-party
