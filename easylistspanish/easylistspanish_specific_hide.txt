@@ -453,6 +453,7 @@ peru21.pe##.hiraoka
 emprendices.co##.homepage-widget > #text-16
 diaridegirona.cat##.iberpi_cajaext
 sipse.com##.insterstitial
+somosxbox.com##.it-ad
 somosxbox.com##.it-ad-wrapper
 adca.st##.jaimiquito
 noticiasmallorca.es##.lateral
