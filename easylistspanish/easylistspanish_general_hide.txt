@@ -79,6 +79,7 @@
 ##.div_publicidades
 ##.envoltorio_publi
 ##.ep-pub
+##.espacioPublicitario
 ##.find_bar_publicidades
 ##.flex__publi
 ##.header-adds
