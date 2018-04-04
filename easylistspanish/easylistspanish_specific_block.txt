@@ -42,7 +42,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||aimdigital.com.ar/wp-content/uploads/2017/10/salud.jpg
 ||aimdigital.com.ar/wp-content/uploads/2017/10/turismo.jpg
 ||alicdn.com^$domain=ddmix.net
-||amazonaws.com^$domain=grantorrent.com
+||amazonaws.com^$domain=grantorrent.co|grantorrent.com
 ||andaluciainformacion.es/cms/media/banners/
 ||animakai.tv/parceria.js
 ||apfdigital.com.ar/imgpublicidad/
@@ -73,7 +73,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||chatzona.net/img/amigos-banner.jpg
 ||chrissysinvite.co/a
 ||cinestrenostv.tv/Publi/
-||cloudfront.net^$domain=divxtotal.co|grantorrent.com|zaipoc.com
+||cloudfront.net^$domain=divxtotal.co|grantorrent.co|grantorrent.com|zaipoc.com
 ||cloudfront.net^$script,domain=compucalitv.com|descargasnsn.com|extremotvplay.com|gamezfull.com
 ||clubdelectores.cl/cajaEmolClub/$third-party
 ||comodorodeportes.gov.ar/wp-content/uploads/*/*/*.gif
