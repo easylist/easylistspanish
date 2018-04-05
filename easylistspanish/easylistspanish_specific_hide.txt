@@ -534,6 +534,7 @@ tiempo.com.mx##.publi-6
 elonce.com##.publi-top
 meristation.as.com,meristation.com.mx##.publi1
 animekb.com,carasycaretas.org.ar,ciclismoafondo.es,diario.mx,dinero.com,elrellano.com,eltribuno.info,expansion.com,gonzoo.com,iahorro.com,laizquierdadiario.com,latercera.com,lne.es,motociclismo.es,mountainbike.es,okdiario.com,publico.es,semana.com##.publicidad
+loventine.com.ar##.publicity
 maracodigital.net##.publicolumna
 noticiasdel6.com##.publii
 intereconomia.tv##.pum-overlay
