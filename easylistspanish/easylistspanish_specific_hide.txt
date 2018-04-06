@@ -462,7 +462,7 @@ sipse.com##.leaderboard
 ehowenespanol.com##.leaderboard-wrap
 infojobs.net##.lecourse
 eldeber.com.bo##.leftSidebar
-loventine.com.ar##.link-ads-content
+loventine.com.ar,loventine.es##.link-ads-content
 laprovincia.es##.listaofertas
 reverso.net##.locdrcas
 rpp.pe##.logo-min
