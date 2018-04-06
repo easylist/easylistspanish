@@ -448,7 +448,7 @@ ehowenespanol.com##.gpt_300
 hlat.me##.grid_12
 ondaluz.tv##.grid_12 > .grid_4
 tallasgrandes.es##.grid_24
-loventine.com.ar##.header_publicity
+loventine.com.ar,loventine.es##.header_publicity
 canalciclismo.com##.hide-for-small
 peru21.pe##.hiraoka
 emprendices.co##.homepage-widget > #text-16
