@@ -194,6 +194,7 @@ irispress.es###text-72
 bufeo.do,todopolicia.com###text-8
 telesemana.com###text-86
 telesemana.com###text-87
+lasextaseccion.com.ar###text-9
 comodorodeportes.gov.ar###text-999
 elcolombiano.com###tiquetesMasBaratos
 abc.com.py###top-banners
