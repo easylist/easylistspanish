@@ -25,6 +25,7 @@ muyzorras.com##.pds
 torrentesx.com##.slide
 mujeres-desnudas.com##.vjs-ads
 pajarracos.es##.vp
+republica.com##.widget-sdb-publi
 spalumi.com##a[href*="http://www.adcean.com/"]
 vercomicsporno.com##a[href="http://vermangasporno.com/"]
 pajarracos.es##a[href^="http://www.fresalia.com/"]
