@@ -12,7 +12,6 @@ teatroporno.com##.adspots
 spalumi.com##.advertisement + .tborder
 mujeres-desnudas.com##.annunce
 poringa.net,teatroporno.com##.banner
-republica.com##.barra-megabanner-tp
 absoluporn.es##.bloc-bub-860
 absoluporn.es##.bloc-header-pub
 putalocura.com##.c-banner-webcams
