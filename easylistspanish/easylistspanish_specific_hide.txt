@@ -599,6 +599,7 @@ reverso.net##.verticalbox
 larazon.es##.vinculoPatrocinio
 diarionoticias.com.ar##.visable
 neoauto.com##.widescreen
+republica.com##.widget-sdb-publi
 equipar.es,futbolchile.net,nicaraguahoy.info##.widget_custom_html
 lajornadanet.com##.widget_custom_html > .block-title
 st1.idealista.com##.widget_idealista
