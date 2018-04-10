@@ -370,6 +370,7 @@ azarplus.com##.bannerskinhome
 noticierodigital.com##.bannerspace
 azarplus.com##.bannersuperiorhomebajomenu
 gente.com.ar##.bannnerTop
+republica.com##.barra-megabanner-tp
 tumomo.com##.bderecho
 ebay.es##.beta-placement
 tumomo.com##.bizquierdo
