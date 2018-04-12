@@ -14,6 +14,7 @@
 ||proyecto-salud.com.ar/banners/
 ||proyecto-salud.com.ar/img/*banner
 ||proyecto-salud.com.ar/img/banner-encabezado.swf
+||proyecto-salud.com.ar/img/novedades-medicas.jpg
 ||ra.poringa.net^
 ||spalumi.com^$image
 ||tangasmix.com/img-ban-ep/
