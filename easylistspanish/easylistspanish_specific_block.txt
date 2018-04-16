@@ -330,6 +330,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||proyecto-salud.com.ar/banners/
 ||proyecto-salud.com.ar/img/*banner
 ||proyecto-salud.com.ar/img/banner-encabezado.swf
+||proyecto-salud.com.ar/img/novedades-medicas.jpg
 ||publicidad.milenio.com/
 ||puromarketing.com//img/banners/
 ||px.fotos.cdn.0223.com.ar/f/5399f9f213cd649c19000009/
