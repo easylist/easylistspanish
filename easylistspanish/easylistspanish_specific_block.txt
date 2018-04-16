@@ -328,6 +328,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||practisistemas.com/images/home/tigo.png
 ||practisistemas.com/images/home/virgin.png
 ||proyecto-salud.com.ar/banners/
+||proyecto-salud.com.ar/img/*banner
 ||proyecto-salud.com.ar/img/banner-encabezado.swf
 ||publicidad.milenio.com/
 ||puromarketing.com//img/banners/
