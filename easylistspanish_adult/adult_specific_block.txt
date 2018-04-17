@@ -11,6 +11,7 @@
 ||paraisowebcam.com^$subdocument,third-party
 ||pic-upload.xyz/images/2017/02/18/sKh2MNmQ.png
 ||pic-upload.xyz/images/2017/11/13/bannertzvercomics.jpg
+||puntobiz.com.ar/data/img_cont/img_banners/
 ||ra.poringa.net^
 ||spalumi.com^$image
 ||tangasmix.com/img-ban-ep/
