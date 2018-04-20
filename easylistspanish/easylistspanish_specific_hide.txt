@@ -309,6 +309,7 @@ elonce.com##.banner-b
 gasteizhoy.com##.banner-bajo-header
 argentinavende.com,cordobavende.com##.banner-bilboard
 voydeviaje.com.ar##.banner-billboard-wrapper
+puntobiz.com.ar##.banner-bloque
 elonce.com##.banner-c
 andaluciainformacion.es##.banner-cabecero
 capital.cl##.banner-capital
