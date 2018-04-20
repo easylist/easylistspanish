@@ -405,6 +405,7 @@ abc.com.py##.col-banner-45
 frontera.info##.col-banner_c2
 force-download.es##.col-sm-2
 deportemixtv.info##.column-right-outer
+puntobiz.com.ar##.columna-tercera
 renfe.com##.comprabilletes
 tandildiario.com##.containerBannerDesplegable
 anbariloche.com.ar,anroca.com.ar##.contenedor_banner_popup
