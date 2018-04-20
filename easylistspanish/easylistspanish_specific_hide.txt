@@ -383,6 +383,7 @@ diariodecuyo.com.ar##.bnr
 mundodeportivo.com##.bolarosa
 pelisadicto.com##.box
 debate.com.mx##.box-banner
+puntobiz.com.ar##.box-bloque-banners
 divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,torrentrapid.com,tumejortorrent.com##.box-publi-left
 lavanguardia.com##.box900
 mundoejecutivo.com.mx##.boxbanner
