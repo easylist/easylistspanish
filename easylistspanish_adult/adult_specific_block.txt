@@ -3,6 +3,7 @@
 ||absoluporn.es/javascript/front.js
 ||hitomi.la/hitomi/nutaku/*.gif
 ||infopico.com/images/gif/
+||infopico.com/images/jpg/banner
 ||infopico.com/images/jpg/concreblock---pampamix.jpg
 ||infopico.com/images/swf/
 ||laschicascalientes.es/wp-content/uploads/*banner
