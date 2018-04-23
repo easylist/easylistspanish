@@ -5,6 +5,7 @@
 ||infopico.com/images/gif/
 ||infopico.com/images/jpg/banner
 ||infopico.com/images/jpg/concreblock---pampamix.jpg
+||infopico.com/images/png/alvear_300x150.png
 ||infopico.com/images/swf/
 ||laschicascalientes.es/wp-content/uploads/*banner
 ||laschicascalientes.es/wp-content/uploads/boton-sexshop.jpg
