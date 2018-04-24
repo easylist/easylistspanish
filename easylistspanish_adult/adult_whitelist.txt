@@ -1,4 +1,3 @@
-@@||infopico.com/images/gif/logoinfopico2017.gif
 @@||spalumi.com/avatars/$image,domain=spalumi.com
 @@||spalumi.com/clear.gif$image,domain=spalumi.com
 @@||spalumi.com/iconimages/$image,domain=spalumi.com
