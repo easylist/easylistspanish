@@ -216,6 +216,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||infocielo.com/uploads/banners/
 ||infofueguina.com/u/banners/
 ||infopico.com/images/jpg/banner
+||infopico.com/images/jpg/concreblock---pampamix.jpg
 ||infopico.com/images/png/alvear_300x150.png
 ||infoplatense.com.ar/*/*.gif
 ||infoplatense.com.ar/*/banner
