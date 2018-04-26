@@ -48,7 +48,7 @@ ahorradororata.com###banner_footer
 divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,torrentrapid.com,tumejortorrent.com###banner_header
 cinecalidad.to###banner_sinopsis
 paxinasgalegas.es###banner_superior
-coches.net###banner_top
+coches.net,infopico.com###banner_top
 nomellamesfriki.com###banneralto
 tresubresdobles.com###bannerbajo
 laindustria.pe###bannercentral
