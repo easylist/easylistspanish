@@ -215,6 +215,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||infocanuelas.com/media/banner/
 ||infocielo.com/uploads/banners/
 ||infofueguina.com/u/banners/
+||infopico.com/images/png/alvear_300x150.png
 ||infoplatense.com.ar/*/*.gif
 ||infoplatense.com.ar/*/banner
 ||inmendoza.com/wp-content/uploads/*_1140x170_
