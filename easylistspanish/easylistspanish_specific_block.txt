@@ -218,6 +218,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||infopico.com/images/jpg/banner
 ||infopico.com/images/jpg/concreblock---pampamix.jpg
 ||infopico.com/images/png/alvear_300x150.png
+||infopico.com/images/swf/
 ||infoplatense.com.ar/*/*.gif
 ||infoplatense.com.ar/*/banner
 ||inmendoza.com/wp-content/uploads/*_1140x170_
