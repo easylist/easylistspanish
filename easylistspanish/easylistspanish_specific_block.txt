@@ -1,5 +1,5 @@
 $script,third-party,domain=ddmix.net|pepecine.info
-$webrtc,domain=animeid.tv|booksmedicos.org|gnula.biz|jkanime.net|pelispedia.tv
+$webrtc,domain=animeid.tv|booksmedicos.org|gnula.biz|jkanime.net|mejortorrent.com|pelispedia.tv
 $websocket,domain=ddmix.net|descargasnsn.com
 /*badge*.png$domain=rpp.pe
 /static/BB3HTML/images/*sponsor*.png$domain=diariodecadiz.es|diariodejerez.es|diariodesevilla.es|elalmeria.es|eldiadecordoba.es|europasur.es|granadahoy.com|huelvainformacion.es|malagahoy.es
