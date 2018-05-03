@@ -1,3 +1,4 @@
+/234x60.php
 /advertisements?
 /banner-publi-lateral.gif
 /img/patrocinios/*
