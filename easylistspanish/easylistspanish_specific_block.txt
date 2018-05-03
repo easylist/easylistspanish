@@ -1,5 +1,5 @@
 $script,third-party,domain=ddmix.net|pepecine.info
-$webrtc,domain=animeid.tv|booksmedicos.org|gnula.biz|jkanime.net|pelispedia.tv
+$webrtc,domain=animeid.tv|booksmedicos.org|gnula.biz|jkanime.net|mejortorrent.com|pelispedia.tv
 $websocket,domain=ddmix.net|descargasnsn.com
 /*badge*.png$domain=rpp.pe
 /static/BB3HTML/images/*sponsor*.png$domain=diariodecadiz.es|diariodejerez.es|diariodesevilla.es|elalmeria.es|eldiadecordoba.es|europasur.es|granadahoy.com|huelvainformacion.es|malagahoy.es
@@ -92,6 +92,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||cualesmiip.com/images/banner
 ||cuartopoder.es//images/MovistarFusion.jpg
 ||cuponidad.pe^$domain=elpopular.pe|larepublica.pe|libero.pe
+||cxrbw.aquipelis.net^
 ||ddmix.net/doggy*js$script
 ||ddmix.net/wp-content/plugins/popup-builder/
 ||defiendase.com/media/file/2014/Publicidades/
@@ -107,6 +108,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||diariodelaribera.org/images/stories/banners2015/noviembre_2015/
 ||diariodelaribera.org/images/stories/banners2015/octubre_2015/
 ||diariodesevilla.es/2016/11/09/botones_fijos/movistar-deportes_1079902371_60088437_246x27.png
+||diariodeteruel.es/banners/imgbanner/
 ||diarioeldia.cl/banner/
 ||diarioeldia.cl/interstitial*.js
 ||diarioelzondasj.com.ar/images/Imagenes/*.gif
@@ -144,6 +146,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||elpuntodeequilibrio.com/assets/banners/
 ||emol.com/_portada/cajasecciones/cajaeconomicos.aspx
 ||emol.com/www/noticias/sqn.php?zones=
+||enderrock.cat/ajax.php?accio=loadinterstitial
 ||ennaranja.com/wp-content/themes/ingblog-fa/assets/images/logoing.png
 ||es-cloud-resources.tombola.com/Flash/Modules/winners_module_apr_*.swf
 ||escolar.net/wp-content/hoyenvertele*.jpg
