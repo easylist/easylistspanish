@@ -11,3 +11,4 @@ _inc_banner.php?id=
 ! Anti-Adblock
 &adbIsActive=
 /adblocker/modal.
+/deadblocker/*
