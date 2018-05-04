@@ -270,6 +270,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||mediainterior.com.ar/images/
 ||megalinks.info/min3r.html
 ||megawarez.org/wp-content/uploads/*/banner
+||megawarez.org/wp-content/uploads/2017/09/modelting.png
 ||mejorenvo.com/publi$subdocument
 ||mejortorrent.com/includes/$subdocument
 ||meridiano.com.ve/Picfiles/logo-merbet_96x34.png
@@ -394,6 +395,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||st.forocoches.com/image/top_c2_fcs_hd_hawkers.png
 ||st.forocoches.com/image/varios/iphone6_ipadmini.png
 ||st1.idealista.com/news/archivos/styles/348x90/public/ficheros_widget_news/img/balcon_concha_vanguardia.jpg
+||stact.megawarez.org^
 ||static.emol.cl/emol50/js/funcionesComun.js?
 ||static.htcmania.com/*_180x150-
 ||static.htcmania.com/180-150-
