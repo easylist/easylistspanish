@@ -194,3 +194,6 @@
 ##adsenseintermedioright
 ##div[class^="publicHoriz"]
 ##div[id^="M"][id*="Composite"]
+! Anti-Adblock
+###deadblocker_dialog
+##.deadblocker-header-bar
