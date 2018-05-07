@@ -94,6 +94,7 @@
 @@||latelete.tv^$generichide
 @@||levante-emv.com^$generichide
 @@||libertaddigital.com/js/ads.js$script,domain=esradio.libertaddigital.com
+@@||lik.cl^$generichide
 @@||livesports.pw//adblock.js$script,domain=livesports.pw
 @@||livesports.pw/adblock.js$script,domain=livesports.pw
 @@||livesports.pw^$generichide
