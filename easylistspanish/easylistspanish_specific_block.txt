@@ -361,6 +361,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||radiosantiago.cl/wp-content/uploads/2017/02/tecnoera228x34.png
 ||radiosantiago.cl/wp-content/uploads/2017/02/unimarc-228x76.jpg
 ||rae.es/sites/all/common/images/logos/
+||realovirtual.com/pictures/banners/
 ||realpolitik.com.ar/uploads/banners/
 ||recambios-expres.es/medias/oil-bundle-oil-es.png
 ||recursos.dl-cdn24.com/bannerpl/
