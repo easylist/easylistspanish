@@ -162,6 +162,7 @@
 ##.publicity-content
 ##.publicity-content-google
 ##.publitop
+##.pubslider
 ##.rmsads
 ##.roba-container
 ##.robapagina
