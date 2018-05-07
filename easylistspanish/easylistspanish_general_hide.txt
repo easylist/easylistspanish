@@ -66,6 +66,7 @@
 ##.blog-publi
 ##.bloquepubli
 ##.borde_publi
+##.c_anun_pub
 ##.caja_cuponisimo_slider200
 ##.cnt-pub
 ##.cnt-publicidad
