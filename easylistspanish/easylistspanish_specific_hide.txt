@@ -279,7 +279,7 @@ vibbo.com##.advertisingTop
 20minutos.com,20minutos.com.mx,20minutos.es##.adx
 vibbo.com##.afs-block
 htcmania.com##.afterlogo
-elplural.com##.anuncio
+elplural.com,esmtb.com##.anuncio
 androidpit.es##.appSlider
 libertaddigital.com##.apuestas
 perfil.com##.ark-ad-block
