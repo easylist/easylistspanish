@@ -150,6 +150,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||ennaranja.com/wp-content/themes/ingblog-fa/assets/images/logoing.png
 ||es-cloud-resources.tombola.com/Flash/Modules/winners_module_apr_*.swf
 ||escolar.net/wp-content/hoyenvertele*.jpg
+||esmtb.com/embed/$image
 ||especiales.woman.es/wid-deportivos/index.html
 ||estaticos.sport.es/resources/png/8/1/1434710825318.png
 ||eventrid.cl/banner_espectaculos_cuadro
