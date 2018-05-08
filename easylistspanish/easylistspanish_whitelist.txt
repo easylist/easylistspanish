@@ -67,6 +67,7 @@
 @@||divinity.es^$generichide
 @@||divxatope.com^$generichide
 @@||divxatope1.com^$generichide
+@@||dompl3.info^$generichide
 @@||ebizlatam.com^$generichide
 @@||eestatic.com/assets_js/dyn/adiframe.js
 @@||eestatic.com/assets_js/dyn/adsiframe.js$script,domain=elespanol.com
