@@ -814,6 +814,7 @@ finofilipino.org#?##sidebar > .adpv:-abp-contains(Camiseta de la semana)
 seriesdanko.to##span[style="font-weight:bold; cursor:pointer; text-decoration:underline"]
 sailingzona.com##td[style="color:#666666; font-size:11px; padding:2px;"]
 fitnesszona.com##td[style="font-family:Arial, Helvetica, sans-serif;font-size:9px;color:#efefef"]
+||incremente.com/bannerab.gif
 ||informaticamoderna.com/Hospedados/Banners/
 ||informaticamoderna.com/admin/Publicidad.htm
 ! Site Specific filters (used with $generichide)
