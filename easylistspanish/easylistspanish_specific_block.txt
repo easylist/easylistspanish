@@ -215,6 +215,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||imgur.com/JlGKZ0q.jpg
 ||imgur.com^$domain=ddmix.net
 ||impulsobaires.com.ar/uploads/banners/
+||incremente.com/bannerab.gif
 ||infoban.com.ar/imgpublicidad/
 ||infocanuelas.com/media/banner/
 ||infocielo.com/uploads/banners/
