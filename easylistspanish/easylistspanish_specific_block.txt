@@ -226,6 +226,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||infopico.com/images/swf/
 ||infoplatense.com.ar/*/*.gif
 ||infoplatense.com.ar/*/banner
+||informaticamoderna.com/admin/Publicidad.htm
 ||informaticamoderna.com/Hospedados/Banners/
 ||inmendoza.com/wp-content/uploads/*_1140x170_
 ||inmendoza.com/wp-content/uploads/banner/
