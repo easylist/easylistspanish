@@ -139,6 +139,7 @@
 @@||superdeporte.es^$generichide
 @@||superligatv.com/js/advertisement.js$script,domain=superligatv.com|tele-envivo.com
 @@||telecinco.es^$generichide
+@@||todacolombia.com^$generichide
 @@||todomecanica.com/js/ads.js$script,domain=todomecanica.com
 @@||todomecanica.net/js/ads.js$script,third-party,domain=todomecanica.com
 @@||todotumac.com^$generichide
