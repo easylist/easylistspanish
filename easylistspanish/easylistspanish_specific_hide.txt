@@ -324,6 +324,7 @@ abc.com.py##.banner-full-60
 elonce.com##.banner-g
 elonce.com##.banner-h
 20minutos.com,20minutos.com.mx,20minutos.es,ushuaianoticias.com##.banner-header
+todacolombia.com##.banner-horizontal
 abcsaladillo.com.ar##.banner-lateral
 minutouno.com##.banner-libre
 minutouno.com##.banner-listado-simple
