@@ -406,6 +406,7 @@ lne.es##.contenedor_widget_1col
 cronista.com##.content-banner
 inmodiario.com,puromarketing.com##.content-pub-top
 elcolombiano.com##.contentBannerIntelecto
+laarena.com.ar##.cookie_lasa_popup
 slimdownload.co##.cssanimations
 t13.cl##.d_banner_t13
 laprovincia.es##.dcham2
