@@ -490,6 +490,7 @@ bro.adca.st##.pepin
 peliculasaudiolatino.com##.pfake
 descargar.mobi##.placeholder__item--banner
 casinonewsdaily.es##.popup-promo
+laarena.com.ar##.popup_MM__cliqueado
 diario.mx##.portada_1LB
 diario.mx##.portada_1MT
 eldia.com,infoplatense.com.ar##.ppp
