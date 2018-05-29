@@ -751,6 +751,7 @@ forochicas.com#?#.tborder:-abp-contains(elcorteingles.es)
 yucatan.com.mx##h2[style="color: #000000;text-align: left"]
 yucatan.com.mx##h2[style="text-align: center;"]
 hitfm.es##header
+horadeopinion.com.ar#?#.widget_metaslider_widget:-abp-contains(ESPACIO PUBLICITARIO)
 manerasdevivir.com##hr[style="width:5px; color:#CC6600; background-color:#CC6600; margin-top:3px; margin-bottom: 3px;"]
 boardzona.com##iframe[src*="://supercore.adm-vids.com/video_offer?"]
 foropolicia.es##iframe[src*="://www.netpol.es/"]
