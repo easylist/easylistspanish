@@ -170,6 +170,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||guiatv.biz/adporn.html
 ||hazteveg.com/img/banner
 ||hitfm.es/view/imgs/Trident-Hit-FM-Fondo-*.jpg
+||horadeopinion.com.ar/imagenes/*.gif
 ||horadeopinion.com.ar/wp-content/uploads/*/*/*.gif
 ||hostinet.com/comprar/affiliate/resource/
 ||hostinet.com/hstatics/templates/images/banner/
