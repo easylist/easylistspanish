@@ -582,6 +582,7 @@ reverso.net##.vda-block
 reverso.net##.vda-section
 reverso.net##.verticalbox
 larazon.es##.vinculoPatrocinio
+diarionoticias.com.ar##.visable
 neoauto.com##.widescreen
 equipar.es,futbolchile.net,nicaraguahoy.info##.widget_custom_html
 lajornadanet.com##.widget_custom_html > .block-title
