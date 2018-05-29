@@ -110,6 +110,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||diarioelzondasj.com.ar/images/Imagenes/lima.png
 ||diarioelzondasj.com.ar/images/Videos/*.swf
 ||diariolaprovinciasj.com/u/banners/
+||diarionoticias.com.ar/images/banner/BANNER
 ||diariosanrafael.com.ar/images/banners/
 ||diariotextual.com/images/articulos-2014/*.gif
 ||diariotextual.com/images/articulos-2014/*banner
