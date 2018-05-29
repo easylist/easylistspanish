@@ -464,6 +464,7 @@ eltiempo.es##.m_gollum
 tandildiario.com##.mainContainerBanner
 publico.es##.megabanner-container
 reverso.net##.message-wrap--powered
+horadeopinion.com.ar##.ml-slider
 divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,torrentrapid.com,tumejortorrent.com##.mod-pubb
 atresplayer.com##.mod_roba
 larepublica.pe##.mol-bl_Cuponidad
