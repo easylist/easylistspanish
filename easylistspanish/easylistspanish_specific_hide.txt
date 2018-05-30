@@ -21,6 +21,7 @@ comunio.es###advertising-top
 cualesmiip.com###anuncio
 animeid.tv###ap
 abc.com.py###article-banner-comentarios
+eldia.es###asd
 telesemana.com###author-banner
 lacuerda.net###ban160
 lacuerda.net###ban300
