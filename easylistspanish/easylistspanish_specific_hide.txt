@@ -3,6 +3,7 @@ puromarketing.com###AdsTextHomeMultiple
 forocoches.com###AutoNumber30
 pcbolsa.com###Conten
 lapampadiaxdia.com.ar###HTML20
+lapampadiaxdia.com.ar###HTML23
 rpp.pe###Joinnuscontainerprinc
 diariopopular.com.ar###OBJETO861 > .ad-obj
 pepecine.info,pepecine.tv###SlideMenu1:nth-of-type(2) + h2
