@@ -121,6 +121,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||divinity.es/zentv/images/zentv-300-2.gif
 ||divxtotal.com/9mesesss.jpg
 ||domisfera.com/img/patrocinadores/
+||dropbox.com/s/gd8qg0mv2q53prb/lapampadxd-300x150.swf
 ||ecestaticos.com/file/127008ee463cd1776595c5cf2b0ff780/1434970380.png
 ||ecestaticos.com/file/c321612b3020bee67701c43d5d3129f7/1434970318.png
 ||economia3.com/wp-content/uploads/*/*/*.gif
