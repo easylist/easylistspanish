@@ -13,6 +13,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||130.211.230.53^$script,domain=animeid.tv
 ||16valvulas.com.ar/wp-content/uploads/*.gif
 ||190.210.182.163/iPlataformamultiempresa/Panelcontenidos/Contenidos/*.swf
+||190.210.182.163/iPlataformamultiempresa/Panelcontenidos/Contenidos/Pauta
 ||19640noticias.com/wp-content/uploads/2017/03/200x200_OK_-1-Copiar.jpg
 ||19640noticias.com/wp-content/uploads/2017/03/Banner-Institucional-300x200-Copiar.jpg
 ||19640noticias.com/wp-content/uploads/2017/03/Veronica-Gonzalez-Copiar-Copiar.jpg
