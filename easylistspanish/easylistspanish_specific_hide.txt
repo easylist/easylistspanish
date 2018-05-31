@@ -415,6 +415,7 @@ slimdownload.co##.cssanimations
 t13.cl##.d_banner_t13
 laprovincia.es##.dcham2
 lavanguardia.com##.div-patrocinado5
+maracodigital.net##.divpublicidades
 teknofilo.com##.e3lan
 diariodesevilla.es##.ePubli1
 elcomercio.pe##.ec-club
