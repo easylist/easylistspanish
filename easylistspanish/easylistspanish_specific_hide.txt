@@ -466,6 +466,7 @@ lavanguardia.com##.lv-publi-box
 blancas.cl,paginasblancas.com.ar,paginasblancas.com.pe##.m-pod-promo-image
 eltiempo.es##.m_gollum
 tandildiario.com##.mainContainerBanner
+maracodigital.net##.margenpublicidad
 publico.es##.megabanner-container
 reverso.net##.message-wrap--powered
 horadeopinion.com.ar##.ml-slider
