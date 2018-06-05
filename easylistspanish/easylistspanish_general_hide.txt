@@ -52,6 +52,10 @@
 ##.adcontainer-portlet
 ##.ads-block-panel-tipo-1
 ##.adsCon
+##.adsEpi
+##.adsEpiItem
+##.adsIndex
+##.adsSide
 ##.ads_160x600
 ##.ads_960x90
 ##.adsderecha
