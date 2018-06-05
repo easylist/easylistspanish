@@ -108,6 +108,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||diariodelaribera.org/images/stories/banners2015/noviembre_2015/
 ||diariodelaribera.org/images/stories/banners2015/octubre_2015/
 ||diariodesevilla.es/2016/11/09/botones_fijos/movistar-deportes_1079902371_60088437_246x27.png
+||diariodeteruel.es/banners/imgbanner/
 ||diarioeldia.cl/banner/
 ||diarioeldia.cl/interstitial*.js
 ||diarioelzondasj.com.ar/images/Imagenes/*.gif
