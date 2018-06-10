@@ -59,6 +59,9 @@
 ##.ads_160x600
 ##.ads_960x90
 ##.adsderecha
+##.advertisingLeft
+##.advertisingRight
+##.advertisingTop
 ##.app-container > .questions-container-banner
 ##.bl_publi_top
 ##.block-dfp-midcentral_home
