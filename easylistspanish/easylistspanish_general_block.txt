@@ -8,6 +8,7 @@
 /text_publi_01.
 /txt_publi_vert.
 _inc_banner.php?id=
+_pubted.
 ! Anti-Adblock
 &adbIsActive=
 /adblocker/modal.
