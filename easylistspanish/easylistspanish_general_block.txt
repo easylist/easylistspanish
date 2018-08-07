@@ -7,6 +7,7 @@
 /publi/publi
 /publi_120_
 /publi_300_
+/publi_700_
 /text_publi_01.
 /txt_publi_vert.
 _inc_banner.php?id=
