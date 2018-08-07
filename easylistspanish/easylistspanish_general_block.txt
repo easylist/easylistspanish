@@ -2,6 +2,7 @@
 /advertisements?
 /banner-publi-lateral.gif
 /banner_body.
+/bannner_footer.
 /img/patrocinios/*
 /modules/pinpan/inc_ifra.php?par=
 /multimedia/publicidades/*
