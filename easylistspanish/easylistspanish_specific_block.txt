@@ -1,3 +1,4 @@
+$csp=worker-src 'none',domain=tomadivx.tv
 $script,third-party,domain=ddmix.net|pepecine.info
 $webrtc,domain=animeid.tv|booksmedicos.org|dompl3.info|gnula.biz|jkanime.net|mejortorrent.com|pelispedia.tv|tomadivx.tv
 $websocket,domain=ddmix.net|descargasnsn.com
