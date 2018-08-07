@@ -1,6 +1,7 @@
 /234x60.php
 /advertisements?
 /banner-publi-lateral.gif
+/banner_body.
 /img/patrocinios/*
 /modules/pinpan/inc_ifra.php?par=
 /multimedia/publicidades/*
