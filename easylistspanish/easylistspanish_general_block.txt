@@ -6,6 +6,7 @@
 /multimedia/publicidades/*
 /publi/publi
 /publi_120_
+/publi_300_
 /text_publi_01.
 /txt_publi_vert.
 _inc_banner.php?id=
