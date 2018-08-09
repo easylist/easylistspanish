@@ -83,6 +83,7 @@
 @@||expansion.com^$generichide
 @@||factoriadeficcion.com^$generichide
 @@||foro.nmn900.net/_nmn900/adsbygoogle.js$script,domain=foro.nmn900.net
+@@||freemium-iptv.org^$generichide
 @@||fuerzasarmadas.eu^$generichide
 @@||fullpremiums.com/adblock.js$script,domain=fullpremiums.com
 @@||fullpremiums.com^$generichide
