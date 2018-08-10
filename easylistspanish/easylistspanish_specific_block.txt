@@ -1,6 +1,6 @@
 $csp=worker-src 'none',domain=tomadivx.tv
 $script,third-party,domain=ddmix.net|pepecine.info
-$webrtc,domain=animeid.tv|booksmedicos.org|dompl3.info|gnula.biz|jkanime.net|mejortorrent.com|mejortorrent.org|mejortorrent1.com|pelispedia.tv|tomadivx.tv
+$webrtc,domain=allpeliculas.com|animeid.tv|booksmedicos.org|dompl3.info|gnula.biz|jkanime.net|mejortorrent.com|mejortorrent.org|mejortorrent1.com|pelispedia.tv|tomadivx.tv
 $websocket,domain=ddmix.net|descargasnsn.com
 /*badge*.png$domain=rpp.pe
 /static/BB3HTML/images/*sponsor*.png$domain=diariodecadiz.es|diariodejerez.es|diariodesevilla.es|elalmeria.es|eldiadecordoba.es|europasur.es|granadahoy.com|huelvainformacion.es|malagahoy.es
