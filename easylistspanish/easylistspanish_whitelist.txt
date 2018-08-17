@@ -156,6 +156,8 @@
 @@||vergol.com/adblock.js$script,domain=vergol.com
 @@||verliga.net/canales/adblock.js$script,domain=verliga.net
 @@||verliga.net^$generichide
+@@||visioncloud.info/ads/ad$script,~third-party
+@@||visioncloud.info^$generichide
 @@||yorokobu.es^$generichide
 @@||youtvgratis.com/themes/tutvplayer/js/fuckadblock.js$script,domain=youtvgratis.com
 @@||youtvgratis.com^$generichide

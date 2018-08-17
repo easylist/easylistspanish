@@ -164,6 +164,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||file02.lavanguardia.com/2015/01/19/54423532669-file.png
 ||file02.lavanguardia.com/2015/03/02/54428665978-file.jpg
 ||file02.lavanguardia.com/2015/06/30/54432622531-file.jpg
+||fliperamagames.ml/random.php?$subdocument,third-party
 ||fm899.com.ar/public/images/banners/
 ||fmgol.com.ar/index_htm_files/CECAITRA_TRANSITO.gif
 ||fmgol.com.ar/index_htm_files/EDELAP_300X300.gif
@@ -442,6 +443,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||vertdtgratis.es/publi23.html
 ||vertelevisor.com/publivertelevisor
 ||vigoe.es/images/pbanner/
+||visioncloud.info/assets/js/bootstrap.js
 ||whathyx.com/pandi.js
 ||widget.laxarxa.com/ext/embeddable_frames/
 ||widgets.helpmycash.com/ranking-financiero/
