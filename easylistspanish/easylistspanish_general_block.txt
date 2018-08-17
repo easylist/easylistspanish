@@ -17,5 +17,6 @@ _inc_banner.php?id=
 _pubted.
 ! Anti-Adblock
 &adbIsActive=
+/adbclk2.
 /adblocker/modal.
 /deadblocker/*
