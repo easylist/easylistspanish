@@ -134,6 +134,7 @@
 @@||securepubads.g.doubleclick.net^$script,domain=expansion.com
 @@||semana.com/Scripts/ads.js
 @@||seriesgato.com^$generichide
+@@||seriesgato.tv^$generichide
 @@||shares.enetres.net/ads.js.php?$script,domain=enetres.net
 @@||sport.es^$generichide
 @@||static.vocento.com/adbd/$script
