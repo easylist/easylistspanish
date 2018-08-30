@@ -169,6 +169,7 @@ nomellamesfriki.com###shopall1
 noticias3d.com###skin
 noticiasmallorca.es###slider-wrapper
 bandaancha.eu###spBx
+labsk.net###sp_block_15
 pagina12.com.ar###sticky-banner-article
 noticiaslasflores.com.ar###swiffycontainer
 lacuerda.net###t_diag
