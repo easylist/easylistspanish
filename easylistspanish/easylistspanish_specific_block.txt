@@ -253,6 +253,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||interbenavente.es/upload/img/periodico/img_36015.gif
 ||jugandoonline.com.ar/entusitio/grafica/banner
 ||labsk.net/banners/
+||labsk.net/carousel/
 ||lacapitalmdp.com/2017/11/fl-1.gif
 ||lacapitalmdp.com/assets/images/publicidades/
 ||lacapitalmdp.com/img_design/paseo_aero.jpg
