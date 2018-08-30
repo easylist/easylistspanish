@@ -170,6 +170,7 @@ noticias3d.com###skin
 noticiasmallorca.es###slider-wrapper
 bandaancha.eu###spBx
 labsk.net###sp_block_15
+labsk.net###sp_block_22
 pagina12.com.ar###sticky-banner-article
 noticiaslasflores.com.ar###swiffycontainer
 lacuerda.net###t_diag
