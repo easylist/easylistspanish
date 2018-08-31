@@ -613,6 +613,7 @@ reverso.net##.top-horizontal
 reverso.net##.toprightdiv
 elpopular.mx##.tp-centro
 hoylosangeles.com##.trb_taboola
+magisnet.com##.trevda
 diariotextual.com##.vc_align_left
 reverso.net##.vda-block
 reverso.net##.vda-section
