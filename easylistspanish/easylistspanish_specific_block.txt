@@ -228,6 +228,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||imgur.com^$domain=ddmix.net
 ||impulsobaires.com.ar/uploads/banners/
 ||impulsonegocios.com/wp-content/uploads/*/*/*.gif
+||impulsonegocios.com/wp-content/uploads/2018/10/libertad23102018.jpg
 ||incremente.com/bannerab.gif
 ||infoban.com.ar/imgpublicidad/
 ||infocanuelas.com/media/banner/
