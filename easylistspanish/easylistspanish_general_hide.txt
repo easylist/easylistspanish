@@ -20,6 +20,7 @@
 ###google-ad2
 ###googleads_dr
 ###oasTOP
+###posicion-publicidad-superior
 ###pub_superior_left
 ###pubinf
 ###publiLink
