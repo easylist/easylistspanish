@@ -11,6 +11,11 @@
 /publi_300_
 /publi_700_
 /publi_728_
+/serve?*&w=160&h=600
+/serve?*&w=300&h=250
+/serve?*&w=468&h=60
+/serve?*&w=728&h=90
+/serve?inline=*&w=*&h=
 /text_publi_01.
 /txt_publi_vert.
 ://adn.*/zone/
