@@ -1,5 +1,6 @@
 ||aclaritics.info^$third-party
 ||adcarem.co^$third-party
+||adcloud.us^$third-party
 ||adsrv4k.com^$third-party
 ||adturtle.biz^$third-party
 ||ainder.club^$third-party
