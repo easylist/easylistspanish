@@ -89,6 +89,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||comodorodeportes.gov.ar/wp-content/uploads/*/*/*.gif
 ||comparador.euribor.com.es/lanzadera/retargetting/
 ||contextotucuman.com//banners/
+||corporacionwarez.com/wp-content/uploads/$script
 ||corrienteshoy.com/files/banners/
 ||cronista.com/arte/pcwlogo.png
 ||css01.lavanguardia.com/imagenes/cajaHTML/loterias.gif
