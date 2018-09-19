@@ -4,6 +4,7 @@
 /banner_body.
 /bannner_footer.
 /display/items.*&
+/dynamicAds.
 /img/patrocinios/*
 /modules/pinpan/inc_ifra.php?par=
 /multimedia/publicidades/*
