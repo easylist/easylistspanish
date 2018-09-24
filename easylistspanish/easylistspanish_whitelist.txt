@@ -94,6 +94,7 @@
 @@||inmanga.com/Scripts/fuckadblock.js$script,domain=inmanga.com
 @@||jovenesweb.com/plugins/ABchecker/src/advertisement.js$script,domain=jovenesweb.com
 @@||kjanime.net/link/advertisement.js$script,domain=kjanime.net
+@@||lacalleochotv.org^$generichide
 @@||latelete.tv^$generichide
 @@||levante-emv.com^$generichide
 @@||libertaddigital.com/js/ads.js$script,domain=esradio.libertaddigital.com
