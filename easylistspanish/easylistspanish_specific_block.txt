@@ -96,6 +96,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||cuartopoder.es//images/MovistarFusion.jpg
 ||cuponidad.pe^$domain=elpopular.pe|larepublica.pe|libero.pe
 ||cxrbw.aquipelis.net^
+||d2d8qsxiai9qwj.cloudfront.net^
 ||ddmix.net/doggy*js$script
 ||ddmix.net/wp-content/plugins/popup-builder/
 ||defiendase.com/media/file/2014/Publicidades/
