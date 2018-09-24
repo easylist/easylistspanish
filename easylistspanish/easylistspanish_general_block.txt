@@ -24,7 +24,6 @@
 ://adn.*/zone/
 _inc_banner.php?id=
 _pubted.
-||d2d8qsxiai9qwj.cloudfront.net^
 ! Anti-Adblock
 &adbIsActive=
 /adbclk2.
