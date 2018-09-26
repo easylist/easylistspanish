@@ -9,7 +9,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 |http://$script,third-party,domain=abcdefamosas.xyz|animakai.tv|elitetorrent.net|ftail.tv|lacajita.xyz|mejorenvo.com|mejortorrent.com|novelasenlinea.net|reyanime.com|seriesblanco.com|shippuden.tv|submanga.org|xtremo.net|xtremostereo.net
 |http://$script,third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|divxatope1.com|divxtotal.com|estoesporno.com|estrenosdtl.com|gamestorrents.com|jkanime.net|moviesdvdr.com|newpct.com|newpct1.com|seriesflv.net|subtorrents.com|todocvcd.com|torrentesx.com|torrentlocura.com|torrentrapid.com|tumejortorrent.com
 |http://zetaestaticos.com/comun/upload/0/628/628692.jpg
-|https://$script,third-party,domain=abcdefamosas.xyz|animakai.tv|novelasenlinea.net
+|https://$script,third-party,domain=abcdefamosas.xyz|animakai.tv|novelasenlinea.net|xtremo.net|xtremostereo.net
 |https://$script,third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|jkanime.net
 ||130.211.230.53^$script,domain=animeid.tv
 ||16valvulas.com.ar/wp-content/uploads/*.gif
