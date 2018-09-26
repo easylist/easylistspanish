@@ -457,7 +457,6 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||wp.com/autoblog.com.ar/wp-content/uploads/*.gif
 ||wp.com/www.cronicadigital.cl/imagenes/noticias/2017/02/cronica-letrero.jpg
 ||wp.com/www.cronicadigital.cl/imagenes/promocion-cronica.jpg
-||xtremostereo.net/t3l33/
 ||yucatan.com.mx/wp-content/uploads/*/*/banner
 ||zeulo.anime-extremo.com^
 ! Anti-Adblock
