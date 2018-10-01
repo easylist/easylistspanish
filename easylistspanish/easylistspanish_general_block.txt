@@ -1,5 +1,6 @@
 /234x60.php
 /adsdino.
+/adsensebase.
 /advertisements?
 /banner-publi-lateral.gif
 /banner_body.
