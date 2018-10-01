@@ -170,6 +170,7 @@ pagina12.com.ar###sticky-banner-article
 noticiaslasflores.com.ar###swiffycontainer
 lacuerda.net###t_diag
 elheraldo.hn###taboola_nota
+lostiempos.com###takeover-desktop
 mega-mkv.com###taplay
 comodorodeportes.gov.ar###text-1000
 comodorodeportes.gov.ar###text-1001
