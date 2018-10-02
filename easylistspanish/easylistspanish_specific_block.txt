@@ -129,6 +129,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||diariovictoria.com.ar/wp-content/uploads/*.gif
 ||divinity.es/zentv/images/zentv-300-2.gif
 ||divxtotal.com/9mesesss.jpg
+||do67etikr7pwz.cloudfront.net^
 ||domisfera.com/img/patrocinadores/
 ||dropbox.com/s/gd8qg0mv2q53prb/lapampadxd-300x150.swf
 ||ecestaticos.com/file/127008ee463cd1776595c5cf2b0ff780/1434970380.png
