@@ -140,6 +140,7 @@
 @@||shares.enetres.net/ads.js.php?$script,domain=enetres.net
 @@||sport.es^$generichide
 @@||static.vocento.com/adbd/$script
+@@||sunhd.info^$generichide
 @@||superdeporte.es^$generichide
 @@||superligatv.com/js/advertisement.js$script,domain=superligatv.com|tele-envivo.com
 @@||telecinco.es^$generichide
