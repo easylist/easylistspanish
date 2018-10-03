@@ -1,4 +1,5 @@
 /234x60.php
+/^https?:\/\/[a-z0-9]+\.cloudfront\.net\/\?[a-z]{5}\=\d{6}$/$script,third-party
 /adsdino.
 /adsensebase.
 /advertisements?
