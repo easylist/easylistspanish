@@ -10,6 +10,7 @@
 ||jlflzjdt.com^$popup,third-party
 ||liveadoptimizer.com^$popup,third-party
 ||millionairedream.co^$popup,third-party
+||pvclouds.com^$popup,third-party
 ||supportcorner.co^$popup,third-party
 ||traffic.getmyads.com^$popup,third-party
 ||tvoy-million.co^$popup,third-party
