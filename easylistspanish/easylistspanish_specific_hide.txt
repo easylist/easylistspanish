@@ -279,6 +279,7 @@ periodistadigital.com,realovirtual.com,tribunaavila.com,tribunaburgos.com,tribun
 desdesoria.es##.advertising-corte-interstitial
 vibbo.com##.advertisingTop
 20minutos.com,20minutos.com.mx,20minutos.es##.adx
+mangas-en-pdf.blogspot.com##.afiliados
 vibbo.com##.afs-block
 htcmania.com##.afterlogo
 elplural.com,esmtb.com##.anuncio
