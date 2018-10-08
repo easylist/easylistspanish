@@ -59,6 +59,7 @@
 ##.ads_160x600
 ##.ads_960x90
 ##.adsderecha
+##.adsmovie
 ##.advertisingLeft
 ##.advertisingRight
 ##.advertisingTop
