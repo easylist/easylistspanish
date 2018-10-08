@@ -3,3 +3,4 @@ about:blank$popup,domain=identi.li,seriesblanco.com,gnula.nu
 ||35.193.89.147^$popup
 ||acortar.net^$popup
 ||cortanas.net^$popup
+||t.co^$popup,domain=verpeliculasenlatino.com
