@@ -448,6 +448,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||verdirectotv.com/wp-content/themes/wtb-video-black/images/72890.gif
 ||verliga.net/imagenes/cruz.jpg
 ||verliga.net/publiverliga.html
+||verpeliculasenlatino.com/player/show.php
 ||vertdtgratis.es/publi1.html
 ||vertdtgratis.es/publi2.html
 ||vertdtgratis.es/publi23.html
