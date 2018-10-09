@@ -27,7 +27,6 @@
 ://adn.*/zone/
 _inc_banner.php?id=
 _pubted.
-||cloudfront.net^$domain=ojomovies.com
 ! Anti-Adblock
 &adbIsActive=
 /adbclk2.
