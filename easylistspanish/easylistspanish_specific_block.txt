@@ -84,7 +84,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||chatzona.net/img/amigos-banner.jpg
 ||chrissysinvite.co/a
 ||cinestrenostv.tv/Publi/
-||cloudfront.net^$domain=divxtotal.co|elitegol.me|grantorrent.co|grantorrent.com|lacalleochotv.org|torrentlocura.com|zaipoc.com
+||cloudfront.net^$domain=divxtotal.co|elitegol.me|grantorrent.co|grantorrent.com|lacalleochotv.org|ojomovies.com|torrentlocura.com|zaipoc.com
 ||cloudfront.net^$script,domain=compucalitv.com|descargasnsn.com|extremotvplay.com|gamezfull.com
 ||clubdelectores.cl/cajaEmolClub/$third-party
 ||comodorodeportes.gov.ar/wp-content/uploads/*/*/*.gif
