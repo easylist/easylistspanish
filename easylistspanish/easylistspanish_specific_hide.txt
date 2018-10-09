@@ -283,6 +283,7 @@ mangas-en-pdf.blogspot.com##.afiliados
 vibbo.com##.afs-block
 htcmania.com##.afterlogo
 elplural.com,esmtb.com##.anuncio
+ojomovies.com##.anuncionomovil
 androidpit.es##.appSlider
 libertaddigital.com##.apuestas
 perfil.com##.ark-ad-block
