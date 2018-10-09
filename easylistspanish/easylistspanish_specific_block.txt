@@ -324,6 +324,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||objetivocastillalamancha.es/sites/default/files/NOTICIAS/BANNER
 ||objetivocastillalamancha.es/sites/default/files/styles/banercolumna
 ||objetivocastillalamancha.es/sites/default/files/styles/bannercolumna
+||ojomovies.com/sw.js
 ||okdiario.com/img/endesa/endesa_300x90.gif
 ||p.a-abp.com//simgad/
 ||pamplona.es/banner_noticias/
