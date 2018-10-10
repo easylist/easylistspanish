@@ -56,6 +56,7 @@
 @@||bambergerkennanchitinous.com/.adframesrc.$script,third-party,domain=divxatope.com|divxatope1.com|newpct.com|newpct1.com|torrentlocura.com|torrentrapid.com|tumejortorrent.com
 @@||bemad.es^$generichide
 @@||booksmedicos.org^$generichide
+@@||cdnjs.cloudflare.com/ajax/libs/fuckadblock/*/fuckadblock.$script,domain=anitubebr.com
 @@||ciclismoafondo.es^$generichide
 @@||cinestrenostv.tv^$generichide
 @@||clasicotas.org^$generichide
