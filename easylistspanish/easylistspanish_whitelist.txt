@@ -59,6 +59,7 @@
 @@||cinestrenostv.tv^$generichide
 @@||clasicotas.org^$generichide
 @@||cloudflare.com/ajax/libs/fuckadblock/*/fuckadblock.js$script,domain=hlat.me
+@@||cochesrc.com^$generichide
 @@||comunio.es^$generichide
 @@||corporacionwarez.com^$generichide
 @@||cualbondi.com.ar^$generichide
