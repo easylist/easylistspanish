@@ -167,6 +167,7 @@
 @@||verliga.net^$generichide
 @@||visioncloud.info/ads/ad$script,~third-party
 @@||visioncloud.info^$generichide
+@@||watcha.live^
 @@||yorokobu.es^$generichide
 @@||youtvgratis.com/themes/tutvplayer/js/fuckadblock.js$script,domain=youtvgratis.com
 @@||youtvgratis.com^$generichide
