@@ -40,6 +40,7 @@
 @@/static/MDSAntiAdBlock/*$script,~third-party,domain=cuatro.com|divinity.es|telecinco.es
 @@||09stream.com/reproductores/adblock.js
 @@||active.cache.el-mundo.net/js/advertisement.js
+@@||adpass.atresmedia.com/*/index/*/ad*.js$xmlhttprequest
 @@||adsterra.com/wp-content/plugins/sitepress-multilingual-cms/res/js/sitepress.js^$script,domain=anitubebr.com
 @@||akamaihd.net/*/defaultview/*/fuckadblock.js$script,third-party,xmlhttprequest,domain=mitele.es
 @@||akamaihd.net/defaultview/adjs.js$script,third-party,xmlhttprequest,domain=mitele.es
