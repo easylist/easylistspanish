@@ -465,6 +465,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||xtremostereo.net/t3l33/
 ||yucatan.com.mx/wp-content/uploads/*/*/banner
 ||zeulo.anime-extremo.com^
+||zonatorrent.tv/min/$script
 ! Anti-Adblock
 ||el-mundo.net/js/fm*.js$script
 ||epasatiempos.es/js/af.js
