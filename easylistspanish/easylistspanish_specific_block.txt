@@ -304,6 +304,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||mundodeportivo.com/r/GODO/MD/p3/Canales/Imagenes/2015/02/06/
 ||mundodeportivo.com/r/GODO/MD/p3/ContraPortada/Imagenes/*/img_cduart_*_imagenes_md_otras_fuentes_bmw_*.jpg
 ||mundodescuento.s3.amazonaws.com^$domain=cadena3.com
+||musicatorrents.com^*/script.
 ||musiquiatra.com/uploads/banners
 ||naciodigital.cat/redaccio/publicitat/
 ||netpol.es/foropolicia_banner
