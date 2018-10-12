@@ -4,4 +4,5 @@ about:blank$popup,domain=identi.li,seriesblanco.com,gnula.nu
 ||acortar.net^$popup
 ||bit.ly^$popup,domain=verpeliculasenlatino.com
 ||cortanas.net^$popup
+||desbloqueador.org^$popup
 ||t.co^$popup,domain=verpeliculasenlatino.com
