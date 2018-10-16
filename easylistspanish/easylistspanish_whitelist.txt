@@ -86,6 +86,7 @@
 @@||elrellano.com^$generichide
 @@||elsate.com^$generichide
 @@||energytv.es^$generichide
+@@||estaticos.muyinteresante.es/bundles/nogoffrontend/js/custom/ads.js
 @@||euribor.com.es^$generichide
 @@||exclusivomen.com/jsad/advertisement.js$xmlhttprequest
 @@||expansion.com^$generichide
