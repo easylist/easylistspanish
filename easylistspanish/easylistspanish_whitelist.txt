@@ -99,6 +99,7 @@
 @@||futbolchile.net^$generichide
 @@||golrojadirecta.com^$generichide
 @@||hlat.me^$generichide
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=shares.enetres.net
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=animeflv.ru
 @@||inmanga.com/Scripts/fuckadblock.js$script,domain=inmanga.com
 @@||jovenesweb.com/plugins/ABchecker/src/advertisement.js$script,domain=jovenesweb.com
