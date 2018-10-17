@@ -146,7 +146,7 @@
 @@||semana.com/Scripts/ads.js
 @@||seriesgato.com^$generichide
 @@||seriesgato.tv^$generichide
-@@||shares.enetres.net/ads.js.php?$script,domain=enetres.net
+@@||shares.enetres.net/ads.js.php?$script,domain=enetres.net|shares.enetres.net
 @@||sport.es^$generichide
 @@||static.vocento.com/adbd/$script
 @@||sunhd.info^$generichide
