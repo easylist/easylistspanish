@@ -134,6 +134,7 @@
 @@||pcbolsa.com/css/ads.js$script,domain=pcbolsa.com
 @@||pelisplus.tv^$generichide
 @@||player.animeid.io/static/ads.js
+@@||player.enetres.net/js/videojs-plugins/videojs-ads-contrib/videojs.ads.js$script,~third-party
 @@||player.jkanime.co/static/ads.js$script,domain=jkanime.co
 @@||playview.io/themes/pv/js/FuckAdBlock/fuckadblock.js$script,domain=playview.io
 @@||playview.io/themes/pv/js/showads.js$xmlhttprequest,domain=playview.io
