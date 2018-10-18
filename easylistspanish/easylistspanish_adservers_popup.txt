@@ -20,4 +20,5 @@
 ||traffic.getmyads.com^$popup,third-party
 ||tvoy-million.co^$popup,third-party
 ||wekiss.co^$popup,third-party
+||whipcountry.pw^$popup,third-party
 ||witholiced.info^$popup,third-party
