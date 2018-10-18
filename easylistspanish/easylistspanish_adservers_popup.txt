@@ -3,6 +3,7 @@
 ||35.193.89.147^$popup,third-party
 ||acortar.net^$popup,third-party
 ||algocashmaster.net^$popup,third-party
+||apendit.com^$popup,third-party
 ||authorne.info^$popup,third-party
 ||canuckmethodprofit.co^$popup,third-party
 ||cinemalek.com^$popup,third-party
