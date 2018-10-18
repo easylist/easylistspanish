@@ -57,6 +57,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||anroca.com.ar/uploads/archivos/*.gif
 ||apfdigital.com.ar/imgpublicidad/
 ||artesacro.org/banner/Salvar-Torre-San-Bartolome-2017.gif
+||asasfasdf.xyz^
 ||assets.bro.adca.st/watchhd.html
 ||aurora-israel.co.il/wp-content/themes/Newspaper/bannersswf/
 ||aurora-israel.co.il/wp-content/uploads/2016/06/oren_shabat555.jpg
