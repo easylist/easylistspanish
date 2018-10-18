@@ -8,6 +8,7 @@
 ||canuckmethodprofit.co^$popup,third-party
 ||cinemalek.com^$popup,third-party
 ||cortanas.net^$popup
+||desbloqueador.org^$popup,third-party
 ||doctoconve.club^$popup,third-party
 ||freelotto.com^$popup,third-party
 ||fuegodevida.com^$popup,third-party
