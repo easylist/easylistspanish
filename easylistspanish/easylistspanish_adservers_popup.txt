@@ -1,5 +1,6 @@
 ||104.154.237.193^$popup,third-party
 ||35.188.59.75^$popup,third-party
+||35.193.89.147^$popup,third-party
 ||algocashmaster.net^$popup,third-party
 ||authorne.info^$popup,third-party
 ||canuckmethodprofit.co^$popup,third-party
