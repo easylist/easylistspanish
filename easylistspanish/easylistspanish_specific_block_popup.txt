@@ -1,6 +1,5 @@
 $popup,third-party,domain=animeid.tv,jkanime.net,divxtotal.co
 about:blank$popup,domain=identi.li,seriesblanco.com,gnula.nu
-||acortar.net^$popup
 ||apendit.com^$popup
 ||bit.ly^$popup,domain=verpeliculasenlatino.com
 ||cortanas.net^$popup
