@@ -6,3 +6,4 @@ about:blank$popup,domain=identi.li,seriesblanco.com,gnula.nu
 ||cortanas.net^$popup
 ||desbloqueador.org^$popup
 ||t.co^$popup,domain=verpeliculasenlatino.com
+||whipcountry.pw^$popup
