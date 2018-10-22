@@ -190,6 +190,7 @@
 ##.widget_text_publicidad
 ##.wrap-bnr
 ##a > #bg-ad
+##a[href*=".kfiopkln.com/"]
 ##a[href*="://adpv.com/?idpartner="]
 ##a[href*="://mobidea.com/?r="]
 ##a[href*="://yllix.com/publishers/"]
