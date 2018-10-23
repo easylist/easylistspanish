@@ -576,6 +576,7 @@ newpct1.com##.sidebar
 cuyonoticias.com##.sidebar > #text-html-widget-11
 megawarez.org##.sidebar-ads
 diariocorreo.pe##.sidebar-zonahogar
+abchoy.com.ar##.slickWindow
 infojobs.net##.slotbanner-top
 infopico.com##.sombra_gris
 parentesis.com##.space
