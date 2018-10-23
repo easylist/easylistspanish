@@ -471,6 +471,7 @@ somosxbox.com##.it-ad
 somosxbox.com##.it-ad-wrapper
 adca.st##.jaimiquito
 noticiasmallorca.es##.lateral
+abchoy.com.ar##.lazypubli
 sipse.com##.leaderboard
 ehowenespanol.com##.leaderboard-wrap
 infojobs.net##.lecourse
