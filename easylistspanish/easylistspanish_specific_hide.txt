@@ -244,7 +244,7 @@ mediavida.com##._p-tp
 gasteizhoy.com,sticknoticias.com##.a-single
 equipar.es##.aalb-pa-ad-unit
 equipar.es##.aalb-pg-ad-unit
-cuatro.com,divinity.es,elconfidencial.com,elsol.com.ar,es.wallapop.com,laverdad.com,salvajes.com,telecinco.es##.ad
+abchoy.com.ar,cuatro.com,divinity.es,elconfidencial.com,elsol.com.ar,es.wallapop.com,laverdad.com,salvajes.com,telecinco.es##.ad
 milenio.com##.ad-box1
 milenio.com##.ad-box2
 autoblog.com.ar##.ad-header-right
