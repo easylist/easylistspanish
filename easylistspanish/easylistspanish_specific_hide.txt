@@ -199,7 +199,7 @@ telesemana.com###text-69
 animechou.com,diariovictoria.com.ar,nuestroclima.com###text-7
 livenumetal.es###text-7 > .textwidget
 irispress.es###text-72
-bufeo.do,todopolicia.com###text-8
+bufeo.do,nuestroclima.com,todopolicia.com###text-8
 telesemana.com###text-86
 telesemana.com###text-87
 lasextaseccion.com.ar###text-9
