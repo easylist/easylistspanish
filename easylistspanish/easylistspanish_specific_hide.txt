@@ -191,7 +191,7 @@ misionesonline.net###text-20
 misionesonline.net###text-21
 misionesonline.net###text-22
 comodorodeportes.gov.ar###text-25
-16valvulas.com.ar,bufeo.do,elplanetaurbano.com,elsigloweb.com,todopolicia.com###text-3
+16valvulas.com.ar,bufeo.do,elplanetaurbano.com,elsigloweb.com,infoagro.com.ar,todopolicia.com###text-3
 diariovictoria.com.ar,elsigloweb.com###text-5
 smnoticias.com,smnoticias.info###text-52
 diariovictoria.com.ar,elsigloweb.com###text-6
