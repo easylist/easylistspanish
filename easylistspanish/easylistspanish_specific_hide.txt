@@ -390,6 +390,7 @@ ebay.es##.beta-placement
 tumomo.com##.bizquierdo
 larepublica.pe##.bl-cuponidad
 informe21.com##.block-106
+informe21.com##.block-112
 elpopular.pe##.block-block-json-cuponidad-sidebar
 vix.com##.block-crvt-adbtgmedia
 planetabocajuniors.com.ar##.bloque-secondary
