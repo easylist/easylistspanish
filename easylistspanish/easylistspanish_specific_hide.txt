@@ -389,6 +389,7 @@ tumomo.com##.bderecho
 ebay.es##.beta-placement
 tumomo.com##.bizquierdo
 larepublica.pe##.bl-cuponidad
+informe21.com##.block-101
 informe21.com##.block-106
 informe21.com##.block-112
 elpopular.pe##.block-block-json-cuponidad-sidebar
