@@ -391,6 +391,7 @@ tumomo.com##.bizquierdo
 larepublica.pe##.bl-cuponidad
 informe21.com##.block-101
 informe21.com##.block-106
+informe21.com##.block-111
 informe21.com##.block-112
 informe21.com##.block-87
 elpopular.pe##.block-block-json-cuponidad-sidebar
