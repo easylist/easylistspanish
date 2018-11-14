@@ -394,6 +394,7 @@ informe21.com##.block-106
 informe21.com##.block-111
 informe21.com##.block-112
 informe21.com##.block-87
+informe21.com##.block-95
 elpopular.pe##.block-block-json-cuponidad-sidebar
 vix.com##.block-crvt-adbtgmedia
 planetabocajuniors.com.ar##.bloque-secondary
