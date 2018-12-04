@@ -383,7 +383,7 @@ vix.com##.block-crvt-adbtgmedia
 planetabocajuniors.com.ar##.bloque-secondary
 esmtb.com##.bloque_anun
 diariolaprovinciasj.com,infofueguina.com##.bnn
-diariodecuyo.com.ar##.bnr
+anime-extremo.com,diariodecuyo.com.ar##.bnr
 mundodeportivo.com##.bolarosa
 pelisadicto.com##.box
 debate.com.mx##.box-banner
