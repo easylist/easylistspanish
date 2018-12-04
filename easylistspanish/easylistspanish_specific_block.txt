@@ -267,6 +267,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||libertaddigital.com/fragmentos/movistarplus.html
 ||lifezona.com/public_data/img/banners/
 ||linkwelove.com/widget/js/lwl.js^$domain=aquiactualidad.com
+||lostiempos.com/sites/default/files/takeover/desktop/$image
 ||loteriasmundiales.com.ar/images/columna_publi_2/anuncie_aqui2.gif
 ||loteriasmundiales.com.ar/images/loterias/banners/
 ||madridpress.com/upload/img/periodico/*.gif
