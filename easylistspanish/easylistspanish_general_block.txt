@@ -13,6 +13,7 @@
 /publi_728_
 /text_publi_01.
 /txt_publi_vert.
+://adn.*/zone/
 _inc_banner.php?id=
 _pubted.
 ! Anti-Adblock
