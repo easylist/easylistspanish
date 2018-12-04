@@ -134,6 +134,8 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||economia3.com/wp-content/uploads/*/*/*.gif
 ||eestatic.com/assets_css/img/axa-portada-deportes.png
 ||elancasti.com.ar/u/banners/
+||elchapuzasinformatico.com/wp-content/uploads/*/skin-
+||elchapuzasinformatico.com/wp-content/uploads/*banner-
 ||elcucodigital.com/*.gif
 ||eldestapeweb.com/adjuntos/177/banners/
 ||eldiariodelapampa.com.ar/images/banners/
