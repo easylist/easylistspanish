@@ -59,7 +59,12 @@
 ##.ads_160x600
 ##.ads_960x90
 ##.adsderecha
+##.advertisingLeft
+##.advertisingRight
+##.advertisingTop
 ##.app-container > .questions-container-banner
+##.bg-ad-left
+##.bg-ad-right
 ##.bl_publi_top
 ##.block-dfp-midcentral_home
 ##.block-dfp-roba_pagina_top_home
