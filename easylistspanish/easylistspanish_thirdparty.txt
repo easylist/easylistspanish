@@ -1,3 +1,4 @@
+||cortanas.net^$domain=mega-mkv.com
 ||doragonborusupa.com^$third-party
 ||economicos.cl/widgets/$third-party
 ||guioteca.com/widget.php^$third-party
