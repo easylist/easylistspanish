@@ -2,10 +2,13 @@ puromarketing.com###AdsTextHomeCenter
 puromarketing.com###AdsTextHomeMultiple
 forocoches.com###AutoNumber30
 pcbolsa.com###Conten
+pcbolsa.com###ContenidoPubliCotiza
 lapampadiaxdia.com.ar###HTML20
 lapampadiaxdia.com.ar###HTML23
 rpp.pe###Joinnuscontainerprinc
 diariopopular.com.ar###OBJETO861 > .ad-obj
+pcbolsa.com###PubliBlog
+pcbolsa.com###PubliBlogAbajo
 pepecine.info,pepecine.tv###SlideMenu1:nth-of-type(2) + h2
 pepecine.info,pepecine.tv###ad
 foroparalelo.com###ad_global_below_navbar
