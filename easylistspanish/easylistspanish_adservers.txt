@@ -7,6 +7,7 @@
 ||algocashmaster.com^$third-party
 ||brand.ad^$third-party
 ||canuckmethodprofit.co^$third-party
+||cibelesads.com^$third-party
 ||cinmaland.com^$third-party
 ||copiapop.net^$third-party
 ||demand.supply^$third-party

@@ -1,3 +1,4 @@
+.es/anuncios/
 /234x60.php
 /adsdino.
 /adsensebase.
@@ -10,6 +11,7 @@
 /img/patrocinios/*
 /modules/pinpan/inc_ifra.php?par=
 /multimedia/publicidades/*
+/publi-300x200.
 /publi/publi
 /publi_120_
 /publi_300_
