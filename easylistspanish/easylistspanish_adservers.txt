@@ -14,6 +14,7 @@
 ||enlarget.com^$third-party
 ||kwinder.club^$third-party
 ||leadzutw.com^$third-party
+||leiki.com^$third-party
 ||mmoframes.com^$third-party
 ||niceduckies.com^$third-party
 ||onclicktop.com^$third-party
