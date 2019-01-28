@@ -301,6 +301,8 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||meridiano.com.ve/Picfiles/logo-merbet_96x34.png
 ||meteoconsult.es/publicite/
 ||millionairedream.co^$third-party
+||minube.com/administrator/minipresManager/
+||minube.com/administrator/suggestionBoxManager/
 ||misionescuatro.com/wp-content/uploads/*.gif
 ||mlstatic.com/img/mclics-images-merchAds
 ||mmedia.20m.es/modulos/pastillas/nuevas/pastillas/Home/Gonzoogenerica.png
