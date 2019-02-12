@@ -18,6 +18,7 @@
 ||niceduckies.com^$third-party
 ||onclicktop.com^$third-party
 ||palmshapednontransferable.com^$third-party
+||secure-cloud.pro^$third-party
 ||shinkme.com^$third-party
 ||solidopinion.com^$third-party
 ||sorteos.cf^$third-party
