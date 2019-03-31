@@ -9,12 +9,13 @@
 /dynamicAds.
 /img/patrocinios/*
 /modules/pinpan/inc_ifra.php?par=
-/multimedia/publicidades/*
 /publi/publi
 /publi_120_
 /publi_300_
 /publi_700_
 /publi_728_
+/publicidades/*
+/publicitario.
 /serve?*&w=160&h=600
 /serve?*&w=300&h=250
 /serve?*&w=468&h=60
