@@ -434,6 +434,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||tabascohoy.com/img/temp/banner_miguelcanton.png
 ||tabascohoy.com/img/temp/banner_notasgoogle.png
 ||tarjetaroja-tv.info/publicity/
+||telexplorer.com.ar/images/banners/
 ||teliad.es/*/banner/
 ||tiemposur.com.ar/banners/
 ||tiemposur.com.ar/uploads/banners
