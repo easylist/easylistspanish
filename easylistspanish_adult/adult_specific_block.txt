@@ -1,3 +1,4 @@
+/^https?:\/\/spalumi\.com\/\w+\.[a-z]{3}/$image,domain=spalumi.com
 |http://$script,third-party,domain=mujeres-desnudas.com
 ||absoluporn.es/code/script/back.php
 ||absoluporn.es/javascript/front.js
@@ -13,7 +14,6 @@
 ||pic-upload.xyz/images/2017/02/18/sKh2MNmQ.png
 ||pic-upload.xyz/images/2017/11/13/bannertzvercomics.jpg
 ||ra.poringa.net^
-||spalumi.com^$image
 ||tangasmix.com/img-ban-ep/
 ||tangasmix.com/inc/adds/
 ||teatroporno.com/ai/
