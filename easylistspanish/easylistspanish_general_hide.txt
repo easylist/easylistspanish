@@ -7,6 +7,8 @@
 ###RobaPagina
 ###adGgV160
 ###ad_250x300
+###adsforsearchGrid
+###adsforsearch_content
 ###afsposicion1
 ###afsposicion2
 ###contenedor_pub_superior
@@ -38,6 +40,7 @@
 ###publitop
 ###slider-oferplan
 ###sp-top-ads
+###sponsored-container
 ###texto_publicidad
 ###titulo-publicidad
 ##.Adboost300x250
@@ -60,6 +63,8 @@
 ##.ads_160x600
 ##.ads_960x90
 ##.adsderecha
+##.adsforsearchGrid
+##.adsforsearch_roba
 ##.adsmovie
 ##.advertisingLeft
 ##.advertisingRight
