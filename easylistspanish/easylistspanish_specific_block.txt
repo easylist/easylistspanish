@@ -470,6 +470,7 @@ $websocket,domain=ddmix.net|descargasnsn.com
 ||whathyx.com/pandi.js
 ||widget.laxarxa.com/ext/embeddable_frames/
 ||widgets.helpmycash.com/ranking-financiero/
+||wowchakra.com/images/banners/
 ||wp.com/autoblog.com.ar/wp-content/uploads/*.gif
 ||wp.com/www.cronicadigital.cl/imagenes/noticias/2017/02/cronica-letrero.jpg
 ||wp.com/www.cronicadigital.cl/imagenes/promocion-cronica.jpg
