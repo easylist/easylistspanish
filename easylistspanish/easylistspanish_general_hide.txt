@@ -210,7 +210,6 @@
 ##adsenseintermedioleft
 ##adsenseintermedioright
 ##div[class^="ads__ad_container"]
-##div[class^="adsInfo__container"]
 ##div[class^="cards__card_ad-"]
 ##div[class^="publicHoriz"]
 ##div[id^="M"][id*="Composite"]
