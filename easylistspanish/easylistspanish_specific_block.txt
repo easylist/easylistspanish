@@ -504,3 +504,4 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||todopolicia.com/wp-content/uploads/$script
 ||tumangaonline.com/img/adblock1.png
 ||tumangaonline.com/img/no-pub-*.png
+||afiliadoscasadellibro.uinterbox.com/tracking/imp^$image,domain=lineassobrearte.com
