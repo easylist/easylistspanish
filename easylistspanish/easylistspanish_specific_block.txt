@@ -505,3 +505,4 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||tumangaonline.com/img/adblock1.png
 ||tumangaonline.com/img/no-pub-*.png
 ||afiliadoscasadellibro.uinterbox.com/tracking/imp^$image,domain=lineassobrearte.com
+/ads/brand_day^$domain=diariomotor.com
