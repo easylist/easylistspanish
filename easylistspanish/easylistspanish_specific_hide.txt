@@ -849,3 +849,4 @@ applesfera.com,bebesymas.com,compradiccion.com,diariodelviajero.com,directoalpal
 bikezona.com##.addblock
 atresplayer.com##.vjs-detect-overlay
 wowtechlife.com##.sidebar1.sidebar-separators
+pelicula.ws##section[style^="height:150px; width:100%; padding-bottom:0px;"]
