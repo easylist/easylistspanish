@@ -848,3 +848,5 @@ huelva24.com###adblockadvice
 applesfera.com,bebesymas.com,compradiccion.com,diariodelviajero.com,directoalpaladar.com,elblogsalmon.com,espinof.com,genbeta.com,genbetadev.com,motorpasion.com,motorpasionmoto.com,pymesyautonomos.com,trendencias.com,trendenciashombre.com,vidaextra.com,vitonica.com,xataka.com,xatakaciencia.com,xatakafoto.com,xatakahome.com,xatakamovil.com,xatakandroid.com,xatakawindows.com##.ad
 bikezona.com##.addblock
 atresplayer.com##.vjs-detect-overlay
+wowtechlife.com##.sidebar1.sidebar-separators
+pelicula.ws##section[style^="height:150px; width:100%; padding-bottom:0px;"]
