@@ -212,6 +212,8 @@
 ##a[href^="http://www.amigos.com/go/"]
 ##adsenseintermedioleft
 ##adsenseintermedioright
+##div[class^="ads__ad_container"]
+##div[class^="cards__card_ad-"]
 ##div[class^="publicHoriz"]
 ##div[id^="M"][id*="Composite"]
 ! Anti-Adblock
