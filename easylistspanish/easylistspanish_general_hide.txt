@@ -75,6 +75,9 @@
 ##.bl_publi_top
 ##.block-dfp-midcentral_home
 ##.block-dfp-roba_pagina_top_home
+##.bloco-anuncios
+##.bloco-anuncios__banner
+##.bloco-anuncios__publicidade
 ##.blog-publi
 ##.bloquepubli
 ##.borde_publi
@@ -209,6 +212,8 @@
 ##a[href^="http://www.amigos.com/go/"]
 ##adsenseintermedioleft
 ##adsenseintermedioright
+##div[class^="ads__ad_container"]
+##div[class^="cards__card_ad-"]
 ##div[class^="publicHoriz"]
 ##div[id^="M"][id*="Composite"]
 ! Anti-Adblock
