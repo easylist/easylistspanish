@@ -3,3 +3,4 @@ about:blank$popup,domain=identi.li,seriesblanco.com,gnula.nu
 ||bit.ly^$popup,domain=verpeliculasenlatino.com
 ||t.co^$popup,domain=verpeliculasenlatino.com
 |https://$popup,domain=linkotes.com
+||uitopadxdy.com^$popup,domain=torrentlocura.com
