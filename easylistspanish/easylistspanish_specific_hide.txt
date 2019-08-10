@@ -854,3 +854,4 @@ animeyt2.tv##.mn-related-container
 marca.com##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"]
 marca.com##div[data-item-thumb^="http://cdn.taboola.com/libtrc/"]
 animeflv.tv##.mn-thumb
+cliver.to##div[data-name="parent-element"]
