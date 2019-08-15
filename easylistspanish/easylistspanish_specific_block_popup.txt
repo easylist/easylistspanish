@@ -4,4 +4,4 @@ about:blank$popup,domain=identi.li,seriesblanco.com,gnula.nu
 ||t.co^$popup,domain=verpeliculasenlatino.com
 |https://$popup,domain=linkotes.com
 ||uitopadxdy.com^$popup,domain=torrentlocura.com
-||https://$domain=cliver.to
+||https://$popup,domain=cliver.to
