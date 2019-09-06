@@ -509,5 +509,4 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 /fallback_pub_$domain=ecartelera.com
 ||promotions.ws^$third-party,image,domain=pelicula.ws
 ||buyout.ws^$third-party,image,domain=pelicula.ws
-||e4f1faad220ad3c.com^$third-party,image,domain=animeyt2.tv
 ||trc.taboola.com^$third-party,image,script,domain=yifysubtitles.com
