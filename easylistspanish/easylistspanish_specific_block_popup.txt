@@ -5,4 +5,3 @@ about:blank$popup,domain=identi.li,seriesblanco.com,gnula.nu
 ||https://$popup,third-party,domain=linkotes.com
 ||uitopadxdy.com^$popup,domain=torrentlocura.com
 ||https://$popup,third-party,domain=cliver.to
-||http://$popup,third-party,domain=pelisplus.co
