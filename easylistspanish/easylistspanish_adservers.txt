@@ -10,6 +10,7 @@
 ||cinmaland.com^$third-party
 ||copiapop.net^$third-party
 ||demand.supply^$third-party
+||dolphincdn.xyz^$third-party
 ||earnco.in^$third-party
 ||enlarget.com^$third-party
 ||kwinder.club^$third-party
