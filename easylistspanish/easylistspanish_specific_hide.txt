@@ -337,7 +337,6 @@ elonce.com##.banner-h
 20minutos.com,20minutos.com.mx,20minutos.es,ushuaianoticias.com##.banner-header
 todacolombia.com##.banner-horizontal
 abcsaladillo.com.ar##.banner-lateral
-minutouno.com##.banner-libre
 minutouno.com##.banner-listado-simple
 lacapital.com.ar,primiciasya.com,unoentrerios.com.ar,unosantafe.com.ar##.banner-nativo
 noticiasurbanas.com.ar##.banner-noticia
