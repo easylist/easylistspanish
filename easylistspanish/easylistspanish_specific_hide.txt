@@ -851,3 +851,6 @@ wowtechlife.com##.sidebar1.sidebar-separators
 pelicula.ws##section[style^="height:150px; width:100%; padding-bottom:0px;"]
 animeflv.tv##.mn-thumb
 cliver.to##div[data-name="parent-element"]
+kairosweb.com##div[class*="banner-"]
+kairosweb.com##.spu-bg
+kairosweb.com##.spu-box
