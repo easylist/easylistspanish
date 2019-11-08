@@ -182,3 +182,4 @@
 @@||youtvgratis.com/themes/tutvplayer/js/fuckadblock.js$script,domain=youtvgratis.com
 @@||youtvgratis.com^$generichide
 @@||adhandler.kissfmradio.cires21.com/get_link^$media,domain=kissfm.es
+@@||sscc.edu.ec/wp-content/
