@@ -137,6 +137,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||diariotextual.com/inicio/wp-content/uploads/*/*/*.gif
 ||diariotextual.com/inicio/wp-content/uploads/*/*/banner
 ||diariovictoria.com.ar/wp-content/uploads/*.gif
+||diferenciasymas.com/addons/
 ||divinity.es/zentv/images/zentv-300-2.gif
 ||divxtotal.com/9mesesss.jpg
 ||do67etikr7pwz.cloudfront.net^
