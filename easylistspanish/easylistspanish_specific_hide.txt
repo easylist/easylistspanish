@@ -337,7 +337,6 @@ elonce.com##.banner-h
 20minutos.com,20minutos.com.mx,20minutos.es,ushuaianoticias.com##.banner-header
 todacolombia.com##.banner-horizontal
 abcsaladillo.com.ar##.banner-lateral
-minutouno.com##.banner-libre
 minutouno.com##.banner-listado-simple
 lacapital.com.ar,primiciasya.com,unoentrerios.com.ar,unosantafe.com.ar##.banner-nativo
 noticiasurbanas.com.ar##.banner-noticia
@@ -850,3 +849,8 @@ bikezona.com##.addblock
 atresplayer.com##.vjs-detect-overlay
 wowtechlife.com##.sidebar1.sidebar-separators
 pelicula.ws##section[style^="height:150px; width:100%; padding-bottom:0px;"]
+animeflv.tv##.mn-thumb
+cliver.to##div[data-name="parent-element"]
+kairosweb.com##div[class*="banner-"]
+kairosweb.com##.spu-bg
+kairosweb.com##.spu-box
