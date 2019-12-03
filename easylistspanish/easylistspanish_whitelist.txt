@@ -171,7 +171,6 @@
 @@||vercanalestv.com/adblock.js$script,domain=vercanalestv.com
 @@||vercanalestv.com^$generichide
 @@||verdirectotv.com^$generichide
-@@||vergol.com/adblock.js$script,domain=vercanalestv.com,verliga.net,verdirectotv.com
 @@||vergol.com/adblock.js$script,domain=vergol.com
 @@||verliga.net/canales/adblock.js$script,domain=verliga.net
 @@||verliga.net^$generichide

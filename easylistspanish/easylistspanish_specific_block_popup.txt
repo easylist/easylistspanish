@@ -1,5 +1,4 @@
-$popup,third-party,domain=animeid.tv,jkanime.net,divxtotal.co
-about:blank$popup,domain=identi.li,seriesblanco.com,gnula.nu
+$popup,third-party,domain=animeid.tv|jkanime.net|divxtotal.co
 ||bit.ly^$popup,domain=verpeliculasenlatino.com
 ||t.co^$popup,domain=verpeliculasenlatino.com
 ||https://$popup,third-party,domain=linkotes.com
