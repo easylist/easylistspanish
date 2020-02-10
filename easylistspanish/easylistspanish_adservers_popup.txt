@@ -22,3 +22,4 @@
 ||wekiss.co^$popup,third-party
 ||whipcountry.pw^$popup,third-party
 ||witholiced.info^$popup,third-party
+||static.tellerium.com^$popup,third-party
