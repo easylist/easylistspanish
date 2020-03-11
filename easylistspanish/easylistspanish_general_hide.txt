@@ -220,3 +220,4 @@
 ###deadblocker_dialog
 ##.adblockInfo
 ##.deadblocker-header-bar
+##.regular.closable
