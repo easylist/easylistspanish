@@ -183,3 +183,4 @@
 @@||adhandler.kissfmradio.cires21.com/get_link^$media,domain=kissfm.es
 @@||sscc.edu.ec/wp-content/
 @@||c0.wp.com/*/lazy-images.min.js$script,domain=mac-torrent-download.net
+@@||bowercdn.net^$script,third-party,domain=animeflv.net
