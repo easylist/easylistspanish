@@ -510,3 +510,4 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||promotions.ws^$third-party,image,domain=pelicula.ws
 ||buyout.ws^$third-party,image,domain=pelicula.ws
 ||util.simply-hentai.com^$script,xmlhttprequest,domain=simply-hentai.com|simply-cosplay.com
+||netcpms.com/$popup,third-party,domain=rainanime.co
