@@ -116,7 +116,6 @@
 @@||livesports.pw//adblock.js$script,domain=livesports.pw
 @@||livesports.pw/adblock.js$script,domain=livesports.pw
 @@||livesports.pw^$generichide
-@@||marca.com^$generichide
 @@||maxdeportv.club^$generichide
 @@||maxdeportv.net^$generichide
 @@||mdsrwdassets-a.akamaihd.net/dist/assets/nonAdBlock/ad$script,third-party,domain=bemad.es|cuatro.com|divinity.es|energytv.es|factoriadeficcion.com|telecinco.es
@@ -186,3 +185,4 @@
 @@||bowercdn.net^$script,third-party,domain=animeflv.net
 @@||imasdk.googleapis.com/*/ima3.js$script,third-party,domain=api.vodgc.net
 @@||static.vodgc.net/*/videojs.ads-5.1.5.min.js$script,domain=api.vodgc.net
+@@||*.s3c.es/imag/$image,domain=eleconomista.es
