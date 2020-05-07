@@ -855,3 +855,4 @@ kairosweb.com##div[class*="banner-"]
 kairosweb.com##.spu-bg
 kairosweb.com##.spu-box
 rainanime.co##.fake_player
+wapa.pe##div[class^="mol-publicidad"]
