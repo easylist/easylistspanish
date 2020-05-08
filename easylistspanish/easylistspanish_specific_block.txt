@@ -513,3 +513,4 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||netcpms.com/$popup,third-party,domain=rainanime.co
 ||cuponidad.pe/images/$image,domain=wapa.pe
 ||perubazar.pe/300x345/$image,domain=wapa.pe
+||topblockchainsolutions.nl/ad/$script,domain=tumangaonline.uno
