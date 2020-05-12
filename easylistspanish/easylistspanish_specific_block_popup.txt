@@ -1,4 +1,4 @@
-$popup,third-party,domain=animeid.tv|jkanime.net|divxtotal.co|mejortorrentt.net
+$popup,third-party,domain=animeid.tv|jkanime.net|divxtotal.co|mejortorrentt.net|zonarutoppuden.com
 ||bit.ly^$popup,domain=verpeliculasenlatino.com
 ||t.co^$popup,domain=verpeliculasenlatino.com
 ||https://$popup,third-party,domain=linkotes.com
