@@ -186,3 +186,4 @@
 @@||imasdk.googleapis.com/*/ima3.js$script,third-party,domain=api.vodgc.net
 @@||static.vodgc.net/*/videojs.ads-5.1.5.min.js$script,domain=api.vodgc.net
 @@||*.s3c.es/imag/$image,domain=eleconomista.es
+@@||disqus.com/embed.js^$script,domain=animeflv.net
