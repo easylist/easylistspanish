@@ -856,3 +856,4 @@ kairosweb.com##.spu-bg
 kairosweb.com##.spu-box
 rainanime.co##.fake_player
 wapa.pe##div[class^="mol-publicidad"]
+uqload.com##.drts
