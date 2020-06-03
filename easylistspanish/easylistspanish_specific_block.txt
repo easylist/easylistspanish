@@ -515,3 +515,4 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||perubazar.pe/300x345/$image,domain=wapa.pe
 ||topblockchainsolutions.nl/ad/$script,domain=tumangaonline.uno
 ||refnippod.com^$script,third-party,domain=feurl.com
+||thetarhaw.com^$script,third-party,domain=series24.me
