@@ -857,3 +857,4 @@ kairosweb.com##.spu-box
 rainanime.co##.fake_player
 wapa.pe##div[class^="mol-publicidad"]
 uqload.com##.drts
+noticiacristiana.com##a[href='http://iglesiasegura.com/']
