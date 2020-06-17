@@ -861,3 +861,4 @@ series24.me###rn_ad_native_ppkpu
 noticiacristiana.com##a[href='http://iglesiasegura.com/']
 sport.es##div[data-item-syndicated="true"]
 jkanime.net,cuevana3.video,2conv.com,pelisplus.video##iframe[style*="z-index: 2147483647"]
+esportmaniacos.com###mvp-wallpaper
