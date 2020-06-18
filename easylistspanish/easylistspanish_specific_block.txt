@@ -517,5 +517,6 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||refnippod.com^$script,third-party,domain=feurl.com
 ||thetarhaw.com^$script,third-party,domain=series24.me
 ||dyecowwhy.com^$script,third-party,domain=animefenix.com
+||yts.mx/atag182.js^$script
 /skin-esportmaniacos$image,domain=esportmaniacos.com
 /publi_440_sgaming$subdocument,domain=mejortorrentt.net
