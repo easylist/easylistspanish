@@ -518,3 +518,4 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||thetarhaw.com^$script,third-party,domain=series24.me
 ||dyecowwhy.com^$script,third-party,domain=animefenix.com
 /skin-esportmaniacos$image,domain=esportmaniacos.com
+/publi_440_sgaming$subdocument,domain=mejortorrentt.net
