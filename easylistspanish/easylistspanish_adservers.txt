@@ -28,3 +28,4 @@
 ||vitalads.net^$third-party
 ||ueuodgnrhb.com^$third-party
 ||shqbsdjatunl.com^$third-party
+||badskies.com^$third-party
