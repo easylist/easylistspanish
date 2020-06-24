@@ -487,6 +487,15 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||zetaestaticos.com/comun/upload/0/628/628692.jpg
 ||zeulo.anime-extremo.com^
 ||zonatorrent.tv/min/$script
+||cuponidad.pe/images/$image,domain=wapa.pe
+||perubazar.pe/300x345/$image,domain=wapa.pe
+||topblockchainsolutions.nl/ad/$script,domain=tumangaonline.uno
+||refnippod.com^$script,third-party,domain=feurl.com
+||thetarhaw.com^$script,third-party,domain=series24.me
+||dyecowwhy.com^$script,third-party,domain=animefenix.com
+||yts.mx/atag182.js^$script
+/skin-esportmaniacos$image,domain=esportmaniacos.com
+/publi_440_sgaming$subdocument,domain=mejortorrentt.net
 ! Anti-Adblock
 ||el-mundo.net/js/fm*.js$script
 ||epasatiempos.es/js/af.js
@@ -511,12 +520,3 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||buyout.ws^$third-party,image,domain=pelicula.ws
 ||util.simply-hentai.com^$script,xmlhttprequest,domain=simply-hentai.com|simply-cosplay.com
 ||netcpms.com/$popup,third-party,domain=rainanime.co
-||cuponidad.pe/images/$image,domain=wapa.pe
-||perubazar.pe/300x345/$image,domain=wapa.pe
-||topblockchainsolutions.nl/ad/$script,domain=tumangaonline.uno
-||refnippod.com^$script,third-party,domain=feurl.com
-||thetarhaw.com^$script,third-party,domain=series24.me
-||dyecowwhy.com^$script,third-party,domain=animefenix.com
-||yts.mx/atag182.js^$script
-/skin-esportmaniacos$image,domain=esportmaniacos.com
-/publi_440_sgaming$subdocument,domain=mejortorrentt.net
