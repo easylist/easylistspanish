@@ -845,6 +845,7 @@ sport.es##div[data-item-syndicated="true"]
 jkanime.net,cuevana3.video,2conv.com,pelisplus.video,animeblix.com,gnula.se,flvto.biz,vidoza.net##iframe[style*="z-index: 2147483647"]
 planv.com.ec##.region-pv1-superior-amplia
 esportmaniacos.com###mvp-wallpaper
+juegosjuegos.ws##.bfbc
 ! Site Specific filters (used with $generichide)
 eleconomista.es##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
 ! Anti-Adblock
