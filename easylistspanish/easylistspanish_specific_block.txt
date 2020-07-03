@@ -496,6 +496,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||yts.mx/atag182.js^$script
 /skin-esportmaniacos$image,domain=esportmaniacos.com
 /publi_440_sgaming$subdocument,domain=mejortorrentt.net
+||juegosjuegos.ws/bfb^$subdocument
 ! Anti-Adblock
 ||el-mundo.net/js/fm*.js$script
 ||epasatiempos.es/js/af.js
