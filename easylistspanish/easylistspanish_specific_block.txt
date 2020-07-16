@@ -506,6 +506,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||glossingly.com^$script,third-party
 ||mediaserver.emol.cl/javascripts/json_banners/$script
 ||xm0siulufost.com^$script,third-party,domain=4channel.org
+||gameflare.com/common/promotions/own-images/$subdocument
 ! Anti-Adblock
 ||el-mundo.net/js/fm*.js$script
 ||epasatiempos.es/js/af.js
