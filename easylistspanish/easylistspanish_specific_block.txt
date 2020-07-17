@@ -507,6 +507,8 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||mediaserver.emol.cl/javascripts/json_banners/$script
 ||xm0siulufost.com^$script,third-party,domain=4channel.org
 ||dewincubiatoll.com^$script,domain=9movies.yt
+||tontent.powv1deo.cc^$script,subdocument
+||gameflare.com/common/promotions/own-images/$subdocument
 ! Anti-Adblock
 ||el-mundo.net/js/fm*.js$script
 ||epasatiempos.es/js/af.js
