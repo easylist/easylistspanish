@@ -192,7 +192,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||ftail.tv/wp-content/themes/bideopro/img/vpa.gif
 ||futbolbase.us^$subdocument,domain=adca.st
 ||gacetamercantil.com.ar/banners/
-||gamestorrents.com/99mesesss.jpg
+||gamestorrents.*/realtime/
 ||gettyimages.es/gi-resources/images/*/iStock.jpg
 ||gualeguaychu.gov.ar/apps/web/images/temporales/municipalidad-06.png
 ||guiatv.biz/adporn.html
