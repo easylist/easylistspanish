@@ -509,6 +509,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||dewincubiatoll.com^$script,domain=9movies.yt
 ||tontent.powv1deo.cc^$script,subdocument
 ||gameflare.com/common/promotions/own-images/$subdocument
+||videoo.tv^$script,domain=aulafacil.com
 ||centent.streamp1ay.cc^$script,subdocument
 ! Anti-Adblock
 ||el-mundo.net/js/fm*.js$script
