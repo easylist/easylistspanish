@@ -493,7 +493,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||perubazar.pe/300x345/$image,domain=wapa.pe
 ||topblockchainsolutions.nl/ad/$script,domain=tumangaonline.uno
 ||refnippod.com^$script,third-party,domain=feurl.com
-||thetarhaw.com^$script,third-party,domain=series24.me
+||thetarhaw.com^$script,third-party,domain=series24.me|series24.nu
 ||dyecowwhy.com^$script,third-party,domain=animefenix.com
 ||yts.mx/atag182.js^$script
 /skin-esportmaniacos$image,domain=esportmaniacos.com
@@ -512,6 +512,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||moontuftboy.com^$script,third-party,domain=animeblix.com
 ||videoo.tv^$script,domain=aulafacil.com
 ||centent.streamp1ay.cc^$script,subdocument
+||urnawareflan.com^$script,third-party,domain=series24.nu
 ! Anti-Adblock
 ||el-mundo.net/js/fm*.js$script
 ||epasatiempos.es/js/af.js
