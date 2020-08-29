@@ -515,6 +515,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||urnawareflan.com^$script,third-party,domain=series24.nu
 ||danimados.com/wp-content/cache/autoptimize/js/autoptimize_single_$script
 ||specimensspittleentrepreneur.com^$script,domain=animespace.tv
+||manychat.com^$script,domain=libroscristianosgratis.net
 ! Anti-Adblock
 ||el-mundo.net/js/fm*.js$script
 ||epasatiempos.es/js/af.js
