@@ -495,7 +495,6 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||refnippod.com^$script,third-party,domain=feurl.com
 ||thetarhaw.com^$script,third-party,domain=series24.me|series24.nu
 ||dyecowwhy.com^$script,third-party,domain=animefenix.com
-||yts.mx/atag182.js^$script
 /skin-esportmaniacos$image,domain=esportmaniacos.com
 /publi_440_sgaming$subdocument,domain=mejortorrentt.net
 ||juegosjuegos.ws/bfb^$subdocument
@@ -515,6 +514,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||urnawareflan.com^$script,third-party,domain=series24.nu
 ||danimados.com/wp-content/cache/autoptimize/js/autoptimize_single_$script
 ||specimensspittleentrepreneur.com^$script,domain=animespace.tv
+||yts.mx/ypt*.js^$script
 ! Anti-Adblock
 ||el-mundo.net/js/fm*.js$script
 ||epasatiempos.es/js/af.js
