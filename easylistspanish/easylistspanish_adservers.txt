@@ -34,3 +34,4 @@
 ||xrqrpdxqpm.com^$third-party
 ||brydhoye.com^$third-party
 ||nssyawqyj.com^$third-party
+||videoo.tv^$third-party
