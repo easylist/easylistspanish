@@ -516,7 +516,9 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||specimensspittleentrepreneur.com^$script,domain=animespace.tv
 ||yts.mx/ypt*.js^$script
 ||manychat.com^$script,domain=libroscristianosgratis.net
+/public/img/anuncios/*$image,domain=cronicabalear.es
 ||defensacentral.com/uploaded/banner-dondiario*$image
+
 ! Anti-Adblock
 ||el-mundo.net/js/fm*.js$script
 ||epasatiempos.es/js/af.js
