@@ -7,3 +7,4 @@ $popup,third-party,domain=animeid.tv|divxtotal.co|mejortorrentt.net|zonarutoppud
 .club^$popup,third-party,domain=powv1deo.cc
 $popup,domain=mail.ru
 ||badsways.com^$popup,third-party,domain=pelisplay.co
+||notube.net/p/^$popup
