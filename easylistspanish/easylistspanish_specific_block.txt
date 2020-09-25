@@ -521,6 +521,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 /public/img/anuncios/*$image,domain=cronicabalear.es
 ||defensacentral.com/uploaded/banner-dondiario*$image
 ||hgbasics.com^$xmlhttprequest,domain=zonarutoppuden.com
+||animeflv.net/assets/animeflv/img/triviataku.jpg
 
 ! Anti-Adblock
 ||el-mundo.net/js/fm*.js$script
