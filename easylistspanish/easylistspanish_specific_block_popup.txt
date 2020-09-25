@@ -1,4 +1,4 @@
-$popup,third-party,domain=animeid.tv|divxtotal.co|mejortorrentt.net|yourupload.com|embedsito.com|hqq.tv|uqload.com|fembad.net|supergoku.com|fembed.com|feurl.com|hqq.to
+$popup,third-party,domain=animeid.tv|divxtotal.co|mejortorrentt.net|yourupload.com|embedsito.com|hqq.tv|uqload.com|fembad.net|supergoku.com|fembed.com|feurl.com|hqq.to|upvid.net
 ||bit.ly^$popup,domain=verpeliculasenlatino.com
 ||t.co^$popup,domain=verpeliculasenlatino.com
 ||https://$popup,third-party,domain=linkotes.com
