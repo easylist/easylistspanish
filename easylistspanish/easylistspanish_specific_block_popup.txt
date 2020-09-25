@@ -8,3 +8,4 @@ $popup,third-party,domain=animeid.tv|divxtotal.co|mejortorrentt.net|yourupload.c
 $popup,domain=mail.ru
 ||badsways.com^$popup,third-party,domain=pelisplay.co
 ||notube.net/p/^$popup
+||geniusdexchange.com^$popup,domain=jac-tv.com

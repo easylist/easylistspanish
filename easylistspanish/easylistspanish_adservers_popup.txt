@@ -24,3 +24,4 @@
 ||witholiced.info^$popup,third-party
 ||static.tellerium.com^$popup,third-party
 ||lowtyroguer.com^$popup,third-party
+||kingko.xyz^$popup,third-party
