@@ -851,6 +851,7 @@ juegosjuegos.ws##.bfbc
 gameflare.com##.timer
 cliver.to##.btn_pub
 aulafacil.com##.jlm-ad-videoo
+zonarutoppuden.com##pp
 ! Site Specific filters (used with $generichide)
 eleconomista.es##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
 ! Anti-Adblock
