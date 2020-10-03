@@ -522,6 +522,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||defensacentral.com/uploaded/banner-dondiario*$image
 ||hgbasics.com^$xmlhttprequest,domain=zonarutoppuden.com
 ||animeflv.net/assets/animeflv/img/triviataku.jpg
+||rojadirectatv.tv/publicity/anuncio.php^
 
 ! Anti-Adblock
 ||el-mundo.net/js/fm*.js$script
