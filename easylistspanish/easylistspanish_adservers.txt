@@ -41,3 +41,4 @@
 ||broadcastsaplily.com^$third-party
 ||givenfrontierruth.com^$third-party
 ||waust.at^$third-party
+||beefraidmob.com^$third-party
