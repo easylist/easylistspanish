@@ -523,6 +523,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||hgbasics.com^$xmlhttprequest,domain=zonarutoppuden.com
 ||animeflv.net/assets/animeflv/img/triviataku.jpg
 ||rojadirectatv.tv/publicity/anuncio.php^
+||pons.com/p/files/*.jpg|$image
 
 ! Anti-Adblock
 ||el-mundo.net/js/fm*.js$script

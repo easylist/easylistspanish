@@ -852,6 +852,8 @@ gameflare.com##.timer
 cliver.to##.btn_pub
 aulafacil.com##.jlm-ad-videoo
 zonarutoppuden.com##pp
+pons.com###ad-leaderboard__container
+pons.com###widget_difusion
 ! Site Specific filters (used with $generichide)
 eleconomista.es##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
 ! Anti-Adblock
