@@ -53,3 +53,6 @@
 ||wdt9iaspfv3o.com^$third-party
 ||gjrswtzjn.com^$third-party
 ||breedtagask.com^$third-party
+||fakinggivewacko.com^$third-party
+||bcfabscdt.com^$third-party
+||lutcdiimmeze.com^$third-party
