@@ -56,3 +56,4 @@
 ||fakinggivewacko.com^$third-party
 ||bcfabscdt.com^$third-party
 ||lutcdiimmeze.com^$third-party
+||mimilcnf.pro^$third-party
