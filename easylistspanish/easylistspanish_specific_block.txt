@@ -525,6 +525,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||rojadirectatv.tv/publicity/anuncio.php^
 ||pons.com/p/files/*.jpg|$image
 /publicity/*$subdocument,domain=aodirectos.xyz|livexonline.xyz|hdchannel.xyz|srfixerhd.info
+||trtocm.tarjetarojatvonline.com^$script
 
 ! Anti-Adblock
 ||el-mundo.net/js/fm*.js$script
