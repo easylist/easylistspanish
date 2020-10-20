@@ -851,7 +851,7 @@ juegosjuegos.ws##.bfbc
 gameflare.com##.timer
 cliver.to##.btn_pub
 aulafacil.com##.jlm-ad-videoo
-zonarutoppuden.com##pp
+zonarutoppuden.com,ultimasnoticias.com.ve##pp
 pons.com###ad-leaderboard__container
 pons.com###widget_difusion
 jawcloud.co##.jawban
