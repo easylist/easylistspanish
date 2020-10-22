@@ -9,3 +9,4 @@ $popup,domain=mail.ru
 ||badsways.com^$popup,third-party,domain=pelisplay.co
 ||notube.net/p/^$popup
 ||geniusdexchange.com^$popup,domain=jac-tv.com
+||doramasmp4.com/en.svg$popup
