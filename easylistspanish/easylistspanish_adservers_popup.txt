@@ -26,3 +26,4 @@
 ||lowtyroguer.com^$popup,third-party
 ||kingko.xyz^$popup,third-party
 ||strafefox.xyz^$popup,third-party
+||dustymural.com^$popup,third-party
