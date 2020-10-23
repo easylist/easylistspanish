@@ -68,3 +68,4 @@
 ||dkdmygipll.com^$third-party
 ||purrbodygyp.com^$third-party
 ||gqtffirr.com^$third-party
+||pleasedonotblockme.com^$third-party
