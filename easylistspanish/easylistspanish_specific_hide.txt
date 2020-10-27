@@ -858,6 +858,8 @@ jawcloud.co##.jawban
 ver-television.online###ventana-flotante
 novelasromanticash.blogspot.com##div[class^="fixed-"][class$="Sd"]
 novelasromanticash.blogspot.com##.sidebar>.widget.Image
+arbolabc.com##.ad-leaderboard-row
+arbolabc.com###anuncio-dark
 ! Site Specific filters (used with $generichide)
 eleconomista.es##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
 ! Anti-Adblock
