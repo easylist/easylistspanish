@@ -861,6 +861,7 @@ novelasromanticash.blogspot.com##.sidebar>.widget.Image
 arbolabc.com##.ad-leaderboard-row
 arbolabc.com###anuncio-dark
 repelis.io##.lnk-ref
+mundoejecutivo.com.mx##.publicidad
 ! Site Specific filters (used with $generichide)
 eleconomista.es##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
 ! Anti-Adblock
