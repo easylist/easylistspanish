@@ -531,6 +531,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||stream2watch.is/crons/pop_code.js
 ||gnula2.co/js/extra.js
 ||rvv.emol.com^
+||publicidadpro.com/*/watch.php^$domain=embed.cload.video
 
 ! Anti-Adblock
 ||el-mundo.net/js/fm*.js$script
