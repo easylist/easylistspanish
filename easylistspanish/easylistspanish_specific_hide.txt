@@ -863,6 +863,8 @@ arbolabc.com###anuncio-dark
 repelis.io##.lnk-ref
 mundoejecutivo.com.mx##.publicidad
 noticias.juridicas.com###sc-brandday
+flvto.biz##.square-area
+flvto.biz##.horizontal-area
 ! Site Specific filters (used with $generichide)
 eleconomista.es##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
 ! Anti-Adblock
