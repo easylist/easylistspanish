@@ -532,6 +532,8 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||gnula2.co/js/extra.js
 ||rvv.emol.com^
 ||publicidadpro.com/*/watch.php^$domain=embed.cload.video
+/widget_libros.php^$domain=noticias.juridicas.com
+||wolterskluwer.es^$subdocument,script,domain=noticias.juridicas.com
 
 ! Anti-Adblock
 ||el-mundo.net/js/fm*.js$script
