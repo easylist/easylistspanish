@@ -192,3 +192,4 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=libremercado.com
 @@||live.streamtheworld.com^$media
 @@||imasdk.googleapis.com^$script,domain=mundoprimaria.com
+@@||goltelevision.com/webv2/*/player/videojs.ads.
