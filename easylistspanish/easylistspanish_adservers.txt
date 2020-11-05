@@ -80,3 +80,5 @@
 ||rekodpro.com^$third-party
 ||rilelogicbuy.com^$third-party
 ||clickwedkeys.com^$third-party
+||mpnjaifkchgw.com^$third-party
+||hqtlvmcrpb.com^$third-party

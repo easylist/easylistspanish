@@ -534,6 +534,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||publicidadpro.com/*/watch.php^$domain=embed.cload.video
 /widget_libros.php^$domain=noticias.juridicas.com
 ||wolterskluwer.es^$subdocument,script,domain=noticias.juridicas.com
+||streamtape.cc/mainstream3.js
 
 ! Anti-Adblock
 ||el-mundo.net/js/fm*.js$script
