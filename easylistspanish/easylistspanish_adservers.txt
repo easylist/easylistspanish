@@ -79,3 +79,4 @@
 ||mfhgehrnafra.com^$third-party
 ||rekodpro.com^$third-party
 ||rilelogicbuy.com^$third-party
+||clickwedkeys.com^$third-party
