@@ -86,3 +86,4 @@
 ||baleiambwee.com^$third-party
 ||alignclamstram.com^$third-party
 ||tiwhoripo.pro^$third-party
+||rutpunishsnitch.com^$third-party
