@@ -535,6 +535,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 /widget_libros.php^$domain=noticias.juridicas.com
 ||wolterskluwer.es^$subdocument,script,domain=noticias.juridicas.com
 ||streamtape.cc/mainstream3.js
+||ad.missena.io^$script,domain=videovor.com
 
 ! Anti-Adblock
 ||el-mundo.net/js/fm*.js$script
