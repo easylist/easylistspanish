@@ -27,3 +27,4 @@
 ||kingko.xyz^$popup,third-party
 ||strafefox.xyz^$popup,third-party
 ||dustymural.com^$popup,third-party
+||wivamyno.pro^$popup,third-party
