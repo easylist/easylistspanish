@@ -28,3 +28,4 @@
 ||strafefox.xyz^$popup,third-party
 ||dustymural.com^$popup,third-party
 ||wivamyno.pro^$popup,third-party
+||granevahu.pro$popup,third-party
