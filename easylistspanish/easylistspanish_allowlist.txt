@@ -19,7 +19,7 @@
 @@||elitegol.com/lanzalayer.php$script,third-party,domain=elitetorrent.net
 @@||expreso.com.mx/images/anuncios/newsletter-anuncio.jpg$image,domain=expreso.com.mx
 @@||grupoet.com/ewn_pie.php$script,third-party,domain=elitetorrent.net
-@@||imasdk.googleapis.com/js/sdkloader/$script,domain=mitele.es
+@@||imasdk.googleapis.com/js/sdkloader/$script,domain=mitele.es|libremercado.com|mundoprimaria.com|shares.enetres.net
 @@||infopico.com/images/gif/logoinfopico2017.gif
 @@||lagacetadesalamanca.es/elementosWeb/gestionCajas/GSA/Image/2016//whatsappgacetaa.gif$image,domain=lagacetadesalamanca.es
 @@||lagacetadesalamanca.es/elementosWeb/gestionCajas/GSA/Image/2017//bannernuevastecnologias.jpg$image,domain=lagacetadesalamanca.es
@@ -103,7 +103,6 @@
 @@||futbolchile.net^$generichide
 @@||golrojadirecta.com^$generichide
 @@||hlat.me^$generichide
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=shares.enetres.net
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=animeflv.ru
 @@||inmanga.com/Scripts/fuckadblock.js$script,domain=inmanga.com
 @@||jkanime.net/ads.js$script,~third-party
@@ -189,7 +188,5 @@
 @@||*.s3c.es/imag/$image,domain=eleconomista.es
 @@||disqus.com/embed.js^$script,domain=animeflv.net
 @@||cdn.adswizz.com/adswizz/js/SynchroClient2.js$script,domain=libremercado.com
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=libremercado.com
 @@||live.streamtheworld.com^$media
-@@||imasdk.googleapis.com^$script,domain=mundoprimaria.com
 @@||goltelevision.com/webv2/*/player/videojs.ads.

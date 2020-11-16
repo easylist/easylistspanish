@@ -1,9 +1,8 @@
 $popup,third-party,domain=divxtotal.co|mejortorrentt.net|yourupload.com|embedsito.com|hqq.tv|uqload.com|fembad.net|supergoku.com|fembed.com|feurl.com|hqq.to|upvid.net|streamtape.net|streamtape.cc
 ||bit.ly^$popup,domain=verpeliculasenlatino.com
 ||t.co^$popup,domain=verpeliculasenlatino.com
-||https://$popup,third-party,domain=linkotes.com
+||https://$popup,third-party,domain=linkotes.com|cliver.to
 ||uitopadxdy.com^$popup,domain=torrentlocura.com
-||https://$popup,third-party,domain=cliver.to
 .club^$popup,third-party,domain=powv1deo.cc
 ||badsways.com^$popup,third-party,domain=pelisplay.co
 ||notube.net/p/^$popup
