@@ -536,6 +536,8 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||wolterskluwer.es^$subdocument,script,domain=noticias.juridicas.com
 ||streamtape.cc/mainstream3.js
 ||ad.missena.io^$script,domain=videovor.com
+||srnovelas.com/wp-content/uploads/*/descubre-wsp.jpg$image
+||srnovelas.com/wp-content/uploads/*/sistemawsp.jpg$image
 
 ! Anti-Adblock
 ||el-mundo.net/js/fm*.js$script
