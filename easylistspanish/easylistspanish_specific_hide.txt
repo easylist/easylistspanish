@@ -868,6 +868,7 @@ cifraclub.com##.floatingBottomAd
 lifeder.com##.td-ss-main-sidebar
 abs0rb.me###stationary-ad
 jugarbet.com##.ai-dynamic
+mundoplus.tv##a[href*="clicktag_promo"]
 ! Site Specific filters (used with $generichide)
 eleconomista.es##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
 ! Anti-Adblock
