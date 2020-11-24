@@ -539,6 +539,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||ad.missena.io^$script,domain=videovor.com
 ||srnovelas.com/wp-content/uploads/*/descubre-wsp.jpg$image
 ||srnovelas.com/wp-content/uploads/*/sistemawsp.jpg$image
+||agar.live/300banner.gif
 
 ! Anti-Adblock
 ||el-mundo.net/js/fm*.js$script
