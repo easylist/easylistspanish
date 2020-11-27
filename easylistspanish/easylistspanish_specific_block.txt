@@ -540,7 +540,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||srnovelas.com/wp-content/uploads/*/descubre-wsp.jpg$image
 ||srnovelas.com/wp-content/uploads/*/sistemawsp.jpg$image
 ||agar.live/300banner.gif
-
+||profesionalreview.com/wp-content/uploads/*/ASUS-SKIN_*.jpg
 ! Anti-Adblock
 ||el-mundo.net/js/fm*.js$script
 ||epasatiempos.es/js/af.js
