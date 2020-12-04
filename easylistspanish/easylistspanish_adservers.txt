@@ -106,3 +106,4 @@
 ||pennilesscomingall.com^$third-party
 ||disturbedaccruesurfaces.com^$third-party
 ||qptqoylpxmqbz.com^$third-party
+||ethicel.com^$third-party
