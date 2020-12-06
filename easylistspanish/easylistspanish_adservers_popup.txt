@@ -30,3 +30,5 @@
 ||wivamyno.pro^$popup,third-party
 ||granevahu.pro$popup,third-party
 ||killerjuke.xyz^$popup,third-party
+||cotdrollback.com^$popup,third-party
+||whimsoplynx.com^$popup,third-party

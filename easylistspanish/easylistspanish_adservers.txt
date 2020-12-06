@@ -107,4 +107,4 @@
 ||disturbedaccruesurfaces.com^$third-party
 ||qptqoylpxmqbz.com^$third-party
 ||ethicel.com^$third-party
-||hullroleifs.com$third-party
+||hullroleifs.com^$third-party
