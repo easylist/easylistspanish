@@ -589,7 +589,7 @@ lacapitalmdp.com##.sponsor_stats
 elespanol.com,maximaonline.com.ar##.sponsored
 ruedasgordas.es##.sponsors
 diariolarepublica.com.ar##.st-banner
-envilladelparque.com,envilladevoto.com##.stream-item-mag
+envilladelparque.com,envilladevoto.com,cadenaoh.com.ar##.stream-item-mag
 envilladelparque.com,envilladevoto.com##.stream-item-widget
 losandes.com.ar##.sugerencias
 pescare.com.ar##.swf-banner-1
@@ -861,7 +861,7 @@ mundoplus.tv##a[href*="clicktag_promo"]
 moracontenidos.com##.wp-block-image
 moracontenidos.com##.bc_random_banner
 profesionalreview.com##.stream-item
-profesionalreview.com##.widget-ad-image
+profesionalreview.com,cadenaoh.com.ar##.widget-ad-image
 educaplay.com##.anuncioAlt
 ! Site Specific filters (used with $generichide)
 eleconomista.es##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
