@@ -35,7 +35,6 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||4.bp.blogspot.com/-tNi8RVCQRuA/*/s640/Banner%2BVIP.gif
 ||91.116.142.114/iframe
 ||abc.com.py/plantillas/js/banners-mkt.js
-||abchoy.com.ar/publicidades/
 ||abchoy.com.ar/publipopup/
 ||abocados.es/wp-content/uploads/*/*/banner-
 ||acortalo.net/js/clasicotas.js
@@ -108,7 +107,6 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||darkstone.es/themes/default/images/banners/
 ||ddmix.net/doggy*js$script
 ||ddmix.net/wp-content/plugins/popup-builder/
-||defiendase.com/media/file/2014/Publicidades/
 ||deportetandilense.com.ar/publicidades_cate/
 ||descargasmix.com/js/p1.js
 ||descargasmix.com/js/p2.js
@@ -152,7 +150,6 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||eldestapeweb.com/adjuntos/177/banners/
 ||eldiariodelapampa.com.ar/images/banners/
 ||eldiariodemadryn.com/wp-content/themes/ElDiario_2017_bootstrap/images/Ecoplas-Banner-300x250px-1.gif
-||eldiariodetandil.com/contenido/publicidades/
 ||eldiarionuevodia.com.ar/u/banners/
 ||eldivisadero.cl/media/banner/
 ||elitegol.com/media/oficial.png
@@ -247,7 +244,6 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||infopico.com/images/swf/
 ||infoplatense.com.ar/*/*.gif
 ||infoplatense.com.ar/*/banner
-||informaticamoderna.com/admin/Publicidad.htm
 ||informaticamoderna.com/Gran_banner.htm
 ||informaticamoderna.com/Hospedados/Banners/
 ||inmendoza.com/wp-content/uploads/*_1140x170_
@@ -263,9 +259,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||labsk.net/banners/
 ||labsk.net/carousel/
 ||lacapitalmdp.com/2017/11/fl-1.gif
-||lacapitalmdp.com/assets/images/publicidades/
 ||lacapitalmdp.com/img_design/paseo_aero.jpg
-||lacapitalmdp.com/publicidades/
 ||laconversacion.net/wp-content/uploads/2017/07/IMG-20170710-WA0000.jpg
 ||laconversacion.net/wp-content/uploads/2017/10/Banner-3.jpg
 ||lagacetadesalamanca.es/elementosWeb/gestionCajas/*.gif
@@ -277,7 +271,6 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||laopinionsemanario.com.ar/sites/default/files/*.gif
 ||laprensa.com.ar/Multimedios/Ads/
 ||lavozdecataratas.com/contenido/banners/
-||lavozdetandil.com.ar/publicidades/
 ||laxarxa.com/media/asset_publics/resources/000/009/887/original/publicitat.gif
 ||ldu.com.ec/fotos/publi_*.png
 ||libertaddigital.com/fragmentos/guijuelo-responsive.html
@@ -322,7 +315,6 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||naciodigital.cat/redaccio/publicitat/
 ||netpol.es/foropolicia_banner
 ||netuy.net/banner_hosting_uruguay/
-||newpct1.com/pct1/publicidad/$subdocument
 ||newsweeklatino.com/flow/
 ||noddus.com^$domain=sport.es
 ||noticias3d.com/imagenes/banners/
@@ -363,7 +355,6 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||planbnoticias.com.ar/pb/wp-content/uploads/2017/11/camioneros-baner.jpg
 ||planbnoticias.com.ar/pb/wp-content/uploads/2017/11/catrilo-muni.jpg
 ||planbnoticias.com.ar/pb/wp-content/uploads/2017/11/red-habita2.jpg
-||planbnoticias.com.ar/pb/wp-content/uploads/publicidades/
 ||planetabocajuniors.com.ar/imagenes/jaen/
 ||practisistemas.com/images/home/claro.png
 ||practisistemas.com/images/home/movistar.png
@@ -372,8 +363,6 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||proyecto-salud.com.ar/banners/
 ||proyecto-salud.com.ar/img/*.gif
 ||proyecto-salud.com.ar/img/*banner
-||proyecto-salud.com.ar/img/banner-encabezado.swf
-||proyecto-salud.com.ar/img/fondo-banners.jpg
 ||proyecto-salud.com.ar/img/novedades-medicas.jpg
 ||publicidad.milenio.com/
 ||puntobiz.com.ar/data/img_cont/img_banners/
@@ -412,7 +401,6 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||s3.amazonaws.com/neoauto.com%2Felements%2FhomeCover
 ||salpimenta.com.ar/wp-content/uploads/*.gif
 ||shippuden.tv/a300.html
-||sinmordaza.com/banners/
 ||sinmordaza.com/images/*banner*.jpg
 ||siteground.es/img/banners/
 ||smnoticias.com/wp-content/uploads/*/*.gif
@@ -428,7 +416,6 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||smnoticias.info/mpa.jpg
 ||smnoticias.info/separador.banner.jpg
 ||sport.es/resources/jpg/0/3/1496069966930.jpg
-||srennab.chacodiapordia.com/delivery/afr.php?zoneid=$subdocument
 ||st.forocoches.com/image/top_c2_fcs_hd_hawkers.png
 ||st.forocoches.com/image/varios/iphone6_ipadmini.png
 ||st1.idealista.com/news/archivos/styles/348x90/public/ficheros_widget_news/img/balcon_concha_vanguardia.jpg
@@ -457,7 +444,6 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||tutiempo.net/ttbp.php
 ||uecdn.es/assets/desktop/master/img/patrocinio_
 ||ushuaia24.com.ar/download/multimedia.normal.*.gif
-||ushuaianoticias.com/public/media/publicidades/
 ||va6.thand.info/embed-^$third-party
 ||vercanalestv.com/468.html
 ||vercanalestv.com/imagenes/banner300.jpg
@@ -507,7 +493,6 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||gameflare.com/common/promotions/own-images/$subdocument
 ||moontuftboy.com^$script,third-party,domain=animeblix.com
 ||videoo.tv^$script,domain=aulafacil.com
-||centent.streamp1ay.cc^$script,subdocument
 ||cintent.streanplay.cc^
 ||urnawareflan.com^$script,third-party,domain=series24.nu
 ||danimados.com/wp-content/cache/autoptimize/js/autoptimize_single_$script
@@ -541,7 +526,6 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ! Anti-Adblock
 ||epasatiempos.es/js/af.js
 ||epasatiempos.es/js/dab.js
-||epasatiempos.es/js/pagead2.js
 ||exabytetv.info/wp-content/plugins/wp-adblock-dedect/
 ||gtsstatic.com/static/mscripts/index_457.js
 ||jerezcofrade.tv/wp-content/uploads/*/*.js$script

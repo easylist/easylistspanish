@@ -248,16 +248,11 @@ elimparcial.com##.___-N
 mediavida.com##._p-ft
 mediavida.com##._p-tp
 gasteizhoy.com,sticknoticias.com##.a-single
-equipar.es##.aalb-pa-ad-unit
-equipar.es##.aalb-pg-ad-unit
 abchoy.com.ar,cuatro.com,divinity.es,elconfidencial.com,elsol.com.ar,es.wallapop.com,laverdad.com,salvajes.com,telecinco.es,applesfera.com,bebesymas.com,compradiccion.com,diariodelviajero.com,directoalpaladar.com,elblogsalmon.com,espinof.com,genbeta.com,genbetadev.com,motorpasion.com,motorpasionmoto.com,pymesyautonomos.com,trendencias.com,trendenciashombre.com,vidaextra.com,vitonica.com,xataka.com,xatakaciencia.com,xatakafoto.com,xatakahome.com,xatakamovil.com,xatakandroid.com,xatakawindows.com##.ad
-milenio.com##.ad-box1
-milenio.com##.ad-box2
 autoblog.com.ar##.ad-header-right
 juegosdecanciones.net##.ad-latest
 elitegol.me##.ad-website
 mitele.es##.ad-wrapper
-ratingcero.com##.ad01-obj
 elpatagonico.com##.ad02-obj
 smnoticias.com,smnoticias.info##.ad2
 smnoticias.com,smnoticias.info##.ad3
@@ -266,7 +261,6 @@ smnoticias.com,smnoticias.info##.ad5
 smnoticias.com,smnoticias.info##.ad6
 televisa.com##.ad_space_large
 elconfidencial.com##.adcrt300x600
-elconfidencial.com##.adcrt980x250
 elperiodico.cat,laconversacion.net,lagaceta.com.ar,lagacetasalta.com.ar,sport.es##.add
 eltrecetv.com.ar,eslang.es,gnula.se,lostiempos.com,pelispedia.tv,peru.com,publico.es,rpp.pe##.ads
 yorokobu.es##.ads-block
@@ -277,13 +271,11 @@ zonatorrent.es##.adsb30
 forobeta.com##.adshare_belownav
 forobeta.com##.adshare_firstpost
 forobeta.com##.adshare_lastpost
-peliculasaudiolatino.com##.adsmovie
 20minutos.com,20minutos.com.mx,20minutos.es,elespanol.com,elsol.com.ar,juegosarea.com##.adv
 juegos.com##.advert
 jerezcofrade.tv##.advertisement
 periodistadigital.com,realovirtual.com,tribunaavila.com,tribunaburgos.com,tribunaleon.com,tribunapalencia.com,tribunasalamanca.com,tribunasegovia.com,tribunasoria.com,tribunavalladolid.com,tribunazamora.com##.advertising
 desdesoria.es##.advertising-corte-interstitial
-vibbo.com##.advertisingTop
 20minutos.com,20minutos.com.mx,20minutos.es##.adx
 mangas-en-pdf.blogspot.com##.afiliados
 vibbo.com##.afs-block
@@ -556,7 +548,6 @@ diario.mx##.pub__portada
 elblog.com##.pub_lat1_father
 elblog.com##.pub_lat2_father
 elblog.com##.pub_lat3_father
-as.com##.publi
 tiempo.com.mx##.publi-4
 tiempo.com.mx##.publi-5
 tiempo.com.mx##.publi-6
@@ -838,7 +829,6 @@ sailingzona.com##td[style="color:#666666; font-size:11px; padding:2px;"]
 fitnesszona.com##td[style="font-family:Arial, Helvetica, sans-serif;font-size:9px;color:#efefef"]
 wapa.pe##div[class^="mol-publicidad"]
 uqload.com##.drts
-series24.me,series24.nu###rn_ad_native_ppkpu
 noticiacristiana.com##a[href='http://iglesiasegura.com/']
 sport.es##div[data-item-syndicated="true"]
 jkanime.net,cuevana3.video,2conv.com,pelisplus.video,animeblix.com,gnula.se,flvto.biz,vidoza.net,doramasmp4.com##iframe[style*="z-index: 2147483647"]

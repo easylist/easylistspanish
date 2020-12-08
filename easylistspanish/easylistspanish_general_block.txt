@@ -21,7 +21,6 @@
 /text_publi_01.
 /txt_publi_vert.
 /XnewadsX/*
-://adn.*/zone/
 _inc_banner.php?id=
 _pubted.
 ! Anti-Adblock

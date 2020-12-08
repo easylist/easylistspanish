@@ -15,7 +15,6 @@
 ||millionairedream.co^$popup,third-party
 ||pvclouds.com^$popup,third-party
 ||supportcorner.co^$popup,third-party
-||traffic.getmyads.com^$popup,third-party
 ||tvoy-million.co^$popup,third-party
 ||wekiss.co^$popup,third-party
 ||whipcountry.pw^$popup,third-party
