@@ -32,3 +32,4 @@
 ||killerjuke.xyz^$popup,third-party
 ||cotdrollback.com^$popup,third-party
 ||whimsoplynx.com^$popup,third-party
+||ahadsply.com^$popup,third-party
