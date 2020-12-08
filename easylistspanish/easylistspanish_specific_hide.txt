@@ -845,7 +845,7 @@ sport.es##div[data-item-syndicated="true"]
 jkanime.net,cuevana3.video,2conv.com,pelisplus.video,animeblix.com,gnula.se,flvto.biz,vidoza.net,doramasmp4.com##iframe[style*="z-index: 2147483647"]
 planv.com.ec##.region-pv1-superior-amplia
 esportmaniacos.com###mvp-wallpaper
-pelisplay.co/##.ads_url_insert
+pelisplay.co##.ads_url_insert
 juegosjuegos.ws##.bfbc
 9movies.yt##.ads
 gameflare.com##.timer
