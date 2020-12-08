@@ -1,2 +1,1 @@
 &adbIsActive=$popup
-&zoneid=*&ad_$popup

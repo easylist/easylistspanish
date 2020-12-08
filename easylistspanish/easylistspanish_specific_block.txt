@@ -105,7 +105,6 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||cuartopoder.es//images/MovistarFusion.jpg
 ||cuponidad.pe^$domain=elpopular.pe|larepublica.pe|libero.pe
 ||cxrbw.aquipelis.net^
-||d2d8qsxiai9qwj.cloudfront.net^
 ||darkstone.es/themes/default/images/banners/
 ||ddmix.net/doggy*js$script
 ||ddmix.net/wp-content/plugins/popup-builder/
@@ -319,8 +318,6 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||mundodeportivo.com/r/GODO/MD/p3/Canales/Imagenes/2015/02/06/
 ||mundodeportivo.com/r/GODO/MD/p3/ContraPortada/Imagenes/*/img_cduart_*_imagenes_md_otras_fuentes_bmw_*.jpg
 ||mundodescuento.s3.amazonaws.com^$domain=cadena3.com
-||musicatorrents.com^*/license.
-||musicatorrents.com^*/script.
 ||musiquiatra.com/uploads/banners
 ||naciodigital.cat/redaccio/publicitat/
 ||netpol.es/foropolicia_banner
@@ -542,7 +539,6 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||agar.live/300banner.gif
 ||profesionalreview.com/wp-content/uploads/*/ASUS-SKIN_*.jpg
 ! Anti-Adblock
-||el-mundo.net/js/fm*.js$script
 ||epasatiempos.es/js/af.js
 ||epasatiempos.es/js/dab.js
 ||epasatiempos.es/js/pagead2.js

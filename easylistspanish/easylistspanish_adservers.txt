@@ -1,7 +1,6 @@
 ||aclaritics.info^$third-party
 ||adcarem.co^$third-party
 ||adcloud.us^$third-party
-||adsrv4k.com^$third-party
 ||adturtle.biz^$third-party
 ||ainder.club^$third-party
 ||algocashmaster.com^$third-party
@@ -9,13 +8,10 @@
 ||canuckmethodprofit.co^$third-party
 ||cinmaland.com^$third-party
 ||copiapop.net^$third-party
-||demand.supply^$third-party
 ||dolphincdn.xyz^$third-party
 ||earnco.in^$third-party
-||enlarget.com^$third-party
 ||kwinder.club^$third-party
 ||leadzutw.com^$third-party
-||mmoframes.com^$third-party
 ||niceduckies.com^$third-party
 ||onclicktop.com^$third-party
 ||palmshapednontransferable.com^$third-party
@@ -25,7 +21,6 @@
 ||sorteos.cf^$third-party
 ||supportcorner.co^$third-party
 ||the-ufo.com^$third-party
-||vitalads.net^$third-party
 ||ueuodgnrhb.com^$third-party
 ||shqbsdjatunl.com^$third-party
 ||badskies.com^$third-party

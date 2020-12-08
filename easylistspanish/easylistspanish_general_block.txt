@@ -1,12 +1,10 @@
 /234x60.php
 /adsdino.
 /adsensebase.
-/advertisements?
 /banner-publi-lateral.gif
 /banner_body.
 /bannner_footer.
 /display/items.*&
-/dynamicAds.
 /img/patrocinios/*
 /modules/pinpan/inc_ifra.php?par=
 /publi/publi
@@ -14,14 +12,12 @@
 /publi_300_
 /publi_700_
 /publi_728_
-/publicidades/*
 /publicitario.
 /serve?*&w=160&h=600
 /serve?*&w=300&h=250
 /serve?*&w=468&h=60
 /serve?*&w=728&h=90
 /serve?inline=*&w=*&h=
-/staticAdsSRA.
 /text_publi_01.
 /txt_publi_vert.
 /XnewadsX/*

@@ -54,7 +54,6 @@
 ##.ad_728_90_page
 ##.ad_dfp_estandar
 ##.adcontainer-portlet
-##.ads-block-panel-tipo-1
 ##.adsCon
 ##.adsEpi
 ##.adsEpiItem
@@ -67,8 +66,6 @@
 ##.adsforsearch_roba
 ##.adsmovie
 ##.advertisingLeft
-##.advertisingRight
-##.advertisingTop
 ##.app-container > .questions-container-banner
 ##.bg-ad-left
 ##.bg-ad-right
@@ -113,7 +110,6 @@
 ##.pane-publicidad
 ##.pane-publicidades
 ##.patrocinio
-##.penci-google-adsense-1
 ##.producto-doble-publi
 ##.promocion_libre
 ##.pu300
@@ -192,7 +188,6 @@
 ##.txtPubli
 ##.views-row-ads
 ##.vip-section-advertising
-##.voc-advertising
 ##.voc-oferplan
 ##.voc-sponsored
 ##.voc-sponsored-and-adv
