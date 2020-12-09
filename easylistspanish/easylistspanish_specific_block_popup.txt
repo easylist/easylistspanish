@@ -8,3 +8,4 @@ $popup,third-party,domain=divxtotal.co|mejortorrentt.net|yourupload.com|embedsit
 ||notube.net/p/^$popup
 ||geniusdexchange.com^$popup,domain=jac-tv.com
 ||doramasmp4.com/en.svg$popup
+||pepeliculas.org/mira-video1^$popup
