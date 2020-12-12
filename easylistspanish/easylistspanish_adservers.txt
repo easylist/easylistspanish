@@ -108,3 +108,4 @@
 ||qggypucwewn.com^$third-party
 ||tlrrlomssbt.com^$third-party
 ||hubzozo.com^$third-party
+||pumpbead.com^$third-party
