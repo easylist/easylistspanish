@@ -107,3 +107,4 @@
 ||cluethydash.com^$third-party
 ||qggypucwewn.com^$third-party
 ||tlrrlomssbt.com^$third-party
+||hubzozo.com^$third-party
