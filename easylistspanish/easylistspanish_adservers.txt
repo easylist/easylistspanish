@@ -109,3 +109,4 @@
 ||tlrrlomssbt.com^$third-party
 ||hubzozo.com^$third-party
 ||pumpbead.com^$third-party
+||selfswayjay.com^$third-party
