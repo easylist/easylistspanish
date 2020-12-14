@@ -188,3 +188,4 @@
 @@||cdn.adswizz.com/adswizz/js/SynchroClient2.js$script,domain=libremercado.com
 @@||live.streamtheworld.com^$media
 @@||goltelevision.com/webv2/*/player/videojs.ads.
+@@||players.brightcove.net^$domain=abc.es
