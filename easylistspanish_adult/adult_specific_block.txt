@@ -21,3 +21,4 @@
 ||xxxvideosputas.xxx/includes/adds/
 ||tnaflix.com/mew.php^
 ||hentaila.com/files/test.php
+||hentaila.com/files/functions.js
