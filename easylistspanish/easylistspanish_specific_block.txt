@@ -527,6 +527,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||profesionalreview.com/wp-content/uploads/*/ASUS-SKIN_*.jpg
 ||wp.com/sinmordaza.com/*?w=$image,domain=sinmordaza.com
 ||images.seriesturcas.gratis/*/banner_$image
+||pf-ffp-cfp-banners.storage.googleapis.com^$image,domain=portalfruticola.com
 ! Anti-Adblock
 ||epasatiempos.es/js/af.js
 ||epasatiempos.es/js/dab.js

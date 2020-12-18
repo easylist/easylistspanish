@@ -866,6 +866,7 @@ profesionalreview.com,cadenaoh.com.ar##.widget-ad-image
 educaplay.com##.anuncioAlt
 animefenix.com###radioisekai
 seriesturcas.gratis##.ver-ahora
+portalfruticola.com##div[class*="banner-set"]
 ! Site Specific filters (used with $generichide)
 eleconomista.es##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
 ! Anti-Adblock
