@@ -110,3 +110,5 @@
 ||hubzozo.com^$third-party
 ||pumpbead.com^$third-party
 ||selfswayjay.com^$third-party
+||rapgasyogin.com^$third-party
+||fathuntsgall.com^$third-party
