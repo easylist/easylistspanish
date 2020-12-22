@@ -528,6 +528,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||wp.com/sinmordaza.com/*?w=$image,domain=sinmordaza.com
 ||images.seriesturcas.gratis/*/banner_$image
 ||pf-ffp-cfp-banners.storage.googleapis.com^$image,domain=portalfruticola.com
+||connatix.com/connatix.player.js^$domain=tusubtitulo.com
 ! Anti-Adblock
 ||epasatiempos.es/js/af.js
 ||epasatiempos.es/js/dab.js
