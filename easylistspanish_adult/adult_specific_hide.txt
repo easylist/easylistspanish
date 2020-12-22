@@ -34,3 +34,4 @@ xxxvideosputas.xxx##iframe[src^="http://xxxvideosputas.xxx/includes/adds/"]
 spalumi.com##marquee
 tnaflix.com##.rightBarBannersx
 tnaflix.com##.pInVistix
+faptitans.com##.cross-promo-bnr
