@@ -529,6 +529,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||images.seriesturcas.gratis/*/banner_$image
 ||pf-ffp-cfp-banners.storage.googleapis.com^$image,domain=portalfruticola.com
 ||connatix.com/connatix.player.js^$domain=tusubtitulo.com
+||ramenparados.com/wp-content/uploads/*Akira.jpg
 ! Anti-Adblock
 ||epasatiempos.es/js/af.js
 ||epasatiempos.es/js/dab.js
