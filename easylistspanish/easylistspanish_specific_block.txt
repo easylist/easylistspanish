@@ -530,6 +530,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||pf-ffp-cfp-banners.storage.googleapis.com^$image,domain=portalfruticola.com
 ||connatix.com/connatix.player.js^$domain=tusubtitulo.com
 ||ramenparados.com/wp-content/uploads/*Akira.jpg
+||wp.com/realidadsm.com/wp-content/*banner$image,domain=realidadsm.com
 ! Anti-Adblock
 ||epasatiempos.es/js/af.js
 ||epasatiempos.es/js/dab.js
