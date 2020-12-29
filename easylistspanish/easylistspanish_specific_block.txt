@@ -532,6 +532,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||ramenparados.com/wp-content/uploads/*Akira.jpg
 ||wp.com/realidadsm.com/wp-content/*banner$image,domain=realidadsm.com
 ||pelisplus2.me/d.png^$image
+||pelispedia.de/wp-content/plugins/all-click/public/js/allclick-functions.js
 ! Anti-Adblock
 ||epasatiempos.es/js/af.js
 ||epasatiempos.es/js/dab.js
