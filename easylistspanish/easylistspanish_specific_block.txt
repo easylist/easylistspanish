@@ -516,6 +516,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||gnula2.co/js/extra.js
 ||mediaserver.emol.cl/*/rv.js
 ||mediaserver.emol.cl/*/erreve.js
+||mediaserver.emol.cl/other/lleison/
 ||publicidadpro.com/*/watch.php^$domain=embed.cload.video
 /widget_libros.php^$domain=noticias.juridicas.com
 ||wolterskluwer.es^$subdocument,script,domain=noticias.juridicas.com
