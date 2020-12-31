@@ -33,3 +33,4 @@
 ||jokingst.xyz^$popup,third-party
 ||pweaatek.com^$popup,third-party
 ||breathebuds.com^$popup,third-party
+||profitablegate.com^$popup,third-party

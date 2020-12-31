@@ -533,6 +533,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||wp.com/realidadsm.com/wp-content/*banner$image,domain=realidadsm.com
 ||pelisplus2.me/d.png^$image
 ||pelispedia.de/wp-content/plugins/all-click/public/js/allclick-functions.js
+||www-ytmp3.cc/wp-content/themes/tubidy/yt-template/download.png
 ! Anti-Adblock
 ||epasatiempos.es/js/af.js
 ||epasatiempos.es/js/dab.js
