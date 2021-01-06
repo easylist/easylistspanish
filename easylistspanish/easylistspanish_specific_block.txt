@@ -535,6 +535,9 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||pelisplus2.me/d.png^$image
 ||pelispedia.de/wp-content/plugins/all-click/public/js/allclick-functions.js
 ||www-ytmp3.cc/wp-content/themes/tubidy/yt-template/download.png
+||socialetic.com/cms/wp-content/uploads/*/banner$image
+||socialetic.com/cms/wp-content/uploads/*/anuncio$image
+||socialetic.com/cms/wp-content/uploads/*/250x400.gif$image
 ! Anti-Adblock
 ||epasatiempos.es/js/af.js
 ||epasatiempos.es/js/dab.js
