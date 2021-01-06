@@ -539,6 +539,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||socialetic.com/cms/wp-content/uploads/*/anuncio$image
 ||socialetic.com/cms/wp-content/uploads/*/250x400.gif$image
 ||ninemanga.net/1.png
+.xyz^$domain=hqq.to|hqq.tv
 ! Anti-Adblock
 ||epasatiempos.es/js/af.js
 ||epasatiempos.es/js/dab.js
