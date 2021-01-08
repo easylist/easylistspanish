@@ -121,3 +121,5 @@
 ||pitpastraja.com^$third-party
 ||dnemkhkbsdbl.com^$third-party
 ||huerty.site^$third-party
+||adieusyaktop.com^$third-party
+||odiumdrawlip.com^$third-party
