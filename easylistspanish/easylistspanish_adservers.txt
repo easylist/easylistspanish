@@ -120,3 +120,4 @@
 ||ilohfbiph.com^$third-party
 ||pitpastraja.com^$third-party
 ||dnemkhkbsdbl.com^$third-party
+||huerty.site^$third-party
