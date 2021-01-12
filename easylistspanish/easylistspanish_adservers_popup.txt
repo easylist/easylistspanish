@@ -34,4 +34,5 @@
 ||pweaatek.com^$popup,third-party
 ||breathebuds.com^$popup,third-party
 ||profitablegate.com^$popup,third-party
-||retdaz.fun$popup,third-party
+||retdaz.fun^$popup,third-party
+||colpursehowl.com^$popup,third-party
