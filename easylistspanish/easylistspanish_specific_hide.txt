@@ -872,6 +872,8 @@ ramenparados.com###wallpaper
 wago.io##.wago-ad-container
 oversos.com##div[aria-label="QODE"]
 eleconomista.es###progressBar
+reconquistanoticias.blogspot.com##div[style*="background-image: url"]
+reconquistanoticias.blogspot.com##.widget.Image
 ! Site Specific filters (used with $generichide)
 eleconomista.es##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
 ! Anti-Adblock
