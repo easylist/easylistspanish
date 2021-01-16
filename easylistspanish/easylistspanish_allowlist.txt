@@ -188,3 +188,12 @@
 @@||live.streamtheworld.com^$media
 @@||goltelevision.com/webv2/*/player/videojs.ads.
 @@||players.brightcove.net^$domain=abc.es
+@@||imasdk.googleapis.com/js/sdkloader/ima3_debug.js$script,domain=videos.memedeportes.com|videos.cuantarazon.com|videos.vistoenlasredes.com|videos.vrutal.com|videos.humorenserie.com
+@@||gvt1.com/videoplayback/$media,domain=videos.memedeportes.com|videos.cuantarazon.com|videos.vistoenlasredes.com|videos.vrutal.com|videos.humorenserie.com
+@@||tpc.googlesyndication.com^$script,stylesheet,domain=videos.memedeportes.com|videos.cuantarazon.com|videos.vistoenlasredes.com|videos.vrutal.com|videos.humorenserie.com
+@@||tpc.googlesyndication.com/pageadimg/imgad$image,media,domain=videos.memedeportes.com|videos.cuantarazon.com|videos.vistoenlasredes.com|videos.vrutal.com|videos.humorenserie.com
+@@||tpc.googlesyndication.com/pimgad/$image,media,domain=videos.memedeportes.com|videos.cuantarazon.com|videos.vistoenlasredes.com|videos.vrutal.com|videos.humorenserie.com
+@@||googletagservices.com/tag/js/gpt.js$domain=videos.memedeportes.com|videos.cuantarazon.com|videos.vistoenlasredes.com|videos.vrutal.com|videos.humorenserie.com
+@@||securepubads.g.doubleclick.net/gpt/pubads_impl_*.js$domain=videos.memedeportes.com|videos.cuantarazon.com|videos.vistoenlasredes.com|videos.vrutal.com|videos.humorenserie.com
+@@||securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1$domain=videos.memedeportes.com|videos.cuantarazon.com|videos.vistoenlasredes.com|videos.vrutal.com|videos.humorenserie.com
+@@||ads.ampliffy.com/gampad/$domain=videos.memedeportes.com|videos.cuantarazon.com|videos.vistoenlasredes.com|videos.vrutal.com|videos.humorenserie.com
