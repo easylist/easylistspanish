@@ -124,3 +124,4 @@
 ||adieusyaktop.com^$third-party
 ||odiumdrawlip.com^$third-party
 ||xcsypkknp.com^$third-party
+||deligrassdull.com$third-party
