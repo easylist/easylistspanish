@@ -36,3 +36,4 @@
 ||profitablegate.com^$popup,third-party
 ||retdaz.fun^$popup,third-party
 ||colpursehowl.com^$popup,third-party
+||hiend.xyz^$popup,third-party
