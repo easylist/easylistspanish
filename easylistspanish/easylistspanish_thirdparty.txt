@@ -8,4 +8,5 @@
 ||static.playspace.com^$third-party
 ||vivedescuentos.com/mas_informacion/$third-party
 ||wp.com/querosermagrocomsaude.com.br/wp-content/uploads/*/banner-
-||d20903hof2l33q.cloudfront.net
+||d20903hof2l33q.cloudfront.net^
+||d18t35yyry2k49.cloudfront.net^
