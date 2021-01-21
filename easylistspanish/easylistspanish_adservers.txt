@@ -132,3 +132,4 @@
 ||tfzznclztl.com^$third-party
 ||lgpumcja.com^$third-party
 ||causerestrainrecorder.com^$third-party
+||turbanconstituent.com^$third-party
