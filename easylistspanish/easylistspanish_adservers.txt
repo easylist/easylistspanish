@@ -131,3 +131,4 @@
 ||offshorecockpit.com^$third-party
 ||tfzznclztl.com^$third-party
 ||lgpumcja.com^$third-party
+||causerestrainrecorder.com^$third-party
