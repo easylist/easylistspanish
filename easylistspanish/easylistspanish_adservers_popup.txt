@@ -38,3 +38,4 @@
 ||colpursehowl.com^$popup,third-party
 ||hiend.xyz^$popup,third-party
 ||gadspmz.com^$popup,third-party
+||stdirection.com^$popup,third-party
