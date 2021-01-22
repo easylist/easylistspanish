@@ -541,6 +541,8 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||ninemanga.net/1.png
 .xyz^$domain=hqq.to|hqq.tv|waaw.to|serieshd.net
 ||media.airedesantafe.com.ar/*/banners/$image
+||bajafiles.net/leer.jpg
+||bajafiles.net/ima.gif
 ! Anti-Adblock
 ||epasatiempos.es/js/af.js
 ||epasatiempos.es/js/dab.js
