@@ -2,6 +2,7 @@
 @@||spalumi.com/clear.gif$image,domain=spalumi.com
 @@||spalumi.com/iconimages/$image,domain=spalumi.com
 @@||spalumi.com/vbseo/$image,domain=spalumi.com
+@@||fap-nation.com/wp-content/plugins/wp-ad-guru/assets/*/adguru.
 ! Anti-Adblock
 @@||bambergerkennanchitinous.com/.adframesrc.$script,third-party,domain=mivideox.com
 @@||mivideox.com^$generichide
