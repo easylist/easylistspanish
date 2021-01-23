@@ -875,6 +875,7 @@ eleconomista.es###progressBar
 reconquistanoticias.blogspot.com##div[style*="background-image: url"]
 reconquistanoticias.blogspot.com##.widget.Image
 supercpps.com##a[rel*="sponsored"]
+marca.com##.codere
 ! Site Specific filters (used with $generichide)
 eleconomista.es##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
 ! Anti-Adblock
