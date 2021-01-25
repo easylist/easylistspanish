@@ -543,6 +543,8 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||media.airedesantafe.com.ar/*/banners/$image
 ||bajafiles.net/leer.jpg
 ||bajafiles.net/ima.gif
+||horajaen.com/wp-content/uploads/pum/pum-site-scripts.js
+||horajaen.com/wp-content/uploads/*banner$image
 ! Anti-Adblock
 ||epasatiempos.es/js/af.js
 ||epasatiempos.es/js/dab.js
