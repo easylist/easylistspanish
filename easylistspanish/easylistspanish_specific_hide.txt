@@ -877,6 +877,8 @@ reconquistanoticias.blogspot.com##.widget.Image
 supercpps.com##a[rel*="sponsored"]
 marca.com##.codere
 marca.com##.ad-item-bt-cont
+libremercado.com##a[href^="https://conectate.estrategiasdeinversion.com/"]
+libremercado.com##.ampliacion
 ! Site Specific filters (used with $generichide)
 eleconomista.es##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
 ! Anti-Adblock
