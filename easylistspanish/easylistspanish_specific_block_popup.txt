@@ -11,3 +11,4 @@ $popup,third-party,domain=divxtotal.co|mejortorrentt.net|yourupload.com|embedsit
 ||pepeliculas.org/mira-video1^$popup
 /jump/next.php?$popup,domain=yts.mx
 /wp-content/plugins/all-click/sda.php^$popup,domain=gnula.site
+||ruralvia.com^$popup,domain=horajaen.com
