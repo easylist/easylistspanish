@@ -547,6 +547,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||horajaen.com/wp-content/uploads/*banner$image
 ||horajaen.com/wp-content/uploads/*/FALD*.jpg
 ||vertelenovelasonline.com/wp-content/uploads/*/amazon.gif
+||googleapis.com/lanacion-media-storage/*bannernacionnews.png
 ! Anti-Adblock
 ||epasatiempos.es/js/af.js
 ||epasatiempos.es/js/dab.js
