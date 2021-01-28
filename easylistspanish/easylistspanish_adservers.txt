@@ -135,3 +135,4 @@
 ||turbanconstituent.com^$third-party
 ||padsims.com^$third-party
 ||elsetormentshower.com^$third-party
+||fiorenetwork.com^$third-party
