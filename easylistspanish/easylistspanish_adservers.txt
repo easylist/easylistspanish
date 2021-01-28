@@ -134,3 +134,4 @@
 ||causerestrainrecorder.com^$third-party
 ||turbanconstituent.com^$third-party
 ||padsims.com^$third-party
+||elsetormentshower.com^$third-party
