@@ -137,3 +137,6 @@
 ||elsetormentshower.com^$third-party
 ||fiorenetwork.com^$third-party
 ||pockhopatone.com^$third-party
+||qbcpicrtdje.com^$third-party
+||wvekalpmn.com^$third-party
+
