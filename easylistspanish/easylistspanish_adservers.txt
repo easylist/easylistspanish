@@ -136,3 +136,4 @@
 ||padsims.com^$third-party
 ||elsetormentshower.com^$third-party
 ||fiorenetwork.com^$third-party
+||pockhopatone.com^$third-party
