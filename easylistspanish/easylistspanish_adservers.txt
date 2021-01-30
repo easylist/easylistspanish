@@ -140,3 +140,4 @@
 ||qbcpicrtdje.com^$third-party
 ||wvekalpmn.com^$third-party
 ||tearpilotzoo.com^$third-party
+||icoawhou.com^$third-party
