@@ -880,6 +880,7 @@ marca.com##.ad-item-bt-cont
 libremercado.com##a[href^="https://conectate.estrategiasdeinversion.com/"]
 libremercado.com##.ampliacion
 mastercoria.com##a[href^="https://alertlogsemployer.com"]
+animebum.net###publicidad-nas
 megaserie.me###newlayercontent
 ! Site Specific filters (used with $generichide)
 eleconomista.es##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
