@@ -144,3 +144,4 @@
 ||creamssicsite.com^$third-party
 ||avbpaaypbe.com^$third-party
 ||distraughtbudge.com^$third-party
+||emagazing.fun^$third-party
