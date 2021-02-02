@@ -142,3 +142,5 @@
 ||tearpilotzoo.com^$third-party
 ||icoawhou.com^$third-party
 ||creamssicsite.com^$third-party
+||avbpaaypbe.com^$third-party
+||distraughtbudge.com^$third-party
