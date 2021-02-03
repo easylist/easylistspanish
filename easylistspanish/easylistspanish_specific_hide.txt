@@ -882,6 +882,7 @@ libremercado.com##.ampliacion
 mastercoria.com##a[href^="https://alertlogsemployer.com"]
 animebum.net###publicidad-nas
 megaserie.me###newlayercontent
+easy.com.ar###carruselMarcasBlaisten
 ! Site Specific filters (used with $generichide)
 eleconomista.es##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
 ! Anti-Adblock

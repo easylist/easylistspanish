@@ -549,6 +549,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||vertelenovelasonline.com/wp-content/uploads/*/amazon.gif
 ||googleapis.com/lanacion-media-storage/*bannernacionnews.png
 ||animebum.net/ads.php
+||media.easy.com.ar/is/image/EasyArg/blaisteneasyhome
 ! Anti-Adblock
 ||epasatiempos.es/js/af.js
 ||epasatiempos.es/js/dab.js
