@@ -146,3 +146,4 @@
 ||distraughtbudge.com^$third-party
 ||emagazing.fun^$third-party
 ||humorshieldrecede.com^$third-party
+||matchuph.com^$third-party
