@@ -147,3 +147,4 @@
 ||emagazing.fun^$third-party
 ||humorshieldrecede.com^$third-party
 ||matchuph.com^$third-party
+||hackelevensol.com^$third-party
