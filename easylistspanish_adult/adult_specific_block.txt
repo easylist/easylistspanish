@@ -22,5 +22,6 @@
 ||tnaflix.com/mew.php^
 ||hentaila.com/files/test.php
 ||hentaila.com/files/functions.js
+||hentaila.com/files/funciones.js
 ||lostincunt.space/iframe/$subdocument,domain=faptitans.com
 .me^$script,domain=topmanhwa.net
