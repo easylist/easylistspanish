@@ -1,1 +1,2 @@
 ||goo.gl^$popup,third-party,domain=zonatorrent.es
+||deliver.vkcdnservice.com^$popup,third-party

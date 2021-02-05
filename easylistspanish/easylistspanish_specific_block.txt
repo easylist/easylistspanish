@@ -538,7 +538,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||socialetic.com/cms/wp-content/uploads/*/anuncio$image
 ||socialetic.com/cms/wp-content/uploads/*/250x400.gif$image
 ||ninemanga.net/1.png
-.xyz^$script,subdocument,domain=hqq.to|hqq.tv|waaw.to|serieshd.net|megaplay.cc
+.xyz^$script,subdocument,domain=hqq.to|hqq.tv|waaw.to|waaw.tv|serieshd.net|megaplay.cc
 ||media.airedesantafe.com.ar/*/banners/$image
 ||bajafiles.net/leer.jpg
 ||bajafiles.net/ima.gif
