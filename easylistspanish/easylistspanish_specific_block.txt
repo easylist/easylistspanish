@@ -549,6 +549,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||animebum.net/ads.php
 ||media.easy.com.ar/is/image/EasyArg/blaisteneasyhome
 /wp-content/uploads/*banner$image,domain=horajaen.com|simpsons-latino.net|socialetic.com
+.fun^$domain=skidrowreloaded.com
 ! Anti-Adblock
 ||epasatiempos.es/js/af.js
 ||epasatiempos.es/js/dab.js
