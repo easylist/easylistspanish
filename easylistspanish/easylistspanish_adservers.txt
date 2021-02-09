@@ -152,3 +152,4 @@
 ||bwvnmbhuuhalr.com^$third-party
 ||optraising.com^$third-party
 ||glqicmazu.com^$third-party
+||syncwowsails.com^$third-party
