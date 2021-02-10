@@ -550,6 +550,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||media.easy.com.ar/is/image/EasyArg/blaisteneasyhome
 /wp-content/uploads/*banner$image,domain=horajaen.com|simpsons-latino.net|socialetic.com
 .fun^$domain=skidrowreloaded.com
+||dontorrents.org/images/NetflixPrime.jpg
 ! Anti-Adblock
 ||epasatiempos.es/js/af.js
 ||epasatiempos.es/js/dab.js
