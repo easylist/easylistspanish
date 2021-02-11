@@ -551,6 +551,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 /wp-content/uploads/*banner$image,domain=horajaen.com|simpsons-latino.net|socialetic.com
 .fun^$domain=skidrowreloaded.com
 ||dontorrents.org/images/NetflixPrime.jpg
+||divxtotal.se/wp-content/themes/DivxTotal/css/images/banner-netflix41.png
 ! Anti-Adblock
 ||epasatiempos.es/js/af.js
 ||epasatiempos.es/js/dab.js
