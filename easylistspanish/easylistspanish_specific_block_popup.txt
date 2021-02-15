@@ -12,4 +12,4 @@ $popup,third-party,domain=divxtotal.co|mejortorrentt.net|yourupload.com|embedsit
 /jump/next.php?$popup,domain=yts.mx
 /wp-content/plugins/all-click/sda.php^$popup,domain=gnula.site
 ||ruralvia.com^$popup,domain=horajaen.com
-||waaw.tv/out.php^$popup
+||waaw.*/out.php^$popup
