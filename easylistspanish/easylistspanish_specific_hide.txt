@@ -886,6 +886,7 @@ elblog.com##.ads-superior
 elespanol.com##.adv_inline
 elespanol.com##.article-adv
 chathispano.com###top
+garticphone.com##.banner
 ! Site Specific filters (used with $generichide)
 eleconomista.es##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
 ! Anti-Adblock
