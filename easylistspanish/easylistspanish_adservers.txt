@@ -161,3 +161,4 @@
 ||fpiikkttbl.com^$third-party
 ||glassmilheart.com^$third-party
 ||inflationmileage.com^$third-party
+||gobicyice.com^$third-party
