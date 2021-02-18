@@ -160,3 +160,4 @@
 ||zembi0ca.xyz^$third-party
 ||fpiikkttbl.com^$third-party
 ||glassmilheart.com^$third-party
+||inflationmileage.com^$third-party
