@@ -886,7 +886,8 @@ elblog.com##.ads-superior
 elespanol.com##.adv_inline
 elespanol.com##.article-adv
 chathispano.com###top
-
+reforma.com##.container_publicidad
+reforma.com###zonaavisos
 ! Site Specific filters (used with $generichide)
 eleconomista.es##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
 ! Anti-Adblock
