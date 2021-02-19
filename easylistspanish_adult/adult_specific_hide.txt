@@ -35,3 +35,4 @@ spalumi.com##marquee
 tnaflix.com##.rightBarBannersx
 tnaflix.com##.pInVistix
 faptitans.com##.cross-promo-bnr
+pornoplay.online##div[class^="happy-"]
