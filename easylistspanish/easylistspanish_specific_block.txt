@@ -554,6 +554,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||divxtotal.se/wp-content/themes/DivxTotal/css/images/banner-netflix41.png
 ||avisosdeocasion.com/*/gcavisoscom^$subdocument,domain=reforma.com
 ||modelocurriculum.net/wp-content/descuento-promo-plantillas-cv.jpg
+||descargasdd.net/images/amazon.gif
 ! Anti-Adblock
 ||epasatiempos.es/js/af.js
 ||epasatiempos.es/js/dab.js
