@@ -162,3 +162,4 @@
 ||glassmilheart.com^$third-party
 ||inflationmileage.com^$third-party
 ||gobicyice.com^$third-party
+||flabbyyolkinfection.com^$third-party
