@@ -163,3 +163,5 @@
 ||inflationmileage.com^$third-party
 ||gobicyice.com^$third-party
 ||flabbyyolkinfection.com^$third-party
+||anomaloustradingmerciful.com^$third-party
+||urzkcvnttopr.com^$third-party
