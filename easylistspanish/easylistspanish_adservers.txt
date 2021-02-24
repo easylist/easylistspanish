@@ -168,3 +168,4 @@
 ||lyricslocusvaried.com^$third-party
 ||ypwpzgld.com^$third-party
 ||hpuvkfbww.com^$third-party
+||tracot.com^$third-party
