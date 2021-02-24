@@ -890,6 +890,7 @@ reforma.com##.container_publicidad
 reforma.com###zonaavisos
 zooplus.es##.bg-banner
 clipwatching.com###coverAds
+wordmagicsoft.com###bt_aws_ad_slot_1
 ! Site Specific filters (used with $generichide)
 eleconomista.es##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
 ! Anti-Adblock
