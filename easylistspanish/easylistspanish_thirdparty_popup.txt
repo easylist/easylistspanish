@@ -1,3 +1,4 @@
 ||goo.gl^$popup,third-party,domain=zonatorrent.es
 ||deliver.vkcdnservice.com^$popup,third-party
 ||badshores.com/*^publisher_code$popup,third-party
+||streams.lerroyje.xyz^$popup,third-party
