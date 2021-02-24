@@ -41,3 +41,4 @@
 ||stdirection.com^$popup,third-party
 ||facesnotebook.com^$popup,third-party
 ||highrevenuecpm.com^$popup,third-party
+||humorshieldrecede.com^$popup,third-party
