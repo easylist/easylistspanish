@@ -42,3 +42,4 @@
 ||facesnotebook.com^$popup,third-party
 ||highrevenuecpm.com^$popup,third-party
 ||humorshieldrecede.com^$popup,third-party
+||zatythygre.pro^$popup,third-party
