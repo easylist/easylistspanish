@@ -557,6 +557,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||modelocurriculum.net/wp-content/descuento-promo-plantillas-cv.jpg
 ||descargasdd.net/images/amazon.gif
 ||dontorrents.org/images/startgaming*.jpg
+||elcordillerano.com.ar/uploads/archivos/$image
 ! Anti-Adblock
 ||epasatiempos.es/js/af.js
 ||epasatiempos.es/js/dab.js
