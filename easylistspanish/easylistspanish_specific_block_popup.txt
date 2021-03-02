@@ -10,6 +10,6 @@ $popup,third-party,domain=divxtotal.co|mejortorrentt.net|yourupload.com|embedsit
 ||doramasmp4.com/en.svg$popup
 ||pepeliculas.org/mira-video1^$popup
 /jump/next.php?$popup,domain=yts.mx
-/wp-content/plugins/all-click/sda.php^$popup,domain=gnula.site
+/wp-content/plugins/all-click/sda.php^$popup,domain=gnula.site|cine-calidad.com
 ||ruralvia.com^$popup,domain=horajaen.com
 ||waaw.*/out.php^$popup
