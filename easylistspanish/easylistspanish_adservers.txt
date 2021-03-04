@@ -182,3 +182,4 @@
 ||tgvbwjbnxz.com^$third-party
 ||yawcoynag.com^$third-party
 ||eergithi.com^$third-party
+||edxlewni.com^$third-party
