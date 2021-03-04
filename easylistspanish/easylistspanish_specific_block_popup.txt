@@ -13,3 +13,4 @@ $popup,third-party,domain=divxtotal.co|mejortorrentt.net|yourupload.com|embedsit
 /wp-content/plugins/all-click/sda.php^$popup,domain=gnula.site|cine-calidad.com
 ||ruralvia.com^$popup,domain=horajaen.com
 ||waaw.*/out.php^$popup
+||pctreload1.com/pctn/library/content/template/images/logos/pctreload1.png^$popup

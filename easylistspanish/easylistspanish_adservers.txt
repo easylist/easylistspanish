@@ -181,3 +181,4 @@
 ||clxrggmghevqfu.com$third-party
 ||tgvbwjbnxz.com^$third-party
 ||yawcoynag.com^$third-party
+||eergithi.com^$third-party
