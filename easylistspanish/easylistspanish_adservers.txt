@@ -180,3 +180,4 @@
 ||cdnaqw.com^$third-party
 ||clxrggmghevqfu.com$third-party
 ||tgvbwjbnxz.com^$third-party
+||yawcoynag.com^$third-party
