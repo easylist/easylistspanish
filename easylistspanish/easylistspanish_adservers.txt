@@ -179,3 +179,4 @@
 ||riminghoggoofy.com^$third-party
 ||cdnaqw.com^$third-party
 ||clxrggmghevqfu.com$third-party
+||tgvbwjbnxz.com^$third-party
