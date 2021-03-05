@@ -558,6 +558,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||descargasdd.net/images/amazon.gif
 ||dontorrents.org/images/startgaming*.jpg
 ||elcordillerano.com.ar/uploads/archivos/$image
+||net-storage.tccstatic.com/storage/esfutbol.net/banner/$image
 ! Anti-Adblock
 ||epasatiempos.es/js/af.js
 ||epasatiempos.es/js/dab.js
