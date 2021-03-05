@@ -560,6 +560,8 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||elcordillerano.com.ar/uploads/archivos/$image
 ||net-storage.tccstatic.com/storage/esfutbol.net/banner/$image
 ||net-static.tccstatic.com/template/todoblaugrana.com/tmw/banner/$image
+||recursos.equipohumano.com/*_plubli/enlace.html^$subdocument,domain=valenciaplaza.com
+/public/Image/*banner*^$image,domain=valenciaplaza.com
 ! Anti-Adblock
 ||epasatiempos.es/js/af.js
 ||epasatiempos.es/js/dab.js
