@@ -898,6 +898,8 @@ telefe.com##.tlf-ad
 mundodeportivo.com##.publi-box
 bernabeudigital.com##.placeholder
 bernabeudigital.com##.center
+todoblaugrana.com###slimbanner
+todoblaugrana.com##div[style^="overflow: hidden"]
 ! Site Specific filters (used with $generichide)
 eleconomista.es##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
 ! Anti-Adblock
