@@ -896,6 +896,8 @@ kiwilimon.com##div[class^="pubcaja"]
 elcordillerano.com.ar##div[class^="contenedor_banner_"]
 telefe.com##.tlf-ad
 mundodeportivo.com##.publi-box
+bernabeudigital.com##.placeholder
+bernabeudigital.com##.center
 ! Site Specific filters (used with $generichide)
 eleconomista.es##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
 ! Anti-Adblock
