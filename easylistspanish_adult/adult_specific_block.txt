@@ -26,3 +26,4 @@
 .me^$script,domain=topmanhwa.net
 ||pornoplay.online/tarot*.webp
 ||mundosexanuncio.com/img_es/banners/
+||pinklabel.com/tools/live-banners^$subdocument,domain=poringa.net
