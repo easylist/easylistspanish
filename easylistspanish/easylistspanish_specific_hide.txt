@@ -902,7 +902,7 @@ todoblaugrana.com###slimbanner
 todoblaugrana.com##div[style^="overflow: hidden"]
 alicanteplaza.es,castellonplaza.com,valenciaplaza.com##.banner--
 castellonplaza.com##.banner--megabanner
-diariodeibiza.es,laprovincia.es##.no-baldomero
+diariodeibiza.es,diariodemallorca.es,laprovincia.es##.no-baldomero
 ! Site Specific filters (used with $generichide)
 eleconomista.es##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
 ! Anti-Adblock
