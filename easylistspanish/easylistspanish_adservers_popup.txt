@@ -43,3 +43,4 @@
 ||highrevenuecpm.com^$popup,third-party
 ||humorshieldrecede.com^$popup,third-party
 ||zatythygre.pro^$popup,third-party
+||gadsatz.com^$popup,third-party
