@@ -562,6 +562,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||net-static.tccstatic.com/template/todoblaugrana.com/tmw/banner/$image
 ||recursos.equipohumano.com/*_plubli/enlace.html^$subdocument,domain=valenciaplaza.com
 /public/Image/*banner*^$image,domain=alicanteplaza.es|castellonplaza.com|valenciaplaza.com
+||mercadosonora.com.mx/wp-content/uploads/*/32X320BIOTIQUIN.png
 ! Anti-Adblock
 ||epasatiempos.es/js/af.js
 ||epasatiempos.es/js/dab.js
