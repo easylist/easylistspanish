@@ -564,6 +564,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 /public/Image/*banner*^$image,domain=alicanteplaza.es|castellonplaza.com|valenciaplaza.com
 ||mercadosonora.com.mx/wp-content/uploads/*/32X320BIOTIQUIN.png
 ||googleusercontent.com/proxy^$image,domain=paralelohoy.com.ar
+||notifalcon.com/wp-content/uploads/*/cropped*.jpg
 ! Anti-Adblock
 ||epasatiempos.es/js/af.js
 ||epasatiempos.es/js/dab.js
