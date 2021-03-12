@@ -906,6 +906,7 @@ diariodeibiza.es,diariodemallorca.es,laprovincia.es##.no-baldomero
 playpaste.com##a[href*="wg-aff.com/click?"]
 recetasfacilescocina.com#?#section > h3:-abp-contains(Publicidad)
 pivigames.blog##a[href^="https://bstk.me/"]
+futbolhoy.com.ar###custom_html-4
 ! Site Specific filters (used with $generichide)
 eleconomista.es##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
 ! Anti-Adblock
