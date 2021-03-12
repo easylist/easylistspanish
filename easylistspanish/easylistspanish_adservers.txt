@@ -192,3 +192,5 @@
 ||asuppsttp.com^$third-party
 ||bhwcfwjz.com^$third-party
 ||hoowooze.net^$third-party
+||gompoozu.net^$third-party
+||alawachi.net^$third-party
