@@ -194,3 +194,4 @@
 ||hoowooze.net^$third-party
 ||gompoozu.net^$third-party
 ||alawachi.net^$third-party
+||vilercarpetfolk.com^$third-party
