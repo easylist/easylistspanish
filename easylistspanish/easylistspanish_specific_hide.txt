@@ -911,6 +911,8 @@ macrojuegos.com##.gad
 onlineradiobox.com##div[class^="banner--"]
 sport.es###z-sites-na
 sport.es##.ob-p
+laprensagrafica.com##.banner
+laprensagrafica.com##.banner2
 ! Site Specific filters (used with $generichide)
 eleconomista.es##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
 ! Anti-Adblock
