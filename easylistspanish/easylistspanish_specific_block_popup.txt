@@ -16,3 +16,4 @@ $popup,third-party,domain=divxtotal.co|mejortorrentt.net|yourupload.com|embedsit
 ||pctreload1.com/pctn/library/content/template/images/logos/pctreload1.png^$popup
 ||foxcdn.me^$popup,domain=telerium.digital
 ||tontent.povwideo.me^$popup
+||cintent.streanplay.cc^$popup
