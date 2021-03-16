@@ -45,3 +45,4 @@
 ||zatythygre.pro^$popup,third-party
 ||gadsatz.com^$popup,third-party
 ||3r1kwxcd.top^$popup,third-party
+||coolbytesgrill.com^$popup,third-party
