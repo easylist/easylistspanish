@@ -2,3 +2,4 @@
 ||deliver.vkcdnservice.com^$popup,third-party
 ||badshores.com/*^publisher_code$popup,third-party
 ||streams.lerroyje.xyz^$popup,third-party
+||foxcdn.me/*.htm^$popup,third-party
