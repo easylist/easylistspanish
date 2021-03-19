@@ -48,3 +48,4 @@
 ||coolbytesgrill.com^$popup,third-party
 ||searsbushelbus.com^$third-party
 ||putstairboor.com^$third-party
+||significantlyentering.com^$popup,third-party
