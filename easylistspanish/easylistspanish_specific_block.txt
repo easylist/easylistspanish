@@ -490,8 +490,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||mediaserver.emol.cl/*/json*$script
 ||xm0siulufost.com^$script,third-party,domain=4channel.org
 ||dewincubiatoll.com^$script,domain=9movies.yt
-||tontent.powv1deo.cc^$script,subdocument
-||tontent.povwideo.me^$script,subdocument
+||tontent.p*deo.*/*.hh^$script,subdocument
 ||gameflare.com/common/promotions/own-images/$subdocument
 ||moontuftboy.com^$script,third-party,domain=animeblix.com
 ||videoo.tv^$script,domain=aulafacil.com
