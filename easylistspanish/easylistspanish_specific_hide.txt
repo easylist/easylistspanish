@@ -917,6 +917,7 @@ muyinteresante.es##.mega1
 muyinteresante.es##.mega2
 tokyvideo.com##.intensive-add
 tokyvideo.com##.fan
+pelishouse.com###fakeplayer
 ! Site Specific filters (used with $generichide)
 eleconomista.es##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
 ! Anti-Adblock

@@ -565,6 +565,8 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||googleusercontent.com/proxy^$image,domain=paralelohoy.com.ar
 ||notifalcon.com/wp-content/uploads/*/cropped*.jpg
 ||animeflv.net/assets/animeflv/img/banner-ember-2.png
+||pelishouse.com/wp-content/uploads/*/descargar.png
+||pelishouse.com/wp-content/uploads/*/ver.png
 ! Anti-Adblock
 ||epasatiempos.es/js/af.js
 ||epasatiempos.es/js/dab.js
