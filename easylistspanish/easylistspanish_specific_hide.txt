@@ -919,6 +919,7 @@ tokyvideo.com##.intensive-add
 tokyvideo.com##.fan
 pelishouse.com###fakeplayer
 seriesgrey.com##.a728
+tudiscovery.com##div[data-testid="test-ads"]
 ! Site Specific filters (used with $generichide)
 eleconomista.es##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
 ! Anti-Adblock
