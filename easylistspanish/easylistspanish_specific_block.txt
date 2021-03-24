@@ -568,6 +568,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||pelishouse.com/wp-content/uploads/*/descargar.png
 ||pelishouse.com/wp-content/uploads/*/ver.png
 ||seriesgrey.com/xdc.html^
+||3djuegos.com/*/skins/
 ! Anti-Adblock
 ||epasatiempos.es/js/af.js
 ||epasatiempos.es/js/dab.js

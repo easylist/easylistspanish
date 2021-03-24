@@ -920,6 +920,8 @@ tokyvideo.com##.fan
 pelishouse.com###fakeplayer
 seriesgrey.com##.a728
 tudiscovery.com##div[data-testid="test-ads"]
+3djuegos.com###dst_pub_728
+3djuegos.com##div[style="height:334px"]
 ! Site Specific filters (used with $generichide)
 eleconomista.es##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
 ! Anti-Adblock
