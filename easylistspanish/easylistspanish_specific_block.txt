@@ -570,6 +570,9 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||seriesgrey.com/xdc.html^
 ||3djuegos.com/*/skins/
 ||deia.eus/elementosWeb/gestionCajas/DEI/Image/*//LARIBERA-banner-deia-*.gif^
+||hoyaragon.es/wp-content/uploads/*300x*
+||hoyaragon.es/wp-content/uploads/*_bmw_phev_nunca_tan_libre_descuento_goya_automocion_display_1000x250-*2.jpg
+||hoyaragon.es/wp-content/uploads/*arvesa
 ! Anti-Adblock
 ||epasatiempos.es/js/af.js
 ||epasatiempos.es/js/dab.js
