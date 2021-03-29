@@ -209,3 +209,4 @@
 ||palasidesdoor.com^$third-party
 ||tczzzlwpss.com^$third-party
 ||boasstylijoked.com^$third-party
+||dellswhinyrank.com^$third-party
