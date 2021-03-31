@@ -926,6 +926,7 @@ elespanol.com##.comments-adv
 hoyaragon.es##.titulo-publicidad
 hoyaragon.es##.addg
 agma.io###advertDialog1
+todomercadoweb.es##div[style="height:270px; padding: 10px 0;"]
 ! Site Specific filters (used with $generichide)
 eleconomista.es##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
 ! Anti-Adblock
