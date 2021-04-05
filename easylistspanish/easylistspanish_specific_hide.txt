@@ -913,8 +913,9 @@ sport.es###z-sites-na
 sport.es##.ob-p
 laprensagrafica.com##.banner
 laprensagrafica.com##.banner2
-muyinteresante.es##.mega1
+miarevista.es,muyinteresante.es##.mega1
 muyinteresante.es##.mega2
+miarevista.es##.mega--desktop
 tokyvideo.com##.intensive-add
 tokyvideo.com##.fan
 pelishouse.com###fakeplayer
