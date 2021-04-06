@@ -578,6 +578,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||diarioresponsable.com/images/castellananorte19032020.jpg
 ||diarioresponsable.com/images/triodos_2019-06.jpg
 ||diarioresponsable.com/images/banners
+||vertelenovelasonline.com/wp-content/uploads/*/Untitled-design-*.gif
 ! Anti-Adblock
 ||epasatiempos.es/js/af.js
 ||epasatiempos.es/js/dab.js
