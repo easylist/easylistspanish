@@ -575,6 +575,9 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||hoyaragon.es/wp-content/uploads/*arvesa
 ||agma.io/img/agmaAd/
 ||seriesypelisonline.com/wp-content/uploads/*/me-corro.png
+||diarioresponsable.com/images/castellananorte19032020.jpg
+||diarioresponsable.com/images/triodos_2019-06.jpg
+||diarioresponsable.com/images/banners
 ! Anti-Adblock
 ||epasatiempos.es/js/af.js
 ||epasatiempos.es/js/dab.js

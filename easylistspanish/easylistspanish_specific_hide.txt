@@ -280,7 +280,7 @@ desdesoria.es##.advertising-corte-interstitial
 mangas-en-pdf.blogspot.com##.afiliados
 vibbo.com##.afs-block
 htcmania.com##.afterlogo
-elplural.com,esmtb.com##.anuncio
+diarioresponsable.com,elplural.com,esmtb.com##.anuncio
 ojomovies.com##.anuncionomovil
 androidpit.es##.appSlider
 libertaddigital.com##.apuestas
@@ -928,6 +928,7 @@ hoyaragon.es##.titulo-publicidad
 hoyaragon.es##.addg
 agma.io###advertDialog1
 todomercadoweb.es##div[style="height:270px; padding: 10px 0;"]
+diarioresponsable.com##.banneritem
 ! Site Specific filters (used with $generichide)
 eleconomista.es##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
 ! Anti-Adblock
