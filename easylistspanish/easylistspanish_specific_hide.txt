@@ -930,6 +930,8 @@ agma.io###advertDialog1
 todomercadoweb.es##div[style="height:270px; padding: 10px 0;"]
 diarioresponsable.com##.banneritem
 highstream.tv##.cover
+verepeliculas.com##div[class^="ano_"]
+rainanime.co,verepeliculas.com##.fake_player
 ! Site Specific filters (used with $generichide)
 eleconomista.es##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
 ! Anti-Adblock
@@ -946,4 +948,3 @@ cliver.to##div[data-name="parent-element"]
 kairosweb.com##div[class*="banner-"]
 kairosweb.com##.spu-bg
 kairosweb.com##.spu-box
-rainanime.co##.fake_player
