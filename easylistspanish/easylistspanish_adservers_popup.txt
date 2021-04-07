@@ -50,3 +50,4 @@
 ||putstairboor.com^$third-party
 ||significantlyentering.com^$popup,third-party
 ||rainingvital.com^$popup,third-party
+||dlxrlc2ni2.com^$popup,third-party
