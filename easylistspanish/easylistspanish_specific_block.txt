@@ -581,6 +581,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||vertelenovelasonline.com/wp-content/uploads/*/Untitled-design-*.gif
 ||verepeliculas.com/dowload/MusicaBANNER.gif^
 ||heybros.shop/wp-content/uploads/*/heybros.gif^$domain=simpsons-latino.club
+||daybooktravel.com/banner*.js^$domain=pelispop.com
 ! Anti-Adblock
 ||epasatiempos.es/js/af.js
 ||epasatiempos.es/js/dab.js
