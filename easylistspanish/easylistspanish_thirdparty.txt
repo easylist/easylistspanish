@@ -13,3 +13,4 @@
 ||boostcpm.su/boost*$third-party
 ||allguiderecipes.info^$subdocument,third-party
 ||n.gameads.io^$third-party
+||jsc.adgage.es^$third-party
