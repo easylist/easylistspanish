@@ -27,3 +27,4 @@
 ||pornoplay.online/tarot*.webp
 ||mundosexanuncio.com/img_es/banners/
 ||pinklabel.com/tools/live-banners^$subdocument,domain=poringa.net
+||blogspot.com/-*/BNO-300x250.gif^$domain=erospanish.com
