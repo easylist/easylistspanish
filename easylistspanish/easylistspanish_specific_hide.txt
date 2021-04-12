@@ -933,6 +933,7 @@ highstream.tv##.cover
 verepeliculas.com##div[class^="ano_"]
 rainanime.co,verepeliculas.com##.fake_player
 sport.es##.sp-add
+coches.net##.mt-AdvertisingRoadblock-top
 ! Site Specific filters (used with $generichide)
 eleconomista.es##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
 ! Anti-Adblock
