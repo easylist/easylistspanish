@@ -583,7 +583,6 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||heybros.shop/wp-content/uploads/*/heybros.gif^$domain=simpsons-latino.club
 ||daybooktravel.com/banner*.js^$domain=pelispop.com
 ||shellshock.io/img/promo/
-||allguiderecipes.info/recipes/recipe.php^$domain=mangatigre.com
 ! Anti-Adblock
 ||epasatiempos.es/js/af.js
 ||epasatiempos.es/js/dab.js
