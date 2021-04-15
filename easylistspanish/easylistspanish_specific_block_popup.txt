@@ -20,3 +20,4 @@ $popup,third-party,domain=divxtotal.co|mejortorrentt.net|yourupload.com|embedsit
 ||tontent.p*deo.*/*.hh^$popup
 ||cintent.streanplay.cc^$popup
 /3djuegos_media_v1^$popup,domain=3djuegos.com
+.pro^$popup,domain=strtape.tech
