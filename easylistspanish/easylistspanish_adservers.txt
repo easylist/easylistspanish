@@ -224,3 +224,5 @@
 ||yepteaswont.com^$third-party
 ||kindnessmarshalping.com^$third-party
 ||husktheoretical.com^$third-party
+||sobatsizniy.com^$third-party
+||qzfrmewdbzkcsf.com^$third-party
