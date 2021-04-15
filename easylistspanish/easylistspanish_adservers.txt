@@ -222,3 +222,4 @@
 ||thompaur.com^$third-party
 ||syrvqblsaqcfmt.com^$third-party
 ||yepteaswont.com^$third-party
+||kindnessmarshalping.com^$third-party
