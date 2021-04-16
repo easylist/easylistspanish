@@ -359,7 +359,7 @@ bienesrosario.com,rosariogarage.com##.banner_sop
 bienesrosario.com,rosariogarage.com##.banner_superior
 azarplus.com##.bannerfijodcha
 azarplus.com##.bannerfijoizda2
-expreso.com.mx##.bannergroup
+expreso.com.mx,lancelotdigital.com##.bannergroup
 ennaranja.com##.bannering
 elliberal.com.ar##.bannernota
 elliberal.com.ar##.bannernota2
@@ -935,8 +935,8 @@ rainanime.co,verepeliculas.com##.fake_player
 sport.es##.sp-add
 coches.net##.mt-AdvertisingRoadblock-top
 revistagmgastronomia.com###rev_slider_1_1_wrapper
-lancelotdigital.com##.bannergroup
-lancelotdigital.com ##.bannerheader
+lancelotdigital.com##.bannerheader
+diariodeavisos.elespanol.com##.pubbox
 ! Site Specific filters (used with $generichide)
 eleconomista.es##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
 ! Anti-Adblock
