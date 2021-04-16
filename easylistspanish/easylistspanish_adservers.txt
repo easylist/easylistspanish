@@ -226,3 +226,6 @@
 ||husktheoretical.com^$third-party
 ||sobatsizniy.com^$third-party
 ||qzfrmewdbzkcsf.com^$third-party
+||hopefulserversnecklace.com^$third-party
+||lamforsung.com^$third-party
+||reginasfreyr.com^$third-party
