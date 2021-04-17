@@ -584,6 +584,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||daybooktravel.com/banner*.js^$domain=pelispop.com
 ||shellshock.io/img/promo/
 ||lancelotdigital.com/images/banners/
+||ytmp3.plus/ba^
 ! Anti-Adblock
 ||epasatiempos.es/js/af.js
 ||epasatiempos.es/js/dab.js
