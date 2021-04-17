@@ -230,3 +230,4 @@
 ||lamforsung.com^$third-party
 ||reginasfreyr.com^$third-party
 ||dangerinsignificantinvent.com^$third-party
+||bayirksrap.com^$third-party
