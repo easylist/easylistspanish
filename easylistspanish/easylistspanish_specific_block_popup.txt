@@ -22,3 +22,4 @@ $popup,third-party,domain=divxtotal.co|mejortorrentt.net|yourupload.com|embedsit
 /3djuegos_media_v1^$popup,domain=3djuegos.com
 .pro^$popup,domain=strtape.tech
 ||ytmp3.plus/p^$popup
+.bid/p.php?$popup,domain=pctfenix.com
