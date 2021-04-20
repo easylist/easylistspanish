@@ -51,3 +51,4 @@
 ||significantlyentering.com^$popup,third-party
 ||rainingvital.com^$popup,third-party
 ||dlxrlc2ni2.com^$popup,third-party
+||oackoubs.com^$popup,third-party
