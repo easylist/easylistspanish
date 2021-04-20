@@ -586,6 +586,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||lancelotdigital.com/images/banners/
 ||ytmp3.plus/ba^
 ||infoveloz.com/storage/*/ad_$image
+||juegosdiarios.com/staticfiles.juegosdiarios.com/pu/
 ! Anti-Adblock
 ||epasatiempos.es/js/af.js
 ||epasatiempos.es/js/dab.js
