@@ -937,6 +937,7 @@ coches.net##.mt-AdvertisingRoadblock-top
 revistagmgastronomia.com###rev_slider_1_1_wrapper
 lancelotdigital.com##.bannerheader
 diariodeavisos.elespanol.com##.pubbox
+pelis24.gratis##a[class^="fasc"]
 ! Site Specific filters (used with $generichide)
 eleconomista.es##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
 ! Anti-Adblock

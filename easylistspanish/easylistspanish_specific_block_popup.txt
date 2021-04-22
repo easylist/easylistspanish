@@ -23,3 +23,4 @@ $popup,third-party,domain=divxtotal.co|mejortorrentt.net|yourupload.com|embedsit
 .pro^$popup,domain=strtape.tech
 ||ytmp3.plus/p^$popup
 .bid/p.php?$popup,domain=pctfenix.com
+||cine24.online/ads/$popup
