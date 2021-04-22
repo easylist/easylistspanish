@@ -939,6 +939,7 @@ lancelotdigital.com##.bannerheader
 diariodeavisos.elespanol.com##.pubbox
 pelis24.gratis##a[class^="fasc"]
 larazon.es##.content__ad
+juegosjuegos.com##.Banners-lateral
 ! Site Specific filters (used with $generichide)
 eleconomista.es##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
 ! Anti-Adblock
