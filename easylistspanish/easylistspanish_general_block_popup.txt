@@ -1,1 +1,3 @@
 &adbIsActive=$popup
+/bjmp*.htm^$popup
+/mavenjump.htm^$popup
