@@ -588,6 +588,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||infoveloz.com/storage/*/ad_$image
 ||juegosdiarios.com/staticfiles.juegosdiarios.com/pu/
 ||mangatigre.com/im-erogames/im-index.js
+||3djuegos.com/img3/temp/81_war/$image
 ! Anti-Adblock
 ||epasatiempos.es/js/af.js
 ||epasatiempos.es/js/dab.js
