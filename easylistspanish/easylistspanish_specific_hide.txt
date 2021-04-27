@@ -524,7 +524,7 @@ casinonewsdaily.es##.popup-promo
 laarena.com.ar##.popup_MM__cliqueado
 diario.mx##.portada_1LB
 diario.mx##.portada_1MT
-eldia.com,infoplatense.com.ar##.ppp
+elchubut.com.ar,eldia.com,infoplatense.com.ar##.ppp
 letrap.com.ar##.ppp_H12
 letrap.com.ar##.ppp_H13
 letrap.com.ar##.ppp_H14
