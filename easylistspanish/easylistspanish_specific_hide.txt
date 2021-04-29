@@ -942,6 +942,7 @@ larazon.es##.content__ad
 juegosjuegos.com##.Banners-lateral
 chatytvgratishd.me##div[id^="cedvtoj-"]
 bluradio.com##.GoogleDfpAd-Content
+pelisplay.co##tr[data-lang="Publicidad"]
 ! Site Specific filters (used with $generichide)
 eleconomista.es##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
 ! Anti-Adblock
