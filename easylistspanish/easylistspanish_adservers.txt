@@ -251,3 +251,4 @@
 ||eoemyywmjx.com^$third-party
 ||vattingbalak.com^$third-party
 ||ethnictyrosky.com^$third-party
+||apsstoure.biz^$third-party
