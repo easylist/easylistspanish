@@ -592,6 +592,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||kissanime.si/api/pop.php
 ||zapping.live/images/uploads/banners/zapping-*.gif^
 ||caletadesarrollos.com/marketing/banner-pc/banner-pc.html^$domain=elchubut.com.ar
+||centent.streanplay.cc^
 ! Anti-Adblock
 ||epasatiempos.es/js/af.js
 ||epasatiempos.es/js/dab.js
