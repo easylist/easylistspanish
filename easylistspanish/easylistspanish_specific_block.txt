@@ -595,6 +595,8 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||centent.streanplay.cc^
 ||notebookcheck.org/fileadmin/Sonstiges/ama_abn2_$xmlhttprequest
 ||elsoldemexico.com.mx/cultura/gastronomia/*_banner-400x250_01.jpg^$image
+||elsiglodetorreon.com.mx/images/banners/$image
+||elsiglodetorreon.com.mx/desplegados/banners/$subdocument
 ! Anti-Adblock
 ||epasatiempos.es/js/af.js
 ||epasatiempos.es/js/dab.js
