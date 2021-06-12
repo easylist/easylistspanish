@@ -947,6 +947,7 @@ pelisplay.co##tr[data-lang="Publicidad"]
 elsaltodiario.com##.publi-lateral
 autoscout24.es##.cl-billboad-wrapper
 calculadora-de-derivadas.com,calculadora-de-integrales.com##div[style^="width: 728px;"]
+fichajes.com##.gtag
 ! Site Specific filters (used with $generichide)
 eleconomista.es##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
 ! Anti-Adblock
