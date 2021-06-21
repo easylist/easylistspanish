@@ -621,3 +621,4 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||netcpms.com/$popup,third-party,domain=rainanime.co
 ||midastouchrt.com^$popup,third-party=animefenix.com
 ||cuntempire.com^$popup,third-party=animefenix.com
+/popup-maker/$script,domain=diariotextual.com
