@@ -252,3 +252,4 @@
 ||vattingbalak.com^$third-party
 ||ethnictyrosky.com^$third-party
 ||apsstoure.biz^$third-party
+||solanoswajang.com^$third-party
