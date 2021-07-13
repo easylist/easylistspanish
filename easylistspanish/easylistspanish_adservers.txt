@@ -253,3 +253,4 @@
 ||ethnictyrosky.com^$third-party
 ||apsstoure.biz^$third-party
 ||educedsteeped.com^$third-party
+||solanoswajang.com^$third-party
