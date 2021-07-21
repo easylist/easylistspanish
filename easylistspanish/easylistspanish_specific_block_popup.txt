@@ -22,3 +22,8 @@ $popup,third-party,domain=divxtotal.co|mejortorrentt.net|yourupload.com|embedsit
 ||ytmp3.plus/p^$popup
 .bid/p.php?$popup,domain=pctfenix.com
 ||cine24.online/ads/$popup
+||nonestolesantes.com^$popup
+||click.expmediadirect1.com^$popup
+||bang-4-buck.com^$popup
+||nonestolesantes.com^$popup
+||pornmediaxxx.net^$popup
