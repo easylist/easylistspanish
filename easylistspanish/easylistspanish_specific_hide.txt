@@ -942,7 +942,7 @@ pelis24.gratis##a[class^="fasc"]
 larazon.es##.content__ad
 juegosjuegos.com##.Banners-lateral
 chatytvgratishd.me##div[id^="cedvtoj-"]
-bluradio.com##.GoogleDfpAd-Content
+caracoltv.com,bluradio.com##.GoogleDfpAd-Content
 pelisplay.co##tr[data-lang="Publicidad"]
 elsaltodiario.com##.publi-lateral
 autoscout24.es##.cl-billboad-wrapper
