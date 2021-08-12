@@ -865,6 +865,7 @@ profesionalreview.com##.stream-item
 profesionalreview.com,cadenaoh.com.ar##.widget-ad-image
 educaplay.com##.anuncioAlt
 animefenix.com###csgoempire
+animefenix.com##a[href="https://zenkublocks.com/"]
 seriesturcas.gratis##.ver-ahora
 portalfruticola.com##div[class*="banner-set"]
 minovelasubtitulada.com##a[href*="bestrevenuenetwork.com"]
