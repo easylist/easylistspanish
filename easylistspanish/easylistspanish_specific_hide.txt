@@ -966,4 +966,3 @@ cliver.to##div[data-name="parent-element"]
 kairosweb.com##div[class*="banner-"]
 kairosweb.com##.spu-bg
 kairosweb.com##.spu-box
-poki.com##div[class^="Advertisement__AdvertisementContainer"]
