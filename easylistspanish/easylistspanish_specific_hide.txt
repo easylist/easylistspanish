@@ -967,3 +967,4 @@ kairosweb.com##div[class*="banner-"]
 kairosweb.com##.spu-bg
 kairosweb.com##.spu-box
 poki.com##div[class^="Advertisement__AdvertisementContainer"]
+areajugones.sport.es##.publicidad
