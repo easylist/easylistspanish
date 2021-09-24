@@ -968,3 +968,5 @@ kairosweb.com##.spu-bg
 kairosweb.com##.spu-box
 poki.com##div[class^="Advertisement__AdvertisementContainer"]
 skdesu.com##.code-block[style^="margin: 20px auto;"]
+elcontribuyente.mx##picture[class^="aligncenter size-full wp-image-"]
+elcontribuyente.mx##.lx_close_button
