@@ -624,3 +624,4 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 /popup-maker/$script,domain=diariotextual.com
 ||rontent.powvibeo.cc^$popup,script
 ||centent.slreamplay.cc^$popup,script
+||maholinoticed.com^$script
