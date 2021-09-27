@@ -58,3 +58,7 @@
 ||ptilytiga.com^$popup,third-party
 ||hetapus.com^$popup,third-party
 ||ortrun-adi.com^$popup,third-party
+||whoachoh.com^$popup,third-party
+||lukomol.com^$popup,third-party
+||shoveoccupiedinsult.com^$popup,third-party
+||favouritesuitable.com^$popup,third-party
