@@ -53,6 +53,7 @@
 ||dlxrlc2ni2.com^$popup,third-party
 ||oackoubs.com^$popup,third-party
 ||adfpoint.com^$popup,third-party
+||repelis.id^$popup,third-party
 ||pelispop.me/wp-content/uploads/2019/09/logo-pelispop.png^$popup
 ||gloxeept.com^$popup,third-party
 ||ptilytiga.com^$popup,third-party
