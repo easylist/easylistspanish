@@ -54,3 +54,12 @@
 ||oackoubs.com^$popup,third-party
 ||adfpoint.com^$popup,third-party
 ||repelis.id^$popup,third-party
+||pelispop.me/wp-content/uploads/2019/09/logo-pelispop.png^$popup
+||gloxeept.com^$popup,third-party
+||ptilytiga.com^$popup,third-party
+||hetapus.com^$popup,third-party
+||ortrun-adi.com^$popup,third-party
+||whoachoh.com^$popup,third-party
+||lukomol.com^$popup,third-party
+||shoveoccupiedinsult.com^$popup,third-party
+||favouritesuitable.com^$popup,third-party
