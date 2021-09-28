@@ -625,3 +625,4 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||rontent.powvibeo.cc^$popup,script
 ||centent.slreamplay.cc^$popup,script
 ||maholinoticed.com^$script
+||newsearnmoney.com/*/popup.js
