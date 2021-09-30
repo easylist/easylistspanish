@@ -968,5 +968,6 @@ kairosweb.com##.spu-bg
 kairosweb.com##.spu-box
 poki.com##div[class^="Advertisement__AdvertisementContainer"]
 skdesu.com##.code-block[style^="margin: 20px auto;"]
+alcalorpolitico.com##div[id^="Bannerprincipal"]
 elcontribuyente.mx##a[onclick*="Publicidad"]
 elcontribuyente.mx#?#div:-abp-has(a[title="Clickio"])
