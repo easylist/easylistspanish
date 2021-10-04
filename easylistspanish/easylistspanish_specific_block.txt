@@ -625,3 +625,5 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||rontent.powvibeo.cc^$popup,script
 ||centent.slreamplay.cc^$popup,script
 ||javhd.com^$image,third-party,domain=chaty.es
+/imagenespublicidad/$image,domain=alcalorpolitico.com
+||maholinoticed.com^$script

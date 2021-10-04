@@ -850,7 +850,7 @@ novelasromanticash.blogspot.com##.sidebar>.widget.Image
 arbolabc.com##.ad-leaderboard-row
 arbolabc.com###anuncio-dark
 repelis.io##.lnk-ref
-mundoejecutivo.com.mx##.publicidad
+areajugones.sport.es,mundoejecutivo.com.mx##.publicidad
 noticias.juridicas.com###sc-brandday
 flvto.biz##.square-area
 flvto.biz##.horizontal-area
@@ -968,3 +968,6 @@ kairosweb.com##.spu-bg
 kairosweb.com##.spu-box
 poki.com##div[class^="Advertisement__AdvertisementContainer"]
 skdesu.com##.code-block[style^="margin: 20px auto;"]
+alcalorpolitico.com##div[id^="Bannerprincipal"]
+elcontribuyente.mx##a[onclick*="Publicidad"]
+elcontribuyente.mx#?#div:-abp-has(a[title="Clickio"])
