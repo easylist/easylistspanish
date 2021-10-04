@@ -36,3 +36,4 @@ tnaflix.com##.rightBarBannersx
 tnaflix.com##.pInVistix
 faptitans.com##.cross-promo-bnr
 pornoplay.online##div[class^="happy-"]
+chaty.es##h2[style^="color:red;font-size:20px!important"]
