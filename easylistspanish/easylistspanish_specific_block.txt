@@ -624,5 +624,11 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 /popup-maker/$script,domain=diariotextual.com
 ||rontent.powvibeo.cc^$popup,script
 ||centent.slreamplay.cc^$popup,script
-||maholinoticed.com^$script
 ||octanmystes.com^$script
+||streetcoddiffident.com^$script,third-party
+||newsearnmoney.com/*/popup.js
+||caunuscoagel.com$script,third-party
+||clickgate07.biz$script,third-party
+||javhd.com^$image,third-party,domain=chaty.es
+/imagenespublicidad/$image,domain=alcalorpolitico.com
+||maholinoticed.com^$script
