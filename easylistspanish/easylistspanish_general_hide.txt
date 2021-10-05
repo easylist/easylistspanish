@@ -212,6 +212,7 @@
 ##div[class^="publicHoriz"]
 ##div[id^="M"][id*="Composite"]
 ##div[id^="anuncio"]
+##img[alt*="Publicidad"]
 ! Anti-Adblock
 ###deadblocker_dialog
 ##.adblockInfo
