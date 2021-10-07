@@ -95,6 +95,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||clubdelectores.cl/cajaEmolClub/$third-party
 ||comodorodeportes.gov.ar/wp-content/uploads/*/*/*.gif
 ||comparador.euribor.com.es/lanzadera/retargetting/
+||conjugacion.es/img/mosalingua/
 ||contextotucuman.com//banners/
 ||corporacionwarez.com/wp-content/uploads/$script
 ||corrienteshoy.com/files/banners/
