@@ -975,3 +975,6 @@ alcalorpolitico.com##div[id^="Bannerprincipal"]
 elcontribuyente.mx##a[onclick*="Publicidad"]
 elcontribuyente.mx#?#div:-abp-has(a[title="Clickio"])
 puupnewsapp.com##[class*="code-block-"]
+monoschinos2.com##.info-tv
+monoschinos2.com##a[href^="https://zenkublocks.com"]
+cerebriti.com###barraAvisoAds
