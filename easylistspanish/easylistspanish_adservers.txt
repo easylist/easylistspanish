@@ -256,3 +256,5 @@
 ||solanoswajang.com^$third-party
 ||mynheerpuller.com^$third-party
 ||dogiedimepupae.com^$third-party
+||sunwardamoraic.com^$third-party
+||bluntabsolutionoblique.com^$third-party

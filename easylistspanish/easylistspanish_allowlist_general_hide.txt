@@ -2,3 +2,4 @@ mejoratuescuela.org#@#.container-ads
 itsoft.es#@#.ad-full
 itsoft.es#@#.ad-col
 xunta.gal#@#div[id^="anuncio"]
+hitfm.es#@#.publi
