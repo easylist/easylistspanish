@@ -633,3 +633,4 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 /imagenespublicidad/$image,domain=alcalorpolitico.com
 ||maholinoticed.com^$script
 ||unpkg.com/*/videojs_5.vast.vpaid$script
+||randallbesin.com^$script
