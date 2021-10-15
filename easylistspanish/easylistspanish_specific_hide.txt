@@ -978,4 +978,4 @@ puupnewsapp.com##[class*="code-block-"]
 monoschinos2.com##.info-tv
 monoschinos2.com##a[href^="https://zenkublocks.com"]
 cerebriti.com###barraAvisoAds
-heavyharmonies.com##.ad-units-main
+heavyharmonies.com##.bottomkit
