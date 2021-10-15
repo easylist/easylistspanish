@@ -63,3 +63,5 @@
 ||lukomol.com^$popup,third-party
 ||shoveoccupiedinsult.com^$popup,third-party
 ||favouritesuitable.com^$popup,third-party
+||beefymartpronunciation.com^$popup,third-party
+||librariessunflower.com^$popup,third-party
