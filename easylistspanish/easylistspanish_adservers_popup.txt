@@ -64,3 +64,4 @@
 ||shoveoccupiedinsult.com^$popup,third-party
 ||favouritesuitable.com^$popup,third-party
 ||demotzincky.casa^$popup,third-party
+||outlookabsorb.com^$popup,third-party
