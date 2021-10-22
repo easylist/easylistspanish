@@ -198,3 +198,8 @@
 @@||securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1$domain=videos.memedeportes.com|videos.cuantarazon.com|videos.vistoenlasredes.com|videos.vrutal.com|videos.humorenserie.com
 @@||ads.ampliffy.com/gampad/$domain=videos.memedeportes.com|videos.cuantarazon.com|videos.vistoenlasredes.com|videos.vrutal.com|videos.humorenserie.com
 @@||comunidadcoto.com.ar/comunidad/resources/publicidad/$image
+@@||adsafeprotected.com/services/pub?anId=$xmlhttprequest,domain=esgentside.com
+@@||g.doubleclick.net/gpt/pubads_impl_$script,domain=esgentside.com
+@@||g.doubleclick.net/tag/js/gpt.js$domain=esgentside.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=esgentside.com
+@@||adsafeprotected.com/iasPET.$script,domain=esgentside.com
