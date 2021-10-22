@@ -64,3 +64,4 @@
 ||shoveoccupiedinsult.com^$popup,third-party
 ||favouritesuitable.com^$popup,third-party
 ||colltz.com^$popup,third-party
+||salync.com^$popup,third-party
