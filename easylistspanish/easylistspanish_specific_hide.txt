@@ -262,7 +262,7 @@ smnoticias.com,smnoticias.info##.ad6
 televisa.com##.ad_space_large
 elconfidencial.com##.adcrt300x600
 elperiodico.cat,laconversacion.net,lagaceta.com.ar,lagacetasalta.com.ar,sport.es##.add
-eltrecetv.com.ar,eslang.es,gnula.se,lostiempos.com,pelispedia.tv,peru.com,publico.es,rpp.pe##.ads
+eltrecetv.com.ar,eslang.es,gnula.se,lostiempos.com,pelispedia.tv,peru.com,pctmix1.com,publico.es,rpp.pe##.ads
 yorokobu.es##.ads-block
 meristation.as.com,meristation.com.mx##.ads-notificator
 rpp.pe##.ads-sidebar-widget
@@ -968,6 +968,7 @@ kairosweb.com##div[class*="banner-"]
 kairosweb.com##.spu-bg
 kairosweb.com##.spu-box
 poki.com##div[class^="Advertisement__AdvertisementContainer"]
+poki.com##.house-small
 skdesu.com##.code-block[style^="margin: 20px auto;"]
 albumoftheyear.org##[class^="adTag"]
 cuevana-3.wtf###block-3
@@ -975,3 +976,9 @@ alcalorpolitico.com##div[id^="Bannerprincipal"]
 elcontribuyente.mx##a[onclick*="Publicidad"]
 elcontribuyente.mx#?#div:-abp-has(a[title="Clickio"])
 ev01.to###gift-middle
+pctmix1.com##.boxintersitial
+pctmix1.com##.bgshadow
+puupnewsapp.com##[class*="code-block-"]
+monoschinos2.com##.info-tv
+monoschinos2.com##a[href^="https://zenkublocks.com"]
+cerebriti.com###barraAvisoAds
