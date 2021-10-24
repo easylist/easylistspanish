@@ -16,3 +16,4 @@
 ||jsc.adgage.es^$third-party
 ||cdn.zxclan.com^$third-party
 ||kisa-link.blok.link^$third-party
+||sophomoreclassicoriginally.com^$script,third-party

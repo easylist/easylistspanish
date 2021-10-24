@@ -262,7 +262,7 @@ smnoticias.com,smnoticias.info##.ad6
 televisa.com##.ad_space_large
 elconfidencial.com##.adcrt300x600
 elperiodico.cat,laconversacion.net,lagaceta.com.ar,lagacetasalta.com.ar,sport.es##.add
-eltrecetv.com.ar,eslang.es,gnula.se,lostiempos.com,pelispedia.tv,peru.com,publico.es,rpp.pe##.ads
+eltrecetv.com.ar,eslang.es,gnula.se,lostiempos.com,pelispedia.tv,peru.com,pctmix1.com,publico.es,rpp.pe##.ads
 yorokobu.es##.ads-block
 meristation.as.com,meristation.com.mx##.ads-notificator
 rpp.pe##.ads-sidebar-widget
@@ -832,7 +832,7 @@ wapa.pe##div[class^="mol-publicidad"]
 uqload.com,gnula.cc,powvibeo.cc,slreamplay.cc##.drts
 noticiacristiana.com##a[href='http://iglesiasegura.com/']
 sport.es##div[data-item-syndicated="true"]
-jkanime.net,cuevana3.video,2conv.com,pelisplus.video,animeblix.com,gnula.se,flvto.biz,vidoza.net,doramasmp4.com##iframe[style*="z-index: 2147483647"]
+atomixhq.com,jkanime.net,cuevana3.so,cuevana3.video,2conv.com,pelisplus.video,animeblix.com,gnula.se,flvto.biz,vidoza.net,doramasmp4.com##iframe[style*="z-index: 2147483647"]
 planv.com.ec##.region-pv1-superior-amplia
 esportmaniacos.com###mvp-wallpaper
 pelisplay.co##.ads_url_insert
@@ -850,7 +850,7 @@ novelasromanticash.blogspot.com##.sidebar>.widget.Image
 arbolabc.com##.ad-leaderboard-row
 arbolabc.com###anuncio-dark
 repelis.io##.lnk-ref
-mundoejecutivo.com.mx##.publicidad
+areajugones.sport.es,mundoejecutivo.com.mx##.publicidad
 noticias.juridicas.com###sc-brandday
 flvto.biz##.square-area
 flvto.biz##.horizontal-area
@@ -950,6 +950,7 @@ autoscout24.es##.cl-billboad-wrapper
 calculadora-de-derivadas.com,calculadora-de-integrales.com##div[style^="width: 728px;"]
 fichajes.com##.gtag
 astrologiaenlinea.com##td[width="728"][height="90"]
+rewisor.com##.banner-h
 ! Site Specific filters (used with $generichide)
 eleconomista.es##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
 ! Anti-Adblock
@@ -967,5 +968,20 @@ kairosweb.com##div[class*="banner-"]
 kairosweb.com##.spu-bg
 kairosweb.com##.spu-box
 poki.com##div[class^="Advertisement__AdvertisementContainer"]
-skdesu.com##.code-block[style^="margin: 20px auto;"]
 series24.cc##.Ycsdp
+poki.com##.house-small
+skdesu.com##.code-block[style^="margin: 20px auto;"]
+albumoftheyear.org##[class^="adTag"]
+cuevana-3.wtf###block-3
+alcalorpolitico.com##div[id^="Bannerprincipal"]
+elcontribuyente.mx##a[onclick*="Publicidad"]
+elcontribuyente.mx#?#div:-abp-has(a[title="Clickio"])
+slidesgo.com##div[id^="list_ads"]
+slidesgo.com##div[id^="article_ads"]
+ev01.to###gift-middle
+pctmix1.com##.boxintersitial
+pctmix1.com##.bgshadow
+puupnewsapp.com##[class*="code-block-"]
+monoschinos2.com##.info-tv
+monoschinos2.com##a[href^="https://zenkublocks.com"]
+cerebriti.com###barraAvisoAds
