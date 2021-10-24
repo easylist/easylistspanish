@@ -968,6 +968,7 @@ kairosweb.com##div[class*="banner-"]
 kairosweb.com##.spu-bg
 kairosweb.com##.spu-box
 poki.com##div[class^="Advertisement__AdvertisementContainer"]
+poki.com##.house-small
 skdesu.com##.code-block[style^="margin: 20px auto;"]
 albumoftheyear.org##[class^="adTag"]
 cuevana-3.wtf###block-3
