@@ -260,3 +260,5 @@
 ||bluntabsolutionoblique.com^$third-party
 ||jawholeminable.com^$third-party
 ||writeratic.xyz^$third-party
+||raccrocpestful.com^$third-party
+||illiticguiding.com^$third-party
