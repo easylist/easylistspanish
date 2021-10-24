@@ -968,6 +968,7 @@ kairosweb.com##div[class*="banner-"]
 kairosweb.com##.spu-bg
 kairosweb.com##.spu-box
 poki.com##div[class^="Advertisement__AdvertisementContainer"]
+poki.com##.house-small
 skdesu.com##.code-block[style^="margin: 20px auto;"]
 albumoftheyear.org##[class^="adTag"]
 cuevana-3.wtf###block-3
@@ -976,3 +977,7 @@ elcontribuyente.mx##a[onclick*="Publicidad"]
 elcontribuyente.mx#?#div:-abp-has(a[title="Clickio"])
 pctmix1.com##.boxintersitial
 pctmix1.com##.bgshadow
+puupnewsapp.com##[class*="code-block-"]
+monoschinos2.com##.info-tv
+monoschinos2.com##a[href^="https://zenkublocks.com"]
+cerebriti.com###barraAvisoAds
