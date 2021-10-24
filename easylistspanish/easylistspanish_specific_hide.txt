@@ -968,6 +968,7 @@ kairosweb.com##div[class*="banner-"]
 kairosweb.com##.spu-bg
 kairosweb.com##.spu-box
 poki.com##div[class^="Advertisement__AdvertisementContainer"]
+series24.cc##.Ycsdp
 poki.com##.house-small
 skdesu.com##.code-block[style^="margin: 20px auto;"]
 albumoftheyear.org##[class^="adTag"]

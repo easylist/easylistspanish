@@ -625,6 +625,8 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 /popup-maker/$script,domain=diariotextual.com
 ||rontent.powvibeo.cc^$popup,script
 ||centent.slreamplay.cc^$popup,script
+||fondtinkler.com^$script
+||culmedmaumee.com^$script
 ||rtvc.es/storage/*/249.js$script
 ||octanmystes.com^$script
 ||streetcoddiffident.com^$script,third-party
