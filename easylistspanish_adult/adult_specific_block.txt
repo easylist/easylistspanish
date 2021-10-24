@@ -29,3 +29,4 @@
 ||pinklabel.com/tools/live-banners^$subdocument,domain=poringa.net
 ||blogspot.com/-*/BNO-300x250.gif^$domain=erospanish.com
 ||imx.to/imx.php?
+/fro_ld$script,domain=tmohentai.com
