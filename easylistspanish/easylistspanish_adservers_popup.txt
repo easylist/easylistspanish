@@ -63,6 +63,8 @@
 ||lukomol.com^$popup,third-party
 ||shoveoccupiedinsult.com^$popup,third-party
 ||favouritesuitable.com^$popup,third-party
+||colltz.com^$popup,third-party
+||salync.com^$popup,third-party
 ||supposefright.com^$popup,third-party
 ||fmkiuiyl.xyz^$popup,third-party
 ||lijaseconomic.xyz^$popup,third-party
