@@ -985,6 +985,7 @@ puupnewsapp.com##[class*="code-block-"]
 monoschinos2.com##.info-tv
 monoschinos2.com##a[href^="https://zenkublocks.com"]
 cerebriti.com###barraAvisoAds
+educaplay.com##img[alt="ADR Formación"]
 yts.mx##.hohch
 record.com.mx##[href^="https://online.caliente.mx"]
 mediotiempo.com##img[alt^="caliente.mx"]
