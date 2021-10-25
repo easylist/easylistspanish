@@ -268,5 +268,6 @@
 ||writeratic.xyz^$third-party
 ||raccrocpestful.com^$third-party
 ||illiticguiding.com^$third-party
+||wingerssetiger.com^$third-party
 ||mawmishtrior.com^$third-party
 ||refraidinterva.xyz^$third-party
