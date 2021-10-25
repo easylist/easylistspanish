@@ -985,5 +985,6 @@ puupnewsapp.com##[class*="code-block-"]
 monoschinos2.com##.info-tv
 monoschinos2.com##a[href^="https://zenkublocks.com"]
 cerebriti.com###barraAvisoAds
+moviesjoy.to##[id^="gift-"]
 synonyms.reverso.net###rca
 zona-leros.net##.content_store
