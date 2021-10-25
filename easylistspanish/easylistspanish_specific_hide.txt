@@ -985,6 +985,7 @@ puupnewsapp.com##[class*="code-block-"]
 monoschinos2.com##.info-tv
 monoschinos2.com##a[href^="https://zenkublocks.com"]
 cerebriti.com###barraAvisoAds
+record.com.mx##[href^="https://online.caliente.mx"]
 mediotiempo.com##img[alt^="caliente.mx"]
 moviesjoy.to##[id^="gift-"]
 synonyms.reverso.net###rca
