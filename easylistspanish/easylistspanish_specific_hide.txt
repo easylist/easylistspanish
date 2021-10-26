@@ -994,3 +994,4 @@ synonyms.reverso.net###rca
 zona-leros.net##.content_store
 elconfidencial.com##.revUnit--placeholder
 finofilipino.org##[alt^="Tienda"]
+grantorrent.ch###banner_publi
