@@ -273,3 +273,4 @@
 ||wingerssetiger.com^$third-party
 ||mawmishtrior.com^$third-party
 ||refraidinterva.xyz^$third-party
+||wreathabble.com^$third-party
