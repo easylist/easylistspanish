@@ -988,4 +988,3 @@ cerebriti.com###barraAvisoAds
 moviesjoy.to##[id^="gift-"]
 synonyms.reverso.net###rca
 zona-leros.net##.content_store
-mileroticos.com##[data-l^=" pub"]
