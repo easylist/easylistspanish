@@ -832,7 +832,7 @@ wapa.pe##div[class^="mol-publicidad"]
 uqload.com,gnula.cc,powvibeo.cc,slreamplay.cc##.drts
 noticiacristiana.com##a[href='http://iglesiasegura.com/']
 sport.es##div[data-item-syndicated="true"]
-atomixhq.com,jkanime.net,cuevana3.so,cuevana3.video,2conv.com,pelisplus.video,animeblix.com,gnula.se,mp3juices.cc,flvto.biz,vidoza.net,doramasmp4.com##iframe[style*="z-index: 2147483647"]
+atomixhq.com,jkanime.net,cuevana3.so,cuevana3.video,2conv.com,pelisplus.video,animeblix.com,gnula.se,mp3juices.cc,flvto.biz,pelisplus2.io,vidoza.net,doramasmp4.com##iframe[style*="z-index: 2147483647"]
 planv.com.ec##.region-pv1-superior-amplia
 esportmaniacos.com###mvp-wallpaper
 pelisplay.co##.ads_url_insert
@@ -985,6 +985,11 @@ puupnewsapp.com##[class*="code-block-"]
 monoschinos2.com##.info-tv
 monoschinos2.com##a[href^="https://zenkublocks.com"]
 cerebriti.com###barraAvisoAds
+educaplay.com##img[alt="ADR Formación"]
+yts.mx##.hohch
+record.com.mx##[href^="https://online.caliente.mx"]
+mediotiempo.com##img[alt^="caliente.mx"]
 moviesjoy.to##[id^="gift-"]
 synonyms.reverso.net###rca
 zona-leros.net##.content_store
+elconfidencial.com##.revUnit--placeholder
