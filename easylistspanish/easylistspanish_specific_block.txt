@@ -640,3 +640,4 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||cultergoy.com$script
 ||ckwlurries.com$script
 ||randallbesin.com^$script
+||startgaming.net$image,domain=dontorrent.rip
