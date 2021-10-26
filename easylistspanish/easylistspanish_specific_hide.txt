@@ -995,3 +995,4 @@ zona-leros.net##.content_store
 elconfidencial.com##.revUnit--placeholder
 finofilipino.org##[alt^="Tienda"]
 grantorrent.ch###banner_publi
+atomtt.com,atomixhq.com##a[target="_blank"][href^="https://startgaming.net"]
