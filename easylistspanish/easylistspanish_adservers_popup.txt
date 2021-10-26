@@ -76,3 +76,4 @@
 ||supposefright.com^$popup,third-party
 ||fmkiuiyl.xyz^$popup,third-party
 ||lijaseconomic.xyz^$popup,third-party
+||furnishedleggysoak.com^$popup,third-party
