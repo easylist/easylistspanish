@@ -78,3 +78,4 @@
 ||lijaseconomic.xyz^$popup,third-party
 ||furnishedleggysoak.com^$popup,third-party
 ||jsbevhlplmdan.xyz^$popup,third-party
+||octaplajaggar.casa^$popup,third-party
