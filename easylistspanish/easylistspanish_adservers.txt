@@ -275,3 +275,4 @@
 ||refraidinterva.xyz^$third-party
 ||wreathabble.com^$third-party
 ||garagesewe.com^$third-party
+||kotalxyloyl.com^$third-party
