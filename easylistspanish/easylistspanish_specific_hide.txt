@@ -996,3 +996,4 @@ elconfidencial.com##.revUnit--placeholder
 finofilipino.org##[alt^="Tienda"]
 grantorrent.ch###banner_publi
 atomtt.com,atomixhq.com,mejortorrentes.com##a[target="_blank"][href^="https://startgaming.net"]
+rateyourmusic.com##[id^="frame-div-gpt-ad-"]
