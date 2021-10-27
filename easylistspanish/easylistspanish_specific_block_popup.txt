@@ -28,3 +28,4 @@ $popup,third-party,domain=divxtotal.co|mejortorrentt.net|yourupload.com|embedsit
 ||nonestolesantes.com^$popup
 ||pornmediaxxx.net^$popup
 ||rontent.pouvideo.cc^$popup,script
+||uqload.com/img/player_logo.png^$popup
