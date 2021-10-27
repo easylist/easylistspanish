@@ -274,3 +274,4 @@
 ||mawmishtrior.com^$third-party
 ||refraidinterva.xyz^$third-party
 ||wreathabble.com^$third-party
+||garagesewe.com^$third-party
