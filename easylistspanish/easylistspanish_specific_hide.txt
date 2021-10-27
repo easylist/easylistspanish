@@ -249,6 +249,7 @@ mediavida.com##._p-ft
 mediavida.com##._p-tp
 gasteizhoy.com,sticknoticias.com,realidadsm.com##.a-single
 abchoy.com.ar,cuatro.com,divinity.es,elconfidencial.com,elsol.com.ar,es.wallapop.com,laverdad.com,salvajes.com,telecinco.es,applesfera.com,bebesymas.com,compradiccion.com,diariodelviajero.com,directoalpaladar.com,elblogsalmon.com,espinof.com,genbeta.com,genbetadev.com,larazon.es,mediotiempo.com,motorpasion.com,motorpasionmoto.com,pymesyautonomos.com,trendencias.com,trendenciashombre.com,vidaextra.com,vitonica.com,xataka.com,xatakaciencia.com,xatakafoto.com,xatakahome.com,xatakamovil.com,xatakandroid.com,xatakawindows.com##.ad
+redgol.cl##.ad-container
 autoblog.com.ar##.ad-header-right
 juegosdecanciones.net##.ad-latest
 elitegol.me##.ad-website
@@ -400,6 +401,7 @@ puntobiz.com.ar##.box-bloque-banners
 divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,torrentrapid.com,tumejortorrent.com##.box-publi-left
 lavanguardia.com##.box900
 mundoejecutivo.com.mx##.boxbanner
+redgol.cl##.boxbanner_container
 emol.com##.bt_publicar_ecn
 peliculasaudiolatino.com##.btnads
 ddmix.net##.btndescargar
