@@ -41,3 +41,5 @@ mileroticos.com##.horizontal-webb
 videosdemadurasx.com###pBrazzers
 videosdemadurasx.com###pSponsor
 mileroticos.com##[data-l^=" pub"]
+fakings.com#?#.centrado > div:-abp-contains(PUBLICIDAD)
+fakings.com#?#.centrado > div:-abp-contains(ADVERTISING)
