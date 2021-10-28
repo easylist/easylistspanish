@@ -30,3 +30,4 @@
 ||blogspot.com/-*/BNO-300x250.gif^$domain=erospanish.com
 ||imx.to/imx.php?
 /fro_ld$script,domain=tmohentai.com
+||fakings.com/tools/get_banner.php^$subdocument
