@@ -999,3 +999,4 @@ finofilipino.org##[alt^="Tienda"]
 grantorrent.ch###banner_publi
 atomtt.com,atomixhq.com,divxtotal.li,mejortorrentes.com##a[target="_blank"][href^="https://startgaming.net"]
 rateyourmusic.com##[id^="frame-div-gpt-ad-"]
+htcmania.com##[href^="https://navegantes.aimc.es"]
