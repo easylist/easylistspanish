@@ -642,3 +642,4 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||randallbesin.com^$script
 ||startgaming.net$image,domain=dontorrent.rip
 ||osspalkiaom.com^$script
+||xteedehi.com^$script
