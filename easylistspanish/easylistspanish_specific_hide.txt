@@ -1004,3 +1004,5 @@ igg-games.com##[href^="http://s1.igg-games.com/index.php?"]
 binary.com###multiplier_banner_container
 skylinewebcams.com##[href^="/clickb.php"]
 ettv.unblockninja.com###vpnvpn
+berjadigital.es##[id^="media_image-"]
+berjadigital.es##.g-dyn
