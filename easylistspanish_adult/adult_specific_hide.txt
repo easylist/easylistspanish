@@ -43,3 +43,6 @@ videosdemadurasx.com###pSponsor
 mileroticos.com##[data-l^=" pub"]
 fakings.com#?#.centrado > div:-abp-contains(PUBLICIDAD)
 fakings.com#?#.centrado > div:-abp-contains(ADVERTISING)
+spalumi.com##[href^="https://www.mileroticos.com/"]
+spalumi.com##[href^="https://www.hescort.com/"]
+spalumi.com##[href^="https://secretovalencia.com/"]
