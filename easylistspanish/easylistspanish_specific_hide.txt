@@ -1008,3 +1008,5 @@ berjadigital.es##[id^="media_image-"]
 berjadigital.es##.g-dyn
 microsiervos.com##.pb-tag
 nintenderos.com##a[href^="https://www.eneba.com/"][href*="?af_id="]
+areasac.es##.destacados
+areasac.es##.bannerhome
