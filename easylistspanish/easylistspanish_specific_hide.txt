@@ -15,7 +15,7 @@ foroparalelo.com###ad_global_below_navbar
 es.nametests.com###ad_wrapper_head
 nomellamesfriki.com###adpv1
 nomellamesfriki.com###adpv2
-ftail.tv,hlat.me,reverso.net,shippuden.tv###ads
+ftail.tv,hlat.me,notariosyregistradores.com,reverso.net,shippuden.tv###ads
 hlat.me###ads2
 hlat.me###ads4
 eltiempo.es###ads_position_2
