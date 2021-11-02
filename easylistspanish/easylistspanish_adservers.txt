@@ -277,3 +277,4 @@
 ||garagesewe.com^$third-party
 ||kotalxyloyl.com^$third-party
 ||loftsbaacad.com^$third-party
+||sophisticatedindignant.com^$third-party
