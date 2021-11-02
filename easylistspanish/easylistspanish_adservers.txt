@@ -278,3 +278,4 @@
 ||kotalxyloyl.com^$third-party
 ||loftsbaacad.com^$third-party
 ||sophisticatedindignant.com^$third-party
+||speedsupermarketdonut.com^$third-party
