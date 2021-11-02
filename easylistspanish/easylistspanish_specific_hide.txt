@@ -706,7 +706,7 @@ elperiodico.cl##a[href="https://www.santotomas.cl"]
 ole.com.ar##a[href="https://www.youtube.com/watch?v=IZPtel51MlA"]
 teknofilo.com##a[href^="//clk.tradedoubler.com/click?"]
 adlipay.com##a[href^="/away.php?"]
-autoblog.com.ar##a[href^="http://bit.ly/"]
+autoblog.com.ar,microsiervos.com##a[href^="http://bit.ly/"]
 cuatro.com,telecinco.es##a[href^="http://premiercasino.es/"]
 compucalitv.com##a[href^="http://toroadvertisingmedia.com/"]
 pelisplus.tv##a[href^="http://www.maxonclick.com/"]
@@ -877,7 +877,7 @@ oversos.com##div[aria-label="QODE"]
 eleconomista.es###progressBar
 reconquistanoticias.blogspot.com##div[style*="background-image: url"]
 reconquistanoticias.blogspot.com##.widget.Image
-supercpps.com##a[rel*="sponsored"]
+microsiervos.com,supercpps.com##a[rel*="sponsored"]
 marca.com##.codere
 marca.com##.ad-item-bt-cont
 libremercado.com##a[href^="https://conectate.estrategiasdeinversion.com/"]
@@ -1006,3 +1006,4 @@ skylinewebcams.com##[href^="/clickb.php"]
 ettv.unblockninja.com###vpnvpn
 berjadigital.es##[id^="media_image-"]
 berjadigital.es##.g-dyn
+microsiervos.com##.pb-tag
