@@ -79,3 +79,4 @@
 ||furnishedleggysoak.com^$popup,third-party
 ||jsbevhlplmdan.xyz^$popup,third-party
 ||octaplajaggar.casa^$popup,third-party
+||generouslivelinessevidence.com^$popup,third-party
