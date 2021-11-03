@@ -1011,3 +1011,4 @@ nintenderos.com##a[href^="https://www.eneba.com/"][href*="?af_id="]
 areasac.es##.destacados
 areasac.es##.bannerhome
 torrent.nom.es##img.fr-dii
+dataifx.com##.itau-banner
