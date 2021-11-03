@@ -1012,3 +1012,4 @@ areasac.es##.destacados
 areasac.es##.bannerhome
 torrent.nom.es##img.fr-dii
 dataifx.com##.itau-banner
+discogs.com###lngtd_ad_video
