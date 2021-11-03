@@ -281,3 +281,4 @@
 ||speedsupermarketdonut.com^$third-party
 ||bpqqccopjuat.com^$third-party
 ||vpyqdlrweoc.com^$third-party
+||squinbested.com^$third-party
