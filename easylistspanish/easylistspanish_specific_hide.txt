@@ -1013,3 +1013,8 @@ areasac.es##.bannerhome
 torrent.nom.es##img.fr-dii
 dataifx.com##.itau-banner
 discogs.com###lngtd_ad_video
+180grados.digital###sidebar > .et_pb_widget
+180grados.digital##.code-block-3
+180grados.digital##.code-block-5
+180grados.digital##.code-block-6
+180grados.digital##.code-block-9
