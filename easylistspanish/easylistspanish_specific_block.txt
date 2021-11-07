@@ -644,3 +644,4 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||osspalkiaom.com^$script
 ||xteedehi.com^$script
 ||htmorn.com^$script
+||estadiodeportivo.com/elementosWeb/gestionCajas/EDE/Image
