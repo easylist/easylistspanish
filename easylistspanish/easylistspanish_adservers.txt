@@ -286,3 +286,4 @@
 ||ratchersheugh.com^$third-party
 ||santonpardal.com^$third-party
 ||everywheresavourblouse.com^$third-party
+||sentimentfitful.com^$third-party
