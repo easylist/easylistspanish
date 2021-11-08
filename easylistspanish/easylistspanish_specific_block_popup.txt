@@ -29,4 +29,4 @@ $popup,third-party,domain=divxtotal.co|mejortorrentt.net|yourupload.com|embedsit
 ||pornmediaxxx.net^$popup
 ||rontent.pouvideo.cc^$popup,script
 ||uqload.com/img/player_logo.png^$popup
-||atomixhq.com/*/images/logos/atomixhq.png^$popup
+/images/logos/atomixhq.png^$popup,domain=atomixhq.com|atomixhq.one
