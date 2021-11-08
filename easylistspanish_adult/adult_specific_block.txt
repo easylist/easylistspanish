@@ -35,3 +35,4 @@
 ||pics.ch4s4np1c5.site$image,third-party
 ||cerdas.com/nb/asd123asd456^$script
 ||hentaila.com/files/helper.php
+||pepeporn.com/tools/get_banner.php^$subdocument
