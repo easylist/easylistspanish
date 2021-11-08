@@ -1019,3 +1019,5 @@ discogs.com###lngtd_ad_video
 180grados.digital##.code-block-6
 180grados.digital##.code-block-9
 elcorreoweb.es##[href^="https://www.morerayvallejo.es"]
+iberley.es##[href^="https://www.colex.es"]
+iberley.es##[href^="https://www.nuevamutuasanitaria.es"]
