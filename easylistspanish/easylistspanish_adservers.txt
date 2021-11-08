@@ -288,3 +288,4 @@
 ||everywheresavourblouse.com^$third-party
 ||sentimentfitful.com^$third-party
 ||servg1.net^$third-party
+||cucalm.com^$third-party
