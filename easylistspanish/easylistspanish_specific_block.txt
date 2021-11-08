@@ -646,3 +646,4 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||htmorn.com^$script
 ||estadiodeportivo.com/elementosWeb/gestionCajas/EDE/Image
 /wp-content/uploads/2020/11/Imagen$domain=viveseries.com|minovelasubtitulada.com
+||pieldetoro.net/web/imagen/
