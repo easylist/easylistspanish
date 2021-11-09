@@ -290,3 +290,4 @@
 ||servg1.net^$third-party
 ||cucalm.com^$third-party
 ||smokiercliches.com^$third-party
+||dufai4b1ap33z.cloudfront.net^$third-party
