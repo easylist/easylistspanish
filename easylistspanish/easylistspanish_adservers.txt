@@ -291,3 +291,4 @@
 ||cucalm.com^$third-party
 ||smokiercliches.com^$third-party
 ||dufai4b1ap33z.cloudfront.net^$third-party
+||xotqgydpge.xyz^$third-party
