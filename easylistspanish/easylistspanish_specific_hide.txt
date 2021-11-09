@@ -1021,3 +1021,4 @@ discogs.com###lngtd_ad_video
 elcorreoweb.es##[href^="https://www.morerayvallejo.es"]
 iberley.es##[href^="https://www.colex.es"]
 iberley.es##[href^="https://www.nuevamutuasanitaria.es"]
+supercontable.com###pub_sup
