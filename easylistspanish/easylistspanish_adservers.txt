@@ -305,3 +305,5 @@
 ||mopemodelingfrown.com^$third-party
 ||aveark.com^$third-party
 ||irousbisayan.com^$third-party
+||ashierbowler.com^$third-party
+||reverysteno.com^$third-party
