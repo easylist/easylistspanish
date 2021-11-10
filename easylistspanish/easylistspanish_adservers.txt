@@ -303,3 +303,4 @@
 ||yysvzaodorhv.com^$third-party
 ||teamsperilous.com^$third-party
 ||mopemodelingfrown.com^$third-party
+||aveark.com^$third-party
