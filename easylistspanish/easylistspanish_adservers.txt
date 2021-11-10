@@ -298,3 +298,4 @@
 ||michealmoyite.com^$third-party
 ||1ce86868bf.com^$third-party
 ||hidelen.com^$third-party
+||eshkol.io^$third-party
