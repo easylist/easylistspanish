@@ -304,3 +304,4 @@
 ||teamsperilous.com^$third-party
 ||mopemodelingfrown.com^$third-party
 ||aveark.com^$third-party
+||irousbisayan.com^$third-party
