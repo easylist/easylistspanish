@@ -301,3 +301,4 @@
 ||eshkol.io^$third-party
 ||vseenmtdmcqssv.com^$third-party
 ||yysvzaodorhv.com^$third-party
+||teamsperilous.com^$third-party
