@@ -83,3 +83,4 @@
 ||sophisticatedindignant.com^$popup,third-party
 ||buncoswosh.com^$popup,third-party
 ||ouoxwdrjsecre.xyz^$popup,third-party
+||messenger-notify.digital^$popup,third-party
