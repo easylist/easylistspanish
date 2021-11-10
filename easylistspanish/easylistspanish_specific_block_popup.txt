@@ -30,4 +30,4 @@ $popup,third-party,domain=divxtotal.co|mejortorrentt.net|yourupload.com|embedsit
 ||rontent.pouvideo.cc^$popup,script
 ||uqload.com/img/player_logo.png^$popup
 /images/logos/atomixhq.png^$popup,domain=atomixhq.com|atomixhq.one
-||jkanime.net/assets2/*/logo^$popup
+||jkanime.net/*/logo^$popup
