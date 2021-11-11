@@ -1024,3 +1024,5 @@ iberley.es##[href^="https://www.nuevamutuasanitaria.es"]
 supercontable.com###pub_sup
 4pelagatos.com##[class*="pelag-"]
 minijuegos.com###moreg
+radioexito.com.ar##.Estilo1
+radioexito.com.ar###imagensidebar
