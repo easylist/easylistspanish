@@ -307,3 +307,5 @@
 ||irousbisayan.com^$third-party
 ||ashierbowler.com^$third-party
 ||reverysteno.com^$third-party
+||d2enprlhqqv4jf.cloudfront.net^$third-party
+||nisperodonax.com^$third-party
