@@ -598,7 +598,7 @@ losandes.com.ar##.sugerencias
 pescare.com.ar##.swf-banner-1
 pescare.com.ar##.swf-banner-2
 t13.cl##.t_banner_t13
-chacodiapordia.com,eladelantado.com,tumbaabierta.com##.td-a-rec
+chacodiapordia.com,eladelantado.com,tumbaabierta.com,ultimahoraec.com##.td-a-rec
 laarena.com.ar##.td-a-rec-id-sidebar
 viruji.andaluciainformacion.es##.td-banner-wrap-full
 aldeaviral.com##.td-header-sp-recs
@@ -1027,8 +1027,8 @@ minijuegos.com###moreg
 radioexito.com.ar##.Estilo1
 radioexito.com.ar###imagensidebar
 radioexito.com.ar##[href^="https://www.bancodecorrientes.com.ar"]
-ultimahoraec.com##.td-a-rec
 lecter.news##[href^="https://www.digitalocean.com"]
 lecter.news#?#strong:-abp-contains(Reclama tu crédito)
 lecter.news#?#em:-abp-contains(Patrocinado:)
 dialoguemos.ec##[id^="slider_"]
+elproductor.com##.td-a-rec-id-custom-spot
