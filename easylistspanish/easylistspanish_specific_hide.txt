@@ -1036,3 +1036,5 @@ elproductor.com##[href^="https://www.yara.com.ec/"]
 goraymi.com##[href^="https://tungurahuaturismo.com"]
 caracoltv.com##.GoogleDfpAd-Float
 flashscore.co###box-over-content-a
+elcolombiano.com##.Widgetsliderintelecto
+elcolombiano.com##.intelectoslidercabecera
