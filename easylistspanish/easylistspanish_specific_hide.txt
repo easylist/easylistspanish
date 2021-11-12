@@ -1038,3 +1038,4 @@ caracoltv.com##.GoogleDfpAd-Float
 flashscore.co###box-over-content-a
 elcolombiano.com##.Widgetsliderintelecto
 elcolombiano.com##.intelectoslidercabecera
+elheraldo.co###ads-mascotas
