@@ -648,3 +648,4 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 /wp-content/uploads/2020/11/Imagen$domain=viveseries.com|minovelasubtitulada.com
 ||pieldetoro.net/web/imagen/
 ||annarecetasfaciles.com/*-idoneo.gif
+||elcolombiano.com/*/punto-de-compras-2-productos
