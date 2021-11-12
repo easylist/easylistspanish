@@ -1031,3 +1031,4 @@ ultimahoraec.com##.td-a-rec
 lecter.news##[href^="https://www.digitalocean.com"]
 lecter.news#?#strong:-abp-contains(Reclama tu crédito)
 lecter.news#?#em:-abp-contains(Patrocinado:)
+dialoguemos.ec##[id^="slider_"]
