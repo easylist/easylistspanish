@@ -309,3 +309,4 @@
 ||reverysteno.com^$third-party
 ||d2enprlhqqv4jf.cloudfront.net^$third-party
 ||nisperodonax.com^$third-party
+||vorseh.com^$third-party
