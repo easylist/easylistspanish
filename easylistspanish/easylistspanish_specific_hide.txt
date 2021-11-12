@@ -1027,3 +1027,4 @@ minijuegos.com###moreg
 radioexito.com.ar##.Estilo1
 radioexito.com.ar###imagensidebar
 radioexito.com.ar##[href^="https://www.bancodecorrientes.com.ar"]
+ultimahoraec.com##.td-a-rec
