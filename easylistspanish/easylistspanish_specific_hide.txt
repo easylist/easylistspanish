@@ -1028,3 +1028,6 @@ radioexito.com.ar##.Estilo1
 radioexito.com.ar###imagensidebar
 radioexito.com.ar##[href^="https://www.bancodecorrientes.com.ar"]
 ultimahoraec.com##.td-a-rec
+lecter.news##[href^="https://www.digitalocean.com"]
+lecter.news#?#strong:-abp-contains(Reclama tu crédito)
+lecter.news#?#em:-abp-contains(Patrocinado:)
