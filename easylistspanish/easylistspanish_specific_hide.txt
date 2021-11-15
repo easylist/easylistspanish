@@ -1039,3 +1039,4 @@ flashscore.co###box-over-content-a
 elcolombiano.com##.Widgetsliderintelecto
 elcolombiano.com##.intelectoslidercabecera
 elheraldo.co###ads-mascotas
+eluniverso.com##.border-grey-100
