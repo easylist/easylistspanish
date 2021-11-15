@@ -649,3 +649,4 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||pieldetoro.net/web/imagen/
 ||annarecetasfaciles.com/*-idoneo.gif
 ||elcolombiano.com/*/punto-de-compras-2-productos
+||extra.com.co/sites/default/files/*/elite-barber-shop
