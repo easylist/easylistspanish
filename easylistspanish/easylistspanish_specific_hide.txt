@@ -1047,3 +1047,4 @@ forbes.co##.pinno-flex-ad
 valoraanalitik.com#?#label:-abp-contains(Publicidad)
 colombia.com###espacio-teads
 colombia.com##[class*="div-gpt-ad-"]
+tubarco.news##.td-a-rec-id-header
