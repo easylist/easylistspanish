@@ -47,3 +47,4 @@ spalumi.com##[href^="https://www.mileroticos.com/"]
 spalumi.com##[href^="https://www.hescort.com/"]
 spalumi.com##[href^="https://secretovalencia.com/"]
 maduras.xxx##.bnpub
+doncolombia.com##.samBannerUnit
