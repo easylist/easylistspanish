@@ -1040,3 +1040,4 @@ elcolombiano.com##.Widgetsliderintelecto
 elcolombiano.com##.intelectoslidercabecera
 elheraldo.co###ads-mascotas
 eluniverso.com##.border-grey-100
+extra.com.co##.banner_header
