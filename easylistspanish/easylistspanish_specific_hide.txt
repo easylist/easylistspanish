@@ -557,7 +557,7 @@ tiempo.com.mx##.publi-6
 paginasamarillas.es##.publi-sidebar-listado
 elonce.com##.publi-top
 meristation.as.com,meristation.com.mx##.publi1
-animekb.com,carasycaretas.org.ar,ciclismoafondo.es,diario.mx,dinero.com,elrellano.com,eltribuno.info,expansion.com,gonzoo.com,iahorro.com,laizquierdadiario.com,latercera.com,lne.es,motociclismo.es,mountainbike.es,okdiario.com,publico.es,semana.com,supercines.com##.publicidad
+animekb.com,carasycaretas.org.ar,ciclismoafondo.es,diario.mx,dinero.com,eldeportivo.com.co,elrellano.com,eltribuno.info,expansion.com,gonzoo.com,iahorro.com,laizquierdadiario.com,latercera.com,lne.es,motociclismo.es,mountainbike.es,okdiario.com,publico.es,semana.com,supercines.com##.publicidad
 loventine.com.ar,loventine.es##.publicity
 maracodigital.net##.publicolumna
 noticiasdel6.com##.publii
@@ -1065,3 +1065,4 @@ diariodelsur.com.co##[href*="extra.com.co"]
 diariodelcauca.com.co,diariodelsur.com.co##[id^="block-views-block-pauta-lateral-"]
 diariodelcauca.com.co##[href^="https://www.rimax.com.co/"]
 revistapym.com.co##[href^="https://co.findasense.com/"]
+eldeportivo.com.co##.publicidadtop
