@@ -313,3 +313,4 @@
 ||orquideassp.com^$third-party
 ||wpmqavtdhiiect.xyz^$third-party
 ||d3p8w7to4066sy.cloudfront.net^$third-party
+||xmuinqbim.xyz^$third-party
