@@ -1052,3 +1052,9 @@ tubarco.news##.td-a-rec-id-header
 villavicenciodiaadia.com##.adv-link
 noticiasrcn.com###ads-inread
 omarhvelasquezm.com##[href^="https://seranking.com/"]
+mundo724.com##[href^="https://www.brandingsas.com/"]
+mundo724.com##[href^="https://www.mckellanacademy.com/"]
+mundo724.com##[href^="https://wa.me/"]
+mundo724.com##[href^="https://www.cspeakers.com"]
+mundo724.com##[href^="https://www.cuposyserviciopublico.com/"]
+mundo724.com#?#p:-abp-contains(Publicidad)
