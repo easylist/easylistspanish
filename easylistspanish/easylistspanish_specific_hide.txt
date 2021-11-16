@@ -1066,3 +1066,5 @@ diariodelcauca.com.co,diariodelsur.com.co##[id^="block-views-block-pauta-lateral
 diariodelcauca.com.co##[href^="https://www.rimax.com.co/"]
 revistapym.com.co##[href^="https://co.findasense.com/"]
 eldeportivo.com.co##.publicidadtop
+hoydiariodelmagdalena.com.co##div[itemtype^="https://schema.org/WPAdBlock"]
+hoydiariodelmagdalena.com.co##.vc_single_image-img
