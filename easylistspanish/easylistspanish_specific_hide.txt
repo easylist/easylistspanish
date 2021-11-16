@@ -1059,3 +1059,4 @@ mundo724.com##[href^="https://www.cspeakers.com"]
 mundo724.com##[href^="https://www.cuposyserviciopublico.com/"]
 mundo724.com#?#p:-abp-contains(Publicidad)
 freeethereum.com,freebitcoin.io##[href^="https://roobet.com/"]
+la.network##[href^="https://www.montrebar.com/"]
