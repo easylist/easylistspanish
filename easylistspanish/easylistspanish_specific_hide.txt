@@ -1061,3 +1061,5 @@ mundo724.com#?#p:-abp-contains(Publicidad)
 freeethereum.com,freebitcoin.io##[href^="https://roobet.com/"]
 la.network##[href^="https://www.montrebar.com/"]
 pasionmontanera.com.co##[href^="https://www.inder.gov.co/"]
+diariodelsur.com.co##[href^="https://extra.com.co/"]
+diariodelsur.com.co##[id^="block-views-block-pauta-lateral-"]
