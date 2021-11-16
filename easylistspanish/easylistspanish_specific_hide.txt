@@ -834,7 +834,7 @@ wapa.pe##div[class^="mol-publicidad"]
 uqload.com,gnula.cc,powvibeo.cc,slreamplay.cc##.drts
 noticiacristiana.com##a[href='http://iglesiasegura.com/']
 sport.es##div[data-item-syndicated="true"]
-atomixhq.com,atomixhq.one,gnula.cc,jkanime.net,series24.cc,clipconverter.cc,cuevana3.so,cuevana3.video,2conv.com,pelisplus.video,animeblix.com,gnula.se,mp3juices.cc,flvto.biz,pelisplus2.io,vidoza.net,doramasvip.com,doramasmp4.com##iframe[style*="z-index: 2147483647"]
+atomixhq.com,atomixhq.one,gnula.cc,jkanime.net,series24.cc,clipconverter.cc,cuevana3.so,cuevana3.video,2conv.com,pelisplus.video,animeblix.com,gnula.se,mp3juices.cc,flvto.biz,pelisplus2.io,repelisgo.info,vidoza.net,doramasvip.com,doramasmp4.com##iframe[style*="z-index: 2147483647"]
 planv.com.ec##.region-pv1-superior-amplia
 esportmaniacos.com###mvp-wallpaper
 pelisplay.co##.ads_url_insert
