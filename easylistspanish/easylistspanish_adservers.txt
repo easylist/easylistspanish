@@ -311,3 +311,4 @@
 ||nisperodonax.com^$third-party
 ||vorseh.com^$third-party
 ||orquideassp.com^$third-party
+||wpmqavtdhiiect.xyz^$third-party
