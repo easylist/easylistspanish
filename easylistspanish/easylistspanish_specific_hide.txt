@@ -1051,3 +1051,4 @@ colombia.com##[class*="div-gpt-ad-"]
 tubarco.news##.td-a-rec-id-header
 villavicenciodiaadia.com##.adv-link
 noticiasrcn.com###ads-inread
+omarhvelasquezm.com##[href^="https://seranking.com/"]
