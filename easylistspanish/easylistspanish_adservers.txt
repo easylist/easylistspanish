@@ -315,3 +315,5 @@
 ||d3p8w7to4066sy.cloudfront.net^$third-party
 ||xmuinqbim.xyz^$third-party
 ||klalin.com^$third-party
+||balkishbiretta.com^$third-party
+||f43ffc31e1.com^$third-party
