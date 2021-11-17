@@ -33,3 +33,4 @@ $popup,third-party,domain=divxtotal.co|mejortorrentt.net|yourupload.com|embedsit
 ||jkanime.net/*/logo$popup
 ||jkanime.net/*/logo-dark$popup
 ||ibb.co/*/logo$popup
+||animatedshows.to/*/ashows$popup
