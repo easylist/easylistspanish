@@ -32,3 +32,4 @@ $popup,third-party,domain=divxtotal.co|mejortorrentt.net|yourupload.com|embedsit
 /images/logos/atomixhq.png^$popup,domain=atomixhq.com|atomixhq.one
 ||jkanime.net/*/logo$popup
 ||jkanime.net/*/logo-dark$popup
+||ibb.co/*/logo$popup
