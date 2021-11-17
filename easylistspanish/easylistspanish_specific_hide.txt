@@ -1070,3 +1070,4 @@ hoydiariodelmagdalena.com.co##div[itemtype^="https://schema.org/WPAdBlock"]
 hoydiariodelmagdalena.com.co##.vc_single_image-img
 bcnoticias.com.co##[id^="metaslider"]
 bcnoticias.com.co##.widget_media_image
+boyaca7dias.com.co##[href^="https://colombia.argos.co/"]
