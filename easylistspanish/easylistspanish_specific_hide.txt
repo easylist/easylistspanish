@@ -1068,3 +1068,5 @@ revistapym.com.co##[href^="https://co.findasense.com/"]
 eldeportivo.com.co##.publicidadtop
 hoydiariodelmagdalena.com.co##div[itemtype^="https://schema.org/WPAdBlock"]
 hoydiariodelmagdalena.com.co##.vc_single_image-img
+bcnoticias.com.co##[id^="metaslider"]
+bcnoticias.com.co##.widget_media_image
