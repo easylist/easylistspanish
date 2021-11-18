@@ -17,3 +17,4 @@
 ||cdn.zxclan.com^$third-party
 ||kisa-link.blok.link^$third-party
 ||sophomoreclassicoriginally.com^$script,third-party
+||d38goz54x5g9rw.cloudfront.net^
