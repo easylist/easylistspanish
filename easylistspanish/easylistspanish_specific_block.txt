@@ -654,3 +654,4 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||odontologos.com.co/assets/images/advertising/
 ||odontologos.com.co/images/pauta/Gif-1-Pauta
 /js/storage/1/$domain=movidy.nz|poseidonhd.in|repelisplus.to
+||elitestream.co/script/storage/v6/
