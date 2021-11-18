@@ -325,3 +325,4 @@
 ||d13qwbj37sfx89.cloudfront.net^$third-party
 ||kuttarmufti.com^$third-party
 ||8b4b041006.com^$third-party
+||spokentomatoestraumatic.com^$third-party
