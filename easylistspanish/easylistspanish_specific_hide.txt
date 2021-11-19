@@ -1074,3 +1074,4 @@ boyaca7dias.com.co##[href^="https://colombia.argos.co/"]
 anibox.tv##pp
 redmas.com.co##.publicy-banner
 elinformador.com.co##.bannergroup
+elmetro.com.co##.a-single
