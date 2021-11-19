@@ -51,3 +51,5 @@ doncolombia.com##.samBannerUnit
 muchoporno.xxx,serviporno.com##.ntv-disclaimer
 muchoporno.xxx,serviporno.com###footer-iframe
 muchoporno.xxx,serviporno.com##.related-sites
+pampaporno.com##[class*="wrapper_"]
+pampaporno.com##[class^="abcnn_"]
