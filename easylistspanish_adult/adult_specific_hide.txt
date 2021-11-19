@@ -48,3 +48,6 @@ spalumi.com##[href^="https://www.hescort.com/"]
 spalumi.com##[href^="https://secretovalencia.com/"]
 maduras.xxx##.bnpub
 doncolombia.com##.samBannerUnit
+serviporno.com##.ntv-disclaimer
+serviporno.com###footer-iframe
+serviporno.com##.related-sites
