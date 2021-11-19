@@ -1005,7 +1005,7 @@ igg-games.com##[href^="http://s1.igg-games.com/index.php?"]
 binary.com###multiplier_banner_container
 skylinewebcams.com##[href^="/clickb.php"]
 ettv.unblockninja.com###vpnvpn
-berjadigital.es##[id^="media_image-"]
+berjadigital.es,impactonews.co##[id^="media_image-"]
 berjadigital.es##.g-dyn
 microsiervos.com##.pb-tag
 nintenderos.com##a[href^="https://www.eneba.com/"][href*="?af_id="]
@@ -1057,7 +1057,7 @@ mundo724.com##[href^="https://www.mckellanacademy.com/"]
 mundo724.com##[href^="https://wa.me/"]
 mundo724.com##[href^="https://www.cspeakers.com"]
 mundo724.com##[href^="https://www.cuposyserviciopublico.com/"]
-mundo724.com#?#p:-abp-contains(Publicidad)
+impactonews.co,mundo724.com#?#p:-abp-contains(Publicidad)
 freeethereum.com,freebitcoin.io##[href^="https://roobet.com/"]
 la.network##[href^="https://www.montrebar.com/"]
 pasionmontanera.com.co##[href^="https://www.inder.gov.co/"]
@@ -1077,3 +1077,5 @@ elinformador.com.co##.bannergroup
 elmetro.com.co##.a-single
 tiempodenoticias.com.co###media_gallery-7
 elmeridiano.co##[class^="banner"]
+impactonews.co##.attachment-full
+impactonews.co##.attachment-large
