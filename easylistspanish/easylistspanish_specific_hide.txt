@@ -1079,3 +1079,4 @@ tiempodenoticias.com.co###media_gallery-7
 elmeridiano.co##[class^="banner"]
 impactonews.co##.attachment-full
 impactonews.co##.attachment-large
+nacionpaisa.com##[id^="metaslider_widget-"]
