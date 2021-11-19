@@ -328,3 +328,4 @@
 ||spokentomatoestraumatic.com^$third-party
 ||ofmoppeuap.comm^$third-party
 ||jlklnwmj.com^$third-party
+||returnsflyswat.com^$third-party
