@@ -1075,3 +1075,4 @@ anibox.tv##pp
 redmas.com.co##.publicy-banner
 elinformador.com.co##.bannergroup
 elmetro.com.co##.a-single
+tiempodenoticias.com.co###media_gallery-7
