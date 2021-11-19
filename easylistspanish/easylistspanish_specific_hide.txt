@@ -1080,3 +1080,7 @@ elmeridiano.co##[class^="banner"]
 impactonews.co##.attachment-full
 impactonews.co##.attachment-large
 nacionpaisa.com##[id^="metaslider_widget-"]
+guiascasinos.com##[href^="https://refpa.top/"]
+guiascasinos.com##[href^="https://www.topwager365.com/"]
+guiascasinos.com##[href^="https://www.spincasino.com/"]
+guiascasinos.com##[href^="https://www.jackpotcitycasino.com/"]
