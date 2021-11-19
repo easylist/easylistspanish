@@ -1073,3 +1073,4 @@ bcnoticias.com.co##.widget_media_image
 boyaca7dias.com.co##[href^="https://colombia.argos.co/"]
 anibox.tv##pp
 redmas.com.co##.publicy-banner
+elinformador.com.co##.bannergroup
