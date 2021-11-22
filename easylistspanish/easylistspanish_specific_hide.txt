@@ -1086,3 +1086,6 @@ guiascasinos.com##[href^="https://www.spincasino.com/"]
 guiascasinos.com##[href^="https://www.jackpotcitycasino.com/"]
 buenaventuraenlinea.com##[href^="http://www.intellywp.com/"]
 gerente.com##[class^="angwp_"]
+criptonoticias.com##[class*="cript-homepage-"]
+criptonoticias.com##.cript-adlabel
+criptonoticias.com##[class*="cript-advanced-ads"]
