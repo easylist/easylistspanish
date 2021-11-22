@@ -1089,3 +1089,4 @@ gerente.com##[class^="angwp_"]
 criptonoticias.com##[class*="cript-homepage-"]
 criptonoticias.com##.cript-adlabel
 criptonoticias.com##[class*="cript-advanced-ads"]
+criptoinforme.com##[class*="td-a-rec-id-"]
