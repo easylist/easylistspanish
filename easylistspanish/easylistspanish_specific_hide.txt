@@ -606,7 +606,7 @@ cronicadigital.cl##.td-main-sidebar > .td-ss-main-sidebar > .td_block_template_5
 planbnoticias.com.ar##.text-4
 planbnoticias.com.ar##.text-7
 larazon.es##.textoPatrocinio
-elbierzodigital.com##.textwidget
+elbierzodigital.com,villavonoticias.com##.textwidget
 miradetodo.io##.tit
 mitele.es##.titleList.DestacadoBox.clearfix.ModuleSimple:last-child
 elpopular.mx##.todopuebla
@@ -1077,7 +1077,8 @@ elinformador.com.co##.bannergroup
 elmetro.com.co##.a-single
 tiempodenoticias.com.co###media_gallery-7
 elmeridiano.co##[class^="banner"]
-impactonews.co##.attachment-full
+villavonoticias.com##.attachment-medium
+impactonews.co,villavonoticias.com##.attachment-full
 impactonews.co##.attachment-large
 nacionpaisa.com##[id^="metaslider_widget-"]
 guiascasinos.com##[href^="https://refpa.top/"]
@@ -1090,3 +1091,4 @@ criptonoticias.com##[class*="cript-homepage-"]
 criptonoticias.com##.cript-adlabel
 criptonoticias.com##[class*="cript-advanced-ads"]
 criptoinforme.com##[class*="td-a-rec-id-"]
+villavonoticias.com##.widget_media_video
