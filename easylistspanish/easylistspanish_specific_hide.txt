@@ -1058,7 +1058,7 @@ mundo724.com##[href^="https://wa.me/"]
 mundo724.com##[href^="https://www.cspeakers.com"]
 mundo724.com##[href^="https://www.cuposyserviciopublico.com/"]
 impactonews.co,mundo724.com#?#p:-abp-contains(Publicidad)
-freebitcoin.io,freetether.com,freeethereum.com##[href^="https://roobet.com/"]
+coinfaucet.io,freebitcoin.io,freetether.com,freeethereum.com##[href^="https://roobet.com/"]
 la.network##[href^="https://www.montrebar.com/"]
 pasionmontanera.com.co##[href^="https://www.inder.gov.co/"]
 diariodelsur.com.co##[href*="extra.com.co"]
