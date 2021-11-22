@@ -248,7 +248,7 @@ elimparcial.com##.___-N
 mediavida.com##._p-ft
 mediavida.com##._p-tp
 gasteizhoy.com,sticknoticias.com,realidadsm.com##.a-single
-abchoy.com.ar,cuatro.com,divinity.es,elconfidencial.com,elsol.com.ar,es.wallapop.com,laverdad.com,salvajes.com,telecinco.es,applesfera.com,bebesymas.com,compradiccion.com,diariodelviajero.com,directoalpaladar.com,elblogsalmon.com,espinof.com,genbeta.com,genbetadev.com,larazon.es,mediotiempo.com,motorpasion.com,motorpasionmoto.com,pymesyautonomos.com,trendencias.com,trendenciashombre.com,vidaextra.com,vitonica.com,xataka.com,xatakaciencia.com,xatakafoto.com,xatakahome.com,xatakamovil.com,xatakandroid.com,xatakawindows.com##.ad
+abchoy.com.ar,cuatro.com,divinity.es,elconfidencial.com,elsol.com.ar,es.wallapop.com,larepublica.pe,laverdad.com,salvajes.com,telecinco.es,applesfera.com,bebesymas.com,compradiccion.com,diariodelviajero.com,directoalpaladar.com,elblogsalmon.com,espinof.com,genbeta.com,genbetadev.com,larazon.es,mediotiempo.com,motorpasion.com,motorpasionmoto.com,pymesyautonomos.com,trendencias.com,trendenciashombre.com,vidaextra.com,vitonica.com,xataka.com,xatakaciencia.com,xatakafoto.com,xatakahome.com,xatakamovil.com,xatakandroid.com,xatakawindows.com##.ad
 redgol.cl,wildtangent.com##.ad-container
 autoblog.com.ar##.ad-header-right
 juegosdecanciones.net##.ad-latest
