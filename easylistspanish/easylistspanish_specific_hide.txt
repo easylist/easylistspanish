@@ -1097,3 +1097,4 @@ andro4all.com###disp-cta
 elquindiano.com#?#span:-abp-contains(PUBLICIDAD)
 lanacion.com.ar##.sidebar__aside
 lanacion.com.ar##.mod-banner
+noticialdia.com##.box_a
