@@ -1094,3 +1094,4 @@ villavonoticias.com##.widget_media_video
 opanoticias.com##[href^="https://www.electrohuila.com.co/"]
 opanoticias.com##iframe[src^="https://www.youtube.com/embed/CiedpC-wP7E?"]
 andro4all.com###disp-cta
+elquindiano.com#?#span:-abp-contains(PUBLICIDAD)
