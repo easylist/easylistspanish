@@ -658,3 +658,4 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||gerente.com/co?_$subdocument
 ||opanoticias.com/img/uccnoviembre
 ||opanoticias.com/assets/imgs/banner/
+||profesionalreview.com/*/2021/11/asus-z690-cashback
