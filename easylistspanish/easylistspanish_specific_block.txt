@@ -662,3 +662,4 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||vercomicsporno.com/wp-content/uploads/bann
 ||noticierodelllano.com/wp-content/uploads/2021/05/
 ||repelis2.com/*/allclick-functions.js
+||pormega.com/dark-hat-*/
