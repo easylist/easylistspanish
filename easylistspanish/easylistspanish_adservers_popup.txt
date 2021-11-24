@@ -86,3 +86,4 @@
 ||messenger-notify.digital^$popup,third-party
 ||adp13a.com^$popup,third-party
 ||mmkojkwgegtw.xyz^$popup,third-party
+||hetaruvg.com^$popup,third-party
