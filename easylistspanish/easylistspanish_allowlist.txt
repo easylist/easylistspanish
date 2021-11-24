@@ -105,6 +105,7 @@
 @@||golrojadirecta.com^$generichide
 @@||hlat.me^$generichide
 @@||inmanga.com/Scripts/fuckadblock.js$script,domain=inmanga.com
+@@||improvedigital.com$script,domain=juegos.com
 @@||jkanime.net/ads.js$script,~third-party
 @@||jovenesweb.com/plugins/ABchecker/src/advertisement.js$script,domain=jovenesweb.com
 @@||kjanime.net/link/advertisement.js$script,domain=kjanime.net
