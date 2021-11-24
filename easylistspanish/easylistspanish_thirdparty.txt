@@ -20,3 +20,4 @@
 ||d38goz54x5g9rw.cloudfront.net^
 ||d2g8ksx1za632p.cloudfront.net^
 ||d6wzv57amlrv3.cloudfront.net^
+||d1cw0c50l8jv65.cloudfront.net^
