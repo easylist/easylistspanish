@@ -1100,3 +1100,4 @@ lanacion.com.ar##.mod-banner
 noticialdia.com##.box_a
 noticierodelllano.com##.banner-img
 mioriente.com##[class^="pub-banner"]
+hobbyconsolas.com##[class^="product-card"]
