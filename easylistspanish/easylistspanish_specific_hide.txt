@@ -1099,3 +1099,4 @@ lanacion.com.ar##.sidebar__aside
 lanacion.com.ar##.mod-banner
 noticialdia.com##.box_a
 noticierodelllano.com##.banner-img
+mioriente.com##[class^="pub-banner"]
