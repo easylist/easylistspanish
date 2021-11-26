@@ -338,3 +338,4 @@
 ||amateurinduced.com^$third-party
 ||dvigukindal.com^$third-party
 ||esteemtalented.com^$third-party
+||zonaads.com^$third-party
