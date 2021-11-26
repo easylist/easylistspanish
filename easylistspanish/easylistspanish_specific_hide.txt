@@ -1094,10 +1094,12 @@ villavonoticias.com##.widget_media_video
 opanoticias.com##[href^="https://www.electrohuila.com.co/"]
 opanoticias.com##iframe[src^="https://www.youtube.com/embed/CiedpC-wP7E?"]
 andro4all.com###disp-cta
-elquindiano.com#?#span:-abp-contains(PUBLICIDAD)
+laboyanos.com,elquindiano.com#?#span:-abp-contains(PUBLICIDAD)
 lanacion.com.ar##.sidebar__aside
 lanacion.com.ar##.mod-banner
 noticialdia.com##.box_a
 noticierodelllano.com##.banner-img
 mioriente.com##[class^="pub-banner"]
 hobbyconsolas.com##[class^="product-card"]
+laboyanos.com##img[data-original-height^="300"]
+laboyanos.com###rotator2
