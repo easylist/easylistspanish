@@ -1104,3 +1104,4 @@ hobbyconsolas.com##[class^="product-card"]
 laboyanos.com##img[data-original-height^="300"]
 laboyanos.com###rotator2
 mms-mexico.com##.promo
+noticiasamarillascartago.com###carrusel_publicidad
