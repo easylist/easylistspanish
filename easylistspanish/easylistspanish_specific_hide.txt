@@ -1106,3 +1106,4 @@ laboyanos.com###rotator2
 mms-mexico.com##.promo
 noticiasamarillascartago.com###carrusel_publicidad
 pt-mexico.com##[onclick*="'page' : '/virtual/Ad/"]
+andina.pe##[onclick*="/publicidad"]
