@@ -33,7 +33,7 @@
 ||fakings.com/tools/get_banner.php^$subdocument
 ||tneca.com/coretubejp-widget^$script
 ||pics.ch4s4np1c5.site$image,third-party
-||cerdas.com/nb/
+/nb$$domain=pulpo69.com|cerdas.com
 ||hentaila.com/files/helper.php
 ||pepeporn.com/tools/get_banner.php^$subdocument
 ||pornogratisdiario.com/imagenes_publicidad/
