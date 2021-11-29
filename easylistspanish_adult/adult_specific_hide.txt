@@ -58,3 +58,5 @@ vercomicsporno.com##[href^="https://bit.ly/"]
 xxxpornohq.com##.close-text
 mrvideospornogratis.xxx##[href^="http://adultguia.com"]
 serviporno.com##.footer-iframe
+serviporno.com##.abcn-footer
+serviporno.com##.related-sites2
