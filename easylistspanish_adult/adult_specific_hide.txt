@@ -58,3 +58,4 @@ mrvideospornogratis.xxx##[href^="http://adultguia.com"]
 serviporno.com##.abcn-footer
 muchoporno.xxx,serviporno.com##[class*="related-sites"]
 muchoporno.xxx,serviporno.com##[class*="r-iframe"]
+videosporno.name##.bnfo
