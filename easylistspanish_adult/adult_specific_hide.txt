@@ -60,3 +60,4 @@ muchoporno.xxx,serviporno.com##[class*="related-sites"]
 muchoporno.xxx,serviporno.com##[class*="r-iframe"]
 videosporno.name##.bnfo
 videospornogratisx.net#?#div:-abp-has(>h3:-abp-contains(CHAT PORNO X))
+qporno.xxx##[href^="https://qp.erotilink.es"]
