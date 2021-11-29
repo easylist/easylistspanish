@@ -49,14 +49,12 @@ spalumi.com##[href^="https://secretovalencia.com/"]
 maduras.xxx##.bnpub
 doncolombia.com##.samBannerUnit
 muchoporno.xxx,serviporno.com##.ntv-disclaimer
-muchoporno.xxx,serviporno.com###footer-iframe
-muchoporno.xxx,serviporno.com##.related-sites
 pampaporno.com##[class*="wrapper_"]
 pampaporno.com##[class^="aabcnn_"]
 vercomicsporno.com##[href^="http://www.ciberhentai.net"]
 vercomicsporno.com##[href^="https://bit.ly/"]
 xxxpornohq.com##.close-text
 mrvideospornogratis.xxx##[href^="http://adultguia.com"]
-serviporno.com##.footer-iframe
 serviporno.com##.abcn-footer
-serviporno.com##.related-sites2
+muchoporno.xxx,serviporno.com##[class*="related-sites"]
+muchoporno.xxx,serviporno.com##[class*="r-iframe"]
