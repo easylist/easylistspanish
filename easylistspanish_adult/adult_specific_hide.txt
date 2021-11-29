@@ -55,3 +55,4 @@ pampaporno.com##[class*="wrapper_"]
 pampaporno.com##[class^="abcnn_"]
 vercomicsporno.com##[href^="http://www.ciberhentai.net"]
 vercomicsporno.com##[href^="https://bit.ly/"]
+xxxpornohq.com##.close-text
