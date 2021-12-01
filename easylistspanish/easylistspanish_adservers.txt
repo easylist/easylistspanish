@@ -343,3 +343,4 @@
 ||0210bb49cd.com^$third-party
 ||bigasfactive.com^$third-party
 ||ferociousvirtual.com^$third-party
+||nazarickol.com^$third-party
