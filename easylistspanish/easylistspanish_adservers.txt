@@ -344,3 +344,4 @@
 ||bigasfactive.com^$third-party
 ||ferociousvirtual.com^$third-party
 ||nazarickol.com^$third-party
+||unseamlocrian.com^$third-party
