@@ -23,3 +23,4 @@
 ||d1cw0c50l8jv65.cloudfront.net^
 ||d27qffx6rqb3qm.cloudfront.net^
 ||d1t4ekjh9ps4ob.cloudfront.net^
+||d1betjlqogdr97.cloudfront.net^
