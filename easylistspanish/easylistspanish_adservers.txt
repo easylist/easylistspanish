@@ -339,3 +339,4 @@
 ||dvigukindal.com^$third-party
 ||esteemtalented.com^$third-party
 ||zonaads.com^$third-party
+||exitsthapsia.com^$third-party
