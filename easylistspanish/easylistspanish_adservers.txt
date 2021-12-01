@@ -341,3 +341,4 @@
 ||zonaads.com^$third-party
 ||exitsthapsia.com^$third-party
 ||0210bb49cd.com^$third-party
+||bigasfactive.com^$third-party
