@@ -666,3 +666,6 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||lacasadeel.net/banners/$image
 ||budokaifighters.com/images/
 ||forosforex.com/images/banner/
+||elhistoriador.com.ar/*/2021/1*/
+||elhistoriador.com.ar/*/*banner*
+||elhistoriador.com.ar/*/fedun
