@@ -997,7 +997,7 @@ zona-leros.net##.content_store
 elconfidencial.com##.revUnit--placeholder
 finofilipino.org##[alt^="Tienda"]
 grantorrent.ch###banner_publi
-atomtt.com,atomixhq.com,atomixhq.one,divxtotal.li,dontorrent.ws,gamestorrents.fm,mejortorrentes.com##a[target="_blank"][href^="https://startgaming.net"]
+atomtt.com,atomixhq.com,atomixhq.one,cuevana.se,divxtotal.li,dontorrent.ws,gamestorrents.fm,mejortorrentes.com##a[target="_blank"][href^="https://startgaming.net"]
 gamestorrents.fm##a[target="_blank"][href^="https://Startgaming.net"]
 rateyourmusic.com##[id^="frame-div-gpt-ad-"]
 htcmania.com##[href^="https://navegantes.aimc.es"]
