@@ -350,3 +350,4 @@
 ||vanaddns.com^$third-party
 ||snealp.com^$third-party
 ||0cfe97d936.com^$third-party
+||chittedjauping.com^$third-party
