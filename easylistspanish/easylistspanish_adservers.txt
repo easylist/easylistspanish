@@ -353,3 +353,4 @@
 ||chittedjauping.com^$third-party
 ||xswvytnxkzkzq.com^$third-party
 ||khayatarai.com^$third-party
+||majomalonic.com^$third-party
