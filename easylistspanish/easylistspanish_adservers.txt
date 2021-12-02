@@ -352,3 +352,4 @@
 ||0cfe97d936.com^$third-party
 ||chittedjauping.com^$third-party
 ||xswvytnxkzkzq.com^$third-party
+||khayatarai.com^$third-party
