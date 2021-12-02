@@ -669,3 +669,4 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||elhistoriador.com.ar/*/2021/1*/
 ||elhistoriador.com.ar/*/*banner*
 ||elhistoriador.com.ar/*/fedun
+||pelismart.tv/*/MqbSTPhUEDuE
