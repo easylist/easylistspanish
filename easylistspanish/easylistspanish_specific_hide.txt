@@ -843,7 +843,7 @@ juegosjuegos.ws##.bfbc
 gameflare.com##.timer
 cliver.to##.btn_pub
 aulafacil.com##.jlm-ad-videoo
-zonarutoppuden.com,ultimasnoticias.com.ve,videovak.com##pp
+anibox.tv,liderendeportes.com,zonarutoppuden.com,ultimasnoticias.com.ve,videovak.com##pp
 pons.com###ad-leaderboard__container
 pons.com###widget_difusion
 jawcloud.co##.jawban
@@ -1071,7 +1071,6 @@ hoydiariodelmagdalena.com.co##.vc_single_image-img
 bcnoticias.com.co##[id^="metaslider"]
 bcnoticias.com.co##.widget_media_image
 boyaca7dias.com.co##[href^="https://colombia.argos.co/"]
-anibox.tv##pp
 redmas.com.co##.publicy-banner
 elinformador.com.co##.bannergroup
 tiempodenoticias.com.co###media_gallery-7
