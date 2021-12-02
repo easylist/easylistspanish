@@ -348,3 +348,4 @@
 ||hledoziequt.com^$third-party
 ||congestionwithdrew.com^$third-party
 ||vanaddns.com^$third-party
+||snealp.com^$third-party
