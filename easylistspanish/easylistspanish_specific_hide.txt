@@ -1076,7 +1076,7 @@ elinformador.com.co##.bannergroup
 tiempodenoticias.com.co###media_gallery-7
 elmeridiano.co##[class^="banner"]
 villavonoticias.com##.attachment-medium
-impactonews.co,villavonoticias.com##.attachment-full
+impactonews.co,recursosculturales.com,villavonoticias.com##.attachment-full
 impactonews.co##.attachment-large
 nacionpaisa.com##[id^="metaslider_widget-"]
 guiascasinos.com##[href^="https://refpa.top/"]
