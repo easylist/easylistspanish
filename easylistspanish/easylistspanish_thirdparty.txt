@@ -25,3 +25,4 @@
 ||d1t4ekjh9ps4ob.cloudfront.net^
 ||d1betjlqogdr97.cloudfront.net^
 ||d2i4wzwe8j1np9.cloudfront.net^
+||d3pel2vlstnlu9.cloudfront.net^
