@@ -26,3 +26,4 @@
 ||d1betjlqogdr97.cloudfront.net^
 ||d2i4wzwe8j1np9.cloudfront.net^
 ||d3pel2vlstnlu9.cloudfront.net^
+||d1u1byonn4po0b.cloudfront.net^
