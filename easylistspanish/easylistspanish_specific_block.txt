@@ -671,3 +671,4 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||elhistoriador.com.ar/*/fedun
 ||pelismart.tv/*/MqbSTPhUEDuE
 ||seriesmetro.net/*/footer_bg$popup
+||cuevana.nz/js/storage/1/
