@@ -1109,3 +1109,4 @@ andina.pe##[onclick*="/publicidad"]
 sqlshack.com##[href^="https://www.apexsql.com/"]
 sqlshack.com##[href*="quest.com/"]
 legionasia.com##[class^="teaser"]
+baratos.com###ue_popups
