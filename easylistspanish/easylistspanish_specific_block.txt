@@ -673,3 +673,4 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||seriesmetro.net/*/footer_bg$popup
 /js/storage/1/$domain=cuevana.nz|pelisplus2.org
 ||masgamers.com/wp-content/uploads/2019
+||strtpe.link/ad.js
