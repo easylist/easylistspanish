@@ -1112,3 +1112,5 @@ legionasia.com##[class^="teaser"]
 baratos.com###ue_popups
 coin360.com##.TopLeaderboard
 coin360.com##.StickyCorner
+puromarketing.com##[id^="pu-"]
+puromarketing.com##[class^="pu-"]
