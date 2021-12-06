@@ -1106,3 +1106,5 @@ mms-mexico.com##.promo
 noticiasamarillascartago.com###carrusel_publicidad
 pt-mexico.com##[onclick*="'page' : '/virtual/Ad/"]
 andina.pe##[onclick*="/publicidad"]
+sqlshack.com##[href^="https://www.apexsql.com/"]
+sqlshack.com##[href*="quest.com/"]
