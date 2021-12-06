@@ -1110,3 +1110,5 @@ sqlshack.com##[href^="https://www.apexsql.com/"]
 sqlshack.com##[href*="quest.com/"]
 legionasia.com##[class^="teaser"]
 baratos.com###ue_popups
+coin360.com##.TopLeaderboard
+coin360.com##.StickyCorner
