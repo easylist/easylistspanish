@@ -1114,3 +1114,4 @@ coin360.com##.TopLeaderboard
 coin360.com##.StickyCorner
 puromarketing.com##[id^="pu-"]
 puromarketing.com##[class^="pu-"]
+fayerwayer.com##[id^="arcad-"]
