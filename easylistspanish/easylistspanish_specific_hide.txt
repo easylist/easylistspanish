@@ -1116,3 +1116,5 @@ puromarketing.com##[id^="pu-"]
 puromarketing.com##[class^="pu-"]
 fayerwayer.com##[id^="arcad-"]
 estrenarvivienda.com###motor-home
+univision.com##[data-widget-type^="Outbrain"]
+univision.com#?#div:-abp-has(>span:-abp-contains(Publicidad))
