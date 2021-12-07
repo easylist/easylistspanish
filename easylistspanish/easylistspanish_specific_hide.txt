@@ -1119,3 +1119,4 @@ fayerwayer.com##[id^="arcad-"]
 estrenarvivienda.com###motor-home
 univision.com##[data-widget-type^="Outbrain"]
 univision.com#?#div:-abp-has(>span:-abp-contains(Publicidad))
+bimotos.com##[href^="https://www.continental-neumaticos.es/"]
