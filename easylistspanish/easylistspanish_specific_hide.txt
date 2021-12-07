@@ -281,6 +281,7 @@ desdesoria.es##.advertising-corte-interstitial
 mangas-en-pdf.blogspot.com##.afiliados
 vibbo.com##.afs-block
 htcmania.com##.afterlogo
+seguimiento.co##.anpub
 diarioresponsable.com,elplural.com,esmtb.com##.anuncio
 ojomovies.com##.anuncionomovil
 androidpit.es##.appSlider
