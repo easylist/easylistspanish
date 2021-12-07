@@ -1115,3 +1115,4 @@ coin360.com##.StickyCorner
 puromarketing.com##[id^="pu-"]
 puromarketing.com##[class^="pu-"]
 fayerwayer.com##[id^="arcad-"]
+estrenarvivienda.com###motor-home
