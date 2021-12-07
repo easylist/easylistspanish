@@ -945,7 +945,7 @@ pelis24.gratis##a[class^="fasc"]
 larazon.es##.content__ad
 juegosjuegos.com##.Banners-lateral
 chatytvgratishd.me##div[id^="cedvtoj-"]
-caracoltv.com,bluradio.com##.GoogleDfpAd-Content
+caracoltv.com,bluradio.com,shock.co##.GoogleDfpAd-Content
 pelisplay.co##tr[data-lang="Publicidad"]
 elsaltodiario.com##.publi-lateral
 autoscout24.es##.cl-billboad-wrapper
@@ -1035,7 +1035,7 @@ dialoguemos.ec##[id^="slider_"]
 confirmado.net,elproductor.com##.td-a-rec-id-custom-spot
 elproductor.com##[href^="https://www.yara.com.ec/"]
 goraymi.com##[href^="https://tungurahuaturismo.com"]
-bluradio.com,caracoltv.com##.GoogleDfpAd-Float
+bluradio.com,caracoltv.com,shock.co##.GoogleDfpAd-Float
 flashscore.co###box-over-content-a
 elcolombiano.com##.Widgetsliderintelecto
 elcolombiano.com##.intelectoslidercabecera
