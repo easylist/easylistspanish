@@ -369,3 +369,4 @@
 ||katukaunamiss.com^$third-party
 ||walkinghonoured.com^$third-party
 ||dwayaihthfwvu.top^$third-party
+||characcaslon.com^$third-party
