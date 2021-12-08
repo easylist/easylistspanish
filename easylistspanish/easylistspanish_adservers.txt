@@ -365,3 +365,4 @@
 ||albercascorse.com^$third-party
 ||nothingnightingalejuly.com^$third-party
 ||ragsfrynotary.com^$third-party
+||lspzhtvstux.com^$third-party
