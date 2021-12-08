@@ -1122,3 +1122,4 @@ univision.com##[data-widget-type^="Outbrain"]
 univision.com#?#div:-abp-has(>span:-abp-contains(Publicidad))
 bimotos.com##[href^="https://www.continental-neumaticos.es/"]
 dontorrent.men#?#.card-body:-abp-has(>p:-abp-contains(¡Promociones Especiales!))
+softoniclabs.com##.oxy-modal-backdrop
