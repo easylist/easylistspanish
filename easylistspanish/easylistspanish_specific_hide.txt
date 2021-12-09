@@ -1120,6 +1120,7 @@ puromarketing.com##[class^="pu-"]
 fayerwayer.com##[id^="arcad-"]
 estrenarvivienda.com###motor-home
 univision.com##[data-widget-type^="Outbrain"]
+rtwnoticias.com#?#.mvp-widget-home-head:-abp-has(span:-abp-contains(Publicidad))
 univision.com#?#div:-abp-has(>span:-abp-contains(Publicidad))
 bimotos.com##[href^="https://www.continental-neumaticos.es/"]
 dontorrent.men#?#.card-body:-abp-has(>p:-abp-contains(¡Promociones Especiales!))
