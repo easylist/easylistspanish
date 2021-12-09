@@ -679,3 +679,4 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||mangas.in/js/taktak.js
 ||monoschinos.info/sw.js
 ||incp.org.co/wp-content/uploads/2021/07/
+||diarioputumayo.com/wp-content/uploads/2021/04/PUB
