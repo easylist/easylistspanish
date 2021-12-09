@@ -678,3 +678,4 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||truepush.com^$third-party,domain=animeyt.es
 ||mangas.in/js/taktak.js
 ||monoschinos.info/sw.js
+||incp.org.co/wp-content/uploads/2021/07/
