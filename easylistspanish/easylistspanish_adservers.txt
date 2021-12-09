@@ -370,3 +370,4 @@
 ||walkinghonoured.com^$third-party
 ||dwayaihthfwvu.top^$third-party
 ||characcaslon.com^$third-party
+||yaiser.com^$third-party
