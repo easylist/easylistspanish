@@ -1124,3 +1124,4 @@ bimotos.com##[href^="https://www.continental-neumaticos.es/"]
 dontorrent.men#?#.card-body:-abp-has(>p:-abp-contains(¡Promociones Especiales!))
 softoniclabs.com##.oxy-modal-backdrop
 incp.org.co##.cyclone-slider-widget-8
+superluchas.com#?#h2:-abp-contains(Anuncio)
