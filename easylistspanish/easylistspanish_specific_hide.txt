@@ -1078,6 +1078,7 @@ elinformador.com.co##.bannergroup
 tiempodenoticias.com.co###media_gallery-7
 elmeridiano.co##[class^="banner"]
 villavonoticias.com##.attachment-medium
+appsparavertv.com##.attachment-medium_large
 impactonews.co,recursosculturales.com,villavonoticias.com##.attachment-full
 impactonews.co##.attachment-large
 nacionpaisa.com##[id^="metaslider_widget-"]
