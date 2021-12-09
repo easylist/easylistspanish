@@ -676,3 +676,4 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||strtpe.link/ad.js
 ||prensalibrecasanare.com/b202*/
 ||truepush.com^$third-party,domain=animeyt.es
+||mangas.in/js/taktak.js
