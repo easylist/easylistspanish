@@ -373,3 +373,4 @@
 ||yaiser.com^$third-party
 ||eclogicmeows.com^$third-party
 ||eqsstvfotd.com^$third-party
+||waiwodemanila.com^$third-party
