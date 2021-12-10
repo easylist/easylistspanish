@@ -382,3 +382,4 @@
 ||prevotch.com^$third-party
 ||steadfastsystem.com^$third-party
 ||kiltyyoginis.com^$third-party
+||akusafla.com^$third-party
