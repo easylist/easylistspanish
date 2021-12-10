@@ -1131,3 +1131,4 @@ comutricolor.com##.arcad-container
 comutricolor.com##[id^="arcad-feature"]
 diarioputumayo.com###custom_html-3
 destinonegocio.com##.banner-home
+momento24.co##.td_spot_img_all
