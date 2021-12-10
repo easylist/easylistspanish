@@ -374,3 +374,5 @@
 ||eclogicmeows.com^$third-party
 ||eqsstvfotd.com^$third-party
 ||waiwodemanila.com^$third-party
+||uppilt.com^$third-party
+||casavasstamnoi.com^$third-party
