@@ -379,3 +379,4 @@
 ||2qj7mq3w4uxe.com^$third-party
 ||cometadministration.com^$third-party
 ||randomignitiondentist.com^$third-party
+||prevotch.com^$third-party
