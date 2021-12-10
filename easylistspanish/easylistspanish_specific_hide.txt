@@ -1130,3 +1130,4 @@ superluchas.com#?#h2:-abp-contains(Anuncio)
 comutricolor.com##.arcad-container
 comutricolor.com##[id^="arcad-feature"]
 diarioputumayo.com###custom_html-3
+destinonegocio.com##.banner-home
