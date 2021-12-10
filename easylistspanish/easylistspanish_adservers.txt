@@ -376,3 +376,5 @@
 ||waiwodemanila.com^$third-party
 ||uppilt.com^$third-party
 ||casavasstamnoi.com^$third-party
+||2qj7mq3w4uxe.com^$third-party
+||cometadministration.com^$third-party
