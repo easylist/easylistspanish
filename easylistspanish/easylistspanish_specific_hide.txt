@@ -999,7 +999,7 @@ elconfidencial.com##.revUnit--placeholder
 finofilipino.org##[alt^="Tienda"]
 grantorrent.ch###banner_publi
 atomixhq.net,elitetorrent.nz#?#li:-abp-has(a[href^="https://startgaming.net"])
-atomtt.com,atomixhq.com,atomixhq.one,cuevana.se,divxtotal.li,dontorrent.ws,gamestorrents.fm,mejortorrentes.com##a[target="_blank"][href^="https://startgaming.net"]
+atomtt.com,atomixhq.com,atomixhq.one,cuevana.se,divxtotal.li,divxtotal.nu,dontorrent.ws,gamestorrents.fm,mejortorrentes.com##a[target="_blank"][href^="https://startgaming.net"]
 dontorrent.men##a[target="_blank"][href^="https://Startgaming.net"]
 gamestorrents.fm##a[target="_blank"][href*="gaming.net"]
 rateyourmusic.com##[id^="frame-div-gpt-ad-"]
