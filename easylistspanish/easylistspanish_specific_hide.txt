@@ -1136,5 +1136,6 @@ diarioputumayo.com###custom_html-3
 destinonegocio.com##.banner-home
 momento24.co##.td_spot_img_all
 mejortorrentes.net##iframe[src^="publi_440_sgaming.php"]
-accounter.co##[href^="href="https://jeronimosoymuyfeliz.org/"]
-accounter.co##[href^=href="https://www.dsa.com.co/"]
+accounter.co##[href^="https://jeronimosoymuyfeliz.org/"]
+accounter.co##[href^="https://www.dsa.com.co/"]
+dataifx.com##[href^="https://camaraarmenia.org.co"]
