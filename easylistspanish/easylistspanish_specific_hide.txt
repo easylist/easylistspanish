@@ -835,7 +835,7 @@ wapa.pe##div[class^="mol-publicidad"]
 uqload.com,gnula.cc,powvibeo.cc,slreamplay.cc##.drts
 noticiacristiana.com##a[href='http://iglesiasegura.com/']
 sport.es##div[data-item-syndicated="true"]
-animeyt.es,atomixhq.com,atomixhq.one,gnula.cc,jkanime.net,series24.cc,clipconverter.cc,cuevana3.so,cuevana3.video,2conv.com,pelisplus.video,animeblix.com,gnula.se,mp3juices.cc,flvto.biz,pelisplus2.io,repelisgo.info,vidoza.net,doramasvip.com,doramasmp4.com##iframe[style*="z-index: 2147483647"]
+animeyt.es,atomixhq.com,atomixhq.net,atomixhq.one,gnula.cc,jkanime.net,series24.cc,clipconverter.cc,cuevana3.so,cuevana3.video,2conv.com,pelisplus.video,animeblix.com,gnula.se,mp3juices.cc,flvto.biz,pelisplus2.io,repelisgo.info,vidoza.net,doramasvip.com,doramasmp4.com##iframe[style*="z-index: 2147483647"]
 planv.com.ec##.region-pv1-superior-amplia
 esportmaniacos.com###mvp-wallpaper
 pelisplay.co##.ads_url_insert
@@ -998,7 +998,7 @@ zona-leros.net##.content_store
 elconfidencial.com##.revUnit--placeholder
 finofilipino.org##[alt^="Tienda"]
 grantorrent.ch###banner_publi
-elitetorrent.nz#?#li:-abp-has(a[href^="https://startgaming.net"])
+atomixhq.net,elitetorrent.nz#?#li:-abp-has(a[href^="https://startgaming.net"])
 atomtt.com,atomixhq.com,atomixhq.one,cuevana.se,divxtotal.li,dontorrent.ws,gamestorrents.fm,mejortorrentes.com##a[target="_blank"][href^="https://startgaming.net"]
 dontorrent.men##a[target="_blank"][href^="https://Startgaming.net"]
 gamestorrents.fm##a[target="_blank"][href*="gaming.net"]
