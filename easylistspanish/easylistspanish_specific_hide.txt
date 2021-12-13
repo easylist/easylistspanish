@@ -1120,7 +1120,7 @@ elcontribuyente.mx##a[onclick*="Publicidad"]
 gamestorrents.fm##a[target="_blank"][href*="aming.net"]
 gamestorrents.fm##a[target="_blank"][href*="gaming.net"]
 dontorrent.men##a[target="_blank"][href^="https://Startgaming.net"]
-atomixhq.com,atomixhq.one,atomtt.com,cuevana.se,divxtotal.li,divxtotal.nu,dontorrent.ws,gamestorrents.fm,mejortorrentes.com##a[target="_blank"][href^="https://startgaming.net"]
+atomixhq.com,atomixhq.one,atomtt.com,cuevana.se,divxtotal.li,divxtotal.nu,dontorrent.ws,gamestorrents.fm,mejortorrentes.com,pelispanda.com##a[target="_blank"][href^="https://startgaming.net"]
 atomixhq.net,elitetorrent.nz#?#li:-abp-has(a[href^="https://startgaming.net"])
 kairosweb.com##div[class*="banner-"]
 poki.com##div[class^="Advertisement__AdvertisementContainer"]
@@ -1129,6 +1129,7 @@ alcalorpolitico.com##div[id^="Bannerprincipal"]
 slidesgo.com##div[id^="article_ads"]
 slidesgo.com##div[id^="list_ads"]
 hoydiariodelmagdalena.com.co##div[itemtype^="https://schema.org/WPAdBlock"]
+pelispanda.com#?#.card:-abp-has([href*="/netflix-premium/"])
 dontorrent.men#?#.card-body:-abp-has(>p:-abp-contains(¡Promociones Especiales!))
 dontorrent.men,dontorrent.fit#?#.card-body:-abp-has(>p:-abp-contains(¡Promociones Especiales!))
 elcontribuyente.mx#?#div:-abp-has(a[title="Clickio"])
