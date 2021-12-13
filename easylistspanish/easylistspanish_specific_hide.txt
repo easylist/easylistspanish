@@ -1031,6 +1031,7 @@ mms-mexico.com##.promo
 eldeportivo.com.co##.publicidadtop
 redmas.com.co##.publicy-banner
 elconfidencial.com##.revUnit--placeholder
+elrincondelvinotinto.com##.separator
 wowtechlife.com##.sidebar1.sidebar-separators
 lanacion.com.ar##.sidebar__aside
 kairosweb.com##.spu-bg
