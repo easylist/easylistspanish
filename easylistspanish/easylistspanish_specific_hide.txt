@@ -210,7 +210,7 @@ misionesonline.net###text-21
 misionesonline.net###text-22
 comodorodeportes.gov.ar###text-25
 16valvulas.com.ar,bufeo.do,elplanetaurbano.com,elsigloweb.com,infoagro.com.ar,todopolicia.com###text-3
-infoagro.com.ar###text-4
+crearmiempresa.es,infoagro.com.ar###text-4
 diariovictoria.com.ar,elsigloweb.com###text-5
 smnoticias.com,smnoticias.info###text-52
 diariovictoria.com.ar,elsigloweb.com###text-6
@@ -714,7 +714,7 @@ reconquistanoticias.blogspot.com##.widget.Image
 equipar.es,futbolchile.net,nicaraguahoy.info##.widget_custom_html
 lajornadanet.com##.widget_custom_html > .block-title
 st1.idealista.com##.widget_idealista
-diariotextual.com,moracontenidos.com,realidadsm.com,somosjuarez.com##.widget_media_image
+crearmiempresa.es,diariotextual.com,moracontenidos.com,realidadsm.com,somosjuarez.com##.widget_media_image
 elespia.co,envilladelparque.com,envilladevoto.com##.widget_metaslider_widget
 cafevirtual.cl,ddmix.net,pamplonaactual.com,trincheraonline.com##.widget_text
 jerezcofrade.tv##.widget_ti_image_banner
