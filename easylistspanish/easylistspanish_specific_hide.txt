@@ -217,7 +217,7 @@ diariovictoria.com.ar,elsigloweb.com###text-5
 smnoticias.com,smnoticias.info###text-52
 diariovictoria.com.ar,elsigloweb.com###text-6
 telesemana.com###text-69
-animechou.com,diariovictoria.com.ar,nuestroclima.com###text-7
+animechou.com,diariovictoria.com.ar,elexpediente.co,nuestroclima.com###text-7
 livenumetal.es###text-7 > .textwidget
 irispress.es###text-72
 bufeo.do,nuestroclima.com,todopolicia.com###text-8
@@ -1086,6 +1086,7 @@ xanateach.blogspot.com##[href^="https://www.bitcoinshoy.com/"]
 atlnacional.com.co##[href^="http://www.cedimed.com/"]
 iberley.es##[href^="https://www.colex.es"]
 bimotos.com##[href^="https://www.continental-neumaticos.es/"]
+elexpediente.co##[href^="https://coronaviruscolombia.gov.co/"]
 mundo724.com##[href^="https://www.cspeakers.com"]
 mundo724.com##[href^="https://www.cuposyserviciopublico.com/"]
 lecter.news##[href^="https://www.digitalocean.com"]
