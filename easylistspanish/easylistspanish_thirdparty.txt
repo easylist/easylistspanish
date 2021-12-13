@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-=======
->>>>>>> 54f222c06427d42ad4f0c0d3b9b4ff83efe10e93
 ||allguiderecipes.info^$subdocument,third-party
 ||boostcpm.su/boost$third-party
 ||cdn.zxclan.com^$third-party
@@ -19,6 +16,7 @@
 ||d38rrxgee6j9l3.cloudfront.net^
 ||d3pel2vlstnlu9.cloudfront.net^
 ||d6wzv57amlrv3.cloudfront.net^
+||dmg0877nfcvqj.cloudfront.net^
 ||doragonborusupa.com^$third-party
 ||dzv1ekshu2vbs.cloudfront.net^
 ||economicos.cl/widgets/$third-party
