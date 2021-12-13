@@ -1,5 +1,5 @@
-mejoratuescuela.org#@#.container-ads
-itsoft.es#@#.ad-full
 itsoft.es#@#.ad-col
-xunta.gal#@#div[id^="anuncio"]
+itsoft.es#@#.ad-full
+mejoratuescuela.org#@#.container-ads
 hitfm.es#@#.publi
+xunta.gal#@#div[id^="anuncio"]

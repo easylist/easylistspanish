@@ -1,5 +1,5 @@
-||goo.gl^$popup,third-party,domain=zonatorrent.es
-||deliver.vkcdnservice.com^$popup,third-party
 ||badshores.com/*^publisher_code$popup,third-party
-||streams.lerroyje.xyz^$popup,third-party
+||deliver.vkcdnservice.com^$popup,third-party
 ||foxcdn.me/*.htm^$popup,third-party
+||goo.gl^$popup,third-party,domain=zonatorrent.es
+||streams.lerroyje.xyz^$popup,third-party

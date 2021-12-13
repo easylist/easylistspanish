@@ -4,60 +4,60 @@ mujeres-desnudas.com###anuncio-300
 slumi.com###anuncio_pancarta_campaign
 todorelatos.com###chat-show
 pornstarsyfamosas.es###enjuego
+videosdemadurasx.com###pBrazzers
+videosdemadurasx.com###pSponsor
 laschicascalientes.es###text-10
 laschicascalientes.es###text-11
 spalumi.com###topbar
 xxxvideosputas.xxx###ventana-flotante
+serviporno.com##.abcn-footer
 teatroporno.com##.adspots
 spalumi.com##.advertisement + .tborder
 mujeres-desnudas.com##.annunce
 poringa.net,teatroporno.com##.banner
 absoluporn.es##.bloc-bub-860
 absoluporn.es##.bloc-header-pub
+videosporno.name##.bnfo
+maduras.xxx##.bnpub
 putalocura.com##.c-banner-webcams
 putalocura.com##.c-webcams
 pajarracos.es##.cad
+xxxpornohq.com##.close-text
+faptitans.com##.cross-promo-bnr
 mujeres-desnudas.com##.desktop-1200
 hitomi.la##.hitomi-birestra
+mileroticos.com##.horizontal-webb
 xvideospanish.net##.inside-player-ad
+muchoporno.xxx,serviporno.com##.ntv-disclaimer
+tnaflix.com##.pInVistix
 muyzorras.com##.pds
+tnaflix.com##.rightBarBannersx
+doncolombia.com##.samBannerUnit
 torrentesx.com##.slide
 mujeres-desnudas.com##.vjs-ads
 pajarracos.es##.vp
+muchoporno.xxx,serviporno.com##[class*="r-iframe"]
+muchoporno.xxx,serviporno.com##[class*="related-sites"]
+pampaporno.com##[class*="wrapper_"]
+pampaporno.com##[class^="aabcnn_"]
+mileroticos.com##[data-l^=" pub"]
+mrvideospornogratis.xxx##[href^="http://adultguia.com"]
+vercomicsporno.com##[href^="http://www.ciberhentai.net"]
+vercomicsporno.com##[href^="https://bit.ly/"]
+qporno.xxx##[href^="https://qp.erotilink.es"]
+spalumi.com##[href^="https://secretovalencia.com/"]
+spalumi.com##[href^="https://www.hescort.com/"]
+spalumi.com##[href^="https://www.mileroticos.com/"]
 spalumi.com##a[href*="http://www.adcean.com/"]
 vercomicsporno.com##a[href="http://vermangasporno.com/"]
 pajarracos.es##a[href^="http://www.fresalia.com/"]
 pajarracos.es##a[href^="http://www.fuegodevida.com/"]
 esaschicas.com##a[href^="https://esaschicas.com/rbs_banner.php?"]
+pornoplay.online##div[class^="happy-"]
 datoporn.co##div[style="position:absolute;top:0;right:0;bottom:0;left:0;z-index:99999;cursor:pointer"]
+fakings.com#?#.centrado > div:-abp-contains(ADVERTISING)
+fakings.com#?#.centrado > div:-abp-contains(PUBLICIDAD)
+chaty.es##h2[style^="color:red;font-size:20px!important"]
 xxxvideosputas.xxx##iframe[src^="http://xxxvideosputas.xxx/includes/adds/"]
 spalumi.com##marquee
-tnaflix.com##.rightBarBannersx
-tnaflix.com##.pInVistix
-faptitans.com##.cross-promo-bnr
-pornoplay.online##div[class^="happy-"]
-chaty.es##h2[style^="color:red;font-size:20px!important"]
-mileroticos.com##.horizontal-webb
-videosdemadurasx.com###pBrazzers
-videosdemadurasx.com###pSponsor
-mileroticos.com##[data-l^=" pub"]
-fakings.com#?#.centrado > div:-abp-contains(PUBLICIDAD)
-fakings.com#?#.centrado > div:-abp-contains(ADVERTISING)
-spalumi.com##[href^="https://www.mileroticos.com/"]
-spalumi.com##[href^="https://www.hescort.com/"]
-spalumi.com##[href^="https://secretovalencia.com/"]
-maduras.xxx##.bnpub
-doncolombia.com##.samBannerUnit
-muchoporno.xxx,serviporno.com##.ntv-disclaimer
-pampaporno.com##[class*="wrapper_"]
-pampaporno.com##[class^="aabcnn_"]
-vercomicsporno.com##[href^="http://www.ciberhentai.net"]
-vercomicsporno.com##[href^="https://bit.ly/"]
-xxxpornohq.com##.close-text
-mrvideospornogratis.xxx##[href^="http://adultguia.com"]
-serviporno.com##.abcn-footer
-muchoporno.xxx,serviporno.com##[class*="related-sites"]
-muchoporno.xxx,serviporno.com##[class*="r-iframe"]
-videosporno.name##.bnfo
 videospornogratisx.net#?#div:-abp-has(>h3:-abp-contains(CHAT PORNO X))
-qporno.xxx##[href^="https://qp.erotilink.es"]
