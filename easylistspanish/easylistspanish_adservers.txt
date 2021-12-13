@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-=======
->>>>>>> 54f222c06427d42ad4f0c0d3b9b4ff83efe10e93
 ||0210bb49cd.com^$third-party
 ||0cfe97d936.com^$third-party
 ||1ce86868bf.com^$third-party
@@ -11,6 +8,7 @@
 ||adcarem.co^$third-party
 ||adcloud.us^$third-party
 ||adieusyaktop.com^$third-party
+||adplay.ga^$third-party
 ||adturtle.biz^$third-party
 ||ainder.club^$third-party
 ||akusafla.com^$third-party
