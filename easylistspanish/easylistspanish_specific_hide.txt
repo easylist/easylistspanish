@@ -1044,9 +1044,6 @@ hoydiariodelmagdalena.com.co##.vc_single_image-img
 atresplayer.com##.vjs-detect-overlay
 bcnoticias.com.co##.widget_media_image
 villavonoticias.com##.widget_media_video
-<<<<<<< HEAD
-=======
->>>>>>> 54f222c06427d42ad4f0c0d3b9b4ff83efe10e93
 finofilipino.org##[alt^="Tienda"]
 puupnewsapp.com##[class*="code-block-"]
 criptonoticias.com##[class*="cript-advanced-ads"]
