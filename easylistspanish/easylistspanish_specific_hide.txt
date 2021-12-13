@@ -23,6 +23,7 @@ eltiempo.es###ads_position_2
 deportesmax.com###adsdiv
 agma.io###advertDialog1
 hazteveg.com###advertising
+diarioadn.co##.advertising-news
 comunio.es###advertising-right
 comunio.es###advertising-top
 cualesmiip.com###anuncio
