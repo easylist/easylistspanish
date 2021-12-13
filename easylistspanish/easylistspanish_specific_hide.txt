@@ -732,6 +732,9 @@ anbariloche.com.ar,anroca.com.ar,nuevodiarioweb.com.ar##.zona_banners
 25digital.com.ar#?#.widget-container:-abp-has(.banners-125)
 25digital.com.ar#?#.widget-container:-abp-has(.metaslider)
 25digital.com.ar#?#.widget-container:-abp-has(.widget_random_banner_widget)
+<<<<<<< HEAD
+=======
+>>>>>>> 54f222c06427d42ad4f0c0d3b9b4ff83efe10e93
 st1.idealista.com##A[href="http://www.idealista.com/news/vacacional/mercado-vacacional/2015/08/12/738750-competencia-arremete-contra-la-ley-que-limita-los-pisos-turisticos-en-el?xts=352991&xtor=AD-186-[node/738750]-[]-[57601_1]-[lavanguardia.es__lavanguardia.es]-[]-[titulo_1_1]&source=314"]
 mitele.es##A[href="http://www.premiercasino.es/redirect?provenanceCode=CONECTA5CASINO"]
 gettyimages.es##[href="http://espanol.istockphoto.com/?esource=gi_es_home_3pack_istock_3"] > .promo-hover
@@ -912,7 +915,7 @@ foropolicia.es##iframe[src*="://www.netpol.es/"]
 buenaisla.net##iframe[src*="ads.ad4game.com/"]
 tarjetaroja-tv.info##iframe[src="about:blank"]
 20minutos.es##iframe[src^="https://www.20minutos.es/cajasbuscadoras/"]
-2conv.com,animeblix.com,animeyt.es,atomixhq.com,atomixhq.one,clipconverter.cc,cuevana3.so,cuevana3.video,doramasmp4.com,doramasvip.com,flvto.biz,gnula.cc,gnula.se,jkanime.net,mp3juices.cc,pelisplus.video,pelisplus2.io,repelisgo.info,series24.cc,vidoza.net##iframe[style*="z-index: 2147483647"]
+2conv.com,animeblix.com,animeyt.es,atomixhq.com,atomixhq.net,atomixhq.one,clipconverter.cc,cuevana3.so,cuevana3.video,doramasmp4.com,doramasvip.com,flvto.biz,gnula.cc,gnula.se,jkanime.net,mp3juices.cc,pelisplus.video,pelisplus2.io,repelisgo.info,series24.cc,vidoza.net##iframe[style*="z-index: 2147483647"]
 mejortorrent.com##iframe[style="margin-top:0px; margin-bottom:10px; border:1px solid black;"]
 apurogol.net##iframe[width="300"][height="250"][border="0"][frameborder="0"][scrolling="no"]
 apurogol.net##iframe[width="500"][height="400"][border="0"][frameborder="0"][scrolling="no"][maxwidth="500"][maxheight="400"][type="responsive"]
@@ -1038,6 +1041,9 @@ hoydiariodelmagdalena.com.co##.vc_single_image-img
 atresplayer.com##.vjs-detect-overlay
 bcnoticias.com.co##.widget_media_image
 villavonoticias.com##.widget_media_video
+<<<<<<< HEAD
+=======
+>>>>>>> 54f222c06427d42ad4f0c0d3b9b4ff83efe10e93
 finofilipino.org##[alt^="Tienda"]
 puupnewsapp.com##[class*="code-block-"]
 criptonoticias.com##[class*="cript-advanced-ads"]
@@ -1058,8 +1064,10 @@ sqlshack.com##[href*="quest.com/"]
 skylinewebcams.com##[href^="/clickb.php"]
 igg-games.com##[href^="http://s1.igg-games.com/index.php?"]
 buenaventuraenlinea.com##[href^="http://www.intellywp.com/"]
+dataifx.com##[href^="https://camaraarmenia.org.co"]
 revistapym.com.co##[href^="https://co.findasense.com/"]
 boyaca7dias.com.co##[href^="https://colombia.argos.co/"]
+accounter.co##[href^="https://jeronimosoymuyfeliz.org/"]
 htcmania.com##[href^="https://navegantes.aimc.es"]
 record.com.mx##[href^="https://online.caliente.mx"]
 guiascasinos.com##[href^="https://refpa.top/"]
@@ -1075,6 +1083,7 @@ bimotos.com##[href^="https://www.continental-neumaticos.es/"]
 mundo724.com##[href^="https://www.cspeakers.com"]
 mundo724.com##[href^="https://www.cuposyserviciopublico.com/"]
 lecter.news##[href^="https://www.digitalocean.com"]
+accounter.co##[href^="https://www.dsa.com.co/"]
 opanoticias.com##[href^="https://www.electrohuila.com.co/"]
 pasionmontanera.com.co##[href^="https://www.inder.gov.co/"]
 guiascasinos.com##[href^="https://www.jackpotcitycasino.com/"]
@@ -1101,9 +1110,11 @@ andina.pe##[onclick*="/publicidad"]
 nintenderos.com##a[href^="https://www.eneba.com/"][href*="?af_id="]
 monoschinos2.com##a[href^="https://zenkublocks.com"]
 elcontribuyente.mx##a[onclick*="Publicidad"]
+gamestorrents.fm##a[target="_blank"][href*="aming.net"]
 gamestorrents.fm##a[target="_blank"][href*="gaming.net"]
 dontorrent.men##a[target="_blank"][href^="https://Startgaming.net"]
-atomixhq.com,atomixhq.one,atomtt.com,cuevana.se,divxtotal.li,dontorrent.ws,gamestorrents.fm,mejortorrentes.com##a[target="_blank"][href^="https://startgaming.net"]
+atomixhq.com,atomixhq.one,atomtt.com,cuevana.se,divxtotal.li,divxtotal.nu,dontorrent.ws,gamestorrents.fm,mejortorrentes.com##a[target="_blank"][href^="https://startgaming.net"]
+atomixhq.net,elitetorrent.nz#?#li:-abp-has(a[href^="https://startgaming.net"])
 kairosweb.com##div[class*="banner-"]
 poki.com##div[class^="Advertisement__AdvertisementContainer"]
 cliver.to##div[data-name="parent-element"]
@@ -1112,8 +1123,11 @@ slidesgo.com##div[id^="article_ads"]
 slidesgo.com##div[id^="list_ads"]
 hoydiariodelmagdalena.com.co##div[itemtype^="https://schema.org/WPAdBlock"]
 dontorrent.men#?#.card-body:-abp-has(>p:-abp-contains(¡Promociones Especiales!))
+dontorrent.men,dontorrent.fit#?#.card-body:-abp-has(>p:-abp-contains(¡Promociones Especiales!))
 elcontribuyente.mx#?#div:-abp-has(a[title="Clickio"])
+gamestorrents.fm#?#.col-md-2:-abp-has(span:-abp-contains(Promoción))
 opanoticias.com##iframe[src^="https://www.youtube.com/embed/CiedpC-wP7E?"]
+mejortorrentes.net##iframe[src^="publi_440_sgaming.php"]
 torrent.nom.es##img.fr-dii
 educaplay.com##img[alt="ADR Formación"]
 mediotiempo.com##img[alt^="caliente.mx"]
@@ -1122,6 +1136,7 @@ impactonews.co,mundo724.com#?#p:-abp-contains(Publicidad)
 laboyanos.com,elquindiano.com#?#span:-abp-contains(PUBLICIDAD)
 lecter.news#?#em:-abp-contains(Patrocinado:)
 lecter.news#?#strong:-abp-contains(Reclama tu crédito)
+mejortorrentes.net#?#.main_table_center_content:-abp-has(div:-abp-contains(Promociones especiales))
 rtwnoticias.com#?#.mvp-widget-home-head:-abp-has(span:-abp-contains(Publicidad))
 pelicula.ws##section[style^="height:150px; width:100%; padding-bottom:0px;"]
 superluchas.com#?#h2:-abp-contains(Anuncio)
