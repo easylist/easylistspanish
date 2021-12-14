@@ -108,6 +108,7 @@ futbolhoy.com.ar###custom_html-4
 elcucodigital.com###custom_html-53
 elcucodigital.com###custom_html-54
 publico.es###decine21_widget_estrenos
+businesscol.com###widget_sp_image-2
 maracodigital.net###dialogintrusivo
 forocoches.com###div-300x250
 forocoches.com###div-336x280_foro_footer
