@@ -1156,6 +1156,7 @@ laboyanos.com,elquindiano.com#?#span:-abp-contains(PUBLICIDAD)
 hoy.com.do#?#span:-abp-contains(Publicidad)
 lecter.news#?#em:-abp-contains(Patrocinado:)
 lecter.news#?#strong:-abp-contains(Reclama tu crédito)
+juegosdiarios.com#?#.display-ads:-abp-has(>span:-abp-contains(Anuncio))
 mejortorrentes.net#?#.main_table_center_content:-abp-has(div:-abp-contains(Promociones especiales))
 rtwnoticias.com#?#.mvp-widget-home-head:-abp-has(span:-abp-contains(Publicidad))
 pelicula.ws##section[style^="height:150px; width:100%; padding-bottom:0px;"]
