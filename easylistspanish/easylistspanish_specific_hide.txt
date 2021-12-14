@@ -255,7 +255,7 @@ elblog.com###z_pub_sup_new
 reforma.com###zonaavisos
 informe21.com###zone-user-wrapper
 madridpress.com,sahagundigital.com##.BANNER-IMAGES
-diariolagrada.com,globalasia.com,prensa.com##.Banner
+diariolagrada.com,globalasia.com,marketingregistrado.com,prensa.com##.Banner
 guadairainformacion.com##.Banner300x100
 globalasia.com##.BannerColumna
 globalasia.com##.BannerHeader_Contenedor
