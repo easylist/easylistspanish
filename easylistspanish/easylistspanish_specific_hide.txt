@@ -26,6 +26,7 @@ hazteveg.com###advertising
 diarioadn.co##.advertising-news
 comunio.es###advertising-right
 comunio.es###advertising-top
+noticiasdehoy.site###after-ad
 cualesmiip.com###anuncio
 arbolabc.com###anuncio-dark
 animeid.tv###ap
@@ -746,6 +747,7 @@ gettyimages.es##[href="http://espanol.istockphoto.com/?esource=gi_es_home_3pack_
 st1.idealista.com##[href="http://www.idealista.com?xts=352991&xtor=AD-186-[idealista]-[]-[57601_1]-[lavanguardia.es__lavanguardia.es]-[]-[home_1_1]&source=314"]
 huelva24.com##[id^=detection]
 depo.superligatv.com##[id^=floatLayer]
+noticiasdehoy.site##[id^="Image"]
 va6.thand.info##[src="http://va6.thand.info/0hsfy957uswi2cgypg23"]
 pelis24.gratis##a[class^="fasc"]
 ddmix.net##a[href*=".click.aliexpress.com/"]
