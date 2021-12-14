@@ -235,6 +235,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||gacetamercantil.com.ar/banners/
 ||gameflare.com/common/promotions/own-images/$subdocument
 ||gamestorrents.*/realtime/
+||geeknetic.es/ajax/serveadvert-live.asp?
 ||gettyimages.es/gi-resources/images/*/iStock.jpg
 ||glossingly.com^$script,third-party
 ||gnula.cc/kljhumsw.js
