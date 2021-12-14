@@ -162,6 +162,7 @@ desdesoria.es###mediacolumna
 libertaddigital.com###mega-atf
 elmundo.es###modulo_buscador_sv
 cadena3.com###mundo-descuento
+juanbustos.com###mvp-head-top
 esportmaniacos.com###mvp-wallpaper
 chrissysinvite.co###myModal
 megaserie.me###newlayercontent
@@ -1096,6 +1097,7 @@ mundo724.com##[href^="https://www.cuposyserviciopublico.com/"]
 lecter.news##[href^="https://www.digitalocean.com"]
 accounter.co##[href^="https://www.dsa.com.co/"]
 opanoticias.com##[href^="https://www.electrohuila.com.co/"]
+juanbustos.com##[href^="https://elfotoys.com/"]
 pasionmontanera.com.co##[href^="https://www.inder.gov.co/"]
 blizzboygames.net##[href^="https://www.instant-gaming.com/"]
 guiascasinos.com##[href^="https://www.jackpotcitycasino.com/"]
