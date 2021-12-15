@@ -336,6 +336,7 @@
 ||urzkcvnttopr.com^$third-party
 ||vanaddns.com^$third-party
 ||vattingbalak.com^$third-party
+||versionsgratersteward.com^$third-party
 ||videoo.tv^$third-party
 ||vilercarpetfolk.com^$third-party
 ||vjkjjhbi.com^$third-party
