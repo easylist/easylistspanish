@@ -71,6 +71,7 @@
 ||congestionwithdrew.com^$third-party
 ||cookliverelk.com^$third-party
 ||copiapop.net^$third-party
+||coveredbetting.com^$third-party
 ||creamssicsite.com^$third-party
 ||ctromgvroh.com^$third-party
 ||cucalm.com^$third-party
@@ -102,9 +103,11 @@
 ||edxlewni.com^$third-party
 ||eergithi.com^$third-party
 ||ekfottltamc.com^$third-party
+||eggytiptops.com^$third-party
 ||elsetormentshower.com^$third-party
 ||emagazing.fun^$third-party
 ||encouragementstringsborn.com^$third-party
+||encouragingpast.com^$third-party
 ||eoemyywmjx.com^$third-party
 ||eqsstvfotd.com^$third-party
 ||eshkol.io^$third-party
