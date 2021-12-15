@@ -16,7 +16,7 @@
 ||d38rrxgee6j9l3.cloudfront.net^
 ||d3pel2vlstnlu9.cloudfront.net^
 ||d6wzv57amlrv3.cloudfront.net^
-||dmg0877nfcvqj.cloudfront.net^
+||dmg0877nfcvqj.cloudfront.net
 ||doragonborusupa.com^$third-party
 ||dzv1ekshu2vbs.cloudfront.net^
 ||economicos.cl/widgets/$third-party
