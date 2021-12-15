@@ -730,7 +730,7 @@ jerezcofrade.tv##.widget_ti_image_banner
 envilladelparque.com,envilladevoto.com##.widget_wp_views
 moracontenidos.com##.wp-block-image
 diariotextual.com##.wpb_raw_html
-mariosegura.com##.wpb_single_image
+armasymuniciones.net,mariosegura.com##.wpb_single_image
 cronicadigital.cl##.wpb_text_column
 lajornadanet.com##.wpipa-container
 hipertextual.com##.wrapperBanner
@@ -748,6 +748,7 @@ st1.idealista.com##[href="http://www.idealista.com?xts=352991&xtor=AD-186-[ideal
 huelva24.com##[id^=detection]
 depo.superligatv.com##[id^=floatLayer]
 noticiasdehoy.site##[id^="Image"]
+armasymuniciones.net##[id^="media_image-"]
 va6.thand.info##[src="http://va6.thand.info/0hsfy957uswi2cgypg23"]
 pelis24.gratis##a[class^="fasc"]
 ddmix.net##a[href*=".click.aliexpress.com/"]
@@ -1049,7 +1050,7 @@ tubarco.news##.td-a-rec-id-header
 momento24.co##.td_spot_img_all
 hoydiariodelmagdalena.com.co##.vc_single_image-img
 atresplayer.com##.vjs-detect-overlay
-bcnoticias.com.co##.widget_media_image
+armasymuniciones.net,bcnoticias.com.co##.widget_media_image
 villavonoticias.com##.widget_media_video
 finofilipino.org##[alt^="Tienda"]
 puupnewsapp.com##[class*="code-block-"]
