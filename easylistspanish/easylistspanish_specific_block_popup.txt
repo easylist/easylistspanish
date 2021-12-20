@@ -29,6 +29,7 @@ $popup,third-party,domain=divxtotal.co|embedsito.com|fembad.net|fembed.com|feurl
 ||pornmediaxxx.net^$popup
 ||rontent.pouvideo.cc^$popup,script
 ||ruralvia.com^$popup,domain=horajaen.com
+||seriesflix.live/*/LOGO_SERIESFLIX.png$popup
 ||t.co^$popup,domain=verpeliculasenlatino.com
 ||tontent.p*deo.*/*.hh^$popup
 ||uitopadxdy.com^$popup,domain=torrentlocura.com
