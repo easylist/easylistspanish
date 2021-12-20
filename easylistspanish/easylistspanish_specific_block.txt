@@ -352,6 +352,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||magisnet.com/wp-content/uploads/2018/11/300Centropsicologico-01.png
 ||manerasdevivir.com/pics/noticias/*.gif
 ||manerasdevivir.com/pics/publi/
+||mangatigre.com/assets/images/
 ||mangatigre.com/im-erogames/im-index.js
 ||mangazuki.online/sw*.js^$script
 ||manuduque.com/wp-content/uploads/2021/10/banner
