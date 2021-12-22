@@ -667,6 +667,7 @@ cuyonoticias.com##.sidebar > #text-html-widget-11
 novelasromanticash.blogspot.com##.sidebar > .widget.Image
 megawarez.org##.sidebar-ads
 diariocorreo.pe##.sidebar-zonahogar
+mediotiempo.com##.sign
 abchoy.com.ar##.slickWindow
 infojobs.net##.slotbanner-top
 infopico.com##.sombra_gris
@@ -1084,7 +1085,7 @@ cryptopotato.com##[href^="https://cryptopotato.com/ad/lumenswap"]
 accounter.co##[href^="https://jeronimosoymuyfeliz.org/"]
 colorvision.com.do##[href^="https://jumbo.com.do/"]
 htcmania.com##[href^="https://navegantes.aimc.es"]
-record.com.mx##[href^="https://online.caliente.mx"]
+mediotiempo.com,record.com.mx##[href^="https://online.caliente.mx"]
 guiascasinos.com##[href^="https://refpa.top/"]
 coinfaucet.io,freebitcoin.io,freeethereum.com,freetether.com##[href^="https://roobet.com/"]
 omarhvelasquezm.com##[href^="https://seranking.com/"]
