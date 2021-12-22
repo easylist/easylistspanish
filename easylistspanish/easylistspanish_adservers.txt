@@ -202,6 +202,7 @@
 ||kzfwvqylo.com^$third-party
 ||lamforsung.com^$third-party
 ||leadzutw.com^$third-party
+||legime.com^$third-party
 ||lgpumcja.com^$third-party
 ||lijaseconomic.xyz^$third-party
 ||livezombymil.com^$third-party
