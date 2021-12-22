@@ -25,6 +25,7 @@
 ||asuydisi.com^$third-party
 ||avbpaaypbe.com^$third-party
 ||aveark.com^$third-party
+||ba3d1a19fe.com^$third-party
 ||badskies.com^$third-party
 ||baleiambwee.com^$third-party
 ||balkishbiretta.com^$third-party
