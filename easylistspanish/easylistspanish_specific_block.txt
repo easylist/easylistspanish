@@ -683,3 +683,4 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||util.simply-hentai.com^$script,xmlhttprequest,domain=simply-cosplay.com|simply-hentai.com
 ||vercomicsporno.com/wp-content/uploads/bann
 ||xteedehi.com^$script
+^banners^$domain=alicantetoday.com
