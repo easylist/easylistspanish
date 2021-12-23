@@ -450,6 +450,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||planbnoticias.com.ar/pb/wp-content/uploads/2017/11/catrilo-muni.jpg
 ||planbnoticias.com.ar/pb/wp-content/uploads/2017/11/red-habita2.jpg
 ||planetabocajuniors.com.ar/imagenes/jaen/
+||playwire.com/bolt4/js/^$domain=gamebanana.com
 ||pons.com/p/files/*.jpg|$image
 ||practisistemas.com/images/home/claro.png
 ||practisistemas.com/images/home/movistar.png

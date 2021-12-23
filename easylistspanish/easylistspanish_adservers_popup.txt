@@ -79,6 +79,7 @@
 ||static.tellerium.com^$popup,third-party
 ||stdirection.com^$popup,third-party
 ||strafefox.xyz^$popup,third-party
+||stressfulbrag.com$popup
 ||supportcorner.co^$popup,third-party
 ||supposefright.com^$popup,third-party
 ||tvoy-million.co^$popup,third-party
