@@ -715,6 +715,7 @@ reverso.net##.verticalbox
 larazon.es##.vinculoPatrocinio
 diarionoticias.com.ar##.visable
 wago.io##.wago-ad-container
+alicantetoday.com##.weather-week
 neoauto.com##.widescreen
 cadenaoh.com.ar,profesionalreview.com##.widget-ad-image
 republica.com##.widget-sdb-publi
