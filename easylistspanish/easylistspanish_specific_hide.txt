@@ -1172,3 +1172,4 @@ pelicula.ws##section[style^="height:150px; width:100%; padding-bottom:0px;"]
 superluchas.com#?#h2:-abp-contains(Anuncio)
 univision.com#?#div:-abp-has(>span:-abp-contains(Publicidad))
 valoraanalitik.com#?#label:-abp-contains(Publicidad)
+gestion.pe##[class$="_ads"]
