@@ -452,6 +452,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||planetabocajuniors.com.ar/imagenes/jaen/
 ||playwire.com/bolt4/js/^$domain=gamebanana.com
 ||pons.com/p/files/*.jpg|$image
+||poseidonhd.nz/js/storage/1/
 ||practisistemas.com/images/home/claro.png
 ||practisistemas.com/images/home/movistar.png
 ||practisistemas.com/images/home/tigo.png
