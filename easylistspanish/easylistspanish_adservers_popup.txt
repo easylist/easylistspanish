@@ -67,6 +67,7 @@
 ||putstairboor.com^$third-party
 ||pvclouds.com^$popup,third-party
 ||pweaatek.com^$popup,third-party
+||qmdtdaqjaimgfc.top^$popup,third-party
 ||rainingvital.com^$popup,third-party
 ||repelis.id^$popup,third-party
 ||retdaz.fun^$popup,third-party
