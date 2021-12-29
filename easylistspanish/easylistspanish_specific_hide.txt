@@ -982,6 +982,7 @@ diarioputumayo.com###custom_html-3
 andro4all.com###disp-cta
 colombia.com###espacio-teads
 ev01.to###gift-middle
+myflixertv.to###gift-top
 radioexito.com.ar###imagensidebar
 discogs.com###lngtd_ad_video
 tiempodenoticias.com.co###media_gallery-7
