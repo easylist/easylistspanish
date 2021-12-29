@@ -298,7 +298,7 @@ televisa.com##.ad_space_large
 elconfidencial.com##.adcrt300x600
 elperiodico.cat,laconversacion.net,lagaceta.com.ar,lagacetasalta.com.ar,sport.es##.add
 hoyaragon.es##.addg
-9movies.yt,atomixhq.one,cronicadelquindio.com,dimayor.com.co,eltrecetv.com.ar,eslang.es,gnula.se,lostiempos.com,pctmix1.com,pelispedia.tv,peru.com,publico.es,rpp.pe##.ads
+9movies.yt,atomixhq.net,atomixhq.one,cronicadelquindio.com,dimayor.com.co,eltrecetv.com.ar,eslang.es,gnula.se,lostiempos.com,pctmix1.com,pelispedia.tv,peru.com,publico.es,rpp.pe##.ads
 yorokobu.es##.ads-block
 meristation.as.com,meristation.com.mx##.ads-notificator
 rpp.pe##.ads-sidebar-widget
@@ -1142,7 +1142,7 @@ gamestorrents.fm##a[target="_blank"][href*="aming.net"]
 gamestorrents.fm##a[target="_blank"][href*="gaming.net"]
 dontorrent.men##a[target="_blank"][href^="https://Startgaming.net"]
 atomixhq.com,atomixhq.one,atomtt.com,cuevana.se,divxtotal.li,divxtotal.nl,divxtotal.nu,dontorrent.ws,gamestorrents.fm,mejortorrentes.com,pelispanda.com##a[target="_blank"][href^="https://startgaming.net"]
-atomixhq.net,elitetorrent.nz#?#li:-abp-has(a[href^="https://startgaming.net"])
+atomixhq.net,atomtt.com,elitetorrent.nz#?#li:-abp-has(a[href^="https://startgaming.net"])
 kairosweb.com##div[class*="banner-"]
 poki.com##div[class^="Advertisement__AdvertisementContainer"]
 cliver.to##div[data-name="parent-element"]
