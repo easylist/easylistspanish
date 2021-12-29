@@ -3,7 +3,7 @@ $popup,third-party,domain=divxtotal.co|embedsito.com|fembad.net|fembed.com|feurl
 .club^$popup,third-party,domain=powv1deo.cc
 .pro^$popup,domain=strtape.tech
 /3djuegos_media_v1^$popup,domain=3djuegos.com
-/images/logos/atomixhq.png^$popup,domain=atomixhq.com|atomixhq.one
+/images/logos/atomixhq.png^$popup,domain=atomixhq.com|atomixhq.net|atomixhq.one
 /jump/next.php?$popup,domain=yts.mx
 /wp-content/plugins/all-click/sda.php^$popup,domain=cine-calidad.com|gnula.site
 ||animatedshows.to/*/ashows$popup
