@@ -1142,7 +1142,7 @@ elcontribuyente.mx##a[onclick*="Publicidad"]
 gamestorrents.fm##a[target="_blank"][href*="aming.net"]
 gamestorrents.fm##a[target="_blank"][href*="gaming.net"]
 dontorrent.men##a[target="_blank"][href^="https://Startgaming.net"]
-atomixhq.com,atomixhq.one,atomtt.com,cuevana.se,divxtotal.li,divxtotal.nl,divxtotal.nu,dontorrent.ws,gamestorrents.fm,mejortorrentes.com,pelispanda.com##a[target="_blank"][href^="https://startgaming.net"]
+atomixhq.com,atomixhq.one,atomtt.com,cuevana.se,divxtotal.li,divxtotal.nl,divxtotal.nu,dontorrent.ws,fanpelis.ac,gamestorrents.fm,mejortorrentes.com,pelispanda.com##a[target="_blank"][href^="https://startgaming.net"]
 grantorrent.ch#?#.imagen-post:-abp-has(a[href^="https://startgaming.net"])
 atomixhq.net,atomtt.com,elitetorrent.nz#?#li:-abp-has(a[href^="https://startgaming.net"])
 kairosweb.com##div[class*="banner-"]
@@ -1170,6 +1170,7 @@ lecter.news#?#em:-abp-contains(Patrocinado:)
 lecter.news#?#strong:-abp-contains(Reclama tu crédito)
 juegosdiarios.com#?#.display-ads:-abp-has(>span:-abp-contains(Anuncio))
 mejortorrentes.net#?#.main_table_center_content:-abp-has(div:-abp-contains(Promociones especiales))
+fanpelis.ac#?#.ml-item:-abp-has(a[href^="https://fanpelis.ac/"])
 rtwnoticias.com#?#.mvp-widget-home-head:-abp-has(span:-abp-contains(Publicidad))
 pelicula.ws##section[style^="height:150px; width:100%; padding-bottom:0px;"]
 superluchas.com#?#h2:-abp-contains(Anuncio)
