@@ -14,6 +14,7 @@
 ||adieusyaktop.com^$third-party
 ||adplay.ga^$third-party
 ||adturtle.biz^$third-party
+||aggestose.com^$third-party
 ||ainder.club^$third-party
 ||akusafla.com^$third-party
 ||alawachi.net^$third-party
@@ -277,6 +278,7 @@
 ||pumpbead.com^$third-party
 ||purrbodygyp.com^$third-party
 ||puttrotgob.com^$third-party
+||puturebraving.com^$third-party
 ||pwswwopip.xyz^$third-party
 ||qbcpicrtdje.com^$third-party
 ||qbgrlltue.com^$third-party
