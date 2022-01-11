@@ -386,6 +386,7 @@
 ||wdt9iaspfv3o.com^$third-party
 ||widvffyokrmlkk.com^$third-party
 ||wingerssetiger.com^$third-party
+||wingersunbrand.com^$third-party
 ||wndhsykmbe.com^$third-party
 ||wpmqavtdhiiect.xyz^$third-party
 ||wreathabble.com^$third-party
