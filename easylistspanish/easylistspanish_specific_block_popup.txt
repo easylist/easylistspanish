@@ -17,7 +17,6 @@ $popup,third-party,domain=divxtotal.co|embedsito.com|fembad.net|fembed.com|feurl
 ||doramasmp4.com/en.svg$popup
 ||foxcdn.me^$popup,domain=telerium.digital
 ||geniusdexchange.com^$popup,domain=jac-tv.com
-||gnula.nu/wp-content/uploads/$popup
 ||https://$popup,third-party,domain=cliver.to|linkotes.com
 ||ibb.co/*/logo$popup
 ||jkanime.net/*/logo$popup
@@ -36,4 +35,4 @@ $popup,third-party,domain=divxtotal.co|embedsito.com|fembad.net|fembed.com|feurl
 ||waaw.*/out.php^$popup
 ||ytmp3.plus/p^$popup
 ! html/image popups
-/^https?:\/\/.*\.(jpg|gif|png|php|svg|ico|js|txt)/$popup,domain=myflixertv.to|pelismart.com|seriesflix.live
+/^https?:\/\/.*\.(jpg|gif|png|php|svg|ico|js|txt)/$popup,domain=gnula.nu|gnula.se|myflixertv.to|pelismart.com|seriesflix.live
