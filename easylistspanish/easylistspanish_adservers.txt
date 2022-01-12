@@ -5,6 +5,7 @@
 ||3d5b53449b.com^$third-party
 ||583d46135c.com^$third-party
 ||597947ec5f.com^$third-party
+||74865ada72.com^$third-party
 ||8b4b041006.com^$third-party
 ||ab663344bb.com^$third-party
 ||ac2e81c7b8.com^$third-party
