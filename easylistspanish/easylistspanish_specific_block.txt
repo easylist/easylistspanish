@@ -403,7 +403,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||newsweeklatino.com/flow/
 ||ninemanga.net/1.png
 ||noddus.com^$domain=sport.es
-||notebookcheck.org/fileadmin/Sonstiges/am_$xmlhttprequest
+||notebookcheck.org/fileadmin/Sonstiges/amaz_$xmlhttprequest
 ||noticias3d.com/imagenes/banners/
 ||noticiasdel6.com/*.gif
 ||noticiasdelaciencia.com/upload/img/periodico/img_2972.jpg
