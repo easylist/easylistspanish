@@ -77,6 +77,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||animeflv.net/assets/animeflv/img/banner-ember-2.png
 ||animeflv.net/assets/animeflv/img/somoskd.jpg
 ||animeflv.net/assets/animeflv/img/triviataku.jpg
+||animelatinohd.com/pop.js
 ||anroca.com.ar/uploads/archivos/*.gif
 ||apfdigital.com.ar/imgpublicidad/
 ||artesacro.org/banner/Salvar-Torre-San-Bartolome-2017.gif
