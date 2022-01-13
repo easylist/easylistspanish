@@ -23,7 +23,6 @@ eltiempo.es###ads_position_2
 deportesmax.com###adsdiv
 agma.io###advertDialog1
 hazteveg.com###advertising
-diarioadn.co##.advertising-news
 comunio.es###advertising-right
 comunio.es###advertising-top
 noticiasdehoy.site###after-ad
@@ -281,7 +280,7 @@ mediavida.com##._p-ft
 mediavida.com##._p-tp
 elambito.com,elmetro.com.co,gasteizhoy.com,radiomunera.com,realidadsm.com,sticknoticias.com##.a-single
 seriesgrey.com##.a728
-abchoy.com.ar,applesfera.com,bebesymas.com,bolavip.com,compradiccion.com,cuatro.com,diariodelviajero.com,directoalpaladar.com,divinity.es,elblogsalmon.com,elconfidencial.com,elsol.com.ar,es.wallapop.com,espinof.com,genbeta.com,genbetadev.com,larazon.es,larepublica.pe,laverdad.com,libero.pe,mediotiempo.com,milenio.com,motorpasion.com,motorpasionmoto.com,pymesyautonomos.com,salvajes.com,telecinco.es,trendencias.com,trendenciashombre.com,vidaextra.com,vitonica.com,xataka.com,xatakaciencia.com,xatakafoto.com,xatakahome.com,xatakamovil.com,xatakandroid.com,xatakawindows.com##.ad
+abchoy.com.ar,applesfera.com,bebesymas.com,bolavip.com,compradiccion.com,cuatro.com,diariodelviajero.com,directoalpaladar.com,divinity.es,economiadigital.es,elblogsalmon.com,elconfidencial.com,elsol.com.ar,es.wallapop.com,espinof.com,genbeta.com,genbetadev.com,larazon.es,larepublica.pe,laverdad.com,libero.pe,mediotiempo.com,milenio.com,motorpasion.com,motorpasionmoto.com,pymesyautonomos.com,salvajes.com,telecinco.es,trendencias.com,trendenciashombre.com,vidaextra.com,vitonica.com,xataka.com,xatakaciencia.com,xatakafoto.com,xatakahome.com,xatakamovil.com,xatakandroid.com,xatakawindows.com##.ad
 redgol.cl,wildtangent.com##.ad-container
 autoblog.com.ar##.ad-header-right
 marca.com##.ad-item-bt-cont
@@ -317,6 +316,7 @@ juegos.com##.advert
 jerezcofrade.tv##.advertisement
 periodistadigital.com,realovirtual.com,tribunaavila.com,tribunaburgos.com,tribunaleon.com,tribunapalencia.com,tribunasalamanca.com,tribunasegovia.com,tribunasoria.com,tribunavalladolid.com,tribunazamora.com##.advertising
 desdesoria.es##.advertising-corte-interstitial
+diarioadn.co##.advertising-news
 20minutos.com,20minutos.com.mx,20minutos.es##.adx
 mangas-en-pdf.blogspot.com##.afiliados
 vibbo.com##.afs-block
