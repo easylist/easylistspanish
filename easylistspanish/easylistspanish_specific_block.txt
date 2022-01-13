@@ -376,6 +376,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||mediaserver.emol.cl/*/json$script
 ||mediaserver.emol.cl/*/rv.js
 ||mediaserver.emol.cl/other/lleison/
+||mediterraneodigital.com/images/banners/
 ||megalinks.info/min3r.html
 ||megawarez.org/wp-content/uploads/*/banner
 ||megawarez.org/wp-content/uploads/2017/09/modelting.png
