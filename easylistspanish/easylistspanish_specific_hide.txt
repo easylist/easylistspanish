@@ -671,6 +671,7 @@ megawarez.org##.sidebar-ads
 diariocorreo.pe##.sidebar-zonahogar
 mediotiempo.com##.sign
 abchoy.com.ar##.slickWindow
+zigzagdigital.com##.slidebanner
 infojobs.net##.slotbanner-top
 infopico.com##.sombra_gris
 sport.es##.sp-add
@@ -822,6 +823,7 @@ compucalitv.com##a[href^="http://toroadvertisingmedia.com/"]
 pelisplus.tv##a[href^="http://www.maxonclick.com/"]
 compucalitv.com##a[href^="https://a2g-secure.com/"]
 mastercoria.com##a[href^="https://alertlogsemployer.com"]
+zigzagdigital.com##a[href^="https://beone.es/"]
 pivigames.blog##a[href^="https://bstk.me/"]
 libremercado.com##a[href^="https://conectate.estrategiasdeinversion.com/"]
 cuatro.com,telecinco.es##a[href^="https://premiercasino.es/"]
@@ -977,6 +979,7 @@ huelva24.com###adblockadvice
 noticiasrcn.com###ads-inread
 elheraldo.co###ads-mascotas
 grantorrent.ch###banner_publi
+zigzagdigital.com###banner_top_container
 cerebriti.com###barraAvisoAds
 cuevana-3.wtf###block-3
 flashscore.co###box-over-content-a
