@@ -756,9 +756,10 @@ st1.idealista.com##A[href="http://www.idealista.com/news/vacacional/mercado-vaca
 mitele.es##A[href="http://www.premiercasino.es/redirect?provenanceCode=CONECTA5CASINO"]
 gettyimages.es##[href="http://espanol.istockphoto.com/?esource=gi_es_home_3pack_istock_3"] > .promo-hover
 st1.idealista.com##[href="http://www.idealista.com?xts=352991&xtor=AD-186-[idealista]-[]-[57601_1]-[lavanguardia.es__lavanguardia.es]-[]-[home_1_1]&source=314"]
-huelva24.com##[id^=detection]
-depo.superligatv.com##[id^=floatLayer]
 noticiasdehoy.site##[id^="Image"]
+huelva24.com##[id^=detection]
+diarideterrassa.com##[id^="diari-"]
+depo.superligatv.com##[id^=floatLayer]
 armasymuniciones.net##[id^="media_image-"]
 va6.thand.info##[src="http://va6.thand.info/0hsfy957uswi2cgypg23"]
 pelis24.gratis##a[class^="fasc"]
