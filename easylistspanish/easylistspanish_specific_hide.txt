@@ -27,6 +27,7 @@ diarioadn.co##.advertising-news
 comunio.es###advertising-right
 comunio.es###advertising-top
 noticiasdehoy.site###after-ad
+gaceta.es###ai_widget-2
 cualesmiip.com###anuncio
 arbolabc.com###anuncio-dark
 animeid.tv###ap
