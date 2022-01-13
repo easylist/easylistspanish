@@ -594,6 +594,9 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||wolterskluwer.es^$script,subdocument,domain=noticias.juridicas.com
 ||wowchakra.com/images/banners/
 ||wp.com/autoblog.com.ar/wp-content/uploads/*.gif
+||wp.com/gacetinmadrid.com/wp-content/uploads/2021/06/
+||wp.com/gacetinmadrid.com/wp-content/uploads/2021/09/
+||wp.com/gacetinmadrid.com/wp-content/uploads/2021/12/
 ||wp.com/realidadsm.com/wp-content/*banner$image,domain=realidadsm.com
 ||wp.com/sinmordaza.com/*?w=$image,domain=sinmordaza.com
 ||wp.com/www.cronicadigital.cl/imagenes/noticias/2017/02/cronica-letrero.jpg
