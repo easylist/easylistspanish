@@ -703,6 +703,7 @@ miradetodo.io##.tit
 mitele.es##.titleList.DestacadoBox.clearfix.ModuleSimple:last-child
 hoyaragon.es##.titulo-publicidad
 telefe.com##.tlf-ad
+theobjective.com##.tno-banner
 elpopular.mx##.todopuebla
 reverso.net##.top-horizontal
 reverso.net##.toprightdiv
