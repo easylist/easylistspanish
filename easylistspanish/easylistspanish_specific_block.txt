@@ -344,6 +344,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||lavozdecataratas.com/contenido/banners/
 ||laxarxa.com/media/asset_publics/resources/000/009/887/original/publicitat.gif
 ||ldu.com.ec/fotos/publi_*.png
+||leganews.es/wp-content/uploads/*/publicidad
 ||libertaddigital.com/fragmentos/guijuelo-responsive.html
 ||libertaddigital.com/fragmentos/movistarplus.html
 ||lifezona.com/public_data/img/banners/
