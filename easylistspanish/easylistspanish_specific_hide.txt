@@ -286,6 +286,7 @@ autoblog.com.ar##.ad-header-right
 marca.com##.ad-item-bt-cont
 juegosdecanciones.net##.ad-latest
 arbolabc.com##.ad-leaderboard-row
+okdiario.com##.ad-slot-ph
 elitegol.me##.ad-website
 mitele.es##.ad-wrapper
 elpatagonico.com##.ad02-obj
