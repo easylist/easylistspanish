@@ -277,6 +277,9 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||i2.wp.com/www.radiosantiago.cl/wp-content/uploads/2017/02/sintonia-228x228.png
 ||i2.wp.com/www.radiosantiago.cl/wp-content/uploads/2017/02/tecnoera228x34.png?
 ||identi.li/cacho/license*.js$script
+||imagenes.aquienlasierra.es/2019/
+||imagenes.aquienlasierra.es/2020/
+||imagenes.aquienlasierra.es/2021/
 ||imagensn.com/images/2016/09/02/uploaded-banner-300.jpg
 ||imagensn.com/images/2016/09/02/uploaded-banner-728.jpg
 ||imagensn.com/images/2016/12/07/dedicados.jpg
