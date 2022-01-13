@@ -425,6 +425,7 @@ noticierodigital.com##.bannerspace
 azarplus.com##.bannersuperiorhomebajomenu
 gente.com.ar##.bannnerTop
 republica.com##.barra-megabanner-tp
+diariolalupa.es##.baterybanner
 moracontenidos.com##.bc_random_banner
 tumomo.com##.bderecho
 ebay.es##.beta-placement
