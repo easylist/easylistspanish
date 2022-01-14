@@ -111,6 +111,7 @@ elcucodigital.com###custom_html-54
 publico.es###decine21_widget_estrenos
 businesscol.com###widget_sp_image-2
 maracodigital.net###dialogintrusivo
+laveu.cat###divTopBanner
 forocoches.com###div-300x250
 forocoches.com###div-336x280_foro_footer
 forocoches.com###div-336x280_respuesta_medio
@@ -667,6 +668,7 @@ muyinteresante.es##.roba1
 muyinteresante.es##.roba1_movil
 muyinteresante.es##.roba2
 muyinteresante.es##.roba2_movil
+laveu.cat##.row-publi-portada
 lapoliticaonline.com##.section-banner
 seriesanimadas.net##.section-center > .BoxContent:nth-of-type(2)
 seriesanimadas.net##.section-right > .BoxContent:nth-of-type(2)
@@ -687,6 +689,7 @@ cronista.com,elliberal.com.ar,elobservador.com.uy,publico.es,rpp.pe##.sponsor
 lacapitalmdp.com##.sponsor_stats
 elespanol.com,maximaonline.com.ar##.sponsored
 ruedasgordas.es##.sponsors
+laveu.cat##.spotPortada
 flvto.biz##.square-area
 diariolarepublica.com.ar##.st-banner
 profesionalreview.com##.stream-item
