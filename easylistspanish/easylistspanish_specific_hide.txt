@@ -346,6 +346,7 @@ cadena3.com##.baners-medio-nota-ampliada
 eleconomista.es##.bankia-cuerda
 expansion.com##.bankimia
 24con.com,agenciafe.com,agritotal.com,animakai.tv,azarplus.com,bigbangnews.com,canal-ar.com.ar,debate.com.mx,descargasnsn.com,diariodecuyo.com.ar,diariohoy.net,diariolaprovinciasj.com,diariopopular.com.ar,diariouno.com.ar,elancasti.com.ar,eldiarionuevodia.com.ar,elpatagonico.com,gacetadeportiva.com.ar,garticphone.com,impulsobaires.com.ar,infocanuelas.com,informador.mx,lacapital.com.ar,laiguana.tv,lanacion.com.ar,lapoliticaonline.com,laprensagrafica.com,masgamers.com,mdzol.com,meristation.com.mx,mibrujula.com,minutouno.com,paraveronline.com,planetadeagostini.es,primiciasya.com,puntobiz.com.ar,realpolitik.com.ar,rosario3.com,sanjuan8.com,sport.es,t13.cl,tutecnomundo.com,tycsports.com,unoentrerios.com.ar,unosantafe.com.ar,voydeviaje.com.ar##.banner
+tottarragona.cat##.bannerContainer
 alicanteplaza.es,castellonplaza.com,valenciaplaza.com##.banner--
 hipertextual.com##.banner--evento
 bigbangnews.com##.banner--full
