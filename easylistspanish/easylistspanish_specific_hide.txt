@@ -641,12 +641,14 @@ tiempo.com.mx##.publi-4
 tiempo.com.mx##.publi-5
 tiempo.com.mx##.publi-6
 mundodeportivo.com##.publi-box
+tot-hospitalet.cat##.publi-horizontal
 elsaltodiario.com##.publi-lateral
 paginasamarillas.es##.publi-sidebar-listado
 elonce.com##.publi-top
 meristation.as.com,meristation.com.mx##.publi1
 animekb.com,areajugones.sport.es,carasycaretas.org.ar,ciclismoafondo.es,diario.mx,dinero.com,eldeportivo.com.co,elrellano.com,eltribuno.info,expansion.com,gonzoo.com,iahorro.com,laizquierdadiario.com,latercera.com,lne.es,motociclismo.es,mountainbike.es,mundoejecutivo.com.mx,okdiario.com,publico.es,semana.com,supercines.com##.publicidad
 lesportiudecatalunya.cat##.publicitat
+tot-hospitalet.cat##.publicitat-banner
 loventine.com.ar,loventine.es##.publicity
 maracodigital.net##.publicolumna
 noticiasdel6.com##.publii
