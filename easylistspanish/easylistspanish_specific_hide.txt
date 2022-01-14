@@ -484,6 +484,7 @@ force-download.es##.col-sm-2
 deportemixtv.info##.column-right-outer
 puntobiz.com.ar##.columna-tercera
 elespanol.com##.comments-adv
+diaridegirona.cat##.commercial-up-full
 renfe.com##.comprabilletes
 tandildiario.com##.containerBannerDesplegable
 reforma.com##.container_publicidad
