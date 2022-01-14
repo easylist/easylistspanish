@@ -328,6 +328,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||kissanime.si/api/pop.php
 ||labsk.net/banners/
 ||labsk.net/carousel/
+||labustia.cat/wp-content/uploads/*/Banner
 ||lacapitalmdp.com/2017/11/fl-1.gif
 ||lacapitalmdp.com/img_design/paseo_aero.jpg
 ||laconversacion.net/wp-content/uploads/2017/07/IMG-20170710-WA0000.jpg
