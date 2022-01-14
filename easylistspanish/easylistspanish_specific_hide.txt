@@ -544,6 +544,7 @@ canalciclismo.com##.hide-for-small
 peru21.pe##.hiraoka
 emprendices.co##.homepage-widget > #text-16
 flvto.biz##.horizontal-area
+marfanta.com##.ib-ad-img
 diaridegirona.cat##.iberpi_cajaext
 sipse.com##.insterstitial
 tokyvideo.com##.intensive-add
