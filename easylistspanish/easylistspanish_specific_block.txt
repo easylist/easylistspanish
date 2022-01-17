@@ -101,6 +101,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||breves24.com.ar/banners/
 ||butlercdn.com^$domain=eldiariodelapampa.com.ar
 ||buyman.com.ar/pubex/
+||cadizbuenasnoticias.com/wp-content/banners/
 ||caletadesarrollos.com/marketing/banner-pc/banner-pc.html^$domain=elchubut.com.ar
 ||canalciclismo.com/media/banners/
 ||capodeportes.net/extremotv/abajo.php
