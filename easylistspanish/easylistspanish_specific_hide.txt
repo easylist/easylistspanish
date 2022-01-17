@@ -293,7 +293,7 @@ okdiario.com##.ad-slot-ph
 elitegol.me##.ad-website
 mitele.es##.ad-wrapper
 elpatagonico.com##.ad02-obj
-smnoticias.com,smnoticias.info##.ad2
+costacadizcomunicacion.es,smnoticias.com,smnoticias.info##.ad2
 smnoticias.com,smnoticias.info##.ad3
 smnoticias.com,smnoticias.info##.ad4
 smnoticias.com,smnoticias.info##.ad5
@@ -340,6 +340,7 @@ larepublica.pe##.atm-banner-middle
 larepublica.pe##.atm-banner-strip
 larepublica.pe##.atm-banner-top
 animeid.io##.avm
+costacadizcomunicacion.es##.b-2
 es.gearbest.com##.back-top-banner
 cadena3.com##.baner300x250
 cadena3.com##.baner630x250
