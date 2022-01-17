@@ -1038,7 +1038,7 @@ appsparavertv.com##.attachment-medium_large
 destinonegocio.com##.banner-home
 noticierodelllano.com##.banner-img
 extra.com.co##.banner_header
-elinformador.com.co##.bannergroup
+elinformador.com.co,lavozdemoron.es##.bannergroup
 areasac.es##.bannerhome
 pctmix1.com##.bgshadow
 eluniverso.com##.border-grey-100
