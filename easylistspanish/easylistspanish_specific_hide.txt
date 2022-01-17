@@ -89,6 +89,7 @@ wordmagicsoft.com###bt_aws_ad_slot_1
 rinconforero.mforos.com###by_hawkers
 abchoy.com.ar###cacho-overlay
 abchoy.com.ar###cacho-popup
+diariocostadelsol.com##.caja_bannersV
 laprovincia.es###caja_1_derecha_17_0
 20minutos.es###cajasbuscadoras
 easy.com.ar###carruselMarcasBlaisten
