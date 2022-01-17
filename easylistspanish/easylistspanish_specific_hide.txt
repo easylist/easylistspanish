@@ -409,7 +409,7 @@ bienesrosario.com,rosariogarage.com##.banner_sop
 bienesrosario.com,rosariogarage.com##.banner_superior
 azarplus.com##.bannerfijodcha
 azarplus.com##.bannerfijoizda2
-elwebdelmirall.net,expreso.com.mx,lancelotdigital.com##.bannergroup
+ecijaweb.com,elwebdelmirall.net,expreso.com.mx,lancelotdigital.com##.bannergroup
 lancelotdigital.com##.bannerheader
 ennaranja.com##.bannering
 diarioresponsable.com##.banneritem
