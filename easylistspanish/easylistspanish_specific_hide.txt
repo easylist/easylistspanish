@@ -485,6 +485,7 @@ deportemixtv.info##.column-right-outer
 puntobiz.com.ar##.columna-tercera
 elespanol.com##.comments-adv
 diaridegirona.cat,emporda.info##.commercial-up-full
+laopiniondemalaga.es##.commercial-up-full__wrapper
 renfe.com##.comprabilletes
 tandildiario.com##.containerBannerDesplegable
 reforma.com##.container_publicidad
@@ -1165,6 +1166,7 @@ moviesjoy.to##[id^="gift-"]
 berjadigital.es,impactonews.co,incp.org.co##[id^="media_image-"]
 bcnoticias.com.co##[id^="metaslider"]
 nacionpaisa.com##[id^="metaslider_widget-"]
+laopiniondemalaga.es##[id^="pc-div-gpt-ad_"]
 puromarketing.com##[id^="pu-"]
 dialoguemos.ec##[id^="slider_"]
 pt-mexico.com##[onclick*="'page' : '/virtual/Ad/"]
