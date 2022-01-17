@@ -675,6 +675,7 @@ laveu.cat##.row-publi-portada
 lapoliticaonline.com##.section-banner
 seriesanimadas.net##.section-center > .BoxContent:nth-of-type(2)
 seriesanimadas.net##.section-right > .BoxContent:nth-of-type(2)
+sevillainfo.es##.sevil-widget
 ushuaianoticias.com##.side-banner
 newpct1.com##.sidebar
 cuyonoticias.com##.sidebar > #text-html-widget-11
