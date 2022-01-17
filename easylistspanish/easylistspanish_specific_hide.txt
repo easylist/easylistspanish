@@ -89,7 +89,6 @@ wordmagicsoft.com###bt_aws_ad_slot_1
 rinconforero.mforos.com###by_hawkers
 abchoy.com.ar###cacho-overlay
 abchoy.com.ar###cacho-popup
-diariocostadelsol.com##.caja_bannersV
 laprovincia.es###caja_1_derecha_17_0
 20minutos.es###cajasbuscadoras
 easy.com.ar###carruselMarcasBlaisten
@@ -187,7 +186,6 @@ ehowenespanol.com###radlinks
 revistagmgastronomia.com###rev_slider_1_1_wrapper
 realbetisbalompie.es###right-banners
 adca.st###roviralta
-contextoganadero.com##.rteright
 noticias.juridicas.com###sc-brandday
 nomellamesfriki.com###shopall1
 noticias3d.com###skin
@@ -257,6 +255,7 @@ elblog.com###z_pub_sup_new
 reforma.com###zonaavisos
 informe21.com###zone-user-wrapper
 madridpress.com,sahagundigital.com##.BANNER-IMAGES
+diariodelalinea.es##.BANNER_COLUMN
 diariolagrada.com,globalasia.com,marketingregistrado.com,prensa.com##.Banner
 guadairainformacion.com##.Banner300x100
 globalasia.com##.BannerColumna
@@ -469,6 +468,7 @@ cronicaglobal.elespanol.com,elnacional.cat##.c-banner
 racocatala.cat##.caixa-publicitat
 parlamentario.com##.caja-banner-990
 eleconomista.es##.caja-publi-port
+diariocostadelsol.com##.caja_bannersV
 laprovincia.es##.caja_cuponisimo_slider300
 eldefinido.cl##.cajabanners
 estadiodeportivo.whitelabel.kelisto.es##.car-insurance
@@ -676,6 +676,7 @@ muyinteresante.es##.roba1_movil
 muyinteresante.es##.roba2
 muyinteresante.es##.roba2_movil
 laveu.cat##.row-publi-portada
+contextoganadero.com##.rteright
 lapoliticaonline.com##.section-banner
 seriesanimadas.net##.section-center > .BoxContent:nth-of-type(2)
 seriesanimadas.net##.section-right > .BoxContent:nth-of-type(2)
