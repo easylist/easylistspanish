@@ -268,6 +268,7 @@ animeflv.net##.Dvr300
 deportesmax.com##.Estilo11
 deportesmax.com,maxdeportv.club,maxdeportv.net##.Estilo12
 deportesmax.com,maxdeportv.club,maxdeportv.net##.Estilo13
+diarioronda.es##.g-dyn
 bluradio.com,caracoltv.com,shock.co##.GoogleDfpAd-Content
 hipertextual.com##.M50B--md
 eldefinido.cl##.RP
@@ -643,7 +644,7 @@ elblog.com##.pub_lat1_father
 elblog.com##.pub_lat2_father
 elblog.com##.pub_lat3_father
 diariodeavisos.elespanol.com##.pubbox
-desdelinux.net##.publi
+desdelinux.net,diarioronda.es##.publi
 tiempo.com.mx##.publi-4
 tiempo.com.mx##.publi-5
 tiempo.com.mx##.publi-6
