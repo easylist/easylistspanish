@@ -769,6 +769,7 @@ st1.idealista.com##[href="http://www.idealista.com?xts=352991&xtor=AD-186-[ideal
 noticiasdehoy.site##[id^="Image"]
 huelva24.com##[id^=detection]
 diaridesabadell.com,diarideterrassa.com##[id^="diari-"]
+lebrijadigital.es##[id^="djslider"]
 depo.superligatv.com##[id^=floatLayer]
 armasymuniciones.net##[id^="media_image-"]
 va6.thand.info##[src="http://va6.thand.info/0hsfy957uswi2cgypg23"]
@@ -998,6 +999,7 @@ vergol.com,verliga.net###adb-enabled
 huelva24.com###adblockadvice
 noticiasrcn.com###ads-inread
 elheraldo.co###ads-mascotas
+lebrijadigital.es###aside
 grantorrent.ch###banner_publi
 zigzagdigital.com###banner_top_container
 cerebriti.com###barraAvisoAds
@@ -1019,6 +1021,7 @@ forbes.co###pinno-post-bot-ad
 supercontable.com###pub_sup
 synonyms.reverso.net###rca
 laboyanos.com###rotator2
+lebrijadigital.es###sidebar
 180grados.digital###sidebar > .et_pb_widget
 baratos.com###ue_popups
 ettv.unblockninja.com###vpnvpn
