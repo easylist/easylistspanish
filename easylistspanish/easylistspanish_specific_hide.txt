@@ -1075,6 +1075,7 @@ animeflv.tv##.mn-thumb
 lanacion.com.ar##.mod-banner
 softoniclabs.com##.oxy-modal-backdrop
 microsiervos.com##.pb-tag
+noticiasenlamira.com##.pinno-ad-label
 forbes.co##.pinno-flex-ad
 forbes.co##.pinno-widget-ad
 mms-mexico.com##.promo
