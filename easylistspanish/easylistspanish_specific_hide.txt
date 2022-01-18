@@ -723,6 +723,7 @@ viruji.andaluciainformacion.es##.td-banner-wrap-full
 aldeaviral.com,periodicoeldiario.com##.td-header-sp-recs
 cronicadigital.cl##.td-main-sidebar > .td-ss-main-sidebar > .td_block_template_5:nth-of-type(1)
 lifeder.com##.td-ss-main-sidebar
+diarioconurbano.com.ar##.tdi_36
 planbnoticias.com.ar##.text-4
 planbnoticias.com.ar##.text-7
 larazon.es##.textoPatrocinio
@@ -787,7 +788,7 @@ huelva24.com##[id^=detection]
 diaridesabadell.com,diarideterrassa.com##[id^="diari-"]
 lebrijadigital.es##[id^="djslider"]
 depo.superligatv.com##[id^=floatLayer]
-armasymuniciones.net,arribalanus.com.ar##[id^="media_image-"]
+armasymuniciones.net,arribalanus.com.ar,diarioconurbano.com.ar##[id^="media_image-"]
 va6.thand.info##[src="http://va6.thand.info/0hsfy957uswi2cgypg23"]
 pelis24.gratis##a[class^="fasc"]
 ddmix.net##a[href*=".click.aliexpress.com/"]
