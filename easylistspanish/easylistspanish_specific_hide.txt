@@ -750,7 +750,7 @@ cadenaoh.com.ar,profesionalreview.com##.widget-ad-image
 republica.com##.widget-sdb-publi
 republica.com##.widget-widget_this_theme_publi_text
 reconquistanoticias.blogspot.com##.widget.Image
-invertirenbolsa.mx##.widget_block
+cafexmedio.com.ar,invertirenbolsa.mx##.widget_block
 equipar.es,futbolchile.net,nicaraguahoy.info##.widget_custom_html
 lajornadanet.com##.widget_custom_html > .block-title
 st1.idealista.com##.widget_idealista
