@@ -570,6 +570,7 @@ eldeber.com.bo##.leftSidebar
 loventine.com.ar,loventine.es##.link-ads-content
 laprovincia.es##.listaofertas
 repelis.io##.lnk-ref
+reporteindigo.com##.loading-add
 reverso.net##.locdrcas
 rpp.pe##.logo-min
 sport.es##.logoadvertiser
