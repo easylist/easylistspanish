@@ -561,6 +561,7 @@ jawcloud.co##.jawban
 aulafacil.com##.jlm-ad-videoo
 llanosietedias.com##.llano-antes-del-contenido
 llanosietedias.com##.llano-contenido
+lanusnoticias.com.ar##.lanus-widget
 noticiasmallorca.es##.lateral
 abchoy.com.ar##.lazypubli
 sipse.com##.leaderboard
