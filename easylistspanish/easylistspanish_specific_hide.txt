@@ -748,6 +748,7 @@ diarionoticias.com.ar##.visable
 wago.io##.wago-ad-container
 alicantetoday.com##.weather-week
 neoauto.com##.widescreen
+ladefensadigital.com##.widget.Image
 cadenaoh.com.ar,profesionalreview.com##.widget-ad-image
 republica.com##.widget-sdb-publi
 republica.com##.widget-widget_this_theme_publi_text
