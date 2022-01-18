@@ -736,6 +736,7 @@ reverso.net##.toprightdiv
 elpopular.mx##.tp-centro
 hoylosangeles.com##.trb_taboola
 magisnet.com##.trevda
+diarioresumen.com.ar##.tronco--init
 diariotextual.com##.vc_align_left
 reverso.net##.vda-block
 reverso.net##.vda-section
