@@ -161,6 +161,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||diariodetorremolinos.com/_uploads/imgBanners/
 ||diarioeldia.cl/banner/
 ||diarioeldia.cl/interstitial*.js
+||diarioelinformante.com.ar/publis
 ||diarioelzondasj.com.ar/images/Imagenes/*.gif
 ||diarioelzondasj.com.ar/images/Imagenes/lima.png
 ||diarioelzondasj.com.ar/images/Videos/*.swf
