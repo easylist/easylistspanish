@@ -105,6 +105,7 @@ montevideo.com.uy###conectab
 economia3.com###contiene_orejeras
 clipwatching.com###coverAds
 animefenix.com###csgoempire
+laopinionsannicolas.com.ar###custom_html-3
 futbolhoy.com.ar###custom_html-4
 elcucodigital.com###custom_html-53
 elcucodigital.com###custom_html-54
@@ -588,7 +589,7 @@ reverso.net##.message-wrap--powered
 horadeopinion.com.ar##.ml-slider
 divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,torrentrapid.com,tumejortorrent.com##.mod-pubb
 atresplayer.com##.mod_roba
-diarioelinformante.com.ar##.modal-backdrop
+diarioelinformante.com.ar,laopinionsannicolas.com.ar##.modal-backdrop
 larepublica.pe##.mol-bl_Cuponidad
 coches.net##.mt-AdvertisingRoadblock-top
 lavozdegalicia.es##.mujerhoy
