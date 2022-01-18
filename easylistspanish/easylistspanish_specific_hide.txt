@@ -705,6 +705,7 @@ lacapitalmdp.com##.sponsor_stats
 elespanol.com,maximaonline.com.ar##.sponsored
 ruedasgordas.es##.sponsors
 laveu.cat##.spotPortada
+latercera.com##.spm
 flvto.biz##.square-area
 diariolarepublica.com.ar##.st-banner
 profesionalreview.com##.stream-item
