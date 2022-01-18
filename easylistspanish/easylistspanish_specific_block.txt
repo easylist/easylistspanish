@@ -518,6 +518,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||s3.amazonaws.com/comparabien-default/ads/
 ||s3.amazonaws.com/neoauto.com%2Felements%2FhomeCover
 ||salpimenta.com.ar/wp-content/uploads/*.gif
+||sanjustonoticias.com.ar/agregados/banners
 ||seriesgrey.com/xdc.html^
 ||seriesypelisonline.com/wp-content/uploads/*/me-corro.png
 ||shellshock.io/img/promo/
