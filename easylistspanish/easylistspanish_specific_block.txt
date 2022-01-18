@@ -333,6 +333,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||labsk.net/carousel/
 ||labustia.cat/wp-content/uploads/*/Banner
 ||lacapitalmdp.com/2017/11/fl-1.gif
+||lacapitalmdp.com/2022/01/*.gif
 ||lacapitalmdp.com/img_design/paseo_aero.jpg
 ||laconversacion.net/wp-content/uploads/2017/07/IMG-20170710-WA0000.jpg
 ||laconversacion.net/wp-content/uploads/2017/10/Banner-3.jpg
