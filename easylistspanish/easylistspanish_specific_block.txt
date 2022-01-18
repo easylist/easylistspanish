@@ -18,6 +18,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 .xyz^$script,subdocument,domain=hqq.to|hqq.tv|megaplay.cc|serieshd.net|waaw.to|waaw.tv
 /*badge*.png$domain=rpp.pe
 /MyShowroom/view.php^$domain=webcamtests.com
+/avisos^$image,domain=novalaplata.com
 /elements*/publicitat^$image,domain=lesportiudecatalunya.cat
 /publi_440_sgaming$subdocument,domain=mejortorrentt.net
 /public/Image/*banner*^$image,domain=alicanteplaza.es|castellonplaza.com|valenciaplaza.com
