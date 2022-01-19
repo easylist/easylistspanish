@@ -776,6 +776,9 @@ bro.adca.st##.xclo
 bro.adca.st##.xpepinx
 bro.adca.st##.xraulitox
 anbariloche.com.ar,anroca.com.ar,nuevodiarioweb.com.ar##.zona_banners
+allcalidad.ac#?#.shortstory:-abp-has(a[href^="https://allcalidad.ac/pelicula/disney-premium"])
+allcalidad.ac#?#.shortstory:-abp-has(a[href^="https://allcalidad.ac/pelicula/netflix-premium"])
+allcalidad.ac#?#.shortstory:-abp-has(a[href^="https://allcalidad.ac/pelicula/spotify-premium"])
 25digital.com.ar#?#.widget-container:-abp-has(.banners-125)
 25digital.com.ar#?#.widget-container:-abp-has(.metaslider)
 25digital.com.ar#?#.widget-container:-abp-has(.widget_random_banner_widget)
