@@ -1105,6 +1105,7 @@ kairosweb.com##.spu-bg
 kairosweb.com##.spu-box
 confirmado.net,diarioelnorte.com.ar,elproductor.com##.td-a-rec-id-custom-spot
 tubarco.news##.td-a-rec-id-header
+magazinelatino.com##.td_block_template_1.widget.widget_text
 momento24.co##.td_spot_img_all
 hoydiariodelmagdalena.com.co##.vc_single_image-img
 atresplayer.com##.vjs-detect-overlay
