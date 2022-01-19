@@ -979,6 +979,7 @@ mejortorrent.com##iframe[style="margin-top:0px; margin-bottom:10px; border:1px s
 apurogol.net##iframe[width="300"][height="250"][border="0"][frameborder="0"][scrolling="no"]
 apurogol.net##iframe[width="500"][height="400"][border="0"][frameborder="0"][scrolling="no"][maxwidth="500"][maxheight="400"][type="responsive"]
 leganews.es##img[alt*="Banner"]
+laventanabolivia.com##img[alt^="publicidad"]
 bufeo.do##img[alt="Espacio Publicitario"]
 interbenavente.es##img[alt="http://interbenavente.es/pag/serviciosweb"]
 interbenavente.es##img[alt="http://www.ford.es/serviciopostventa/PromocionesPostventa2013"]
