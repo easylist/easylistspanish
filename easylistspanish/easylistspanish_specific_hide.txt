@@ -660,6 +660,7 @@ paginasamarillas.es##.publi-sidebar-listado
 elonce.com##.publi-top
 meristation.as.com,meristation.com.mx##.publi1
 0221.com.ar,animekb.com,areajugones.sport.es,carasycaretas.org.ar,ciclismoafondo.es,diario.mx,dinero.com,eldeportivo.com.co,elrellano.com,eltribuno.info,expansion.com,gonzoo.com,iahorro.com,laizquierdadiario.com,latercera.com,lne.es,motociclismo.es,mountainbike.es,mundoejecutivo.com.mx,okdiario.com,publico.es,semana.com,supercines.com##.publicidad
+brujuladigital.net##.publicidad-l
 elretratodehoy.com.ar##.publicidad_nota
 lesportiudecatalunya.cat##.publicitat
 tot-hospitalet.cat##.publicitat-banner
