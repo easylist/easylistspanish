@@ -1,6 +1,7 @@
 ||0210bb49cd.com^$third-party
 ||0cfe97d936.com^$third-party
 ||1ce86868bf.com^$third-party
+||2fcf17e5b4.com^$third-party
 ||2qj7mq3w4uxe.com^$third-party
 ||3d5b53449b.com^$third-party
 ||583d46135c.com^$third-party
