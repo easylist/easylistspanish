@@ -1076,6 +1076,7 @@ pctmix1.com##.boxintersitial
 180grados.digital##.code-block-6
 180grados.digital##.code-block-9
 skdesu.com##.code-block[style^="margin: 20px auto;"]
+trome.pe##.content_gpt_top
 zona-leros.net##.content_store
 criptonoticias.com##.cript-adlabel
 incp.org.co##.cyclone-slider-widget-8
