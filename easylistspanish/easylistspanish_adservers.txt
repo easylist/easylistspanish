@@ -362,6 +362,7 @@
 ||tgvbwjbnxz.com^$third-party
 ||thapsooz.net^$third-party
 ||the-ufo.com^$third-party
+||thieverthinner.com^$third-party
 ||thompaur.com^$third-party
 ||tiwhoripo.pro^$third-party
 ||tkxiavegstgq.com^$third-party
