@@ -435,3 +435,4 @@
 ||zhkquyvfndeker.com^$third-party
 ||zhnlyyrr.com^$third-party
 ||zonaads.com^$third-party
+||korunabevy.com^$third-party
