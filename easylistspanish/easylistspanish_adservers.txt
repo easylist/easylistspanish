@@ -86,6 +86,7 @@
 ||cookliverelk.com^$third-party
 ||copiapop.net^$third-party
 ||coveredbetting.com^$third-party
+||cogwoodwelder.com^$third-party
 ||creamssicsite.com^$third-party
 ||ctromgvroh.com^$third-party
 ||cucalm.com^$third-party
