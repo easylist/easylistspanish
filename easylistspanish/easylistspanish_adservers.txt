@@ -245,6 +245,7 @@
 ||mingledventin.com^$third-party
 ||mopemodelingfrown.com^$third-party
 ||mpnjaifkchgw.com^$third-party
+||mxyxgkuexjr.com^$third-party
 ||mynheerpuller.com^$third-party
 ||nabalpal.com^$third-party
 ||nazarickol.com^$third-party
