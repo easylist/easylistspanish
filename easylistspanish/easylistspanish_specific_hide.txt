@@ -1205,7 +1205,7 @@ gamestorrents.fm##a[target="_blank"][href*="gaming.net"]
 dontorrent.men##a[target="_blank"][href^="https://Startgaming.net"]
 atomixhq.com,atomixhq.one,atomtt.com,cuevana.se,divxtotal.li,divxtotal.nl,divxtotal.nu,dontorrent.ws,fanpelis.ac,gamestorrents.fm,mejortorrentes.com,pelispanda.com##a[target="_blank"][href^="https://startgaming.net"]
 grantorrent.ch#?#.imagen-post:-abp-has(a[href^="https://startgaming.net"])
-atomixhq.net,atomtt.com,elitetorrent.nz#?#li:-abp-has(a[href^="https://startgaming.net"])
+atomixhq.net,atomtt.com,atomixhq.top,elitetorrent.nz#?#li:-abp-has(a[href^="https://startgaming.net"])
 kairosweb.com##div[class*="banner-"]
 poki.com##div[class^="Advertisement__AdvertisementContainer"]
 cliver.to##div[data-name="parent-element"]
