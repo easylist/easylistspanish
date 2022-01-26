@@ -141,6 +141,7 @@
 ||fakinggivewacko.com^$third-party
 ||fathuntsgall.com^$third-party
 ||fdrptpyxchzjk.com^$third-party
+||felonlosel.com^$third-party
 ||ferociousvirtual.com^$third-party
 ||ffsmhmcwvlqna.com^$third-party
 ||finkyepbows.com^$third-party
