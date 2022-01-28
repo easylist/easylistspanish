@@ -125,6 +125,7 @@
 ||educedsteeped.com^$third-party
 ||edxlewni.com^$third-party
 ||eergithi.com^$third-party
+||eecd.xyz^$third-party
 ||ekfottltamc.com^$third-party
 ||eggytiptops.com^$third-party
 ||elsetormentshower.com^$third-party
