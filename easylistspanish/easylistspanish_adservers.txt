@@ -398,6 +398,7 @@
 ||vattingbalak.com^$third-party
 ||versionsgratersteward.com^$third-party
 ||vgfutxwgq.com^$third-party
+||videjere.com^$third-party
 ||videoo.tv^$third-party
 ||vilelaaccable.com^$third-party
 ||vilercarpetfolk.com^$third-party
