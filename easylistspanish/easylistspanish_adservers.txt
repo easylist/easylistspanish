@@ -130,6 +130,7 @@
 ||eggytiptops.com^$third-party
 ||elsetormentshower.com^$third-party
 ||emagazing.fun^$third-party
+||emmermyotic.com^$third-party
 ||encouragementstringsborn.com^$third-party
 ||encouragingpast.com^$third-party
 ||eoemyywmjx.com^$third-party
@@ -325,6 +326,7 @@
 ||resnikscdn.pro^$third-party
 ||returnsflyswat.com^$third-party
 ||reverysteno.com^$third-party
+||rhiedy.com^$third-party
 ||rhklutlt.com^$third-party
 ||rilelogicbuy.com^$third-party
 ||riminghoggoofy.com^$third-party
