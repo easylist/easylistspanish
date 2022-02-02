@@ -65,6 +65,7 @@
 ||brydhoye.com^$third-party
 ||btnldivewzzfso.com^$third-party
 ||bucogrzbgyysen.com^$third-party
+||buram.xyz^$third-party
 ||bwvnmbhuuhalr.com^$third-party
 ||bxczchdxynw.com^$third-party
 ||c6a32ec500.0750a40b0d.com^$third-party
@@ -243,6 +244,7 @@
 ||lspzhtvstux.com^$third-party
 ||lutcdiimmeze.com^$third-party
 ||lyricslocusvaried.com^$third-party
+||mage98rquewz.com^$third-party
 ||majomalonic.com^$third-party
 ||maphuahin.com^$third-party
 ||matchuph.com^$third-party
@@ -443,6 +445,7 @@
 ||yepteaswont.com^$third-party
 ||ykrssqaufg.com^$third-party
 ||ypwpzgld.com^$third-party
+||ywbcdeyqgfzx.com^$third-party
 ||yysvzaodorhv.com^$third-party
 ||zdcuivnen.com^$third-party
 ||zdyldoijanx.com^$third-party
@@ -452,5 +455,6 @@
 ||zgvcfridw.com^$third-party
 ||zhkquyvfndeker.com^$third-party
 ||zhnlyyrr.com^$third-party
+||zicyqbpqsg.com^$third-party
 ||zonaads.com^$third-party
 ||korunabevy.com^$third-party
