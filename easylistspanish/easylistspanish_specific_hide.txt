@@ -1239,3 +1239,4 @@ superluchas.com#?#h2:-abp-contains(Anuncio)
 univision.com#?#div:-abp-has(>span:-abp-contains(Publicidad))
 valoraanalitik.com#?#label:-abp-contains(Publicidad)
 gestion.pe##[class$="_ads"]
+monoschinos2.com##._ciw-widget
