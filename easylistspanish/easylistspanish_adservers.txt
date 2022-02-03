@@ -4,6 +4,7 @@
 ||2fcf17e5b4.com^$third-party
 ||2qj7mq3w4uxe.com^$third-party
 ||3d5b53449b.com^$third-party
+||3ec9b1217d.com^$third-party
 ||583d46135c.com^$third-party
 ||58c036d100.com^$third-party
 ||597947ec5f.com^$third-party
@@ -150,6 +151,7 @@
 ||f53d8e67f8.com^$third-party
 ||fakinggivewacko.com^$third-party
 ||fathuntsgall.com^$third-party
+||fdelphaswcealifornica.com^$third-party
 ||fdrptpyxchzjk.com^$third-party
 ||felonlosel.com^$third-party
 ||ferociousvirtual.com^$third-party
