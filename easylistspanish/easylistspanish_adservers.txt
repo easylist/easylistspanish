@@ -349,6 +349,7 @@
 ||selfswayjay.com^$third-party
 ||sentimentfitful.com^$third-party
 ||servg1.net^$third-party
+||settlef.com^$third-party
 ||shinkme.com^$third-party
 ||shovedrailwaynurse.com^$third-party
 ||shqbsdjatunl.com^$third-party
