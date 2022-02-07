@@ -14,6 +14,7 @@
 ||aaoomqpaydap.com^$third-party
 ||ab663344bb.com^$third-party
 ||ac2e81c7b8.com^$third-party
+||accedebuzz.com^$third-party
 ||aclaritics.info^$third-party
 ||adcarem.co^$third-party
 ||adcloud.us^$third-party
