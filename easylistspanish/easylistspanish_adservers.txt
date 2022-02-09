@@ -22,6 +22,7 @@
 ||adplay.ga^$third-party
 ||adturtle.biz^$third-party
 ||aggestose.com^$third-party
+||aideral.com^$third-party
 ||ainder.club^$third-party
 ||akusafla.com^$third-party
 ||alawachi.net^$third-party
@@ -100,6 +101,7 @@
 ||creamssicsite.com^$third-party
 ||ctromgvroh.com^$third-party
 ||cucalm.com^$third-party
+||cymaisefacsim.com^$third-party
 ||cytrkxfzkxrjv.com^$third-party
 ||d13qwbj37sfx89.cloudfront.net^$third-party
 ||d2enprlhqqv4jf.cloudfront.net^$third-party
