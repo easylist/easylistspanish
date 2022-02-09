@@ -376,6 +376,7 @@
 ||sorteos.cf^$third-party
 ||spankerpuked.com^$third-party
 ||speedsupermarketdonut.com^$third-party
+||spitzerpfunde.com^$third-party
 ||spokentomatoestraumatic.com^$third-party
 ||sporedfryhum.com^$third-party
 ||sqhneencmysrk.com^$third-party
