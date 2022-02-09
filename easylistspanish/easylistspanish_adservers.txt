@@ -94,6 +94,7 @@
 ||coljledqo.com^$third-party
 ||cometadministration.com^$third-party
 ||congestionwithdrew.com^$third-party
+||controversialseen.com^$third-party
 ||cookliverelk.com^$third-party
 ||copiapop.net^$third-party
 ||coveredbetting.com^$third-party
