@@ -394,6 +394,7 @@
 ||teamsperilous.com^$third-party
 ||tearpilotzoo.com^$third-party
 ||tesulf.com^$third-party
+||tetrylscullion.com^$third-party
 ||tfzznclztl.com^$third-party
 ||tgvbwjbnxz.com^$third-party
 ||thapsooz.net^$third-party
