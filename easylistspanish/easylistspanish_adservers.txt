@@ -18,6 +18,7 @@
 ||aclaritics.info^$third-party
 ||adcarem.co^$third-party
 ||adcloud.us^$third-party
+||adjustbedevilsweep.com^$third-party
 ||adieusyaktop.com^$third-party
 ||adplay.ga^$third-party
 ||adturtle.biz^$third-party
