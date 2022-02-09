@@ -197,6 +197,7 @@
 ||haremwhipshook.com^$third-party
 ||hicltgxzl.com^$third-party
 ||hidelen.com^$third-party
+||hkeynjiwpgvfzr.com^$third-party
 ||hledoziequt.com^$third-party
 ||hoowooze.net^$third-party
 ||hopefulserversnecklace.com^$third-party
