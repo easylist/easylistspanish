@@ -186,6 +186,7 @@
 ||glassmilheart.com^$third-party
 ||glqicmazu.com^$third-party
 ||gobicyice.com^$third-party
+||godescargas.xyz^$third-party
 ||gompoozu.net^$third-party
 ||gqsgcdcxsmxw.com^$third-party
 ||gqtffirr.com^$third-party
