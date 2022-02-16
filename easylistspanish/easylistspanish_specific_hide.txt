@@ -614,6 +614,7 @@ elmundo.es,expansion.com##.patrocinio
 elheraldo.co##.pauta
 infobae.com##.pb-f-utilities-ad
 forochicas.com##.pbanner
+anitoc.com,panicmanga.com,worldmangas.com##.pbl
 planbnoticias.com.ar##.penci-featured-cat-custom-ads
 bro.adca.st##.pepin
 peliculasaudiolatino.com##.pfake
