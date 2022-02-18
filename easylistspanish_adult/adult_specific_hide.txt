@@ -2,6 +2,7 @@ teatroporno.com###a-insd
 vercomicsporno.com###afi
 mujeres-desnudas.com###anuncio-300
 slumi.com###anuncio_pancarta_campaign
+madlifes.com###banners_footer
 todorelatos.com###chat-show
 pornstarsyfamosas.es###enjuego
 videosdemadurasx.com###pBrazzers
@@ -58,7 +59,7 @@ famosateca.es##div[align^="center"]
 pornoplay.online##div[class^="happy-"]
 datoporn.co##div[style="position:absolute;top:0;right:0;bottom:0;left:0;z-index:99999;cursor:pointer"]
 fakings.com#?#.centrado > div:-abp-contains(ADVERTISING)
-fakings.com#?#.centrado > div:-abp-contains(PUBLICIDAD)
+fakings.com,madlifes.com#?#.centrado > div:-abp-contains(PUBLICIDAD)
 chaty.es##h2[style^="color:red;font-size:20px!important"]
 xxxvideosputas.xxx##iframe[src^="http://xxxvideosputas.xxx/includes/adds/"]
 spalumi.com##marquee
