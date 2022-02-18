@@ -54,6 +54,7 @@ pajarracos.es##a[href^="http://www.fresalia.com/"]
 pajarracos.es##a[href^="http://www.fuegodevida.com/"]
 esaschicas.com##a[href^="https://esaschicas.com/rbs_banner.php?"]
 selafollan.com##a[href^="https://telelatinotv.page.link/"]
+famosateca.es##div[align^="center"]
 pornoplay.online##div[class^="happy-"]
 datoporn.co##div[style="position:absolute;top:0;right:0;bottom:0;left:0;z-index:99999;cursor:pointer"]
 fakings.com#?#.centrado > div:-abp-contains(ADVERTISING)
