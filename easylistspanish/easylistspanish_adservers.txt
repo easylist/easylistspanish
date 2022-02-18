@@ -328,6 +328,7 @@
 ||probablpatas.com^$third-party
 ||producingsavourestablish.com^$third-party
 ||pulpsbarndomed.com^$third-party
+||pulpybizarre.com^$third-party
 ||pumpbead.com^$third-party
 ||purrbodygyp.com^$third-party
 ||puttrotgob.com^$third-party
