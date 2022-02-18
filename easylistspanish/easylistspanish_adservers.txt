@@ -65,6 +65,7 @@
 ||brand.ad^$third-party
 ||brattyogor.com^$third-party
 ||breedtagask.com^$third-party
+||briefcasebuoyduster.com^$third-party
 ||briskedmiskept.com^$third-party
 ||broadcastsaplily.com^$third-party
 ||brrcaqvz.com^$third-party
