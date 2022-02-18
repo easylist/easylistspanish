@@ -177,6 +177,7 @@ esgentside.com,ohmirevista.com###pave_haut
 forochicas.com###posts > div > div > div[style="padding:0px 0px 0px 0px"]
 eleconomista.es###progressBar
 eldefinido.cl###pub
+imperiodefamosas.com###publi2One
 tiendeo.com.ar###publiRightContainer
 animebum.net###publicidad-nas
 ddmix.net###publicidaddescarga1
