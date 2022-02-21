@@ -24,6 +24,7 @@ $popup,third-party,domain=cinecalidad.lol|divxtotal.co|embedsito.com|fembad.net|
 ||nonestolesantes.com^$popup
 ||notube.net/p/^$popup
 ||pctreload1.com/pctn/library/content/template/images/logos/pctreload1.png^$popup
+||pelishouse.me/descargas/$popup
 ||pepeliculas.org/mira-video1^$popup
 ||pornmediaxxx.net^$popup
 ||rontent.pouvideo.cc^$popup,script
