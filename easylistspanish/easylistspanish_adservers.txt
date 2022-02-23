@@ -142,6 +142,7 @@
 ||eecd.xyz^$third-party
 ||ekfottltamc.com^$third-party
 ||eggytiptops.com^$third-party
+||egistonemes.com^$third-party
 ||elsetormentshower.com^$third-party
 ||emagazing.fun^$third-party
 ||emmermyotic.com^$third-party
@@ -425,6 +426,7 @@
 ||tracot.com^$third-party
 ||trantshargar.com^$third-party
 ||travelingturtleharmonious.com^$third-party
+||treateryowler.com^$third-party
 ||turbanconstituent.com^$third-party
 ||twazzyoidwlfe.com^$third-party
 ||tzfafzmooqum.com^$third-party
