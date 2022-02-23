@@ -409,6 +409,7 @@
 ||tczzzlwpss.com^$third-party
 ||teamsperilous.com^$third-party
 ||tearpilotzoo.com^$third-party
+||teindsrangier.com^$third-party
 ||tesulf.com^$third-party
 ||tetrylscullion.com^$third-party
 ||tfzznclztl.com^$third-party
