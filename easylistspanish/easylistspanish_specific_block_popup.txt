@@ -36,4 +36,4 @@ $popup,third-party,domain=cinecalidad.lol|divxtotal.co|embedsito.com|fembad.net|
 ||waaw.*/out.php^$popup
 ||ytmp3.plus/p^$popup
 ! html/image popups
-/^https?:\/\/.*\.(jpg|gif|png|php|svg|ico|js|txt)/$popup,domain=atomixhq.art|atomixhq.top|cliver.to|gnula.nu|gnula.se|myflixertv.to|pelishouse.me|pelispop.me|pelismart.com|seriesflix.live|seriesturcas.tv|solopeliculasespañol.com|tomatomatela.com
+/^https?:\/\/.*\.(jpg|gif|png|php|svg|ico|js|txt)/$popup,domain=atomixhq.art|atomixhq.link|atomixhq.top|cliver.to|gnula.nu|gnula.se|myflixertv.to|pelishouse.me|pelispop.me|pelismart.com|seriesflix.live|seriesturcas.tv|solopeliculasespañol.com|tomatomatela.com
