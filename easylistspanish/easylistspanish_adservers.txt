@@ -385,6 +385,7 @@
 ||significantlyentering.com^$third-party
 ||sippansy.com^$third-party
 ||skynightmidm.com^$third-party
+||slipdashedundermine.com^$third-party
 ||slrviazqkilu.com^$third-party
 ||smokiercliches.com^$third-party
 ||snealp.com^$third-party
