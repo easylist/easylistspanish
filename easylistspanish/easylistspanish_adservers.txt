@@ -33,6 +33,7 @@
 ||amateurinduced.com^$third-party
 ||anomaloustradingmerciful.com^$third-party
 ||apsstoure.biz^$third-party
+||arraignmentinclose.com^$third-party
 ||ashierbowler.com^$third-party
 ||astra9dlya10.com^$third-party
 ||asuppsttp.com^$third-party
