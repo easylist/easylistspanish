@@ -7,7 +7,6 @@ $popup,third-party,domain=cinecalidad.lol|divxtotal.co|embedsito.com|fembad.net|
 /jump/next.php?$popup,domain=yts.mx
 /wp-content/plugins/all-click/sda.php^$popup,domain=cine-calidad.com|gnula.site
 ||animatedshows.to/*/ashows$popup
-||animeflv.la/*/logo$popup
 ||badsways.com^$popup,third-party,domain=pelisplay.co
 ||bang-4-buck.com^$popup
 ||bit.ly^$popup,domain=verpeliculasenlatino.com
@@ -18,12 +17,8 @@ $popup,third-party,domain=cinecalidad.lol|divxtotal.co|embedsito.com|fembad.net|
 ||foxcdn.me^$popup,domain=telerium.digital
 ||geniusdexchange.com^$popup,domain=jac-tv.com
 ||https://$popup,third-party,domain=cliver.to|linkotes.com
-||ibb.co/*/logo$popup
-||jkanime.net/*/logo$popup
-||jkanime.net/*/logo-dark$popup
 ||nonestolesantes.com^$popup
 ||notube.net/p/^$popup
-||pctreload1.com/pctn/library/content/template/images/logos/pctreload1.png^$popup
 ||pelishouse.me/descargas/$popup
 ||pepeliculas.org/mira-video1^$popup
 ||pornmediaxxx.net^$popup
@@ -35,5 +30,7 @@ $popup,third-party,domain=cinecalidad.lol|divxtotal.co|embedsito.com|fembad.net|
 ||uqload.com/img/player_logo.png^$popup
 ||waaw.*/out.php^$popup
 ||ytmp3.plus/p^$popup
+! about:blank popups
+/about:blank.*/$popup,domain=cuevana3-v1.wtf
 ! html/image popups
-/^https?:\/\/.*\.(jpg|gif|png|php|svg|ico|js|txt)/$popup,domain=atomixhq.art|atomixhq.link|atomixhq.top|cliver.to|gnula.nu|gnula.se|myflixertv.to|pelishouse.me|pelispop.me|pelismart.com|seriesflix.live|seriesturcas.tv|solopeliculasespañol.com|tomatomatela.com
+/^https?:\/\/.*\.(jpg|gif|png|php|svg|ico|js|txt)/$popup,domain=animeflv.la|atomixhq.art|atomixhq.link|atomixhq.top|cliver.to|gnula.nu|gnula.se|ibb.co|jkanime.net|myflixertv.to|pctreload1.com|pelishouse.me|pelispop.me|pelismart.com|seriesflix.live|seriesturcas.tv|solopeliculasespañol.com|tomatomatela.com
