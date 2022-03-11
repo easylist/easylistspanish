@@ -128,6 +128,7 @@
 ||dnemkhkbsdbl.com^$third-party
 ||dntchnyghet.com^$third-party
 ||dogiedimepupae.com^$third-party
+||doigtepyramid.com^$third-party
 ||dolphincdn.xyz^$third-party
 ||douoblelimpup.com^$third-party
 ||dufai4b1ap33z.cloudfront.net^$third-party
