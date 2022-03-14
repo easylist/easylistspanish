@@ -144,6 +144,7 @@
 ||edxlewni.com^$third-party
 ||eergithi.com^$third-party
 ||eecd.xyz^$third-party
+||eeco.xyz^$third-party
 ||ekfottltamc.com^$third-party
 ||eggytiptops.com^$third-party
 ||egistonemes.com^$third-party
@@ -401,6 +402,7 @@
 ||skynightmidm.com^$third-party
 ||slipdashedundermine.com^$third-party
 ||slrviazqkilu.com^$third-party
+||smallfunnybears.com^$third-party
 ||smokiercliches.com^$third-party
 ||snealp.com^$third-party
 ||snippystowstool.com^$third-party
