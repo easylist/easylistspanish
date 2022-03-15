@@ -1114,6 +1114,7 @@ hoydiariodelmagdalena.com.co##.vc_single_image-img
 atresplayer.com##.vjs-detect-overlay
 armasymuniciones.net,bcnoticias.com.co##.widget_media_image
 villavonoticias.com##.widget_media_video
+pelisplus.cam##[action^="https://significadoconcepto.com/"]
 finofilipino.org##[alt^="Tienda"]
 puupnewsapp.com##[class*="code-block-"]
 criptonoticias.com##[class*="cript-advanced-ads"]
