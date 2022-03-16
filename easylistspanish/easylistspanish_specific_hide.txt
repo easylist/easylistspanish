@@ -1029,6 +1029,7 @@ lebrijadigital.es###aside
 grantorrent.ch###banner_publi
 zigzagdigital.com###banner_top_container
 cerebriti.com###barraAvisoAds
+allinonedownloader.com###binanceAd
 cuevana-3.wtf###block-3
 flashscore.co###box-over-content-a
 noticiasamarillascartago.com###carrusel_publicidad
