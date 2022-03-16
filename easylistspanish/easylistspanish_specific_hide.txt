@@ -652,6 +652,7 @@ elblog.com##.pub_lat2_father
 elblog.com##.pub_lat3_father
 diariodeavisos.elespanol.com##.pubbox
 desdelinux.net,diarioronda.es##.publi
+elespanol.com##.publi_intext2
 tiempo.com.mx##.publi-4
 tiempo.com.mx##.publi-5
 tiempo.com.mx##.publi-6
