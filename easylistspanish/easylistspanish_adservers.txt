@@ -47,6 +47,7 @@
 ||badskies.com^$third-party
 ||baleiambwee.com^$third-party
 ||balkishbiretta.com^$third-party
+||balldevelopedhangnail.com^$third-party
 ||barbelskerugma.com^$third-party
 ||basheighthnumerous.com^$third-party
 ||batteryfirmimage.com^$third-party
