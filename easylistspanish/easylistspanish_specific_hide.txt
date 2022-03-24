@@ -285,7 +285,7 @@ mediavida.com##._p-ft
 mediavida.com##._p-tp
 elambito.com,elmetro.com.co,gasteizhoy.com,radiomunera.com,realidadsm.com,sticknoticias.com##.a-single
 seriesgrey.com##.a728
-abchoy.com.ar,applesfera.com,bebesymas.com,bolavip.com,compradiccion.com,cuatro.com,diariodelviajero.com,directoalpaladar.com,divinity.es,economiadigital.es,elblogsalmon.com,elconfidencial.com,elpopular.pe,elsol.com.ar,es.wallapop.com,espinof.com,genbeta.com,genbetadev.com,larazon.es,larepublica.pe,laverdad.com,libero.pe,mediotiempo.com,milenio.com,motorpasion.com,motorpasionmoto.com,pymesyautonomos.com,salvajes.com,telecinco.es,trendencias.com,trendenciashombre.com,vidaextra.com,vitonica.com,xataka.com,xatakaciencia.com,xatakafoto.com,xatakahome.com,xatakamovil.com,xatakandroid.com,xatakawindows.com##.ad
+abchoy.com.ar,applesfera.com,bebesymas.com,bolavip.com,compradiccion.com,cuatro.com,diariocordoba.com,diariodelviajero.com,directoalpaladar.com,divinity.es,economiadigital.es,elblogsalmon.com,elconfidencial.com,elpopular.pe,elsol.com.ar,es.wallapop.com,espinof.com,genbeta.com,genbetadev.com,larazon.es,larepublica.pe,laverdad.com,libero.pe,mediotiempo.com,milenio.com,motorpasion.com,motorpasionmoto.com,pymesyautonomos.com,salvajes.com,telecinco.es,trendencias.com,trendenciashombre.com,vidaextra.com,vitonica.com,xataka.com,xatakaciencia.com,xatakafoto.com,xatakahome.com,xatakamovil.com,xatakandroid.com,xatakawindows.com##.ad
 redgol.cl,wildtangent.com##.ad-container
 autoblog.com.ar##.ad-header-right
 marca.com##.ad-item-bt-cont
@@ -490,7 +490,7 @@ force-download.es##.col-sm-2
 deportemixtv.info##.column-right-outer
 puntobiz.com.ar##.columna-tercera
 elespanol.com##.comments-adv
-diaridegirona.cat,emporda.info##.commercial-up-full
+diariocordoba.com,diaridegirona.cat,emporda.info##.commercial-up-full
 laopiniondemalaga.es##.commercial-up-full__wrapper
 renfe.com##.comprabilletes
 tandildiario.com##.containerBannerDesplegable
@@ -708,6 +708,7 @@ cronista.com,elliberal.com.ar,elobservador.com.uy,publico.es,rpp.pe##.sponsor
 lacapitalmdp.com##.sponsor_stats
 elespanol.com,maximaonline.com.ar##.sponsored
 ruedasgordas.es##.sponsors
+diariocordoba.com##.sponsorship
 laveu.cat##.spotPortada
 latercera.com##.spm
 flvto.biz##.square-area
