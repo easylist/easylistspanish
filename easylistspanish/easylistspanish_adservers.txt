@@ -497,6 +497,7 @@
 ||wingerssetiger.com^$third-party
 ||wingersunbrand.com^$third-party
 ||wndhsykmbe.com^$third-party
+||wotythowe.pro^$third-party
 ||wpmqavtdhiiect.xyz^$third-party
 ||wreathabble.com^$third-party
 ||writeratic.xyz^$third-party
