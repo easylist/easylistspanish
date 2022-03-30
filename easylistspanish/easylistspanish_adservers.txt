@@ -219,6 +219,7 @@
 ||hidelen.com^$third-party
 ||hkeynjiwpgvfzr.com^$third-party
 ||hledoziequt.com^$third-party
+||hobliketaxer.com^$third-party
 ||hoowooze.net^$third-party
 ||hopefulserversnecklace.com^$third-party
 ||hosupshunk.com^$third-party
