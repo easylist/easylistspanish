@@ -84,6 +84,7 @@
 ||supportcorner.co^$popup,third-party
 ||supposefright.com^$popup,third-party
 ||tvoy-million.co^$popup,third-party
+||unusualbrainlessshotgun.com^$popup,third-part
 ||wekiss.co^$popup,third-party
 ||whimsoplynx.com^$popup,third-party
 ||whipcountry.pw^$popup,third-party
