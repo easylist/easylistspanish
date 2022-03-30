@@ -77,6 +77,7 @@
 ||btnldivewzzfso.com^$third-party
 ||bucogrzbgyysen.com^$third-party
 ||buram.xyz^$third-party
+||butanesleste.com^$third-party
 ||bwvnmbhuuhalr.com^$third-party
 ||bxczchdxynw.com^$third-party
 ||byrledmtscmd.com^$third-party
@@ -206,6 +207,7 @@
 ||gobicyice.com^$third-party
 ||godescargas.xyz^$third-party
 ||gompoozu.net^$third-party
+||gnarsvance.com^$third-party
 ||gqsgcdcxsmxw.com^$third-party
 ||gqtffirr.com^$third-party
 ||gristleupanaya.com^$third-party
