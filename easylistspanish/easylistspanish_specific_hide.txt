@@ -1039,7 +1039,7 @@ flashscore.co###box-over-content-a
 noticiasamarillascartago.com###carrusel_publicidad
 diarioputumayo.com###custom_html-3
 andro4all.com###disp-cta
-colombia.com###espacio-teads
+bolivia.com,colombia.com###espacio-teads
 ev01.to###gift-middle
 myflixertv.to###gift-top
 radioexito.com.ar###imagensidebar
@@ -1126,7 +1126,7 @@ finofilipino.org##[alt^="Tienda"]
 puupnewsapp.com##[class*="code-block-"]
 criptonoticias.com##[class*="cript-advanced-ads"]
 criptonoticias.com##[class*="cript-homepage-"]
-colombia.com##[class*="div-gpt-ad-"]
+bolivia.com,colombia.com##[class*="div-gpt-ad-"]
 4pelagatos.com##[class*="pelag-"]
 bcsnoticias.mx##[class*="sgpb-popup"]
 criptoinforme.com##[class*="td-a-rec-id-"]
