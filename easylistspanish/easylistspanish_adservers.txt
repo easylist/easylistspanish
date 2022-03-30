@@ -501,6 +501,7 @@
 ||waust.at^$third-party
 ||waymarkgentiin.com^$third-party
 ||wdt9iaspfv3o.com^$third-party
+||whamuthygle.com^$third-party
 ||widvffyokrmlkk.com^$third-party
 ||wiglessernes.com^$third-party
 ||wingerssetiger.com^$third-party
