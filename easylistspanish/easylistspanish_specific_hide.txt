@@ -1033,6 +1033,7 @@ grantorrent.ch###banner_publi
 zigzagdigital.com###banner_top_container
 cerebriti.com###barraAvisoAds
 allinonedownloader.com###binanceAd
+wizcase.com###bio_ep
 cuevana-3.wtf###block-3
 flashscore.co###box-over-content-a
 noticiasamarillascartago.com###carrusel_publicidad
@@ -1053,6 +1054,8 @@ synonyms.reverso.net###rca
 laboyanos.com###rotator2
 lebrijadigital.es###sidebar
 180grados.digital###sidebar > .et_pb_widget
+wizcase.com###sidebar-best-vpns
+wizcase.com###sidebar-top-vendors
 baratos.com###ue_popups
 ettv.unblockninja.com###vpnvpn
 radioexito.com.ar##.Estilo1
