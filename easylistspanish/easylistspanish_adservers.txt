@@ -218,6 +218,7 @@
 ||hackelevensol.com^$third-party
 ||harassinganticipation.com^$third-party
 ||haremwhipshook.com^$third-party
+||hedgehoghugsyou.com^$third-party
 ||hicltgxzl.com^$third-party
 ||hidelen.com^$third-party
 ||hkeynjiwpgvfzr.com^$third-party
