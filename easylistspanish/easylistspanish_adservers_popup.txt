@@ -77,6 +77,7 @@
 ||searsbushelbus.com^$third-party
 ||shoveoccupiedinsult.com^$popup,third-party
 ||significantlyentering.com^$popup,third-party
+||significantoperativeclearance.com^$popup,third-party
 ||sophisticatedindignant.com^$popup,third-party
 ||static.tellerium.com^$popup,third-party
 ||stdirection.com^$popup,third-party
