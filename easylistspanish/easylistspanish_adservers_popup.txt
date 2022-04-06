@@ -25,6 +25,7 @@
 ||doctoconve.club^$popup,third-party
 ||dustymural.com^$popup,third-party
 ||facesnotebook.com^$popup,third-party
+||fastdxr.com^$popup,third-party
 ||favouritesuitable.com^$popup,third-party
 ||fmkiuiyl.xyz^$popup,third-party
 ||freelotto.com^$popup,third-party
