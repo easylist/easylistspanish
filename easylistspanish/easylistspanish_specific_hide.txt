@@ -107,6 +107,7 @@ clipwatching.com###coverAds
 animefenix.com###csgoempire
 laopinionsannicolas.com.ar###custom_html-3
 futbolhoy.com.ar###custom_html-4
+henaojara.com###custom_html-12
 elcucodigital.com###custom_html-53
 elcucodigital.com###custom_html-54
 publico.es###decine21_widget_estrenos
