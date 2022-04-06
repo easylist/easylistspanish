@@ -5,6 +5,7 @@
 ||3r1kwxcd.top^$popup,third-party
 ||acortar.net^$popup,third-party
 ||adfpoint.com^$popup,third-party
+||admeridianads.com^$popup,third-party
 ||adp13a.com^$popup,third-party
 ||ahadsply.com^$popup,third-party
 ||authorne.info^$popup,third-party
