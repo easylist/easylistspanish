@@ -303,7 +303,7 @@ smnoticias.com,smnoticias.info##.ad5
 smnoticias.com,smnoticias.info##.ad6
 televisa.com##.ad_space_large
 elconfidencial.com##.adcrt300x600
-elperiodico.cat,laconversacion.net,lagaceta.com.ar,lagacetasalta.com.ar,sport.es##.add
+cope.es,elperiodico.cat,laconversacion.net,lagaceta.com.ar,lagacetasalta.com.ar,sport.es##.add
 hoyaragon.es##.addg
 lavozdegalicia.es##.adpos
 9movies.yt,atomixhq.art,atomixhq.link,atomixhq.net,atomixhq.one,atomixhq.top,cronicadelquindio.com,dimayor.com.co,eltrecetv.com.ar,eslang.es,gnula.se,lostiempos.com,pctmix1.com,pelispedia.tv,peru.com,publico.es,rpp.pe##.ads
