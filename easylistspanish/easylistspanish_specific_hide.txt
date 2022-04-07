@@ -470,7 +470,7 @@ cliver.to##.btn_pub
 peliculasaudiolatino.com##.btnads
 ddmix.net##.btndescargar
 ddmix.net##.btnveronline
-cronicaglobal.elespanol.com,elnacional.cat##.c-banner
+cocheglobal.com,cronicaglobal.elespanol.com,cronicavasca.com,culemania.com,elnacional.cat,huleymantel.com##.c-banner
 racocatala.cat##.caixa-publicitat
 parlamentario.com##.caja-banner-990
 eleconomista.es##.caja-publi-port
