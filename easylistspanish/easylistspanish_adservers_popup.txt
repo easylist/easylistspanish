@@ -34,6 +34,7 @@
 ||furnishedleggysoak.com^$popup,third-party
 ||gadsatz.com^$popup,third-party
 ||gadspmz.com^$popup,third-party
+||geldantgrins.com^$popup,third-party
 ||generouslivelinessevidence.com^$popup,third-party
 ||gloxeept.com^$popup,third-party
 ||granevahu.pro$popup,third-party
