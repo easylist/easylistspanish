@@ -258,6 +258,7 @@ elblog.com###z_pub_sup_new
 reforma.com###zonaavisos
 informe21.com###zone-user-wrapper
 madridpress.com,sahagundigital.com##.BANNER-IMAGES
+carrefour.es##.rm-format
 diariodelalinea.es##.BANNER_COLUMN
 diariolagrada.com,globalasia.com,marketingregistrado.com,prensa.com##.Banner
 guadairainformacion.com##.Banner300x100
