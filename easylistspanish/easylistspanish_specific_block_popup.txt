@@ -33,4 +33,4 @@ $popup,third-party,domain=cinecalidad.lol|divxtotal.co|embedsito.com|fembad.net|
 ! about:blank popups
 /about:blank.*/$popup,domain=cuevana3-v1.wtf|peliculasmega1k.com
 ! html/image popups
-/^https?:\/\/.*\.(jpg|gif|png|php|svg|ico|js|txt)/$popup,domain=animeflv.la|atomixhq.art|atomixhq.club|atomixhq.link|atomixhq.top|cliver.to|doramasflixs.com|gnula.nu|gnula.se|ibb.co|jkanime.net|myflixertv.to|pctreload1.com|pelishouse.me|pelismart.com|pelismarthd.com|pelisplus2.io|pelispop.me|pelispophd.com|seriesflix.live|seriesturcas.tv|solopeliculasespañol.com|tomatomatela.com
+/^https?:\/\/.*\.(jpg|gif|png|php|svg|ico|js|txt)/$popup,domain=animeflv.la|atomixhq.art|atomixhq.club|atomixhq.link|atomixhq.top|cliver.to|doramasflixs.com|gnula.nu|gnula.se|ibb.co|jkanime.net|myflixertv.to|pctreload1.com|pelishouse.me|pelismart.com|pelismarthd.com|pelisplus.io|pelisplus2.io|pelispop.me|pelispophd.com|seriesflix.live|seriesturcas.tv|solopeliculasespañol.com|tomatomatela.com
