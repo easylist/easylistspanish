@@ -10,6 +10,7 @@
 ||ahadsply.com^$popup,third-party
 ||authorne.info^$popup,third-party
 ||beefymartpronunciation.com^$popup,third-party
+||berti-ian.com^$popup,third-party
 ||breathebuds.com^$popup,third-party
 ||buncoswosh.com^$popup,third-party
 ||canuckmethodprofit.co^$popup,third-party
@@ -46,6 +47,7 @@
 ||jlflzjdt.com^$popup,third-party
 ||jokingst.xyz^$popup,third-party
 ||jsbevhlplmdan.xyz^$popup,third-party
+||junmediadirect.com^$popup,third-party
 ||killerjuke.xyz^$popup,third-party
 ||kingko.xyz^$popup,third-party
 ||librariessunflower.com^$popup,third-party
@@ -81,6 +83,7 @@
 ||significantlyentering.com^$popup,third-party
 ||significantoperativeclearance.com^$popup,third-party
 ||sophisticatedindignant.com^$popup,third-party
+||srvpcn.com^$popup,third-party
 ||static.tellerium.com^$popup,third-party
 ||stdirection.com^$popup,third-party
 ||strafefox.xyz^$popup,third-party
