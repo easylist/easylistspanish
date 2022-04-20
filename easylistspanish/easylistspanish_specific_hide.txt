@@ -737,7 +737,7 @@ diarioconurbano.com.ar##.tdi_36
 planbnoticias.com.ar##.text-4
 planbnoticias.com.ar##.text-7
 larazon.es##.textoPatrocinio
-elbierzodigital.com,villavonoticias.com##.textwidget
+elbierzodigital.com,futbolretro.es,villavonoticias.com##.textwidget
 gameflare.com##.timer
 miradetodo.io##.tit
 mitele.es##.titleList.DestacadoBox.clearfix.ModuleSimple:last-child
