@@ -641,7 +641,6 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||clickgate07.biz$script,third-party
 ||culmedmaumee.com^$script
 ||cultergoy.com$script
-||cuntempire.com^$popup,third-party=animefenix.com
 ||diarioputumayo.com/wp-content/uploads/2021/04/PUB
 ||elcolombiano.com/*/punto-de-compras-2-productos
 ||elhistoriador.com.ar/*/*banner
@@ -667,7 +666,6 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||maholinoticed.com^$script
 ||mangas.in/js/taktak.js
 ||masgamers.com/wp-content/uploads/2019
-||midastouchrt.com^$popup,third-party=animefenix.com
 ||monoschinos.info/sw.js
 ||motociclismo.es/js/compiled_blockadblock_15.js
 ||netcpms.com/$popup,third-party,domain=rainanime.co
