@@ -640,6 +640,7 @@ letrap.com.ar##.ppp_H5
 letrap.com.ar##.ppp_H6
 letrap.com.ar##.ppp_P5
 letrap.com.ar##.ppp_P6
+mexicodesconocido.com.mx##.escapadas_widget
 noticiasparamunicipios.com##.prefix-adlabel
 deportes.televisa.com##.prime-banner
 lavoz.com.ar##.producto-tienda
