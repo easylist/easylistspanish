@@ -172,7 +172,6 @@
 @@||seriesgato.com^$generichide
 @@||seriesgato.tv^$generichide
 @@||shares.enetres.net/ads.js.php?$script,domain=enetres.net
-@@||sport.es^$generichide
 @@||sscc.edu.ec/wp-content/
 @@||static.vocento.com/adbd/$script
 @@||static.vodgc.net/*/videojs.ads-5.1.5.min.js$script,domain=api.vodgc.net
