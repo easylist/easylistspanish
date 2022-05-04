@@ -439,6 +439,7 @@ moracontenidos.com##.bc_random_banner
 tumomo.com##.bderecho
 ebay.es##.beta-placement
 juegosjuegos.ws##.bfbc
+exitoina.perfil.com##.bg-ads-spac
 zooplus.es##.bg-banner
 tumomo.com##.bizquierdo
 larepublica.pe##.bl-cuponidad
