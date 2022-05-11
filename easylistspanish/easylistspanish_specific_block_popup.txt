@@ -14,6 +14,7 @@ $popup,third-party,domain=cinecalidad.lol|divxtotal.co|embedsito.com|fembad.net|
 ||cintent.streanplay.cc^$popup
 ||click.expmediadirect1.com^$popup
 ||doramasmp4.com/en.svg$popup
+||esplay.io/*.webp^$popup,domain=cuevanahd.net
 ||foxcdn.me^$popup,domain=telerium.digital
 ||geniusdexchange.com^$popup,domain=jac-tv.com
 ||https://$popup,third-party,domain=cliver.to|linkotes.com
