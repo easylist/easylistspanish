@@ -526,6 +526,9 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||shellshock.io/img/promo/
 ||shippuden.tv/a300.html
 ||sinmordaza.com/images/*banner*.jpg
+||sirchandler.com.ar/wp-content/uploads/202*/11/
+||sirchandler.com.ar/wp-content/uploads/2021/10/
+||sirchandler.com.ar/wp-content/uploads/2021/12/booking
 ||siteground.es/img/banners/
 ||smnoticias.com/wp-content/uploads/*/*.gif
 ||smnoticias.com/wp-content/uploads/2017/03/gelay.jpg
