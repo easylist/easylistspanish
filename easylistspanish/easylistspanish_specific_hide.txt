@@ -407,6 +407,7 @@ elimparcial.com,frontera.info##.banner_box
 elimparcial.com,frontera.info##.banner_box_p
 animeid.io,jkanime.co##.banner_center
 rosariogarage.com##.banner_centro_inf
+ambito.com##.banner-container
 miltorrents.com##.banner_detail_files
 miltorrents.com##.banner_detail_top
 bienesrosario.com##.banner_dinamic
