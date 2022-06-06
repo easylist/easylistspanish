@@ -53,6 +53,7 @@
 @@||ads.ampliffy.com/gampad/$domain=videos.cuantarazon.com|videos.humorenserie.com|videos.memedeportes.com|videos.vistoenlasredes.com|videos.vrutal.com
 @@||adsafeprotected.com/iasPET.$script,domain=esgentside.com
 @@||adsafeprotected.com/services/pub?anId=$xmlhttprequest,domain=esgentside.com
+@@||ak-ads-ns.prisasd.com/prebid/prebid_noticias.js$script,domain=as.com
 @@||akamaihd.net/*/defaultview/*/fuckadblock.js$script,third-party,xmlhttprequest,domain=mitele.es
 @@||akamaihd.net/defaultview/adjs.js$script,third-party,xmlhttprequest,domain=mitele.es
 @@||akamaihd.net/dist/assets/nonAdBlock/$script,third-party,xmlhttprequest,domain=mitele.es
