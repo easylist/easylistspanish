@@ -239,6 +239,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||ftail.tv/wp-content/themes/bideopro/img/vca.gif
 ||ftail.tv/wp-content/themes/bideopro/img/vpa.gif
 ||futbolbase.us^$subdocument,domain=adca.st
+||futbollatam.com/ads2.js
 ||gacetamercantil.com.ar/banners/
 ||gameflare.com/common/promotions/own-images/$subdocument
 ||gamestorrents.*/realtime/
