@@ -740,6 +740,7 @@ planbnoticias.com.ar##.text-4
 planbnoticias.com.ar##.text-7
 larazon.es##.textoPatrocinio
 elbierzodigital.com,futbolretro.es,villavonoticias.com##.textwidget
+henaojara.com##.textwidget.custom-html-widget
 gameflare.com##.timer
 miradetodo.io##.tit
 mitele.es##.titleList.DestacadoBox.clearfix.ModuleSimple:last-child
