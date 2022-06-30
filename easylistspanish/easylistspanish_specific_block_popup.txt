@@ -34,6 +34,6 @@ $popup,third-party,domain=cinecalidad.lol|divxtotal.co|embedsito.com|fembad.net|
 ! about:blank popups
 /about:blank.*/$popup,domain=cuevana3-v1.wtf|peliculasmega1k.com|streamadblockplus.com
 ! html/image popups
-/^https?:\/\/.*\.(jpg|gif|png|php|svg|ico|js|txt)/$popup,domain=anime-flv.net|animeflv.la|atomixhq.art|atomixhq.club|atomixhq.link|atomixhq.top|cliver.to|cuevanahd.net|divicast.com|doramasflixs.com|gnula.nu|gnula.se|ibb.co|jkanime.net|myflixertv.to|pctreload1.com|pelishouse.me|pelismart.com|pelismarthd.com|pelisplayer.xyz|pelisplus.io|pelisplus.top|pelisplus2.io|pelisplushd.nu|pelispop.me|pelispophd.com|seriesflix.live|seriesturcas.tv|solopeliculasespaÃ±ol.com|tomatomatela.com
+/^https?:\/\/.*\.(jpg|gif|png|php|svg|ico|js|txt)/$popup,domain=anime-flv.net|animeflv.la|atomixhq.art|atomixhq.club|atomixhq.link|atomixhq.top|cliver.to|cuevanahd.net|divicast.com|doramasflixs.com|gnula.nu|gnula.se|ibb.co|jkanime.net|myflixertv.to|pctreload1.com|pelishouse.me|pelismart.com|pelismarthd.com|pelismartv.com|pelisplayer.xyz|pelisplus.io|pelisplus.top|pelisplus2.io|pelisplushd.nu|pelispop.me|pelispophd.com|seriesflix.live|seriesturcas.tv|solopeliculasespaÃ±ol.com|tomatomatela.com
 ! html/image popups (without php)
 /^https?:\/\/.*\.(jpg|gif|png|svg|ico|js|txt)/$popup,domain=pirlotvonlinehd.net
