@@ -445,6 +445,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||peliculasyseries.org//images/desactiva.gif
 ||pelishouse.com/wp-content/uploads/*/descargar.png
 ||pelishouse.com/wp-content/uploads/*/ver.png
+||pelisnetwork.com/pub?
 ||pelispedia.de/wp-content/plugins/all-click/public/js/allclick-functions.js
 ||pelisplus2.me/d.png^$image
 ||perspectivasur.com/archivos/banners/
