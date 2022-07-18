@@ -61,6 +61,13 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||agenciafe.com/data/img_cont/img_banners/
 ||agma.io/img/agmaAd/
 ||agritotal.com/file/image/*.gif
+||aimdigital.com.ar/wp-content/uploads/*.gif
+||aimdigital.com.ar/wp-content/uploads/2017/07/adepa-AIM.jpg
+||aimdigital.com.ar/wp-content/uploads/2017/08/300_x_250_min_de_turismo1.jpg
+||aimdigital.com.ar/wp-content/uploads/2017/10/01-*-TU-PARTE-BOLSAS.jpg
+||aimdigital.com.ar/wp-content/uploads/2017/10/enersa-logo-publi.jpg
+||aimdigital.com.ar/wp-content/uploads/2017/10/salud.jpg
+||aimdigital.com.ar/wp-content/uploads/2017/10/turismo.jpg
 ||aica.org/publi*.html?t=
 ||aica.org/publi/
 ||alicdn.com^$domain=ddmix.net
