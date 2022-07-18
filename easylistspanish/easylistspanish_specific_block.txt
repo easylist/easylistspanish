@@ -15,7 +15,6 @@ $script,third-party,domain=abcdefamosas.xyz|animakai.tv|animeflv.net|anitube.cz|
 ! Third party xmlhttprequest
 $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|divxatope1.com|divxtotal.com|estoesporno.com|estrenosdtl.com|gamestorrents.com|moviesdvdr.com|newpct.com|newpct1.com|seriesflv.net|subtorrents.com|todocvcd.com|torrentesx.com|torrentlocura.com|torrentrapid.com|tumejortorrent.com
 ! Specific ads
-.fun^$domain=skidrowreloaded.com
 .xyz^$script,subdocument,domain=hqq.to|hqq.tv|megaplay.cc|serieshd.net|waaw.to|waaw.tv
 /*badge*.png$domain=rpp.pe
 /MyShowroom/view.php^$domain=webcamtests.com
@@ -69,6 +68,8 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||aimdigital.com.ar/wp-content/uploads/2017/10/enersa-logo-publi.jpg
 ||aimdigital.com.ar/wp-content/uploads/2017/10/salud.jpg
 ||aimdigital.com.ar/wp-content/uploads/2017/10/turismo.jpg
+||aica.org/publi*.html?t=
+||aica.org/publi/
 ||alicdn.com^$domain=ddmix.net
 ||amazonaws.com^$domain=grantorrent.co|grantorrent.com|torrentlocura.com
 ||anbariloche.com.ar/uploads/archivos/*.gif
