@@ -547,6 +547,7 @@ macrojuegos.com##.gad
 juegos.com##.game-page-sidebar
 rpp.pe##.gogoWidget3V
 ehowenespanol.com##.gpt_300
+cuevana3.rip##.grid.desk-8.alpha > p
 hlat.me##.grid_12
 ondaluz.tv##.grid_12 > .grid_4
 tallasgrandes.es##.grid_24
