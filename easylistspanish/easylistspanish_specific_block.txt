@@ -96,8 +96,6 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||bajafiles.net/leer.jpg
 ||bannersweb.s3.amazonaws.com^
 ||bienesrosario.com/resources/banner/
-||biodiesel.com.ar/wp-content/uploads/2016/07/00.gif
-||biodiesel.com.ar/wp-content/uploads/2017/10/Banner-Biodiesel-300x180-px-1.gif
 ||blogspot.com/*.gif$domain=puertocampoynegocios.com
 ||breves24.com.ar/banners/
 ||butlercdn.com^$domain=eldiariodelapampa.com.ar
