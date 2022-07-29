@@ -150,7 +150,6 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||desdesoria.es/wp-content/uploads/*/*/*.gif
 ||dewincubiatoll.com^$script,domain=9movies.yt
 ||diagonales.com/Multimedios/Ads/
-||diario.mx/baners/
 ||diariocorreo.pe/static/diariocorreo_redesign/img/manual-del-exportador.jpg
 ||diariodelaribera.org/images/banners/
 ||diariodelaribera.org/images/stories/banners2015/noviembre_2015/
