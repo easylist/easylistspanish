@@ -128,7 +128,6 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||connatix.com/connatix.player.js^$domain=tusubtitulo.com
 ||contextotucuman.com//banners/
 ||corporacionwarez.com/wp-content/uploads/$script
-||corrienteshoy.com/files/banners/
 ||cronista.com/arte/pcwlogo.png
 ||css01.lavanguardia.com/imagenes/cajaHTML/loterias.gif
 ||cualesmiip.com/images/banner
