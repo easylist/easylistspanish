@@ -26,8 +26,8 @@
 ||dk57sacpbi4by.cloudfront.net^
 ||dmg0877nfcvqj.cloudfront.net^
 ||dmz3nd5oywtsw.cloudfront.net^
-||dw55pg05c2rl5.cloudfront.net^
 ||doragonborusupa.com^$third-party
+||dw55pg05c2rl5.cloudfront.net^
 ||dzv1ekshu2vbs.cloudfront.net^
 ||economicos.cl/widgets/$third-party
 ||guioteca.com/widget.php^$third-party
