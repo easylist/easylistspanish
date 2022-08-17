@@ -1,3 +1,6 @@
+@@||20m.es/prebid/$script,domain=20minutos.es
+@@||amazon-adsystem.com/aax2/apstag.js$script,domain=20minutos.es
+!
 @@-publicidad.$~third-party,domain=regalos-publicidad.es|todo-publicidad.com
 @@||ajax.googleapis.com/ajax/libs/$script,third-party,domain=animeflv.net|anitube.cz|ddmix.net|descargasnsn.com|lacajita.xyz|reyanime.com|seriesblanco.com
 @@||aurora-israel.co.il/wp-content/themes/Newspaper/bannersswf/banner_newsletter1.swf

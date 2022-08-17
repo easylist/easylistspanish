@@ -1,3 +1,6 @@
+20minutos.es##.axds
+20minutos.es##.module-coupons
+!
 puromarketing.com###AdsTextHomeCenter
 puromarketing.com###AdsTextHomeMultiple
 forocoches.com###AutoNumber30
