@@ -31,7 +31,6 @@
 ||favouritesuitable.com^$popup,third-party
 ||fmkiuiyl.xyz^$popup,third-party
 ||freelotto.com^$popup,third-party
-||fuegodevida.com^$popup,third-party
 ||furnishedleggysoak.com^$popup,third-party
 ||gadsatz.com^$popup,third-party
 ||gadspmz.com^$popup,third-party
