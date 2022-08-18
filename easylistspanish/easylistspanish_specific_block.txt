@@ -1,20 +1,4 @@
-! Webrtc ads
-$webrtc,domain=allpeliculas.com|animeid.tv|booksmedicos.org|dompl3.info|gnula.biz|jkanime.net|mejortorrent.com|mejortorrent.org|mejortorrent1.com|pelispedia.tv|tomadivx.tv
-! Websocket ads
-$websocket,domain=ddmix.net|descargasnsn.com
-! blob ads
-|blob:$domain=ddmix.net|descargasnsn.com|divxatope.com|divxatope1.com|newpct.com|newpct1.com|torrentlocura.com|torrentrapid.com|tumejortorrent.com
-! CSP ads
-$csp=worker-src 'none',domain=tomadivx.tv
-! RegEx filters
-/^https?:\/\/([a-z0-9]{8,10}\.)?[a-z0-9]{5,14}\.(com|bid|online|top|club)\/([a-z0-9]{2}\/){3}[a-f0-9]{32}\.js$/$script,third-party
-/^https?:\/\/[0-9a-z]{8,}.[0-9a-z]{8,}\.com\//$script,domain=animefenix.com|hispasexy.org|manga-mx.com|monoschinos2.com|serielatinobobesponja.com|series-de.online
-/^https?:\/\/[a-z0-9]+\.cloudfront\.net\/\?[a-z]{5}\=\d{6}$/$script,third-party
-! Third party script
-$script,third-party,domain=abcdefamosas.xyz|animakai.tv|animeflv.net|anitube.cz|anitubebr.com|ddmix.net|descargasnsn.com|divxatope.com|divxatope1.com|divxtotal.com|elitetorrent.net|estoesporno.com|estrenosdtl.com|ftail.tv|gamestorrents.com|lacajita.xyz|mejorenvo.com|mejortorrent.com|moviesdvdr.com|newpct.com|newpct1.com|novelasenlinea.net|pepecine.info|reyanime.com|seriesblanco.com|seriesflv.net|shippuden.tv|submanga.org|subtorrents.com|todocvcd.com|torrentesx.com|torrentlocura.com|torrentrapid.com|tumejortorrent.com|xtremo.net|xtremostereo.net
-! Third party xmlhttprequest
-$third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|divxatope1.com|divxtotal.com|estoesporno.com|estrenosdtl.com|gamestorrents.com|moviesdvdr.com|newpct.com|newpct1.com|seriesflv.net|subtorrents.com|todocvcd.com|torrentesx.com|torrentlocura.com|torrentrapid.com|tumejortorrent.com
-! Specific ads
+!
 .xyz^$script,subdocument,domain=hqq.to|hqq.tv|megaplay.cc|serieshd.net|waaw.to|waaw.tv
 /*badge*.png$domain=rpp.pe
 /avisos^$image,domain=novalaplata.com
@@ -446,17 +430,6 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||px.fotos.cdn.0223.com.ar/f/539f4f6c5408217c16000029/
 ||px.fotos.cdn.0223.com.ar/f/5487365314cdac0400000148/
 ||px.fotos.cdn.0223.com.ar/f/55cd3fc7b07ac20500000282/
-||radiosantiago.cl/wp-content/uploads/*.gif
-||radiosantiago.cl/wp-content/uploads/2017/01/falabella_228x114.jpg
-||radiosantiago.cl/wp-content/uploads/2017/01/margot_228x76.jpg
-||radiosantiago.cl/wp-content/uploads/2017/01/sound_tech228x76.jpg
-||radiosantiago.cl/wp-content/uploads/2017/02/COPEC.png
-||radiosantiago.cl/wp-content/uploads/2017/02/Logo-Nutri-225x99.png
-||radiosantiago.cl/wp-content/uploads/2017/02/MO-233x64.png
-||radiosantiago.cl/wp-content/uploads/2017/02/netexplora_228x50.png
-||radiosantiago.cl/wp-content/uploads/2017/02/sintonia-228x228.png
-||radiosantiago.cl/wp-content/uploads/2017/02/tecnoera228x34.png
-||radiosantiago.cl/wp-content/uploads/2017/02/unimarc-228x76.jpg
 ||rae.es/sites/all/common/images/logos/
 ||ramenparados.com/wp-content/uploads/*Akira.jpg
 ||realovirtual.com/pictures/banners/
@@ -584,6 +557,22 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||zetaestaticos.com/comun/upload/0/628/628692.jpg
 ||zeulo.anime-extremo.com^
 ||zonatorrent.tv/min/$script
+! Webrtc ads
+$webrtc,domain=allpeliculas.com|animeid.tv|booksmedicos.org|dompl3.info|gnula.biz|jkanime.net|mejortorrent.com|mejortorrent.org|mejortorrent1.com|pelispedia.tv|tomadivx.tv
+! Websocket ads
+$websocket,domain=ddmix.net|descargasnsn.com
+! blob ads
+|blob:$domain=ddmix.net|descargasnsn.com|divxatope.com|divxatope1.com|newpct.com|newpct1.com|torrentlocura.com|torrentrapid.com|tumejortorrent.com
+! CSP ads
+$csp=worker-src 'none',domain=tomadivx.tv
+! RegEx filters
+/^https?:\/\/([a-z0-9]{8,10}\.)?[a-z0-9]{5,14}\.(com|bid|online|top|club)\/([a-z0-9]{2}\/){3}[a-f0-9]{32}\.js$/$script,third-party
+/^https?:\/\/[0-9a-z]{8,}.[0-9a-z]{8,}\.com\//$script,domain=animefenix.com|hispasexy.org|manga-mx.com|monoschinos2.com|serielatinobobesponja.com|series-de.online
+/^https?:\/\/[a-z0-9]+\.cloudfront\.net\/\?[a-z]{5}\=\d{6}$/$script,third-party
+! Third party script
+$script,third-party,domain=abcdefamosas.xyz|animakai.tv|animeflv.net|anitube.cz|anitubebr.com|ddmix.net|descargasnsn.com|divxatope.com|divxatope1.com|divxtotal.com|elitetorrent.net|estoesporno.com|estrenosdtl.com|ftail.tv|gamestorrents.com|lacajita.xyz|mejorenvo.com|mejortorrent.com|moviesdvdr.com|newpct.com|newpct1.com|novelasenlinea.net|pepecine.info|reyanime.com|seriesblanco.com|seriesflv.net|shippuden.tv|submanga.org|subtorrents.com|todocvcd.com|torrentesx.com|torrentlocura.com|torrentrapid.com|tumejortorrent.com|xtremo.net|xtremostereo.net
+! Third party xmlhttprequest
+$third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|divxatope1.com|divxtotal.com|estoesporno.com|estrenosdtl.com|gamestorrents.com|moviesdvdr.com|newpct.com|newpct1.com|seriesflv.net|subtorrents.com|todocvcd.com|torrentesx.com|torrentlocura.com|torrentrapid.com|tumejortorrent.com
 ! Anti-Adblock
 /ads/brand_day^$domain=diariomotor.com
 /fallback_pub_$domain=ecartelera.com
