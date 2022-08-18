@@ -262,10 +262,6 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||imagenes.aquienlasierra.es/2019/
 ||imagenes.aquienlasierra.es/2020/
 ||imagenes.aquienlasierra.es/2021/
-||imagensn.com/images/2016/09/02/uploaded-banner-300.jpg
-||imagensn.com/images/2016/09/02/uploaded-banner-728.jpg
-||imagensn.com/images/2016/12/07/dedicados.jpg
-||imagensn.com/images/2016/12/07/servidores.jpg
 ||images.eldiario.es/fotos/Articulo-patrocinado
 ||images.futbolbase.us/pepon.html
 ||images.futbolbase.us/raulito.html
