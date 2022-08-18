@@ -164,8 +164,6 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||diarioresponsable.com/images/castellananorte19032020.jpg
 ||diarioresponsable.com/images/triodos_2019-06.jpg
 ||diariosanrafael.com.ar/images/banners/
-||diariotextual.com/images/articulos-2014/*.gif
-||diariotextual.com/images/articulos-2014/*banner
 ||diariotextual.com/inicio/wp-content/uploads/*/*/*.gif
 ||diariotextual.com/inicio/wp-content/uploads/*/*/banner
 ||diariovictoria.com.ar/wp-content/uploads/*.gif
