@@ -1,3 +1,5 @@
+||wemass.com^$third-party
+!
 ||0210bb49cd.com^$third-party
 ||0cfe97d936.com^$third-party
 ||1ce86868bf.com^$third-party
