@@ -1,3 +1,4 @@
+||diariodelaribera.net/imagenes/banner
 !
 .xyz^$script,subdocument,domain=hqq.to|hqq.tv|megaplay.cc|serieshd.net|waaw.to|waaw.tv
 /*badge*.png$domain=rpp.pe

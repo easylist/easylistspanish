@@ -4,6 +4,7 @@ formulatv.com##.pub-btf
 formulatv.com##.pub-mid
 formulatv.com##.pub-top
 manomano.es##a[class*="sponsoredProductCard"]
+diariodelaribera.net##img[alt^="Banner"]
 !
 puromarketing.com###AdsTextHomeCenter
 puromarketing.com###AdsTextHomeMultiple
