@@ -400,10 +400,6 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||montevideo.com.uy/clima/imagenes/claroclima
 ||montevideo.com.uy/plantillas/temas17/imagenes17/mundobebe_dove.jpg
 ||moontuftboy.com^$script,third-party,domain=animeblix.com
-||mundodeportivo.com/r/GODO/MD/p3/Canales/Imagenes/*/lacaixa.jpg
-||mundodeportivo.com/r/GODO/MD/p3/Canales/Imagenes/*/runedia.jpg
-||mundodeportivo.com/r/GODO/MD/p3/Canales/Imagenes/2015/02/06/
-||mundodeportivo.com/r/GODO/MD/p3/ContraPortada/Imagenes/*/img_cduart_*_imagenes_md_otras_fuentes_bmw_*.jpg
 ||mundodescuento.s3.amazonaws.com^$domain=cadena3.com
 ||musiquiatra.com/uploads/banners
 ||naciodigital.cat/redaccio/publicitat/
