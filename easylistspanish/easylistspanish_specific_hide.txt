@@ -3,6 +3,7 @@
 formulatv.com##.pub-btf
 formulatv.com##.pub-mid
 formulatv.com##.pub-top
+manomano.es##a[class*="sponsoredProductCard"]
 !
 puromarketing.com###AdsTextHomeCenter
 puromarketing.com###AdsTextHomeMultiple
