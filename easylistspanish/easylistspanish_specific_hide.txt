@@ -1,6 +1,7 @@
 diariodelaribera.net###bannercabeceravideo
 20minutos.es##.axds
 diariodelaribera.net##.bannerColumnas
+lapaginamillonaria.com##.boxbanner_container
 diariodelaribera.net##.lateralderecho
 diariodelaribera.net##.lateralizquierdo
 20minutos.es##.module-coupons
