@@ -8,6 +8,7 @@ diariodelaribera.net##.lateralizquierdo
 formulatv.com##.pub-btf
 formulatv.com##.pub-mid
 formulatv.com##.pub-top
+periodismo.com##.td-a-rec
 marcadegol.com##.textwidget a[href^="https://ar.puma.com/"]
 manomano.es##a[class*="sponsoredProductCard"]
 diariodelaribera.net##img[alt^="Banner"]
