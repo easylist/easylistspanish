@@ -1,4 +1,5 @@
 ##.banner-publicidad
+##.edi-advertising
 !
 ###PubMiddle1
 ###PubMiddle2
