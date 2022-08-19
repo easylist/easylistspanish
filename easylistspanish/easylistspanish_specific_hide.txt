@@ -4,7 +4,7 @@ elnacional.com###en_nd_home_flat_3
 generacionuniversitaria.com.mx###ventana-flotante
 iproup.com##.ap
 20minutos.es##.axds
-viapais.com.ar##.banner
+lavoz.com.ar,viapais.com.ar##.banner
 iprofesional.com##.banner-2
 clarin.com##.banner-border
 elnueve.com.ar##.banner-box-container
@@ -15,6 +15,7 @@ iproup.com##.bannerwide
 lapaginamillonaria.com##.boxbanner_container
 elpais.com##.c-bra
 perfil.com##.d-xs-none.d-xxl-flex
+lavoz.com.ar##.imgSponsor
 diariodelaribera.net##.lateralderecho
 diariodelaribera.net##.lateralizquierdo
 sensacine.com.mx##.main-banner
