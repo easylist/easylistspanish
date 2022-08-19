@@ -9,6 +9,7 @@ a24.com,diariouno.com.ar,lared.am##.banner-libre
 diariodelaribera.net##.bannerColumnas
 iproup.com##.bannerwide
 lapaginamillonaria.com##.boxbanner_container
+elpais.com##.c-bra
 perfil.com##.d-xs-none.d-xxl-flex
 diariodelaribera.net##.lateralderecho
 diariodelaribera.net##.lateralizquierdo
