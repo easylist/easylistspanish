@@ -11,6 +11,7 @@ marcadegol.com##.textwidget a[href^="https://ar.puma.com/"]
 manomano.es##a[class*="sponsoredProductCard"]
 diariodelaribera.net##img[alt^="Banner"]
 highxtar.com##img[width="300"][height="600"]
+marcadegol.com##img[width="750"]
 !
 puromarketing.com###AdsTextHomeCenter
 puromarketing.com###AdsTextHomeMultiple
