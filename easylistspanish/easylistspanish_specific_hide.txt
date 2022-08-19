@@ -1,8 +1,10 @@
 diariodelaribera.net###bannercabeceravideo
 20minutos.es##.axds
+elnueve.com.ar##.banner-box-container
 a24.com,diariouno.com.ar,lared.am##.banner-libre
 diariodelaribera.net##.bannerColumnas
 lapaginamillonaria.com##.boxbanner_container
+perfil.com##.d-xs-none.d-xxl-flex
 diariodelaribera.net##.lateralderecho
 diariodelaribera.net##.lateralizquierdo
 20minutos.es##.module-coupons
@@ -12,6 +14,7 @@ formulatv.com##.pub-top
 periodismo.com##.td-a-rec
 marcadegol.com##.textwidget a[href^="https://ar.puma.com/"]
 manomano.es##a[class*="sponsoredProductCard"]
+elnueve.com.ar##div[class*="_site-banner-top_"]
 diariodelaribera.net##img[alt^="Banner"]
 highxtar.com##img[width="300"][height="600"]
 marcadegol.com##img[width="750"]
