@@ -1,6 +1,6 @@
 diariodelaribera.net###bannercabeceravideo
 20minutos.es##.axds
-diariouno.com.ar##.banner-libre
+a24.com,diariouno.com.ar##.banner-libre
 diariodelaribera.net##.bannerColumnas
 lapaginamillonaria.com##.boxbanner_container
 diariodelaribera.net##.lateralderecho
