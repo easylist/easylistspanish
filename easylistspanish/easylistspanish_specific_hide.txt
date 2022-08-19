@@ -7,6 +7,7 @@ iproup.com##.ap
 lavoz.com.ar,viapais.com.ar##.banner
 iprofesional.com##.banner-2
 clarin.com##.banner-border
+lacapital.com.ar##.banner-box
 elnueve.com.ar##.banner-box-container
 iprofesional.com##.banner-horizontal
 a24.com,diariouno.com.ar,lared.am##.banner-libre
