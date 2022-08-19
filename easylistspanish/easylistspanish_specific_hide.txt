@@ -16,6 +16,7 @@ elpais.com##.c-bra
 perfil.com##.d-xs-none.d-xxl-flex
 diariodelaribera.net##.lateralderecho
 diariodelaribera.net##.lateralizquierdo
+sensacine.com.mx##.main-banner
 20minutos.es##.module-coupons
 formulatv.com##.pub-btf
 formulatv.com##.pub-mid
