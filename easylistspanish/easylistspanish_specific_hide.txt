@@ -1,6 +1,9 @@
 diariodelaribera.net###bannercabeceravideo
 elnacional.com###en_nd_home_flat_2
 elnacional.com###en_nd_home_flat_3
+qmusica.tv###promo
+qmusica.tv###promoSept19A
+qmusica.tv###promoSept19B
 generacionuniversitaria.com.mx###ventana-flotante
 iproup.com##.ap
 20minutos.es##.axds
@@ -23,6 +26,7 @@ diariodelaribera.net##.lateralderecho
 diariodelaribera.net##.lateralizquierdo
 sensacine.com.mx##.main-banner
 20minutos.es##.module-coupons
+qmusica.tv##.promoTop
 formulatv.com##.pub-btf
 formulatv.com##.pub-mid
 formulatv.com##.pub-top
