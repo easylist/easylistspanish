@@ -19,6 +19,7 @@ ciudad.com.ar##.banner-wrapper
 diariodelaribera.net##.bannerColumnas
 iproup.com##.bannerwide
 lapaginamillonaria.com##.boxbanner_container
+eldoce.tv##.branding-wrapper
 elpais.com##.c-bra
 perfil.com##.d-xs-none.d-xxl-flex
 lavoz.com.ar##.imgSponsor
