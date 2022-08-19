@@ -1,7 +1,9 @@
 diariodelaribera.net###bannercabeceravideo
 20minutos.es##.axds
 viapais.com.ar##.banner
+iprofesional.com##.banner-2
 elnueve.com.ar##.banner-box-container
+iprofesional.com##.banner-horizontal
 a24.com,diariouno.com.ar,lared.am##.banner-libre
 diariodelaribera.net##.bannerColumnas
 lapaginamillonaria.com##.boxbanner_container
