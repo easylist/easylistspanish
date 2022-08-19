@@ -1,6 +1,7 @@
 diariodelaribera.net###bannercabeceravideo
 elnacional.com###en_nd_home_flat_2
 elnacional.com###en_nd_home_flat_3
+generacionuniversitaria.com.mx###ventana-flotante
 iproup.com##.ap
 20minutos.es##.axds
 viapais.com.ar##.banner
@@ -19,6 +20,7 @@ diariodelaribera.net##.lateralizquierdo
 formulatv.com##.pub-btf
 formulatv.com##.pub-mid
 formulatv.com##.pub-top
+generacionuniversitaria.com.mx##.publicidad
 periodismo.com##.td-a-rec
 marcadegol.com##.textwidget a[href^="https://ar.puma.com/"]
 manomano.es##a[class*="sponsoredProductCard"]
