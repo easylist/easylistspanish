@@ -1082,7 +1082,6 @@ wizcase.com###sidebar-top-vendors
 baratos.com###ue_popups
 ettv.unblockninja.com###vpnvpn
 radioexito.com.ar##.Estilo1
-bluradio.com,caracoltv.com,shock.co##.GoogleDfpAd-Float
 coin360.com##.StickyCorner
 coin360.com##.TopLeaderboard
 elcolombiano.com##.Widgetsliderintelecto
