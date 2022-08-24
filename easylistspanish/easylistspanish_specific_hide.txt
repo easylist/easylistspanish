@@ -39,6 +39,7 @@ manomano.es##a[class*="sponsoredProductCard"]
 elnueve.com.ar##div[class*="_site-banner-top_"]
 avisooportuno.mx##div[class^="div-dfp-"]
 diariodelaribera.net##img[alt^="Banner"]
+diariotextual.com##img[width="300"]
 highxtar.com##img[width="300"][height="600"]
 marcadegol.com##img[width="750"]
 !
