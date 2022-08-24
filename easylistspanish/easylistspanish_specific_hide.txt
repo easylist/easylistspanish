@@ -23,6 +23,7 @@ lapaginamillonaria.com##.boxbanner_container
 eldoce.tv##.branding-wrapper
 elpais.com##.c-bra
 perfil.com##.d-xs-none.d-xxl-flex
+diariodecuyo.com.ar##.dfp-async
 lavoz.com.ar##.imgSponsor
 diariodelaribera.net##.lateralderecho
 diariodelaribera.net##.lateralizquierdo
