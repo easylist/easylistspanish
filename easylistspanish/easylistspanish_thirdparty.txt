@@ -1,3 +1,5 @@
+||amazonaws.com^$domain=estrenosdoramas.net
+!
 ||allguiderecipes.info^$subdocument,third-party
 ||boostcpm.su/boost$third-party
 ||cdn.zxclan.com^$third-party

@@ -40,6 +40,7 @@ generacionuniversitaria.com.mx##.publicidad
 periodismo.com##.td-a-rec
 marcadegol.com##.textwidget a[href^="https://ar.puma.com/"]
 manomano.es##a[class*="sponsoredProductCard"]
+pelisplus.lat##a[href^="https://bit.ly/"]
 elnueve.com.ar##div[class*="_site-banner-top_"]
 diariodecuyo.com.ar##div[class*="dfp-async"]
 divinity.es##div[class^="adsGroupTop"]

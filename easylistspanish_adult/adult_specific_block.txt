@@ -1,3 +1,5 @@
+/^https?:\/\/[0-9a-z]{8,}\.com\/.*/$3p,~media,domain=pornotorrent.es
+!
 .me^$script,domain=topmanhwa.net
 /^https?:\/\/spalumi\.com\/\w+\.[a-z]{3}/$image,domain=spalumi.com
 /fro_ld$script,domain=tmohentai.com

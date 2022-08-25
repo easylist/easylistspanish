@@ -1,5 +1,7 @@
 ||diariodelaribera.net/imagenes/banner
 !
+/^https?:\/\/[0-9a-z]{8,}\.com\/.*/$3p,~media,domain=gnula24.xyz|tomatomatela.com|verblackclover.com
+!
 .xyz^$script,subdocument,domain=hqq.to|hqq.tv|megaplay.cc|serieshd.net|waaw.to|waaw.tv
 /*badge*.png$domain=rpp.pe
 /avisos^$image,domain=novalaplata.com
