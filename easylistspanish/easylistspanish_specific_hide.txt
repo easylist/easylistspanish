@@ -1,6 +1,7 @@
 diariodelaribera.net###bannercabeceravideo
 elnacional.com###en_nd_home_flat_2
 elnacional.com###en_nd_home_flat_3
+divinity.es###megaSuperior_multisite
 qmusica.tv###promo
 qmusica.tv###promoSept19A
 qmusica.tv###promoSept19B
@@ -37,6 +38,9 @@ periodismo.com##.td-a-rec
 marcadegol.com##.textwidget a[href^="https://ar.puma.com/"]
 manomano.es##a[class*="sponsoredProductCard"]
 elnueve.com.ar##div[class*="_site-banner-top_"]
+divinity.es##div[class^="adsGroupTop"]
+divinity.es##div[class^="ads__ad_"]
+divinity.es##div[class^="cards__card_ad-"]
 diariodecuyo.com.ar##div[class^="dfp-async"]
 avisooportuno.mx##div[class^="div-dfp-"]
 diariodelaribera.net##img[alt^="Banner"]
