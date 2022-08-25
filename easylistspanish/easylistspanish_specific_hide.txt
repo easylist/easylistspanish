@@ -22,6 +22,7 @@ eltrecetv.com.ar##.banner-swap
 ciudad.com.ar##.banner-wrapper
 diariodelaribera.net##.bannerColumnas
 iproup.com##.bannerwide
+diariodecuyo.com.ar##.bnr
 lapaginamillonaria.com##.boxbanner_container
 eldoce.tv##.branding-wrapper
 elpais.com##.c-bra
@@ -40,10 +41,10 @@ periodismo.com##.td-a-rec
 marcadegol.com##.textwidget a[href^="https://ar.puma.com/"]
 manomano.es##a[class*="sponsoredProductCard"]
 elnueve.com.ar##div[class*="_site-banner-top_"]
+diariodecuyo.com.ar##div[class*="dfp-async"]
 divinity.es##div[class^="adsGroupTop"]
 divinity.es##div[class^="ads__ad_"]
 divinity.es##div[class^="cards__card_ad-"]
-diariodecuyo.com.ar##div[class^="dfp-async"]
 avisooportuno.mx##div[class^="div-dfp-"]
 diariodelaribera.net##img[alt^="Banner"]
 diariotextual.com##img[width="300"]
@@ -506,7 +507,7 @@ vix.com##.block-crvt-adbtgmedia
 planetabocajuniors.com.ar##.bloque-secondary
 esmtb.com##.bloque_anun
 diariolaprovinciasj.com,infofueguina.com,pilaradiario.com##.bnn
-anime-extremo.com,diariodecuyo.com.ar##.bnr
+anime-extremo.com##.bnr
 mundodeportivo.com##.bolarosa
 pelisadicto.com##.box
 clarin.com##.box-adv
