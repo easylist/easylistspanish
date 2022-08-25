@@ -7,6 +7,7 @@ qmusica.tv###promoSept19A
 qmusica.tv###promoSept19B
 generacionuniversitaria.com.mx###ventana-flotante
 somosfanaticos.fans##.ad-container
+mangacrab.com##.anunciofooter
 iproup.com##.ap
 20minutos.es##.axds
 lavoz.com.ar,viapais.com.ar##.banner
