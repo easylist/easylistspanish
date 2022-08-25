@@ -16,6 +16,7 @@ clarin.com##.banner-border
 agroclave.com.ar,lacapital.com.ar##.banner-box
 elnueve.com.ar##.banner-box-container
 iprofesional.com##.banner-horizontal
+diariodecuyo.com.ar##.banner-lanusse
 a24.com,diariouno.com.ar,lared.am##.banner-libre
 eltrecetv.com.ar##.banner-swap
 ciudad.com.ar##.banner-wrapper
