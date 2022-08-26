@@ -91,7 +91,6 @@
 @@||deportesmax.com^$generichide
 @@||des.smartclip.net/ads?$script,domain=esradio.libertaddigital.com
 @@||disqus.com/embed.js^$script,domain=animeflv.net
-@@||divinity.es^$generichide
 @@||divxatope.com^$generichide
 @@||divxatope1.com^$generichide
 @@||dompl3.info^$generichide
