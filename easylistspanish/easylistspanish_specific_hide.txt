@@ -1,7 +1,7 @@
 diariodelaribera.net###bannercabeceravideo
 elnacional.com###en_nd_home_flat_2
 elnacional.com###en_nd_home_flat_3
-divinity.es###megaSuperior_multisite
+bemad.es,cuatro.com,divinity.es,energytv.es,factoriadeficcion.com,mtmad.es,niusdiario.es,telecinco.es,uppers.es,yasss.es###megaSuperior_multisite
 qmusica.tv###promo
 qmusica.tv###promoSept19A
 qmusica.tv###promoSept19B
@@ -43,9 +43,9 @@ manomano.es##a[class*="sponsoredProductCard"]
 pelisplus.lat##a[href^="https://bit.ly/"]
 elnueve.com.ar##div[class*="_site-banner-top_"]
 diariodecuyo.com.ar##div[class*="dfp-async"]
-divinity.es##div[class^="adsGroupTop"]
-divinity.es##div[class^="ads__ad_"]
-divinity.es##div[class^="cards__card_ad-"]
+bemad.es,cuatro.com,divinity.es,energytv.es,factoriadeficcion.com,mtmad.es,niusdiario.es,telecinco.es,uppers.es,yasss.es##div[class^="adsGroupTop"]
+bemad.es,cuatro.com,divinity.es,energytv.es,factoriadeficcion.com,mtmad.es,niusdiario.es,telecinco.es,uppers.es,yasss.es##div[class^="ads__ad_"]
+bemad.es,cuatro.com,divinity.es,energytv.es,factoriadeficcion.com,mtmad.es,niusdiario.es,telecinco.es,uppers.es,yasss.es##div[class^="cards__card_ad-"]
 avisooportuno.mx##div[class^="div-dfp-"]
 diariodelaribera.net##img[alt^="Banner"]
 diariotextual.com##img[width="300"]
