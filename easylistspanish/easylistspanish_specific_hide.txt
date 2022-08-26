@@ -26,6 +26,7 @@ diariodecuyo.com.ar##.bnr
 lapaginamillonaria.com##.boxbanner_container
 eldoce.tv##.branding-wrapper
 elpais.com##.c-bra
+cadenaser.com##.cnt-publi
 perfil.com##.d-xs-none.d-xxl-flex
 lavoz.com.ar##.imgSponsor
 diariodelaribera.net##.lateralderecho
