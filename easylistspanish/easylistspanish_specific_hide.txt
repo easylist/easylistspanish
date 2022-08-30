@@ -28,6 +28,7 @@ lapaginamillonaria.com##.boxbanner_container
 latercera.com##.brand-claro
 latercera.com##.branded-sponsor
 eldoce.tv##.branding-wrapper
+mariskalrock.com##.brave_popup
 elpais.com##.c-bra
 cadenaser.com##.cnt-publi
 perfil.com##.d-xs-none.d-xxl-flex
@@ -52,6 +53,7 @@ bemad.es,cuatro.com,divinity.es,energytv.es,factoriadeficcion.com,mtmad.es,niusd
 bemad.es,cuatro.com,divinity.es,energytv.es,factoriadeficcion.com,mtmad.es,niusdiario.es,telecinco.es,uppers.es,yasss.es##div[class^="ads__ad_"]
 bemad.es,cuatro.com,divinity.es,energytv.es,factoriadeficcion.com,mtmad.es,niusdiario.es,telecinco.es,uppers.es,yasss.es##div[class^="cards__card_ad-"]
 avisooportuno.mx##div[class^="div-dfp-"]
+mariskalrock.com##div[id^="wmd-anuncio-"]
 diariodelaribera.net##img[alt^="Banner"]
 diariotextual.com##img[width="300"]
 highxtar.com##img[width="300"][height="600"]
