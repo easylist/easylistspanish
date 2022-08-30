@@ -1,4 +1,5 @@
 ||diariodelaribera.net/imagenes/banner
+||redtarapaca.com^*/ahorrocorp.jpg
 !
 /^https?:\/\/[0-9a-z]{8,}\.com\/.*/$3p,~media,domain=gnula24.xyz|tomatomatela.com|verblackclover.com
 !
