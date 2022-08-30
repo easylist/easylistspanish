@@ -25,6 +25,8 @@ diariodelaribera.net##.bannerColumnas
 iproup.com##.bannerwide
 diariodecuyo.com.ar##.bnr
 lapaginamillonaria.com##.boxbanner_container
+latercera.com##.brand-claro
+latercera.com##.branded-sponsor
 eldoce.tv##.branding-wrapper
 elpais.com##.c-bra
 cadenaser.com##.cnt-publi
