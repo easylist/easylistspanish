@@ -2,6 +2,7 @@
 ##.content_gpt_caja1_ads
 ##.content_gpt_caja2_ads
 ##.edi-advertising
+##.publicidad_dfp
 !
 ###PubMiddle1
 ###PubMiddle2
