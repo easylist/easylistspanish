@@ -10,7 +10,7 @@ somosfanaticos.fans##.ad-container
 mangacrab.com##.anunciofooter
 iproup.com##.ap
 20minutos.es##.axds
-lavoz.com.ar,losandes.com.ar,viapais.com.ar##.banner
+guarda14.com,lavoz.com.ar,losandes.com.ar,viapais.com.ar##.banner
 iprofesional.com##.banner-2
 clarin.com,ole.com.ar##.banner-border
 tycsports.com##.banner-bottom
