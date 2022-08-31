@@ -6,7 +6,7 @@ qmusica.tv###promo
 qmusica.tv###promoSept19A
 qmusica.tv###promoSept19B
 generacionuniversitaria.com.mx###ventana-flotante
-somosfanaticos.fans##.ad-container
+eltiempo.com,somosfanaticos.fans##.ad-container
 mangacrab.com##.anunciofooter
 iproup.com##.ap
 20minutos.es##.axds
@@ -24,6 +24,7 @@ ciudad.com.ar##.banner-wrapper
 diariodelaribera.net##.bannerColumnas
 iproup.com##.bannerwide
 diariodecuyo.com.ar##.bnr
+eltiempo.com##.board-tu-negocio
 lapaginamillonaria.com##.boxbanner_container
 latercera.com##.brand-claro
 latercera.com##.branded-sponsor
@@ -58,6 +59,9 @@ diariodelaribera.net##img[alt^="Banner"]
 diariotextual.com##img[width="300"]
 highxtar.com##img[width="300"][height="600"]
 marcadegol.com##img[width="750"]
+! Advanced element hiding rules for Adblock Plus
+eltiempo.com#?#.main-article-container-patr:-abp-has(.contenido-comercial)
+eltiempo.com#?#.main-article-container-patr:-abp-has(.mas-contenido:-abp-contains(Más Contenido))
 !
 puromarketing.com###AdsTextHomeCenter
 puromarketing.com###AdsTextHomeMultiple
