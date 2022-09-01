@@ -32,6 +32,7 @@ eldoce.tv##.branding-wrapper
 mariskalrock.com##.brave_popup
 elpais.com##.c-bra
 cadenaser.com##.cnt-publi
+laarena.com.ar##.container-spot
 perfil.com##.d-xs-none.d-xxl-flex
 lavoz.com.ar##.imgSponsor
 diariodelaribera.net##.lateralderecho
