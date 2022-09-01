@@ -1,4 +1,4 @@
-$popup,third-party,domain=cinecalidad.lol|divxtotal.co|embedsito.com|fembad.net|fembed.com|feurl.com|hqq.to|hqq.tv|mejortorrentt.net|pelismart.com|powvibeo.me|seriesyonkis.io|streampiay.me|streamta.pe|streamtape.cc|streamtape.net|streamtape.site|streamz.vg|strtape.cloud|supergoku.com|tarjetarojatvhd.me|upvid.net|uqload.com|yourupload.com|zenkimex.com.mx
+$popup,third-party,domain=cinecalidad.lol|embedsito.com|fembad.net|fembed.com|feurl.com|hqq.to|hqq.tv|mejortorrentt.net|pelismart.com|powvibeo.me|seriesyonkis.io|streampiay.me|streamta.pe|streamtape.cc|streamtape.net|streamtape.site|streamz.vg|strtape.cloud|supergoku.com|tarjetarojatvhd.me|upvid.net|uqload.com|yourupload.com|zenkimex.com.mx
 .bid/p.php?$popup,domain=pctfenix.com
 .club^$popup,third-party,domain=powv1deo.cc
 .pro^$popup,domain=strtape.tech
@@ -13,7 +13,6 @@ $popup,third-party,domain=cinecalidad.lol|divxtotal.co|embedsito.com|fembad.net|
 ||cine24.online/ads/$popup
 ||cintent.streanplay.cc^$popup
 ||click.expmediadirect1.com^$popup
-||doramasmp4.com/en.svg$popup
 ||esplay.io/*.webp^$popup,domain=cuevanahd.net
 ||foxcdn.me^$popup,domain=telerium.digital
 ||geniusdexchange.com^$popup,domain=jac-tv.com
@@ -27,7 +26,6 @@ $popup,third-party,domain=cinecalidad.lol|divxtotal.co|embedsito.com|fembad.net|
 ||ruralvia.com^$popup,domain=horajaen.com
 ||t.co^$popup,domain=verpeliculasenlatino.com
 ||tontent.p*deo.*/*.hh^$popup
-||uitopadxdy.com^$popup,domain=torrentlocura.com
 ||uqload.com/img/player_logo.png^$popup
 ||waaw.*/out.php^$popup
 ||ytmp3.plus/p^$popup

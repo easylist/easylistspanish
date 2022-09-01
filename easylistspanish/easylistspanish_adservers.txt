@@ -2,10 +2,6 @@
 ||premiumleads.com^$third-party
 ||wemass.com^$third-party
 !
-||argeersarchfoe.com^$third-party
-||arraignmentinclose.com^$third-party
-||ashierbowler.com^$third-party
-||astra9dlya10.com^$third-party
 ||asuppsttp.com^$third-party
 ||asuydisi.com^$third-party
 ||avbpaaypbe.com^$third-party
