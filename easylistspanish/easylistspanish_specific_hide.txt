@@ -377,7 +377,6 @@ rpp.pe##.ads-sidebar-widget
 elblog.com##.ads-superior
 fuerzasarmadas.eu##.ads_block
 pelisplay.co##.ads_url_insert
-zonatorrent.es##.adsb30
 forobeta.com##.adshare_belownav
 forobeta.com##.adshare_firstpost
 forobeta.com##.adshare_lastpost

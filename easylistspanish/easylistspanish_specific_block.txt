@@ -1,14 +1,12 @@
 ||diariodelaribera.net/imagenes/banner
 ||redtarapaca.com^*/ahorrocorp.jpg
 !
-/^https?:\/\/[0-9a-z]{8,}\.com\/.*/$3p,~media,domain=gnula24.xyz|pelisplushd.nu|pirlotvonline.org|rojadirectaenvivo.club|telenovelas-turcas.com.es|tomatomatela.com|verblackclover.com
+/^https?:\/\/[0-9a-z]{8,}\.com\/.*/$3p,~media,domain=animeflv.cc|gnula24.xyz|pelisplushd.nu|pirlotvonline.org|rojadirectaenvivo.club|telenovelas-turcas.com.es|tomatomatela.com|verblackclover.com
 !
-.xyz^$script,subdocument,domain=hqq.to|hqq.tv|megaplay.cc|serieshd.net|waaw.to|waaw.tv
 /*badge*.png$domain=rpp.pe
 /avisos^$image,domain=novalaplata.com
 /elements*/publicitat^$image,domain=lesportiudecatalunya.cat
 /MyShowroom/view.php^$domain=webcamtests.com
-/publi_440_sgaming$subdocument,domain=mejortorrentt.net
 /public/Image/*banner*^$image,domain=alicanteplaza.es|castellonplaza.com|valenciaplaza.com
 /public/img/anuncios/*$image,domain=cronicabalear.es
 /publicity/*$subdocument,domain=aodirectos.xyz|hdchannel.xyz|livexonline.xyz|srfixerhd.info
