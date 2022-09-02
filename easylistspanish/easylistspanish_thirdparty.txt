@@ -1,3 +1,4 @@
+||afiliadoscasadellibro.uinterbox.com^$third-party
 ||alicdn.com/t/$domain=pandrama.com
 ||amazonaws.com^$domain=estrenosdoramas.net
 ||bit.ly^$domain=mega-mkv.com
