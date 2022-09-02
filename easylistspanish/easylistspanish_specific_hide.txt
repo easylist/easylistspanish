@@ -7,6 +7,7 @@ qmusica.tv###promoSept19A
 qmusica.tv###promoSept19B
 generacionuniversitaria.com.mx###ventana-flotante
 eltiempo.com,somosfanaticos.fans##.ad-container
+rpp.pe##.ads
 mangacrab.com##.anunciofooter
 iproup.com##.ap
 20minutos.es##.axds
@@ -71,7 +72,6 @@ pcbolsa.com###Conten
 pcbolsa.com###ContenidoPubliCotiza
 lapampadiaxdia.com.ar###HTML20
 lapampadiaxdia.com.ar###HTML23
-rpp.pe###Joinnuscontainerprinc
 diariopopular.com.ar###OBJETO861 > .ad-obj
 pcbolsa.com###PubliBlog
 pcbolsa.com###PubliBlogAbajo
@@ -82,7 +82,7 @@ foroparalelo.com###ad_global_below_navbar
 es.nametests.com###ad_wrapper_head
 nomellamesfriki.com###adpv1
 nomellamesfriki.com###adpv2
-ftail.tv,hlat.me,notariosyregistradores.com,reverso.net,shippuden.tv###ads
+ftail.tv,hlat.me,notariosyregistradores.com,shippuden.tv###ads
 hlat.me###ads2
 hlat.me###ads4
 eltiempo.es###ads_position_2
@@ -301,7 +301,6 @@ ecuavisa.com###topbar
 dinostream.pw,verdirectotv.org###total
 dinostream.pw###total2
 dinostream.pw###total3
-reverso.net###vdasection
 latino-webtv.com,ver-television.online###ventana-flotante
 ramenparados.com###wallpaper
 burbuja.info###wfg_ad-LDB1
@@ -367,10 +366,9 @@ elconfidencial.com##.adcrt300x600
 cope.es,elperiodico.cat,laconversacion.net,lagaceta.com.ar,lagacetasalta.com.ar,sport.es##.add
 hoyaragon.es##.addg
 lavozdegalicia.es##.adpos
-9movies.yt,atomixhq.art,atomixhq.link,atomixhq.net,atomixhq.one,atomixhq.top,cronicadelquindio.com,dimayor.com.co,eltrecetv.com.ar,eslang.es,gnula.se,lostiempos.com,pctmix1.com,pelispedia.tv,peru.com,publico.es,rpp.pe##.ads
+9movies.yt,atomixhq.art,atomixhq.link,atomixhq.top,cronicadelquindio.com,dimayor.com.co,eltrecetv.com.ar,eslang.es,gnula.se,lostiempos.com,pctmix1.com,pelispedia.tv,peru.com,publico.es##.ads
 yorokobu.es##.ads-block
 meristation.as.com,meristation.com.mx##.ads-notificator
-rpp.pe##.ads-sidebar-widget
 elblog.com##.ads-superior
 fuerzasarmadas.eu##.ads_block
 pelisplay.co##.ads_url_insert
@@ -562,7 +560,6 @@ lne.es##.contenedor_widget_1col
 cronista.com##.content-banner
 inmodiario.com,puromarketing.com##.content-pub-top
 elcolombiano.com##.contentBannerIntelecto
-larazon.es##.content__ad
 laarena.com.ar##.cookie_lasa_popup
 highstream.tv##.cover
 slimdownload.co##.cssanimations
@@ -570,12 +567,11 @@ t13.cl##.d_banner_t13
 laprovincia.es##.dcham2
 lavanguardia.com##.div-patrocinado5
 maracodigital.net##.divpublicidades
-gnula.cc,powvibeo.cc,slreamplay.cc,uqload.com##.drts
+gnula.cc,uqload.com##.drts
 teknofilo.com##.e3lan
 diariodesevilla.es##.ePubli1
 elcomercio.pe##.ec-club
 eldeber.com.bo##.ed-ads
-extremotvplay.com##.encabezados
 cronista.com##.entry-box-banner
 peru.com##.epl-space
 elespectador.com##.external-logos
@@ -602,7 +598,6 @@ desdesoria.es,economia3.com,gasteizhoy.com,realidadsm.com##.g-single
 yucatan.com.mx##.g1-delta
 macrojuegos.com##.gad
 juegos.com##.game-page-sidebar
-rpp.pe##.gogoWidget3V
 ehowenespanol.com##.gpt_300
 cuevana3.rip##.grid.desk-8.alpha > p
 hlat.me##.grid_12
@@ -637,7 +632,6 @@ llanosietedias.com##.llano-antes-del-contenido
 llanosietedias.com##.llano-contenido
 repelis.io##.lnk-ref
 reporteindigo.com##.loading-add
-reverso.net##.locdrcas
 rpp.pe##.logo-min
 sport.es##.logoadvertiser
 lavanguardia.com##.lv-publi-box
@@ -649,7 +643,6 @@ miarevista.es##.mega--desktop
 miarevista.es,muyinteresante.es##.mega1
 miarevista.es,muyinteresante.es##.mega2
 publico.es##.megabanner-container
-reverso.net##.message-wrap--powered
 horadeopinion.com.ar##.ml-slider
 divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentrapid.com,tumejortorrent.com##.mod-pubb
 atresplayer.com##.mod_roba
@@ -806,17 +799,12 @@ hoyaragon.es##.titulo-publicidad
 telefe.com##.tlf-ad
 theobjective.com##.tno-banner
 elpopular.mx##.todopuebla
-reverso.net##.top-horizontal
-reverso.net##.toprightdiv
 elpopular.mx##.tp-centro
 hoylosangeles.com##.trb_taboola
 magisnet.com##.trevda
 diarioresumen.com.ar##.tronco--init
 diariotextual.com##.vc_align_left
-reverso.net##.vda-block
-reverso.net##.vda-section
 seriesturcas.gratis##.ver-ahora
-reverso.net##.verticalbox
 larazon.es##.vinculoPatrocinio
 diarionoticias.com.ar##.visable
 wago.io##.wago-ad-container
@@ -1036,7 +1024,7 @@ foropolicia.es##iframe[src*="://www.netpol.es/"]
 buenaisla.net##iframe[src*="ads.ad4game.com/"]
 tarjetaroja-tv.info##iframe[src="about:blank"]
 20minutos.es##iframe[src^="https://www.20minutos.es/cajasbuscadoras/"]
-2conv.com,animeblix.com,animeyt.es,atomixhq.art,atomixhq.club,atomixhq.com,atomixhq.link,atomixhq.net,atomixhq.one,atomixhq.top,clipconverter.cc,cuevana3.so,cuevana3.video,doramasflixs.com,doramasmp4.com,doramasvip.com,flvto.biz,gnula.cc,gnula.se,jkanime.net,mp3juices.cc,pelishouse.me,pelisplus.so,pelisplus.video,pelisplus2.io,repelisgo.info,series24.cc,serieskao.net,serieskao.tv,serieslatinoamerica.tv,superflix.io,telenovelas-turcas.com.es,vidoza.net##iframe[style*="z-index: 2147483647"]
+2conv.com,animeblix.com,animeyt.es,atomixhq.art,atomixhq.club,atomixhq.link,atomixhq.top,clipconverter.cc,cuevana3.so,cuevana3.video,doramasflixs.com,doramasmp4.com,doramasvip.com,flvto.biz,gnula.cc,gnula.se,jkanime.net,mp3juices.cc,pelishouse.me,pelisplus.video,pelisplus2.io,repelisgo.info,series24.cc,serieskao.net,serieskao.tv,serieslatinoamerica.tv,superflix.io,telenovelas-turcas.com.es,vidoza.net##iframe[style*="z-index: 2147483647"]
 mejortorrent.com##iframe[style="margin-top:0px; margin-bottom:10px; border:1px solid black;"]
 apurogol.net##iframe[width="300"][height="250"][border="0"][frameborder="0"][scrolling="no"]
 apurogol.net##iframe[width="500"][height="400"][border="0"][frameborder="0"][scrolling="no"][maxwidth="500"][maxheight="400"][type="responsive"]
@@ -1090,7 +1078,6 @@ zigzagdigital.com###banner_top_container
 cerebriti.com###barraAvisoAds
 allinonedownloader.com###binanceAd
 wizcase.com###bio_ep
-cuevana-3.wtf###block-3
 flashscore.co###box-over-content-a
 noticiasamarillascartago.com###carrusel_publicidad
 diarioputumayo.com###custom_html-3
@@ -1106,7 +1093,6 @@ estrenarvivienda.com###motor-home
 binary.com###multiplier_banner_container
 forbes.co###pinno-post-bot-ad
 supercontable.com###pub_sup
-synonyms.reverso.net###rca
 laboyanos.com###rotator2
 lebrijadigital.es###sidebar
 180grados.digital###sidebar > .et_pb_widget
@@ -1268,9 +1254,8 @@ miamidiario.com##a[href^="https://www.univistainsurance.com/"]
 elcontribuyente.mx##a[onclick*="Publicidad"]
 gamestorrents.fm##a[target="_blank"][href*="aming.net"]
 gamestorrents.fm##a[target="_blank"][href*="gaming.net"]
-dontorrent.men##a[target="_blank"][href^="https://Startgaming.net"]
-atomixhq.com,atomixhq.one,atomtt.com,cuevana.se,divxtotal.li,divxtotal.nl,divxtotal.nu,divxtotal.pm,dontorrent.ws,gamestorrents.fm,mejortorrentes.com,pelispanda.com##a[target="_blank"][href^="https://startgaming.net"]
-atomixhq.art,atomixhq.link,atomixhq.net,atomtt.com,atomixhq.top,elitetorrent.nz#?#li:-abp-has(a[href^="https://startgaming.net"])
+atomtt.com,cuevana.se,divxtotal.li,divxtotal.nl,divxtotal.nu,divxtotal.pm,dontorrent.ws,gamestorrents.fm,mejortorrentes.com,pelispanda.com##a[target="_blank"][href^="https://startgaming.net"]
+atomixhq.art,atomixhq.link,atomtt.com,atomixhq.top,elitetorrent.nz#?#li:-abp-has(a[href^="https://startgaming.net"])
 kairosweb.com##div[class*="banner-"]
 merca20.com##div[data-id^="013f85c"]
 cliver.to##div[data-name="parent-element"]
@@ -1278,15 +1263,12 @@ alcalorpolitico.com##div[id^="Bannerprincipal"]
 slidesgo.com##div[id^="article_ads"]
 slidesgo.com##div[id^="list_ads"]
 hoydiariodelmagdalena.com.co##div[itemtype^="https://schema.org/WPAdBlock"]
-dontorrent.men#?#.card-body:-abp-has(>p:-abp-contains(¡Promociones Especiales!))
-dontorrent.men,dontorrent.fit#?#.card-body:-abp-has(>p:-abp-contains(¡Promociones Especiales!))
 elcontribuyente.mx#?#div:-abp-has(a[title="Clickio"])
 gamestorrents.fm#?#.col-md-2:-abp-has(span:-abp-contains(Promoción))
 grantorrent.ch#?#.imagen-post:-abp-has(a[href^="https://startgaming.net"])
 hoy.com.do#?#span:-abp-contains(Publicidad)
 opanoticias.com##iframe[src^="https://www.youtube.com/embed/CiedpC-wP7E?"]
 mejortorrentes.net##iframe[src^="publi_440_sgaming.php"]
-torrent.nom.es##img.fr-dii
 educaplay.com##img[alt="ADR Formación"]
 mediotiempo.com##img[alt^="caliente.mx"]
 laboyanos.com##img[data-original-height^="300"]
@@ -1298,7 +1280,6 @@ lecter.news#?#strong:-abp-contains(Reclama tu crédito)
 mejortorrentes.net#?#.main_table_center_content:-abp-has(div:-abp-contains(Promociones especiales))
 pelispanda.com#?#.card:-abp-has([href*="/netflix-premium/"])
 rtwnoticias.com#?#.mvp-widget-home-head:-abp-has(span:-abp-contains(Publicidad))
-pelicula.ws##section[style^="height:150px; width:100%; padding-bottom:0px;"]
 superluchas.com#?#h2:-abp-contains(Anuncio)
 univision.com#?#div:-abp-has(>span:-abp-contains(Publicidad))
 valoraanalitik.com#?#label:-abp-contains(Publicidad)

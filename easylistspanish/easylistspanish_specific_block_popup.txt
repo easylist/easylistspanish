@@ -3,15 +3,12 @@ $popup,third-party,domain=cinecalidad.lol|embedsito.com|fembad.net|fembed.com|fe
 .club^$popup,third-party,domain=powv1deo.cc
 .pro^$popup,domain=strtape.tech
 /3djuegos_media_v1^$popup,domain=3djuegos.com
-/images/logos/atomixhq.png^$popup,domain=atomixhq.com|atomixhq.net|atomixhq.one
-/jump/next.php?$popup,domain=yts.mx
 /wp-content/plugins/all-click/sda.php^$popup,domain=cine-calidad.com|gnula.site
 ||animatedshows.to/*/ashows$popup
 ||badsways.com^$popup,third-party,domain=pelisplay.co
 ||bang-4-buck.com^$popup
 ||bit.ly^$popup,domain=verpeliculasenlatino.com
 ||cine24.online/ads/$popup
-||cintent.streanplay.cc^$popup
 ||click.expmediadirect1.com^$popup
 ||esplay.io/*.webp^$popup,domain=cuevanahd.net
 ||foxcdn.me^$popup,domain=telerium.digital
@@ -32,6 +29,6 @@ $popup,third-party,domain=cinecalidad.lol|embedsito.com|fembad.net|fembed.com|fe
 ! about:blank popups
 /about:blank.*/$popup,domain=cuevana3-v1.wtf|peliculasmega1k.com|streamadblockplus.com
 ! html/image popups
-/^https?:\/\/.*\.(jpg|gif|png|php|svg|ico|js|txt)/$popup,domain=anime-flv.net|animeflv.la|atomixhq.art|atomixhq.club|atomixhq.link|atomixhq.top|cliver.to|cuevanahd.net|divicast.com|doramasflixs.com|gnula.nu|gnula.se|ibb.co|jkanime.net|myflixertv.to|pctreload1.com|pelishouse.me|pelismart.com|pelismarthd.com|pelismartv.com|pelisplayer.xyz|pelisplus.io|pelisplus.top|pelisplus2.io|pelisplushd.nu|pelispop.me|pelispophd.com|seriesflix.live|seriesturcas.tv|solopeliculasespaã±ol.com|tomatomatela.com
+/^https?:\/\/.*\.(jpg|gif|png|php|svg|ico|js|txt)/$popup,domain=anime-flv.net|animeflv.la|atomixhq.art|atomixhq.club|atomixhq.link|atomixhq.top|cliver.to|cuevanahd.net|divicast.com|doramasflixs.com|gnula.nu|gnula.se|ibb.co|jkanime.net|myflixertv.to|pctreload1.com|pelishouse.me|pelismart.com|pelismarthd.com|pelismartv.com|pelisplayer.xyz|pelisplus.io|pelisplus.top|pelisplus2.io|pelisplushd.nu|pelispophd.com|seriesflix.live|seriesturcas.tv|solopeliculasespaã±ol.com|tomatomatela.com
 ! html/image popups (without php)
 /^https?:\/\/.*\.(jpg|gif|png|svg|ico|js|txt)/$popup,domain=pirlotvonlinehd.net
