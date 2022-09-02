@@ -921,9 +921,7 @@ teknofilo.com##a[href^="//clk.tradedoubler.com/click?"]
 adlipay.com##a[href^="/away.php?"]
 autoblog.com.ar,microsiervos.com##a[href^="http://bit.ly/"]
 cuatro.com,telecinco.es##a[href^="http://premiercasino.es/"]
-compucalitv.com##a[href^="http://toroadvertisingmedia.com/"]
 pelisplus.tv##a[href^="http://www.maxonclick.com/"]
-compucalitv.com##a[href^="https://a2g-secure.com/"]
 mastercoria.com##a[href^="https://alertlogsemployer.com"]
 zigzagdigital.com##a[href^="https://beone.es/"]
 pivigames.blog##a[href^="https://bstk.me/"]
@@ -939,9 +937,6 @@ genteflow.us##a[href^="https://veranime.org/"]
 divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentrapid.com,tumejortorrent.com##a[onclick*="pop.redirect.adsjudo.com"]
 desarrollowp.com,microsiervos.com,supercpps.com##a[rel*="sponsored"]
 tumejortorrent.com##a[style][rel]
-allcalidad.ac#?#.shortstory:-abp-has(a[href^="https://allcalidad.ac/pelicula/disney-premium"])
-allcalidad.ac#?#.shortstory:-abp-has(a[href^="https://allcalidad.ac/pelicula/netflix-premium"])
-allcalidad.ac#?#.shortstory:-abp-has(a[href^="https://allcalidad.ac/pelicula/spotify-premium"])
 planetadeagostini.es##article[id^="divAdserver"]
 oversos.com##div[aria-label="QODE"]
 portalfruticola.com##div[class*="banner-set"]
@@ -1153,7 +1148,6 @@ areasac.es##.destacados
 berjadigital.es##.g-dyn
 yts.mx##.hohch
 periodicoeldiario.com##.hustle-popup
-monoschinos2.com##.info-tv
 elcolombiano.com##.intelectoslidercabecera
 dataifx.com##.itau-banner
 animeflv.tv##.mn-thumb
@@ -1271,12 +1265,11 @@ pt-mexico.com##[onclick*="'page' : '/virtual/Ad/"]
 andina.pe##[onclick*="/publicidad"]
 nintenderos.com##a[href^="https://www.eneba.com/"][href*="?af_id="]
 miamidiario.com##a[href^="https://www.univistainsurance.com/"]
-monoschinos2.com##a[href^="https://zenkublocks.com"]
 elcontribuyente.mx##a[onclick*="Publicidad"]
 gamestorrents.fm##a[target="_blank"][href*="aming.net"]
 gamestorrents.fm##a[target="_blank"][href*="gaming.net"]
 dontorrent.men##a[target="_blank"][href^="https://Startgaming.net"]
-allcalidad.ac,atomixhq.com,atomixhq.one,atomtt.com,cuevana.se,divxtotal.li,divxtotal.nl,divxtotal.nu,divxtotal.pm,dontorrent.ws,fanpelis.ac,gamestorrents.fm,mejortorrentes.com,pelispanda.com##a[target="_blank"][href^="https://startgaming.net"]
+atomixhq.com,atomixhq.one,atomtt.com,cuevana.se,divxtotal.li,divxtotal.nl,divxtotal.nu,divxtotal.pm,dontorrent.ws,gamestorrents.fm,mejortorrentes.com,pelispanda.com##a[target="_blank"][href^="https://startgaming.net"]
 atomixhq.art,atomixhq.link,atomixhq.net,atomtt.com,atomixhq.top,elitetorrent.nz#?#li:-abp-has(a[href^="https://startgaming.net"])
 kairosweb.com##div[class*="banner-"]
 merca20.com##div[data-id^="013f85c"]
@@ -1288,7 +1281,6 @@ hoydiariodelmagdalena.com.co##div[itemtype^="https://schema.org/WPAdBlock"]
 dontorrent.men#?#.card-body:-abp-has(>p:-abp-contains(¡Promociones Especiales!))
 dontorrent.men,dontorrent.fit#?#.card-body:-abp-has(>p:-abp-contains(¡Promociones Especiales!))
 elcontribuyente.mx#?#div:-abp-has(a[title="Clickio"])
-fanpelis.ac#?#.ml-item:-abp-has(a[href^="https://fanpelis.ac/"])
 gamestorrents.fm#?#.col-md-2:-abp-has(span:-abp-contains(Promoción))
 grantorrent.ch#?#.imagen-post:-abp-has(a[href^="https://startgaming.net"])
 hoy.com.do#?#span:-abp-contains(Publicidad)

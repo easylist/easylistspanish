@@ -84,7 +84,7 @@
 ||cinestrenostv.tv/Publi/
 ||cintent.streanplay.cc^
 ||cloudfront.net/ODD/widgets/220x308.html
-||cloudfront.net^$script,domain=compucalitv.com|extremotvplay.com|gamezfull.com
+||cloudfront.net^$script,domain=extremotvplay.com|gamezfull.com
 ||clubdelectores.cl/cajaEmolClub/$third-party
 ||comodorodeportes.gov.ar/wp-content/uploads/*/*/*.gif
 ||comparador.euribor.com.es/lanzadera/retargetting/
@@ -552,7 +552,7 @@ $webrtc,domain=allpeliculas.com|animeid.tv|booksmedicos.org|dompl3.info|gnula.bi
 |blob:$domain=divxatope.com|divxatope1.com|newpct.com|newpct1.com|torrentrapid.com|tumejortorrent.com
 ! RegEx filters
 /^https?:\/\/([a-z0-9]{8,10}\.)?[a-z0-9]{5,14}\.(com|bid|online|top|club)\/([a-z0-9]{2}\/){3}[a-f0-9]{32}\.js$/$script,third-party
-/^https?:\/\/[0-9a-z]{8,}.[0-9a-z]{8,}\.com\//$script,domain=animefenix.com|hispasexy.org|manga-mx.com|monoschinos2.com|serielatinobobesponja.com|series-de.online
+/^https?:\/\/[0-9a-z]{8,}.[0-9a-z]{8,}\.com\//$script,domain=animefenix.com|hispasexy.org|manga-mx.com|serielatinobobesponja.com|series-de.online
 /^https?:\/\/[a-z0-9]+\.cloudfront\.net\/\?[a-z]{5}\=\d{6}$/$script,third-party
 ! Third party script
 $script,third-party,domain=abcdefamosas.xyz|anitube.cz|anitubebr.com|divxatope.com|divxatope1.com|divxtotal.com|elitetorrent.net|estoesporno.com|estrenosdtl.com|ftail.tv|gamestorrents.com|lacajita.xyz|mejorenvo.com|mejortorrent.com|moviesdvdr.com|newpct.com|newpct1.com|novelasenlinea.net|pepecine.info|reyanime.com|seriesblanco.com|seriesflv.net|shippuden.tv|submanga.org|subtorrents.com|todocvcd.com|torrentesx.com|torrentrapid.com|tumejortorrent.com|xtremo.net|xtremostereo.net
@@ -566,7 +566,6 @@ $third-party,xmlhttprequest,domain=divxatope.com|divxatope1.com|divxtotal.com|es
 /popup-maker/$script,domain=diariotextual.com
 /wp-content/uploads/2020/11/Imagen$domain=minovelasubtitulada.com|viveseries.com
 ^banners^$domain=alicantetoday.com
-||afiliadoscasadellibro.uinterbox.com/tracking/imp^$image,domain=lineassobrearte.com
 ||annarecetasfaciles.com/*-idoneo.gif
 ||budokaifighters.com/images/
 ||buyout.ws^$image,third-party,domain=pelicula.ws
