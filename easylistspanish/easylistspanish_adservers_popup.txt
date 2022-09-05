@@ -1,6 +1,3 @@
-||104.154.237.193^$popup,third-party
-||2aus34sie6po5m.com^$popup,third-party
-||35.188.59.75^$popup,third-party
 ||35.193.89.147^$popup,third-party
 ||3r1kwxcd.top^$popup,third-party
 ||acortar.net^$popup,third-party

@@ -1,4 +1,5 @@
 ||bit.ly^$popup,third-party,domain=pelisplus.lat
+||significadoconcepto.com^$popup
 !
 ||badshores.com/*^publisher_code$popup,third-party
 ||foxcdn.me/*.htm^$popup,third-party

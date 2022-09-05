@@ -45,6 +45,7 @@ formulatv.com##.pub-btf
 formulatv.com##.pub-mid
 formulatv.com##.pub-top
 generacionuniversitaria.com.mx##.publicidad
+pelispedia.la##.section-cpa
 periodismo.com##.td-a-rec
 marcadegol.com##.textwidget a[href^="https://ar.puma.com/"]
 manomano.es##a[class*="sponsoredProductCard"]
@@ -224,7 +225,6 @@ superligatv.com###imHeader_imHTMLObject_27_wrapper
 tribunaavila.com,tribunaburgos.com,tribunaleon.com,tribunapalencia.com,tribunasalamanca.com,tribunasegovia.com,tribunasoria.com,tribunavalladolid.com,tribunazamora.com###interstitial_container
 supremacy1914.es###kbg
 freepik.es###layer_coupon
-pordede.com###lean_overlay
 diariocronica.com.ar###lik
 diario.mx###main__dehit
 todocvcd.com###mbanner

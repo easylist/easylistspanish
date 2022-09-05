@@ -154,8 +154,6 @@
 @@||playview.io/themes/pv/js/FuckAdBlock/fuckadblock.js$script,domain=playview.io
 @@||playview.io/themes/pv/js/showads.js$xmlhttprequest,domain=playview.io
 @@||playview.io^$generichide
-@@||pordede.com/myjs/ads.js?$script
-@@||pordede.com^$generichide
 @@||pronunciaciones.com^$generichide
 @@||pubted.com/plugins/pops/adBlockCheck/adblock.js$script,third-party,domain=divxatope.com|divxatope1.com|newpct.com|newpct1.com|torrentrapid.com|tumejortorrent.com
 @@||requiredcollectfilm.info/path/ads/ads.js$script,third-party,domain=divxatope.com|divxatope1.com|newpct.com|newpct1.com|torrentrapid.com|tumejortorrent.com
