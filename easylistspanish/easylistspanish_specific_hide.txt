@@ -46,7 +46,7 @@ formulatv.com##.pub-mid
 formulatv.com##.pub-top
 generacionuniversitaria.com.mx##.publicidad
 pelispedia.la##.section-cpa
-periodismo.com##.td-a-rec
+pcpro.es,periodismo.com##.td-a-rec
 marcadegol.com##.textwidget a[href^="https://ar.puma.com/"]
 manomano.es##a[class*="sponsoredProductCard"]
 pelisplus.lat##a[href^="https://bit.ly/"]
@@ -59,7 +59,7 @@ bemad.es,cuatro.com,divinity.es,energytv.es,factoriadeficcion.com,mtmad.es,niusd
 avisooportuno.mx##div[class^="div-dfp-"]
 mariskalrock.com##div[id^="wmd-anuncio-"]
 diariodelaribera.net##img[alt^="Banner"]
-diariotextual.com##img[width="300"]
+diariotextual.com,pcpro.es##img[width="300"]
 highxtar.com##img[width="300"][height="600"]
 marcadegol.com##img[width="750"]
 ! Advanced element hiding rules for Adblock Plus
