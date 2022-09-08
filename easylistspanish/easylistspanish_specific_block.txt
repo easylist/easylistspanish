@@ -1,3 +1,4 @@
+||cinetux.nu/api/spots/
 ||diariodelaribera.net/imagenes/banner
 ||pordede.click/assets/img/suscripcion.png
 ||redtarapaca.com^*/ahorrocorp.jpg
@@ -261,7 +262,6 @@
 ||juegosdiarios.com/staticfiles.juegosdiarios.com/pu/
 ||juegosjuegos.ws/bfb^$subdocument
 ||jugandoonline.com.ar/entusitio/grafica/banner
-||kelopronto.com^$script,third-party,domain=doramasmp4.com
 ||kissanime.si/api/pop.php
 ||labsk.net/banners/
 ||labsk.net/carousel/

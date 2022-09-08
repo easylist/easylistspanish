@@ -1,4 +1,6 @@
-$popup,third-party,domain=cinecalidad.lol|embedsito.com|fembad.net|fembed.com|feurl.com|hqq.to|hqq.tv|mejortorrentt.net|pelismart.com|powvibeo.me|seriesyonkis.io|streampiay.me|streamta.pe|streamtape.cc|streamtape.net|streamtape.site|streamz.vg|strtape.cloud|supergoku.com|tarjetarojatvhd.me|upvid.net|uqload.com|yourupload.com|zenkimex.com.mx
+$popup,third-party,domain=cinetux.nu
+!
+$popup,third-party,domain=embedsito.com|fembad.net|fembed.com|feurl.com|hqq.to|hqq.tv|mejortorrentt.net|pelismart.com|powvibeo.me|seriesyonkis.io|streampiay.me|streamta.pe|streamtape.cc|streamtape.net|streamtape.site|streamz.vg|strtape.cloud|supergoku.com|tarjetarojatvhd.me|upvid.net|uqload.com|yourupload.com|zenkimex.com.mx
 .bid/p.php?$popup,domain=pctfenix.com
 .club^$popup,third-party,domain=powv1deo.cc
 .pro^$popup,domain=strtape.tech
@@ -25,10 +27,9 @@ $popup,third-party,domain=cinecalidad.lol|embedsito.com|fembad.net|fembed.com|fe
 ||tontent.p*deo.*/*.hh^$popup
 ||uqload.com/img/player_logo.png^$popup
 ||waaw.*/out.php^$popup
-||ytmp3.plus/p^$popup
 ! about:blank popups
 /about:blank.*/$popup,domain=cuevana3-v1.wtf|peliculasmega1k.com|streamadblockplus.com
 ! html/image popups
-/^https?:\/\/.*\.(jpg|gif|png|php|svg|ico|js|txt)/$popup,domain=anime-flv.net|animeflv.la|atomixhq.art|atomixhq.club|atomixhq.link|atomixhq.top|cliver.to|cuevanahd.net|divicast.com|doramasflixs.com|gnula.nu|gnula.se|ibb.co|jkanime.net|myflixertv.to|pctreload1.com|pelishouse.me|pelismart.com|pelismarthd.com|pelismartv.com|pelisplayer.xyz|pelisplus.io|pelisplus.top|pelisplus2.io|pelisplushd.nu|pelispophd.com|seriesflix.live|seriesturcas.tv|solopeliculasespaã±ol.com|tomatomatela.com
+/^https?:\/\/.*\.(jpg|gif|png|php|svg|ico|js|txt)/$popup,domain=anime-flv.net|animeflv.la|atomixhq.club|atomixhq.link|atomixhq.top|cliver.to|cuevanahd.net|divicast.com|doramasflixs.com|gnula.nu|gnula.se|ibb.co|jkanime.net|myflixertv.to|pctreload1.com|pelishouse.me|pelismart.com|pelismarthd.com|pelismartv.com|pelisplayer.xyz|pelisplus.io|pelisplus.top|pelisplus2.io|pelisplushd.nu|pelispophd.com|seriesflix.live|seriesturcas.tv|solopeliculasespaã±ol.com|tomatomatela.com
 ! html/image popups (without php)
 /^https?:\/\/.*\.(jpg|gif|png|svg|ico|js|txt)/$popup,domain=pirlotvonlinehd.net
