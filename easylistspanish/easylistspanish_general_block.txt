@@ -1,3 +1,5 @@
+/banner-publicidad-
+!
 /234x60.php
 /adsdino.
 /adsensebase.

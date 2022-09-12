@@ -63,6 +63,8 @@ mariskalrock.com##div[id^="wmd-anuncio-"]
 diariodelaribera.net##img[alt^="Banner"]
 diariotextual.com,pcpro.es##img[width="300"]
 highxtar.com##img[width="300"][height="600"]
+transponder1200.com##img[width="336"]
+transponder1200.com##img[width="728"]
 marcadegol.com##img[width="750"]
 ! Advanced element hiding rules for Adblock Plus
 eltiempo.com#?#.main-article-container-patr:-abp-has(.contenido-comercial)
