@@ -1,3 +1,5 @@
+||pornolandia.xxx/static/xxx/cameraprive/
+!
 /^https?:\/\/[0-9a-z]{8,}\.com\/.*/$3p,~media,domain=hispasexy.org|pornotorrent.es
 !
 .me^$script,domain=topmanhwa.net
