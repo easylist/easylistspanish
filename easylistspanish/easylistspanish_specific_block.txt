@@ -3,7 +3,7 @@
 ||pordede.click/assets/img/suscripcion.png
 ||redtarapaca.com^*/ahorrocorp.jpg
 !
-/^https?:\/\/[0-9a-z]{8,}\.com\/.*/$~media,third-party,domain=animeflv.cc|gnula24.xyz|pelisplus2.io|pelisplushd.nu|pirlotvonline.org|rojadirectaenvivo.club|telenovelas-turcas.com.es|tomatomatela.com|verblackclover.com
+/^https?:\/\/[0-9a-z]{8,}\.com\/.*/$~media,third-party,domain=animeflv.cc|cuevana2.cyou|gnula24.xyz|pelispediahd.site|pelisplus.top|pelisplus2.io|pelisplushd.nu|pirlotvonline.org|rojadirectaenvivo.club|seriespepito.top|telenovelas-turcas.com.es|tomatomatela.com|verblackclover.com
 !
 /avisos^$image,domain=novalaplata.com
 /elements*/publicitat^$image,domain=lesportiudecatalunya.cat

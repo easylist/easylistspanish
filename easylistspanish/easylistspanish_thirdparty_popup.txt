@@ -1,4 +1,5 @@
 ||bit.ly^$popup,third-party,domain=pelisplus.lat
+||primevideo.com/?tag=^$popup,domain=vergnula.com
 ||significadoconcepto.com^$popup
 !
 ||badshores.com/*^publisher_code$popup,third-party

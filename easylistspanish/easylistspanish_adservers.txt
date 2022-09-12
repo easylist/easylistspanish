@@ -200,7 +200,6 @@
 ||nonegrysu.pro^$third-party
 ||nothingnightingalejuly.com^$third-party
 ||nssyawqyj.com^$third-party
-||oasisamor.org^$third-party
 ||obnoxiouspatrolassault.com^$third-party
 ||odiumdrawlip.com^$third-party
 ||offshorecockpit.com^$third-party
