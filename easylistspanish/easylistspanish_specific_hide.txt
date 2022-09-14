@@ -31,6 +31,7 @@ latercera.com##.brand-claro
 latercera.com##.branded-sponsor
 eldoce.tv##.branding-wrapper
 mariskalrock.com##.brave_popup
+futbolred.com##.btn_betplay
 elpais.com##.c-bra
 cadenaser.com##.cnt-publi
 laarena.com.ar##.container-spot
