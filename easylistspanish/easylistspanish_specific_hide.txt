@@ -62,6 +62,7 @@ bemad.es,cuatro.com,divinity.es,energytv.es,factoriadeficcion.com,mtmad.es,niusd
 avisooportuno.mx##div[class^="div-dfp-"]
 mariskalrock.com##div[id^="wmd-anuncio-"]
 diariodelaribera.net##img[alt^="Banner"]
+expansion.com##img[class="ue-c-widget__sponsor"]
 diariotextual.com,pcpro.es##img[width="300"]
 highxtar.com##img[width="300"][height="600"]
 transponder1200.com##img[width="336"]
