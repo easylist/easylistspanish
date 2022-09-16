@@ -610,6 +610,5 @@ $third-party,xmlhttprequest,domain=divxatope.com|divxatope1.com|divxtotal.com|es
 ||truepush.com^$third-party,domain=animeyt.es
 ||tumangaonline.com/img/adblock1.png
 ||tumangaonline.com/img/no-pub-*.png
-||unpkg.com/*/videojs_5.vast.vpaid$script
 ||util.simply-hentai.com^$script,xmlhttprequest,domain=simply-cosplay.com|simply-hentai.com
 ||vercomicsporno.com/wp-content/uploads/bann
