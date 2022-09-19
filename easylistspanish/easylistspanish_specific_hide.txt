@@ -336,8 +336,8 @@ juegosjuegos.com##.Banners-lateral
 pcbolsa.com##.ContenidoClassPubliCotiza
 pcbolsa.com##.ContenidoClassPubliForo300
 deportesmax.com##.Estilo11
-deportesmax.com,maxdeportv.club,maxdeportv.net##.Estilo12
-deportesmax.com,maxdeportv.club,maxdeportv.net##.Estilo13
+deportesmax.com,maxdeportv.club##.Estilo12
+deportesmax.com,maxdeportv.club##.Estilo13
 bluradio.com,caracoltv.com,shock.co##.GoogleDfpAd-Content
 hipertextual.com##.M50B--md
 eldefinido.cl##.RP
@@ -960,7 +960,7 @@ laarena.com.ar##div[style="box-shadow: rgba(0, 0, 0, 0.4) 0px 0px 20px; backgrou
 entornointeligente.com##div[style="clear:both;width:100%;background-color: #EFEFEF;height:90px"]
 entornointeligente.com##div[style="clear:both;width:100%;background-color: #EFEFEF;height:90px;"]
 elitetorrent.net##div[style="color:#ccc;font-size:10px;text-align:right;margin-bottom:20px;"]
-maxdeportv.club,maxdeportv.net##div[style="color:#ffffff; font-family:verdana; font-size:12px; padding-bottom:0px;"]
+maxdeportv.club##div[style="color:#ffffff; font-family:verdana; font-size:12px; padding-bottom:0px;"]
 newpct1.com##div[style="float:left;width:100%;height:160px;"]
 newpct1.com##div[style="float:left;width:100%;height:90px;"]
 newpct1.com##div[style="float:left;width:100%;min-height:1px;margin:4px 0px 4px 0px;"]

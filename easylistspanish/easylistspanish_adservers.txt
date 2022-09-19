@@ -3,10 +3,6 @@
 ||premiumleads.com^$third-party
 ||wemass.com^$third-party
 !
-||dvigukindal.com^$third-party
-||dwayaihthfwvu.top^$third-party
-||dynpuqtsjpgqjv.com^$third-party
-||earnco.in^$third-party
 ||eclogicmeows.com^$third-party
 ||ecsqyotk.com^$third-party
 ||edfsqfaeenij.com^$third-party
