@@ -1,6 +1,8 @@
 ||ansalatina.com/americalatina/images/banner/
 ||cinetux.nu/api/spots/
+||clivertv.xyz/assets/img/suscripcion.png
 ||diariodelaribera.net/imagenes/banner
+||pelispop.info/EkBG80SP.js
 ||pordede.click/assets/img/suscripcion.png
 ||redtarapaca.com^*/ahorrocorp.jpg
 !
@@ -305,7 +307,6 @@
 ||mariosegura.com/wp-content/uploads/*/*/*.gif
 ||mawlaybob.com^$script,third-party,domain=9xbuddy.org
 ||max-deportv.com/arriba2.html
-||maxdeportv.club/arriba
 ||media.airedesantafe.com.ar/*/banners/$image
 ||media.easy.com.ar/is/image/EasyArg/blaisteneasyhome
 ||mediainterior.com.ar/images/
@@ -597,7 +598,6 @@ $third-party,xmlhttprequest,domain=divxatope.com|divxatope1.com|divxtotal.com|es
 ||opanoticias.com/assets/imgs/banner/
 ||opanoticias.com/img/uccnoviembre
 ||pcbolsa.com/css/Rasted.js
-||pelismart.tv/*/MqbSTPhUEDuE
 ||pieldetoro.net/web/imagen/
 ||pormega.com/dark-hat-*/
 ||prensalibrecasanare.com/b202*/

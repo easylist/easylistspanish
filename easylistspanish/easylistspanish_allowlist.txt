@@ -30,7 +30,6 @@
 @@||lagacetadesalamanca.es/elementosWeb/gestionCajas/GSA/Image/GIF_LAGACETA_318X180.gif$image,domain=lagacetadesalamanca.es
 @@||mdsrwdassets-a.akamaihd.net^$script,domain=mitele.es
 @@||platform.twitter.com/widgets.js$script,third-party,domain=divxatope.com|divxatope1.com|ftail.tv|lacajita.xyz|newpct.com|newpct1.com|reyanime.com|seriesblanco.com|shippuden.tv|torrentrapid.com|tumejortorrent.com
-@@||player.vodgc.net^*/videojs-contrib-ads/dist/videojs.ads.min.js$script
 @@||privatelink.de/$popup,third-party,domain=jkanime.net
 @@||republica.com.uy/wp-content/banners/HoroscopoDiario2016.jpg
 @@||seriesblanco.com/jquery*.min.js$script,third-party,domain=lacajita.xyz
@@ -38,7 +37,7 @@
 @@||static.ak.fbcdn.net/connect.php/js/FB.Share$script,third-party,domain=divxatope.com|divxatope1.com|newpct.com|newpct1.com|torrentrapid.com|tumejortorrent.com
 @@||w.sharethis.com/button/buttons.js$script,third-party,domain=lacajita.xyz|seriesblanco.com
 ! Anti-Adblock
-@@.gif#$image,domain=cinestrenostv.tv|clasicotas.org|deportesmax.com
+@@.gif#$image,domain=cinestrenostv.tv|clasicotas.org
 @@.png#$image,domain=fullpremiums.com|todotumac.com
 @@.png?*#/$image,domain=pajaslocas.com
 @@/comun/js/2014/adfr*.js$script,~third-party,domain=diariosur.es|diariovasco.com|elcomercio.es|elcorreo.com|eldiariomontanes.es|elnortedecastilla.es|hoy.es|ideal.es|larioja.com|lasprovincias.es|laverdad.es|leonoticias.com
@@ -84,7 +83,6 @@
 @@||corporacionwarez.com^$generichide
 @@||cualbondi.com.ar^$generichide
 @@||cuatro.com^$generichide
-@@||deportesmax.com^$generichide
 @@||des.smartclip.net/ads?$script,domain=esradio.libertaddigital.com
 @@||divxatope.com^$generichide
 @@||divxatope1.com^$generichide
@@ -101,7 +99,6 @@
 @@||estaticos.muyinteresante.es/bundles/nogoffrontend/js/custom/ads.js
 @@||euribor.com.es^$generichide
 @@||exclusivomen.com/jsad/advertisement.js$xmlhttprequest
-@@||expansion.com^$generichide
 @@||foro.nmn900.net/_nmn900/adsbygoogle.js$script,domain=foro.nmn900.net
 @@||freemium-iptv.org^$generichide
 @@||fuerzasarmadas.eu^$generichide
@@ -128,7 +125,6 @@
 @@||livesports.pw//adblock.js$script,domain=livesports.pw
 @@||livesports.pw/adblock.js$script,domain=livesports.pw
 @@||livesports.pw^$generichide
-@@||maxdeportv.club^$generichide
 @@||mdsrwdassets-a.akamaihd.net/dist/assets/nonAdBlock/ad$script,third-party,domain=bemad.es|cuatro.com|divinity.es|energytv.es|factoriadeficcion.com|telecinco.es
 @@||megawarez.org^$generichide
 @@||menshealth.es^$generichide

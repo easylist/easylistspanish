@@ -93,7 +93,6 @@ ftail.tv,hlat.me,notariosyregistradores.com,shippuden.tv###ads
 hlat.me###ads2
 hlat.me###ads4
 eltiempo.es###ads_position_2
-deportesmax.com###adsdiv
 agma.io###advertDialog1
 hazteveg.com###advertising
 comunio.es###advertising-right
@@ -335,9 +334,6 @@ globalasia.com##.BannerHeader_Contenedor
 juegosjuegos.com##.Banners-lateral
 pcbolsa.com##.ContenidoClassPubliCotiza
 pcbolsa.com##.ContenidoClassPubliForo300
-deportesmax.com##.Estilo11
-deportesmax.com,maxdeportv.club##.Estilo12
-deportesmax.com,maxdeportv.club##.Estilo13
 bluradio.com,caracoltv.com,shock.co##.GoogleDfpAd-Content
 hipertextual.com##.M50B--md
 eldefinido.cl##.RP
@@ -372,7 +368,7 @@ elconfidencial.com##.adcrt300x600
 cope.es,elperiodico.cat,laconversacion.net,lagaceta.com.ar,lagacetasalta.com.ar,sport.es##.add
 hoyaragon.es##.addg
 lavozdegalicia.es##.adpos
-9movies.yt,atomixhq.link,atomixhq.top,cronicadelquindio.com,dimayor.com.co,eltrecetv.com.ar,eslang.es,gnula.se,lostiempos.com,pctmix1.com,pelispedia.tv,peru.com,publico.es##.ads
+9movies.yt,cronicadelquindio.com,dimayor.com.co,eltrecetv.com.ar,eslang.es,gnula.se,lostiempos.com,pctmix1.com,pelispedia.tv,peru.com,publico.es##.ads
 yorokobu.es##.ads-block
 meristation.as.com,meristation.com.mx##.ads-notificator
 elblog.com##.ads-superior
@@ -530,7 +526,6 @@ lavanguardia.com##.box900
 mundoejecutivo.com.mx##.boxbanner
 redgol.cl##.boxbanner_container
 emol.com##.bt_publicar_ecn
-cliver.to##.btn_pub
 peliculasaudiolatino.com##.btnads
 cocheglobal.com,cronicaglobal.elespanol.com,cronicavasca.com,culemania.com,elnacional.cat,huleymantel.com##.c-banner
 racocatala.cat##.caixa-publicitat
@@ -960,7 +955,6 @@ laarena.com.ar##div[style="box-shadow: rgba(0, 0, 0, 0.4) 0px 0px 20px; backgrou
 entornointeligente.com##div[style="clear:both;width:100%;background-color: #EFEFEF;height:90px"]
 entornointeligente.com##div[style="clear:both;width:100%;background-color: #EFEFEF;height:90px;"]
 elitetorrent.net##div[style="color:#ccc;font-size:10px;text-align:right;margin-bottom:20px;"]
-maxdeportv.club##div[style="color:#ffffff; font-family:verdana; font-size:12px; padding-bottom:0px;"]
 newpct1.com##div[style="float:left;width:100%;height:160px;"]
 newpct1.com##div[style="float:left;width:100%;height:90px;"]
 newpct1.com##div[style="float:left;width:100%;min-height:1px;margin:4px 0px 4px 0px;"]
@@ -1030,7 +1024,7 @@ foropolicia.es##iframe[src*="://www.netpol.es/"]
 buenaisla.net##iframe[src*="ads.ad4game.com/"]
 tarjetaroja-tv.info##iframe[src="about:blank"]
 20minutos.es##iframe[src^="https://www.20minutos.es/cajasbuscadoras/"]
-2conv.com,animeblix.com,animeyt.es,atomixhq.club,atomixhq.link,atomixhq.top,clipconverter.cc,cuevana3.so,cuevana3.video,doramasflixs.com,doramasvip.com,flvto.biz,gnula.cc,gnula.se,jkanime.net,mp3juices.cc,pelishouse.me,pelisplus.video,pelisplus2.io,repelisgo.info,series24.cc,serieskao.net,serieskao.tv,serieslatinoamerica.tv,superflix.io,telenovelas-turcas.com.es,vidoza.net##iframe[style*="z-index: 2147483647"]
+2conv.com,animeblix.com,animeyt.es,atomixhq.club,clipconverter.cc,cuevana3.so,cuevana3.video,doramasflixs.com,doramasvip.com,flvto.biz,gnula.cc,gnula.se,jkanime.net,mp3juices.cc,pelishouse.me,pelisplus.video,pelisplus2.io,repelisgo.info,series24.cc,serieskao.net,serieskao.tv,serieslatinoamerica.tv,superflix.io,telenovelas-turcas.com.es,vidoza.net##iframe[style*="z-index: 2147483647"]
 mejortorrent.com##iframe[style="margin-top:0px; margin-bottom:10px; border:1px solid black;"]
 apurogol.net##iframe[width="300"][height="250"][border="0"][frameborder="0"][scrolling="no"]
 apurogol.net##iframe[width="500"][height="400"][border="0"][frameborder="0"][scrolling="no"][maxwidth="500"][maxheight="400"][type="responsive"]
@@ -1260,11 +1254,9 @@ miamidiario.com##a[href^="https://www.univistainsurance.com/"]
 elcontribuyente.mx##a[onclick*="Publicidad"]
 gamestorrents.fm##a[target="_blank"][href*="aming.net"]
 gamestorrents.fm##a[target="_blank"][href*="gaming.net"]
-atomtt.com,cuevana.se,divxtotal.li,divxtotal.nl,divxtotal.nu,divxtotal.pm,dontorrent.ws,gamestorrents.fm,mejortorrentes.com,pelispanda.com##a[target="_blank"][href^="https://startgaming.net"]
-atomixhq.link,atomtt.com,atomixhq.top,elitetorrent.nz#?#li:-abp-has(a[href^="https://startgaming.net"])
+cuevana.se,divxtotal.li,divxtotal.nl,divxtotal.nu,divxtotal.pm,dontorrent.ws,gamestorrents.fm,mejortorrentes.com,pelispanda.com##a[target="_blank"][href^="https://startgaming.net"]
 kairosweb.com##div[class*="banner-"]
 merca20.com##div[data-id^="013f85c"]
-cliver.to##div[data-name="parent-element"]
 alcalorpolitico.com##div[id^="Bannerprincipal"]
 slidesgo.com##div[id^="article_ads"]
 slidesgo.com##div[id^="list_ads"]
