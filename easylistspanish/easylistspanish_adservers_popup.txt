@@ -68,7 +68,6 @@
 ||pweaatek.com^$popup,third-party
 ||qmdtdaqjaimgfc.top^$popup,third-party
 ||rainingvital.com^$popup,third-party
-||repelis.id^$popup,third-party
 ||retdaz.fun^$popup,third-party
 ||riotousgrit.com^$popup,third-party
 ||salync.com^$popup,third-party
