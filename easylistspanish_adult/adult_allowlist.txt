@@ -3,8 +3,3 @@
 @@||spalumi.com/clear.gif$image,domain=spalumi.com
 @@||spalumi.com/iconimages/$image,domain=spalumi.com
 @@||spalumi.com/vbseo/$image,domain=spalumi.com
-! Anti-Adblock
-@@||bambergerkennanchitinous.com/.adframesrc.$script,third-party,domain=mivideox.com
-@@||mivideox.com^$generichide
-@@||mujeres-desnudas.com^$generichide
-@@||vjs.zencdn.net^$domain=mujeres-desnudas.com
