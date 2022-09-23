@@ -23,6 +23,7 @@ a24.com,diariouno.com.ar,lared.am##.banner-libre
 eltrecetv.com.ar##.banner-swap
 ciudad.com.ar##.banner-wrapper
 diariodelaribera.net##.bannerColumnas
+elperiodicodeaqui.com##.banner_lat
 iproup.com##.bannerwide
 diariodecuyo.com.ar##.bnr
 eltiempo.com##.board-tu-negocio
