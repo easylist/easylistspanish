@@ -21,7 +21,7 @@ iprofesional.com##.banner-horizontal
 diariodecuyo.com.ar##.banner-lanusse
 a24.com,diariouno.com.ar,lared.am##.banner-libre
 eltrecetv.com.ar##.banner-swap
-ciudad.com.ar,lmneuquen.com##.banner-wrapper
+ciudad.com.ar,lmcipolletti.com,lmneuquen.com##.banner-wrapper
 diariodelaribera.net##.bannerColumnas
 elperiodicodeaqui.com##.banner_lat
 iproup.com##.bannerwide
