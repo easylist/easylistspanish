@@ -40,11 +40,15 @@ lavoz.com.ar##.imgSponsor
 diariodelaribera.net##.lateralderecho
 diariodelaribera.net##.lateralizquierdo
 sensacine.com.mx##.main-banner
+esdiario.com##.media-ajust-tablet-publi-top
 20minutos.es##.module-coupons
 qmusica.tv##.promoTop
+esdiario.com##.pub-2
 formulatv.com##.pub-btf
 formulatv.com##.pub-mid
 formulatv.com##.pub-top
+esdiario.com##.publi-foot
+esdiario.com##.publi-top
 generacionuniversitaria.com.mx##.publicidad
 cuevana.pro,pelispedia.la##.section-cpa
 pcpro.es,periodismo.com##.td-a-rec

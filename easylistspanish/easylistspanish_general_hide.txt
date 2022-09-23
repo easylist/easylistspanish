@@ -2,6 +2,8 @@
 ##.content_gpt_caja1_ads
 ##.content_gpt_caja2_ads
 ##.edi-advertising
+##.publi300x250-sidebar
+##.publi300x600-sidebard
 ##.publicidad_dfp
 !
 ###PubMiddle1
