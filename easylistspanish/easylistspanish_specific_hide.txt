@@ -36,6 +36,7 @@ elpais.com##.c-bra
 cadenaser.com##.cnt-publi
 laarena.com.ar##.container-spot
 perfil.com##.d-xs-none.d-xxl-flex
+valencianews.es##.g
 lavoz.com.ar##.imgSponsor
 diariodelaribera.net##.lateralderecho
 diariodelaribera.net##.lateralizquierdo
