@@ -43,6 +43,7 @@ diariodelaribera.net##.lateralizquierdo
 sensacine.com.mx##.main-banner
 esdiario.com##.media-ajust-tablet-publi-top
 20minutos.es##.module-coupons
+hortanoticias.com##.n2-section-smartslider
 qmusica.tv##.promoTop
 esdiario.com##.pub-2
 formulatv.com##.pub-btf
@@ -70,10 +71,11 @@ avisooportuno.mx##div[class^="div-dfp-"]
 mariskalrock.com##div[id^="wmd-anuncio-"]
 diariodelaribera.net##img[alt^="Banner"]
 expansion.com##img[class="ue-c-widget__sponsor"]
-diariotextual.com,pcpro.es##img[width="300"]
+hortanoticias.com##img[width="250"]
+diariotextual.com,hortanoticias.com,pcpro.es##img[width="300"]
 highxtar.com##img[width="300"][height="600"]
 transponder1200.com##img[width="336"]
-transponder1200.com##img[width="728"]
+hortanoticias.com,transponder1200.com##img[width="728"]
 marcadegol.com##img[width="750"]
 ! Advanced element hiding rules for Adblock Plus
 eltiempo.com#?#.main-article-container-patr:-abp-has(.contenido-comercial)
