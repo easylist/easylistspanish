@@ -5,6 +5,9 @@
 ##.publi300x250-sidebar
 ##.publi300x600-sidebard
 ##.publicidad_dfp
+##.voc-advertising
+##.voc-article--sponsored
+##.voc-sponsored
 !
 ###PubMiddle1
 ###PubMiddle2
@@ -196,8 +199,6 @@
 ##.txtPubli
 ##.views-row-ads
 ##.vip-section-advertising
-##.voc-oferplan
-##.voc-sponsored
 ##.voc-sponsored-and-adv
 ##.widget-publi
 ##.widget_categorias_publi
