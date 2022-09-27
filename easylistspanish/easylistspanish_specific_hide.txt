@@ -10,7 +10,7 @@ planbnoticias.com.ar###text-7
 generacionuniversitaria.com.mx###ventana-flotante
 aurora-israel.co.il##.a-single
 eltiempo.com,somosfanaticos.fans##.ad-container
-rpp.pe##.ads
+rpp.pe,uypress.net##.ads
 mangacrab.com##.anunciofooter
 iproup.com##.ap
 20minutos.es##.axds
