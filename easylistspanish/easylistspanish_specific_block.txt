@@ -401,10 +401,6 @@
 ||pelisplus2.me/d.png^$image
 ||perspectivasur.com/archivos/banners/
 ||perubazar.pe/300x345/$image,domain=wapa.pe
-||pescare.com.ar/banners/
-||pescare.com.ar/img/banner-top.jpg
-||pescare.com.ar/wp-content/uploads/2015/10/bpg5.jpg
-||pescare.com.ar/wp-content/uploads/2015/10/solimeno.jpg
 ||pf-ffp-cfp-banners.storage.googleapis.com^$image,domain=portalfruticola.com
 ||pirlotv.es/js/anuncio.js
 ||pivigames.blog/wp-content/uploads/*750x100
