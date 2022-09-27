@@ -4,6 +4,7 @@
 ||diariodelaribera.net/imagenes/banner
 ||elperiodico.cl/wp-content/uploads/*/banner-
 ||habimg.com/hab_banners/$domain=habitaclia.com
+||notebookcheck.org/fileadmin/Sonstiges/amaz_$xmlhttprequest
 ||pelispop.info/EkBG80SP.js
 ||pescare.com.ar/wp-content/uploads/*/Grupo-
 ||pordede.click/assets/img/suscripcion.png
@@ -37,7 +38,7 @@
 ||ondavalencia.es/images/1808_MUDANZAS_BENICALAP.png
 ||ondavalencia.es/images/32_VALENHAUS_guia.jpg
 !
-/^https?:\/\/[0-9a-z]{8,}\.com\/.*/$~media,third-party,domain=animeflv.cc|animeyt.es|cuevana2.cyou|gnula24.xyz|pelispediahd.site|pelisplus.top|pelisplus2.io|pelisplushd.nu|pirlotvonline.org|rojadirectaenvivo.club|seriespepito.top|telenovelas-turcas.com.es|tomatomatela.com|verblackclover.com
+/^https?:\/\/[0-9a-z]{8,}\.com\/.*/$~media,third-party,domain=animeflv.cc|animeyt.es|cuevana2.cyou|gnula24.xyz|mejortorrent.cc|pelispediahd.site|pelisplus.top|pelisplus2.io|pelisplushd.nu|pirlotvonline.org|rojadirectaenvivo.club|seriespepito.top|telenovelas-turcas.com.es|tomatomatela.com|verblackclover.com
 !
 /avisos^$image,domain=novalaplata.com
 /elements*/publicitat^$image,domain=lesportiudecatalunya.cat
@@ -66,9 +67,6 @@
 ||abchoy.com.ar/publipopup/
 ||abocados.es/wp-content/uploads/*/*/banner-
 ||acortalo.net/js/clasicotas.js
-||adca.st/adpops
-||adca.st/broadcast/xclo.gif
-||adca.st/watchonline.png
 ||adlipay.com/away.php?
 ||agar.live/300banner.gif
 ||agenciafe.com/data/img_cont/img_banners/
@@ -83,7 +81,6 @@
 ||anroca.com.ar/uploads/archivos/*.gif
 ||apfdigital.com.ar/imgpublicidad/
 ||artesacro.org/banner/Salvar-Torre-San-Bartolome-2017.gif
-||assets.bro.adca.st/watchhd.html
 ||avisosdeocasion.com/*/gcavisoscom^$subdocument,domain=reforma.com
 ||azarplus.com/fotos/banners
 ||azarplus.com/includes/greybox/AJS.js
@@ -111,24 +108,19 @@
 ||chrissysinvite.co/a
 ||cinestrenostv.tv/Publi/
 ||cloudfront.net/ODD/widgets/220x308.html
-||cloudfront.net^$script,domain=gamezfull.com
 ||clubdelectores.cl/cajaEmolClub/$third-party
 ||comodorodeportes.gov.ar/wp-content/uploads/*/*/*.gif
 ||comparador.euribor.com.es/lanzadera/retargetting/
 ||conjugacion.es/img/mosalingua/
-||connatix.com/connatix.player.js^$domain=tusubtitulo.com
 ||contextotucuman.com//banners/
 ||corporacionwarez.com/wp-content/uploads/$script
 ||cronista.com/arte/pcwlogo.png
 ||css01.lavanguardia.com/imagenes/cajaHTML/loterias.gif
 ||cualesmiip.com/images/banner
 ||cuartopoder.es//images/MovistarFusion.jpg
-||cuponidad.pe/images/$image,domain=wapa.pe
-||cuponidad.pe^$domain=elpopular.pe|larepublica.pe|libero.pe
 ||cxrbw.aquipelis.net^
 ||danimados.com/wp-content/cache/autoptimize/js/autoptimize_single_$script
 ||darkstone.es/themes/default/images/banners/
-||daybooktravel.com/banner*.js^$domain=pelispop.com
 ||defensacentral.com/uploaded/banner-dondiario$image
 ||deia.eus/elementosWeb/gestionCajas/DEI/Image/*//LARIBERA-banner-deia-*.gif^
 ||deportetandilense.com.ar/publicidades_cate/
@@ -137,7 +129,6 @@
 ||descargasmix.com/js/p2.js
 ||descargasmix.com/js/p3.js
 ||desdesoria.es/wp-content/uploads/*/*/*.gif
-||dewincubiatoll.com^$script,domain=9movies.yt
 ||diagonales.com/Multimedios/Ads/
 ||diariocorreo.pe/static/diariocorreo_redesign/img/manual-del-exportador.jpg
 ||diariodesevilla.es/2016/11/09/botones_fijos/movistar-deportes_1079902371_60088437_246x27.png
@@ -163,7 +154,6 @@
 ||domisfera.com/img/patrocinadores/
 ||dontorrents.org/images/NetflixPrime.jpg
 ||dontorrents.org/images/startgaming*.jpg
-||dyecowwhy.com^$script,third-party,domain=animefenix.com
 ||ecestaticos.com/file/127008ee463cd1776595c5cf2b0ff780/1434970380.png
 ||ecestaticos.com/file/c321612b3020bee67701c43d5d3129f7/1434970318.png
 ||economia3.com/wp-content/uploads/*/*/*.gif
@@ -192,7 +182,6 @@
 ||escolar.net/wp-content/hoyenvertele*.jpg
 ||esmtb.com/embed/$image
 ||especiales.woman.es/wid-deportivos/index.html
-||estaticos.sport.es/resources/png/8/1/1434710825318.png
 ||eventrid.cl/banner_espectaculos_cuadro
 ||expreso.com.mx/images/anuncios/
 ||exvagos1.com/clientscript/license.*.js
@@ -202,7 +191,6 @@
 ||file02.lavanguardia.com/2015/01/19/54423532669-file.png
 ||file02.lavanguardia.com/2015/03/02/54428665978-file.jpg
 ||file02.lavanguardia.com/2015/06/30/54432622531-file.jpg
-||fliperamagames.ml/random.php?$subdocument,third-party
 ||fm899.com.ar/public/images/banners/
 ||fmgol.com.ar/index_htm_files/CECAITRA_TRANSITO.gif
 ||fmgol.com.ar/index_htm_files/EDELAP_300X300.gif
@@ -213,14 +201,10 @@
 ||ftail.tv/wp-content/themes/bideopro/img/dpa.gif
 ||ftail.tv/wp-content/themes/bideopro/img/vca.gif
 ||ftail.tv/wp-content/themes/bideopro/img/vpa.gif
-||futbolbase.us^$subdocument,domain=adca.st
-||futbollatam.com/ads2.js
 ||gacetamercantil.com.ar/banners/
 ||gameflare.com/common/promotions/own-images/$subdocument
 ||gamestorrents.*/realtime/
 ||geeknetic.es/ajax/serveadvert-live.asp?
-||gettyimages.es/gi-resources/images/*/iStock.jpg
-||glossingly.com^$script,third-party
 ||gnula.cc/kljhumsw.js
 ||gnula2.co/js/extra.js
 ||googleapis.com/lanacion-media-storage/*bannernacionnews.png
@@ -247,8 +231,6 @@
 ||imagenes.aquienlasierra.es/2020/
 ||imagenes.aquienlasierra.es/2021/
 ||images.eldiario.es/fotos/Articulo-patrocinado
-||images.futbolbase.us/pepon.html
-||images.futbolbase.us/raulito.html
 ||images.seriesturcas.gratis/*/banner_$image
 ||images.sprinklecontent.com^$domain=mdzol.com
 ||img01.lavanguardia.com/2013/05/16/Logo-canal-Castellers-*.jpg
@@ -315,11 +297,8 @@
 ||manerasdevivir.com/pics/noticias/*.gif
 ||manerasdevivir.com/pics/publi/
 ||manuduque.com/wp-content/uploads/2021/10/banner
-||manychat.com^$script,domain=libroscristianosgratis.net
 ||mariosegura.com/wp-content/plugins/wp-owl-carousel/
 ||mariosegura.com/wp-content/uploads/*/*/*.gif
-||mawlaybob.com^$script,third-party,domain=9xbuddy.org
-||max-deportv.com/arriba2.html
 ||media.airedesantafe.com.ar/*/banners/$image
 ||media.easy.com.ar/is/image/EasyArg/blaisteneasyhome
 ||mediainterior.com.ar/images/
@@ -328,11 +307,6 @@
 ||mediaserver.emol.cl/*/rv.js
 ||mediaserver.emol.cl/other/lleison/
 ||mediterraneodigital.com/images/banners/
-||megalinks.info/min3r.html
-||megawarez.org/wp-content/uploads/*/banner
-||megawarez.org/wp-content/uploads/2017/09/modelting.png
-||mejorenvo.com/publi$subdocument
-||mejortorrent.com/includes/$subdocument
 ||mercadosonora.com.mx/wp-content/uploads/*/32X320BIOTIQUIN.png
 ||meridiano.com.ve/Picfiles/logo-merbet_96x34.png
 ||mesebre.cat/img/pub/
@@ -356,8 +330,6 @@
 ||netuy.net/banner_hosting_uruguay/
 ||newsweeklatino.com/flow/
 ||ninemanga.net/1.png
-||noddus.com^$domain=sport.es
-||notebookcheck.org/fileadmin/Sonstiges/amaz_$xmlhttprequest
 ||noticias3d.com/imagenes/banners/
 ||noticiasdel6.com/*.gif
 ||noticiasdelaciencia.com/upload/img/periodico/img_2972.jpg
@@ -382,9 +354,7 @@
 ||pelishouse.com/wp-content/uploads/*/ver.png
 ||pelisnetwork.com/pub?
 ||pelispedia.de/wp-content/plugins/all-click/public/js/allclick-functions.js
-||pelisplus2.me/d.png^$image
 ||perspectivasur.com/archivos/banners/
-||perubazar.pe/300x345/$image,domain=wapa.pe
 ||pf-ffp-cfp-banners.storage.googleapis.com^$image,domain=portalfruticola.com
 ||pirlotv.es/js/anuncio.js
 ||pivigames.blog/wp-content/uploads/*750x100
@@ -401,8 +371,6 @@
 ||proyecto-salud.com.ar/img/*.gif
 ||proyecto-salud.com.ar/img/*banner
 ||proyecto-salud.com.ar/img/novedades-medicas.jpg
-||publicidad.milenio.com/
-||publicidadpro.com/*/watch.php^$domain=embed.cload.video
 ||puntobiz.com.ar/data/img_cont/img_banners/
 ||puntomedio.mx/wp-content/uploads/2019/07/whatsapp-image-2019-07-29-at-3.40.53-pm-1.jpeg
 ||puntomedio.mx/wp-content/uploads/2019/11/kinea2.jpg
@@ -419,7 +387,6 @@
 ||recursos.dl-cdn24.com/bannerpl/
 ||recursos.equipohumano.com/*_plubli/enlace.html^$subdocument,domain=valenciaplaza.com
 ||red92.com/images/uploaded/spots/
-||refnippod.com^$script,third-party,domain=feurl.com
 ||religionenlibertad.com/imgpbs/
 ||republica.com.uy/wp-content/banners/
 ||rioja2.com/images/banners/
@@ -453,14 +420,11 @@
 ||smnoticias.info/separador.banner.jpg
 ||socialetic.com/cms/wp-content/uploads/*/250x400.gif$image
 ||socialetic.com/cms/wp-content/uploads/*/anuncio$image
-||specimensspittleentrepreneur.com^$script,domain=animespace.tv
-||sport.es/resources/jpg/0/3/1496069966930.jpg
 ||srnovelas.com/wp-content/uploads/*/descubre-wsp.jpg$image
 ||srnovelas.com/wp-content/uploads/*/sistemawsp.jpg$image
 ||st.forocoches.com/image/top_c2_fcs_hd_hawkers.png
 ||st.forocoches.com/image/varios/iphone6_ipadmini.png
 ||st1.idealista.com/news/archivos/styles/348x90/public/ficheros_widget_news/img/balcon_concha_vanguardia.jpg
-||stact.megawarez.org^
 ||static.emol.cl/emol50/js/funcionesComun.js?
 ||static.htcmania.com/*_180x150-
 ||static.htcmania.com/180-150-
@@ -472,7 +436,6 @@
 ||tarjetaroja-tv.info/publicity/
 ||telexplorer.com.ar/images/banners/
 ||teliad.es/*/banner/
-||thetarhaw.com^$script,third-party,domain=series24.me|series24.nu
 ||tiemposur.com.ar/banners/
 ||tiemposur.com.ar/uploads/banners
 ||tiquetesbaratos.com/pruebas/periodicos/
@@ -480,7 +443,6 @@
 ||todopuebla.com^$subdocument,domain=elpopular.mx
 ||tomadivx.org/publi_*.php
 ||tontent.p*deo.*/*.hh^$script,subdocument
-||topblockchainsolutions.nl/ad/$script,domain=tumangaonline.uno
 ||trtocm.tarjetarojatvonline.com^$script
 ||tucumanalas7.com.ar/u/banners/
 ||tumbaabierta.com/wp-content/uploads/*/*/banner_
@@ -489,9 +451,7 @@
 ||tumblr.com/omgciym/bDjozcv4x/pampling.jpg
 ||tumblr.com/omgciym/Gylmyj90o/finovinilos.jpg
 ||tutiempo.net/ttbp.php
-||u21drwj6mp.com^$popup,script,third-party,domain=ymp4.download
 ||uecdn.es/assets/desktop/master/img/patrocinio_
-||urnawareflan.com^$script,third-party,domain=series24.nu
 ||ushuaia24.com.ar/download/multimedia.normal.*.gif
 ||va6.thand.info/embed-^$third-party
 ||vercanalestv.com/468.html
@@ -537,17 +497,17 @@
 ||zeulo.anime-extremo.com^
 ||zonatorrent.tv/min/$script
 ! Webrtc ads
-$webrtc,domain=allpeliculas.com|animeid.tv|booksmedicos.org|dompl3.info|gnula.biz|jkanime.net|mejortorrent.com|mejortorrent.org|mejortorrent1.com|pelispedia.tv
+$webrtc,domain=allpeliculas.com|animeid.tv|booksmedicos.org|dompl3.info|gnula.biz|jkanime.net|pelispedia.tv
 ! blob ads
-|blob:$domain=divxatope.com|divxatope1.com|newpct.com|newpct1.com|torrentrapid.com|tumejortorrent.com
+|blob:$domain=divxatope.com|divxatope1.com|newpct.com|newpct1.com|torrentrapid.com
 ! RegEx filters
 /^https?:\/\/([a-z0-9]{8,10}\.)?[a-z0-9]{5,14}\.(com|bid|online|top|club)\/([a-z0-9]{2}\/){3}[a-f0-9]{32}\.js$/$script,third-party
 /^https?:\/\/[0-9a-z]{8,}.[0-9a-z]{8,}\.com\//$script,domain=animefenix.com|hispasexy.org|manga-mx.com|serielatinobobesponja.com|series-de.online
 /^https?:\/\/[a-z0-9]+\.cloudfront\.net\/\?[a-z]{5}\=\d{6}$/$script,third-party
 ! Third party script
-$script,third-party,domain=abcdefamosas.xyz|anitube.cz|anitubebr.com|divxatope.com|divxatope1.com|divxtotal.com|elitetorrent.net|estoesporno.com|estrenosdtl.com|ftail.tv|gamestorrents.com|lacajita.xyz|mejorenvo.com|mejortorrent.com|moviesdvdr.com|newpct.com|newpct1.com|novelasenlinea.net|pepecine.info|reyanime.com|seriesblanco.com|seriesflv.net|shippuden.tv|submanga.org|subtorrents.com|todocvcd.com|torrentesx.com|torrentrapid.com|tumejortorrent.com|xtremo.net|xtremostereo.net
+$script,third-party,domain=abcdefamosas.xyz|anitube.cz|anitubebr.com|divxatope.com|divxatope1.com|divxtotal.com|elitetorrent.net|estoesporno.com|estrenosdtl.com|ftail.tv|gamestorrents.com|lacajita.xyz|moviesdvdr.com|newpct.com|newpct1.com|novelasenlinea.net|pepecine.info|reyanime.com|seriesblanco.com|seriesflv.net|shippuden.tv|submanga.org|subtorrents.com|todocvcd.com|torrentesx.com|torrentrapid.com|xtremo.net|xtremostereo.net
 ! Third party xmlhttprequest
-$third-party,xmlhttprequest,domain=divxatope.com|divxatope1.com|divxtotal.com|estoesporno.com|estrenosdtl.com|gamestorrents.com|moviesdvdr.com|newpct.com|newpct1.com|seriesflv.net|subtorrents.com|todocvcd.com|torrentesx.com|torrentrapid.com|tumejortorrent.com
+$third-party,xmlhttprequest,domain=divxatope.com|divxatope1.com|divxtotal.com|estoesporno.com|estrenosdtl.com|gamestorrents.com|moviesdvdr.com|newpct.com|newpct1.com|seriesflv.net|subtorrents.com|todocvcd.com|torrentesx.com|torrentrapid.com
 ! Anti-Adblock
 /ads/brand_day^$domain=diariomotor.com
 /fallback_pub_$domain=ecartelera.com
