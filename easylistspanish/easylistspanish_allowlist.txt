@@ -3,10 +3,6 @@
 !
 @@-publicidad.$~third-party,domain=regalos-publicidad.es|todo-publicidad.com
 @@||ajax.googleapis.com/ajax/libs/$script,third-party,domain=anitube.cz|lacajita.xyz|reyanime.com|seriesblanco.com
-@@||aurora-israel.co.il/wp-content/themes/Newspaper/bannersswf/banner_newsletter1.swf
-@@||aurora-israel.co.il/wp-content/themes/Newspaper/bannersswf/clima3_29_11_2016.swf
-@@||aurora-israel.co.il/wp-content/themes/Newspaper/bannersswf/facebook_twitter2.swf
-@@||aurora-israel.co.il/wp-content/themes/Newspaper/bannersswf/notas-*.swf
 @@||bootstrapcdn.com/bootstrap/$script,domain=anitube.cz
 @@||cdn.jsdelivr.net^$script,domain=anitube.cz
 @@||cdn.streamroot.io^$script,domain=anitube.cz

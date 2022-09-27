@@ -8,6 +8,7 @@ qmusica.tv###promoSept19B
 planbnoticias.com.ar###text-4
 planbnoticias.com.ar###text-7
 generacionuniversitaria.com.mx###ventana-flotante
+aurora-israel.co.il##.a-single
 eltiempo.com,somosfanaticos.fans##.ad-container
 rpp.pe##.ads
 mangacrab.com##.anunciofooter
