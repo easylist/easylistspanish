@@ -36,6 +36,7 @@ futbolred.com##.btn_betplay
 elpais.com##.c-bra
 cadenaser.com##.cnt-publi
 laarena.com.ar##.container-spot
+meteored.cl,meteored.com.ar,meteored.mx,tiempo.com##.creatividad
 perfil.com##.d-xs-none.d-xxl-flex
 valencianews.es##.g
 lavoz.com.ar##.imgSponsor
@@ -43,6 +44,7 @@ diariodelaribera.net##.lateralderecho
 diariodelaribera.net##.lateralizquierdo
 sensacine.com.mx##.main-banner
 esdiario.com##.media-ajust-tablet-publi-top
+meteored.cl,meteored.com.ar,meteored.mx,tiempo.com##.megabanner
 20minutos.es##.module-coupons
 hortanoticias.com##.n2-section-smartslider
 qmusica.tv##.promoTop
@@ -52,7 +54,7 @@ formulatv.com##.pub-mid
 formulatv.com##.pub-top
 esdiario.com##.publi-foot
 esdiario.com##.publi-top
-generacionuniversitaria.com.mx##.publicidad
+generacionuniversitaria.com.mx,meteored.cl,meteored.com.ar,meteored.mx,tiempo.com##.publicidad
 cuevana.pro,pelispedia.la##.section-cpa
 pcpro.es,periodismo.com##.td-a-rec
 marcadegol.com##.textwidget a[href^="https://ar.puma.com/"]
