@@ -50,7 +50,6 @@
 ||130.211.230.53^$script,domain=animeid.tv
 ||16valvulas.com.ar/wp-content/uploads/*.gif
 ||190.210.182.163/iPlataformamultiempresa/Panelcontenidos/Contenidos/*.gif
-||190.210.182.163/iPlataformamultiempresa/Panelcontenidos/Contenidos/*.swf
 ||190.210.182.163/iPlataformamultiempresa/Panelcontenidos/Contenidos/Pauta
 ||20m.es/css4/img/ui/pastilla_forbes.png
 ||24con.com/files/image/228/228563/59e666afdced4.jpg
@@ -150,7 +149,6 @@
 ||diarioelinformante.com.ar/publis
 ||diarioelzondasj.com.ar/images/Imagenes/*.gif
 ||diarioelzondasj.com.ar/images/Imagenes/lima.png
-||diarioelzondasj.com.ar/images/Videos/*.swf
 ||diariolaprovinciasj.com/u/banners/
 ||diarionoticias.com.ar/images/banner/BANNER
 ||diarionoticias.com.ar/images/banner_
@@ -168,7 +166,6 @@
 ||domisfera.com/img/patrocinadores/
 ||dontorrents.org/images/NetflixPrime.jpg
 ||dontorrents.org/images/startgaming*.jpg
-||dropbox.com/s/gd8qg0mv2q53prb/lapampadxd-300x150.swf
 ||dyecowwhy.com^$script,third-party,domain=animefenix.com
 ||ecestaticos.com/file/127008ee463cd1776595c5cf2b0ff780/1434970380.png
 ||ecestaticos.com/file/c321612b3020bee67701c43d5d3129f7/1434970318.png
@@ -195,7 +192,6 @@
 ||emol.com/www/noticias/sqn.php?zones=
 ||enderrock.cat/ajax.php?accio=loadinterstitial
 ||ennaranja.com/wp-content/themes/ingblog-fa/assets/images/logoing.png
-||es-cloud-resources.tombola.com/Flash/Modules/winners_module_apr_*.swf
 ||escolar.net/wp-content/hoyenvertele*.jpg
 ||esmtb.com/embed/$image
 ||especiales.woman.es/wid-deportivos/index.html
@@ -375,7 +371,6 @@
 ||noticiasdel6.com/*.gif
 ||noticiasdelaciencia.com/upload/img/periodico/img_2972.jpg
 ||noticiasurbanas.com.ar/wp-content/uploads/*.gif
-||noticiasurbanas.com.ar/wp-content/uploads/*.swf
 ||noticiasyprotagonistas.com/wp-content/uploads/*.gif
 ||notifalcon.com/wp-content/uploads/*/cropped*.jpg
 ||nueva-ciudad.com.ar/advf/imagenes/*.gif
