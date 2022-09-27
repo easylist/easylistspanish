@@ -187,7 +187,6 @@
 ||elitegol.com/media/oficial.png
 ||elmundo.es^*/patrocinador/
 ||elpatagonico.com/adjuntos/193/banners/
-||elperiodico.cl/wp-content/uploads/2016/05/diariouchile.swf
 ||elpuntodeequilibrio.com/assets/banners/
 ||elsiglodetorreon.com.mx/desplegados/banners/$subdocument
 ||elsiglodetorreon.com.mx/images/banners/$image
