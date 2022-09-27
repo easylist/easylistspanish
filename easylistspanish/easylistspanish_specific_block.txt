@@ -52,8 +52,6 @@
 /wp-content/uploads/*banner$image,domain=horajaen.com|simpsons-latino.net|socialetic.com
 ||130.211.230.53^$script,domain=animeid.tv
 ||16valvulas.com.ar/wp-content/uploads/*.gif
-||190.210.182.163/iPlataformamultiempresa/Panelcontenidos/Contenidos/*.gif
-||190.210.182.163/iPlataformamultiempresa/Panelcontenidos/Contenidos/Pauta
 ||20m.es/css4/img/ui/pastilla_forbes.png
 ||24con.com/files/image/228/228563/59e666afdced4.jpg
 ||24con.com/files/image/230/230804/5a01a74262820_300_!.jpg
