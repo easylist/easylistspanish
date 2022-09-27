@@ -5,6 +5,8 @@ bemad.es,cuatro.com,divinity.es,energytv.es,factoriadeficcion.com,mtmad.es,niusd
 qmusica.tv###promo
 qmusica.tv###promoSept19A
 qmusica.tv###promoSept19B
+planbnoticias.com.ar###text-4
+planbnoticias.com.ar###text-7
 generacionuniversitaria.com.mx###ventana-flotante
 eltiempo.com,somosfanaticos.fans##.ad-container
 rpp.pe##.ads
@@ -74,13 +76,15 @@ avisooportuno.mx##div[class^="div-dfp-"]
 mariskalrock.com##div[id^="wmd-anuncio-"]
 diariodelaribera.net##img[alt^="Banner"]
 expansion.com##img[class="ue-c-widget__sponsor"]
-lapampadiaxdia.com.ar##img[height="300"]
+planbnoticias.com.ar##img[height="200"]
+planbnoticias.com.ar##img[height="250"]
+lapampadiaxdia.com.ar,planbnoticias.com.ar##img[height="300"]
 lapampadiaxdia.com.ar##img[height="728"]
 pescare.com.ar##img[height="735"]
 hortanoticias.com##img[width="250"]
 diariotextual.com,hortanoticias.com,pcpro.es##img[width="300"]
 highxtar.com##img[width="300"][height="600"]
-transponder1200.com##img[width="336"]
+planbnoticias.com.ar,transponder1200.com##img[width="336"]
 mododeporte.com##img[width="500"]
 hortanoticias.com,transponder1200.com##img[width="728"]
 marcadegol.com##img[width="750"]
@@ -294,7 +298,7 @@ emprendices.co,misionesonline.net###text-15
 misionesonline.net###text-16
 jerezcofrade.tv,misionesonline.net###text-17
 misionesonline.net###text-19
-elplanetaurbano.com,planbnoticias.com.ar###text-2
+elplanetaurbano.com###text-2
 misionesonline.net###text-20
 misionesonline.net###text-21
 misionesonline.net###text-22
@@ -686,7 +690,6 @@ elheraldo.co##.pauta
 infobae.com##.pb-f-utilities-ad
 forochicas.com##.pbanner
 anitoc.com,panicmanga.com,worldmangas.com##.pbl
-planbnoticias.com.ar##.penci-featured-cat-custom-ads
 bro.adca.st##.pepin
 peliculasaudiolatino.com##.pfake
 bernabeudigital.com##.placeholder
@@ -799,8 +802,6 @@ cronicadigital.cl##.td-main-sidebar > .td-ss-main-sidebar > .td_block_template_5
 lifeder.com##.td-ss-main-sidebar
 hispanicpost.com##.td-visible-desktop
 diarioconurbano.com.ar##.tdi_36
-planbnoticias.com.ar##.text-4
-planbnoticias.com.ar##.text-7
 larazon.es##.textoPatrocinio
 elbierzodigital.com,futbolretro.es,villavonoticias.com##.textwidget
 henaojara.com##.textwidget.custom-html-widget
