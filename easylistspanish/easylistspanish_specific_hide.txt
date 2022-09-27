@@ -20,6 +20,7 @@ clarin.com,ole.com.ar##.banner-border
 tycsports.com##.banner-bottom
 agroclave.com.ar,lacapital.com.ar##.banner-box
 elnueve.com.ar##.banner-box-container
+noticiasurbanas.com.ar##.banner-center
 iprofesional.com##.banner-horizontal
 diariodecuyo.com.ar##.banner-lanusse
 a24.com,diariouno.com.ar,lared.am##.banner-libre
@@ -455,7 +456,6 @@ puntobiz.com.ar##.banner-bloque
 elonce.com##.banner-c
 andaluciainformacion.es##.banner-cabecero
 capital.cl##.banner-capital
-noticiasurbanas.com.ar##.banner-center
 ambito.com,apertura.com,elnueve.com,elpuntodeequilibrio.com,infotechnology.com,minutouno.com##.banner-container
 elonce.com##.banner-d
 750.am##.banner-desktop-300
@@ -469,7 +469,6 @@ todacolombia.com##.banner-horizontal
 abcsaladillo.com.ar##.banner-lateral
 minutouno.com##.banner-listado-simple
 lacapital.com.ar,primiciasya.com,unoentrerios.com.ar,unosantafe.com.ar##.banner-nativo
-noticiasurbanas.com.ar##.banner-noticia
 cronista.com##.banner-revista
 unosantafe.com.ar##.banner-side
 cooperativa.cl,tycsports.com##.banner-top
