@@ -60,6 +60,7 @@ formulatv.com##.pub-top
 esdiario.com##.publi-foot
 esdiario.com##.publi-top
 generacionuniversitaria.com.mx,meteored.cl,meteored.com.ar,meteored.mx,tiempo.com##.publicidad
+fotocasa.es##.re-AdvertisingDominanceNative
 cuevana.pro,pelispedia.la##.section-cpa
 pcpro.es,periodismo.com##.td-a-rec
 marcadegol.com##.textwidget a[href^="https://ar.puma.com/"]
