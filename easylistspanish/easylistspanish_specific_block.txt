@@ -146,8 +146,6 @@
 ||diarioeldia.cl/banner/
 ||diarioeldia.cl/interstitial*.js
 ||diarioelinformante.com.ar/publis
-||diarioelzondasj.com.ar/images/Imagenes/*.gif
-||diarioelzondasj.com.ar/images/Imagenes/lima.png
 ||diariolaprovinciasj.com/u/banners/
 ||diarionoticias.com.ar/images/banner/BANNER
 ||diarionoticias.com.ar/images/banner_
@@ -363,7 +361,6 @@
 ||noticias3d.com/imagenes/banners/
 ||noticiasdel6.com/*.gif
 ||noticiasdelaciencia.com/upload/img/periodico/img_2972.jpg
-||noticiasurbanas.com.ar/wp-content/uploads/*.gif
 ||noticiasyprotagonistas.com/wp-content/uploads/*.gif
 ||notifalcon.com/wp-content/uploads/*/cropped*.jpg
 ||nueva-ciudad.com.ar/advf/imagenes/*.gif
