@@ -50,6 +50,7 @@ infopico.com##.marco-publicidad
 esdiario.com##.media-ajust-tablet-publi-top
 meteored.cl,meteored.com.ar,meteored.mx,tiempo.com##.megabanner
 20minutos.es##.module-coupons
+coches.net##.mt-AdvertisingRoadblock-top
 hortanoticias.com##.n2-section-smartslider
 qmusica.tv##.promoTop
 esdiario.com##.pub-2
@@ -149,7 +150,6 @@ ahorradororata.com###banner_footer
 divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentrapid.com,tumejortorrent.com###banner_header
 cinecalidad.to###banner_sinopsis
 paxinasgalegas.es###banner_superior
-coches.net###banner_top
 nomellamesfriki.com###banneralto
 tresubresdobles.com###bannerbajo
 laindustria.pe###bannercentral
@@ -667,7 +667,6 @@ divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentrapid.com,tumejortorr
 atresplayer.com##.mod_roba
 diarioelinformante.com.ar,laopinionsannicolas.com.ar##.modal-backdrop
 larepublica.pe##.mol-bl_Cuponidad
-coches.net##.mt-AdvertisingRoadblock-top
 lavozdegalicia.es##.mujerhoy
 elheraldo.hn##.multimedia_taboola
 foro.nmn900.net##.nmn900_bottom_ad
