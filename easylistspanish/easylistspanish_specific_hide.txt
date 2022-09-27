@@ -72,6 +72,8 @@ avisooportuno.mx##div[class^="div-dfp-"]
 mariskalrock.com##div[id^="wmd-anuncio-"]
 diariodelaribera.net##img[alt^="Banner"]
 expansion.com##img[class="ue-c-widget__sponsor"]
+lapampadiaxdia.com.ar##img[height="300"]
+lapampadiaxdia.com.ar##img[height="728"]
 hortanoticias.com##img[width="250"]
 diariotextual.com,hortanoticias.com,pcpro.es##img[width="300"]
 highxtar.com##img[width="300"][height="600"]
@@ -87,8 +89,6 @@ puromarketing.com###AdsTextHomeMultiple
 forocoches.com###AutoNumber30
 pcbolsa.com###Conten
 pcbolsa.com###ContenidoPubliCotiza
-lapampadiaxdia.com.ar###HTML20
-lapampadiaxdia.com.ar###HTML23
 diariopopular.com.ar###OBJETO861 > .ad-obj
 pcbolsa.com###PubliBlog
 pcbolsa.com###PubliBlogAbajo
@@ -1056,8 +1056,6 @@ finofilipino.org##img[src="http://static.tumblr.com/omgciym/0tvmih3p3/memetienda
 finofilipino.org##img[src="http://static.tumblr.com/omgciym/2bBmgb175/juegacos.jpg"]
 finofilipino.org##img[src="http://static.tumblr.com/omgciym/Pnenkw34v/edrfwregwrgwtrgwr.jpg"]
 finofilipino.org##img[src="http://static.tumblr.com/omgciym/SXxm66n6y/lol-logo.png"]
-lapampadiaxdia.com.ar#?#.HTML:-abp-contains(Espacio Publicitario)
-lapampadiaxdia.com.ar#?#.HTML:-abp-has(.adsbygoogle)
 divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentrapid.com,tumejortorrent.com##li[style="width:100%;height:98px;"]
 elespanol.com##p[style="color: #969696;font-family: Arial,Helvetica,sans-serif;font-size: 1rem;font-weight: 400;"]
 eluniversal.com##p[style="color: rgb(144, 144, 144); background-color: rgb(235, 235, 235);font-size: 12px;padding-left:5px;"]
