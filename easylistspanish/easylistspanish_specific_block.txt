@@ -2,6 +2,7 @@
 ||cinetux.nu/api/spots/
 ||clivertv.xyz/assets/img/suscripcion.png
 ||diariodelaribera.net/imagenes/banner
+||elperiodico.cl/wp-content/uploads/*/banner-
 ||pelispop.info/EkBG80SP.js
 ||pescare.com.ar/wp-content/uploads/*/Grupo-
 ||pordede.click/assets/img/suscripcion.png

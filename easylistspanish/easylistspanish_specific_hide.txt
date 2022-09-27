@@ -913,7 +913,6 @@ mitele.es##a[href="http://www.tiendagranhermano.com"]
 antena3.com##a[href="http://www.tualbum.es/"]
 ole.com.ar##a[href="https://www.facebook.com/SchneiderARG/"]
 ruedasgordas.es##a[href="https://www.facebook.com/pages/BENIBIKES-Benidorm/177123992350243?fref=ts"]
-elperiodico.cl##a[href="https://www.santotomas.cl"]
 ole.com.ar##a[href="https://www.youtube.com/watch?v=IZPtel51MlA"]
 animefenix.com##a[href="https://zenkublocks.com/"]
 noticiacristiana.com##a[href='http://iglesiasegura.com/']
@@ -954,7 +953,6 @@ madridpress.com,sahagundigital.com##div[id^="detection"]
 tutiempo.net##div[id^="fab-on"]
 reconquistanoticias.blogspot.com##div[style*="background-image: url"]
 inkagames.com##div[style=" border:1px solid; background-color:#FFF; width:1220px; margin-left:auto; margin-right:auto; padding-bottom:10px"]
-elperiodico.cl##div[style=" width: 300px;height: 200px;background-color:#ededed; text-align: center;"]
 milenio.com##div[style="align:center; margin-bottom:10px; margin-left:10px; border: 1px solid #cacaca; padding:5px; width:300px; height:250px;"]
 nuevamujer.com##div[style="background-color: #E6E6E6; padding: 2px; text-align: center"]
 monografias.com##div[style="background-color:#FFF;margin-bottom:10px;height:250px;"]
@@ -1021,7 +1019,6 @@ todoblaugrana.com##div[style^="overflow: hidden"]
 razon.com.mx##div[style^="position: fixed!important;text-align: center;bottom: 0!important;left: 0;"]
 calculadora-de-derivadas.com,calculadora-de-integrales.com##div[style^="width: 728px;"]
 elsolnoticias.com.ar#?#.widget_media_image:-abp-has(span:-abp-contains(Publicidad))
-elperiodico.cl##embed[href="http://www.radio.uchile.cl/"]
 finofilipino.org#?#.adpv:-abp-has(> .adsbygoogle)
 finofilipino.org#?#.posts:-abp-has(> div > div > .adsbygoogle)
 forochicas.com#?#.tborder:-abp-contains(eBay.es)
