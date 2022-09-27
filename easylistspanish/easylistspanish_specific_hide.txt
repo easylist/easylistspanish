@@ -76,6 +76,7 @@ diariodelaribera.net##img[alt^="Banner"]
 expansion.com##img[class="ue-c-widget__sponsor"]
 lapampadiaxdia.com.ar##img[height="300"]
 lapampadiaxdia.com.ar##img[height="728"]
+pescare.com.ar##img[height="735"]
 hortanoticias.com##img[width="250"]
 diariotextual.com,hortanoticias.com,pcpro.es##img[width="300"]
 highxtar.com##img[width="300"][height="600"]
@@ -785,8 +786,6 @@ profesionalreview.com##.stream-item
 cadenaoh.com.ar,envilladelparque.com,envilladevoto.com##.stream-item-mag
 envilladelparque.com,envilladevoto.com##.stream-item-widget
 losandes.com.ar##.sugerencias
-pescare.com.ar##.swf-banner-1
-pescare.com.ar##.swf-banner-2
 t13.cl##.t_banner_t13
 chacodiapordia.com,eladelantado.com,tumbaabierta.com,ultimahoraec.com##.td-a-rec
 laarena.com.ar##.td-a-rec-id-sidebar
