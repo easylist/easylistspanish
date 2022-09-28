@@ -26,7 +26,7 @@ iprofesional.com##.banner-horizontal
 diariodecuyo.com.ar##.banner-lanusse
 a24.com,diariouno.com.ar,lared.am##.banner-libre
 eltrecetv.com.ar##.banner-swap
-ciudad.com.ar,lmcipolletti.com,lmneuquen.com##.banner-wrapper
+ciudad.com.ar,elcomercio.com,lmcipolletti.com,lmneuquen.com##.banner-wrapper
 diariodelaribera.net##.bannerColumnas
 elperiodicodeaqui.com##.banner_lat
 iproup.com##.bannerwide
@@ -99,6 +99,7 @@ planbnoticias.com.ar,transponder1200.com##img[width="336"]
 mododeporte.com##img[width="500"]
 hortanoticias.com,transponder1200.com##img[width="728"]
 marcadegol.com##img[width="750"]
+elcomercio.com##ned-ad
 ! Advanced element hiding rules for Adblock Plus
 eltiempo.com#?#.main-article-container-patr:-abp-has(.contenido-comercial)
 eltiempo.com#?#.main-article-container-patr:-abp-has(.mas-contenido:-abp-contains(Más Contenido))
