@@ -1,5 +1,6 @@
 ripley.cl#@#.dfp-ad-unit
 viveusa.mx#@#.dfp-tag-wrapper
+sport.es#@#.following-ad-container
 !
 itsoft.es#@#.ad-col
 itsoft.es#@#.ad-full
