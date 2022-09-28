@@ -184,7 +184,6 @@
 ||especiales.woman.es/wid-deportivos/index.html
 ||eventrid.cl/banner_espectaculos_cuadro
 ||expreso.com.mx/images/anuncios/
-||exvagos1.com/clientscript/license.*.js
 ||farox.com/barra_productos/
 ||file01.lavanguardia.com/2013/04/09/54371066983-file.jpg
 ||file02.lavanguardia.com/*/*-patrocinadorAgregadores.jpg
@@ -352,7 +351,6 @@
 ||peliculasyseries.org//images/desactiva.gif
 ||pelishouse.com/wp-content/uploads/*/descargar.png
 ||pelishouse.com/wp-content/uploads/*/ver.png
-||pelisnetwork.com/pub?
 ||pelispedia.de/wp-content/plugins/all-click/public/js/allclick-functions.js
 ||perspectivasur.com/archivos/banners/
 ||pf-ffp-cfp-banners.storage.googleapis.com^$image,domain=portalfruticola.com
