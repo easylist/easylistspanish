@@ -1,5 +1,6 @@
 @@||20m.es/prebid/$script,domain=20minutos.es
 @@||amazon-adsystem.com/aax2/apstag.js$script,domain=20minutos.es
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=carolina.cl
 !
 @@-publicidad.$~third-party,domain=regalos-publicidad.es|todo-publicidad.com
 @@||ajax.googleapis.com/ajax/libs/$script,third-party,domain=anitube.cz|lacajita.xyz|reyanime.com|seriesblanco.com
