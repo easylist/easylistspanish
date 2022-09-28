@@ -9,7 +9,7 @@ planbnoticias.com.ar###text-4
 planbnoticias.com.ar###text-7
 generacionuniversitaria.com.mx###ventana-flotante
 aurora-israel.co.il##.a-single
-elpopular.pe,eltiempo.com,larepublica.pe,somosfanaticos.fans,wapa.pe##.ad-container
+elpopular.pe,eltiempo.com,larepublica.pe,libero.pe,somosfanaticos.fans,wapa.pe##.ad-container
 sport.es##.add
 rpp.pe,uypress.net##.ads
 mangacrab.com##.anunciofooter
