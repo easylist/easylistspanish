@@ -532,7 +532,6 @@ $third-party,xmlhttprequest,domain=divxatope.com|divxatope1.com|divxtotal.com|es
 ||gerente.com/co?_$subdocument
 ||gtsstatic.com/static/mscripts/index_457.js
 ||incp.org.co/wp-content/uploads/2021/07/
-||javhd.com^$image,third-party,domain=chaty.es
 ||jerezcofrade.tv/wp-content/uploads/*/*.js$script
 ||lacasadeel.net/banners/$image
 ||lavozdealmeria.es/js/addblock.js
@@ -562,4 +561,3 @@ $third-party,xmlhttprequest,domain=divxatope.com|divxatope1.com|divxtotal.com|es
 ||tumangaonline.com/img/adblock1.png
 ||tumangaonline.com/img/no-pub-*.png
 ||util.simply-hentai.com^$script,xmlhttprequest,domain=simply-cosplay.com|simply-hentai.com
-||vercomicsporno.com/wp-content/uploads/bann
