@@ -52,6 +52,7 @@ diariodelaribera.net##.lateralizquierdo
 adslzone.net##.leaderboard
 sensacine.com.mx##.main-banner
 infopico.com##.marco-publicidad
+empresite.eleconomista.es##.mauto.textcenter.mb20.mt20
 esdiario.com##.media-ajust-tablet-publi-top
 meteored.cl,meteored.com.ar,meteored.mx,tiempo.com##.megabanner
 20minutos.es##.module-coupons
