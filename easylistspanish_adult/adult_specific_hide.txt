@@ -3,6 +3,7 @@ xnalgas.com###ventana-flotante
 pornogratisdiario.com##.bnfo
 muchoporno.xxx,serviporno.com##.ntv-disclaimer
 xnalgas.com##.overlay_popup
+videos.mrvideospornogratis.xxx##.vjs-producer
 qporno.xxx##[href^="https://qp.erotilink.es"]
 pajarracos.es##a[href^="http://www.fuegodevida.com/"]
 !
