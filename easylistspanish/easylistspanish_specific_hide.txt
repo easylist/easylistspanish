@@ -44,6 +44,7 @@ laarena.com.ar##.container-spot
 meteored.cl,meteored.com.ar,meteored.mx,tiempo.com##.creatividad
 perfil.com##.d-xs-none.d-xxl-flex
 valencianews.es##.g
+diariodemallorca.es##.grp--branded-style
 habitaclia.com##.gtmclickpromo
 milanuncios.com##.has-advertisement
 lavoz.com.ar##.imgSponsor
