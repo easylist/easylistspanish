@@ -68,6 +68,7 @@ esdiario.com##.publi-top
 areajugones.sport.es,generacionuniversitaria.com.mx,meteored.cl,meteored.com.ar,meteored.mx,tiempo.com##.publicidad
 fotocasa.es##.re-AdvertisingDominanceNative
 cuevana.pro,pelispedia.la##.section-cpa
+publinews.gt##.takeoverlink
 pcpro.es,periodismo.com##.td-a-rec
 marcadegol.com##.textwidget a[href^="https://ar.puma.com/"]
 manomano.es##a[class*="sponsoredProductCard"]
