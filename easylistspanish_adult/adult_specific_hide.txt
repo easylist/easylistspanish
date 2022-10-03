@@ -4,6 +4,7 @@ pornogratisdiario.com##.bnfo
 tupornogratis.xxx##.lst_ft_bn
 muchoporno.xxx,serviporno.com##.ntv-disclaimer
 xnalgas.com##.overlay_popup
+pampaporno.com##.resumecard
 videos.mrvideospornogratis.xxx##.vjs-producer
 qporno.xxx##[href^="https://qp.erotilink.es"]
 pajarracos.es##a[href^="http://www.fuegodevida.com/"]
