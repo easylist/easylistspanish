@@ -1,6 +1,7 @@
 ||ansalatina.com/americalatina/images/banner/
 ||cinetux.nu/api/spots/
 ||clivertv.xyz/assets/img/suscripcion.png
+||descargasdd.org/images/amazon.gif
 ||diariodelaribera.net/imagenes/banner
 ||elperiodico.cl/wp-content/uploads/*/banner-
 ||habimg.com/hab_banners/$domain=habitaclia.com
@@ -119,13 +120,11 @@
 ||css01.lavanguardia.com/imagenes/cajaHTML/loterias.gif
 ||cualesmiip.com/images/banner
 ||cuartopoder.es//images/MovistarFusion.jpg
-||cxrbw.aquipelis.net^
 ||danimados.com/wp-content/cache/autoptimize/js/autoptimize_single_$script
 ||darkstone.es/themes/default/images/banners/
 ||defensacentral.com/uploaded/banner-dondiario$image
 ||deia.eus/elementosWeb/gestionCajas/DEI/Image/*//LARIBERA-banner-deia-*.gif^
 ||deportetandilense.com.ar/publicidades_cate/
-||descargasdd.net/images/amazon.gif
 ||descargasmix.com/js/p1.js
 ||descargasmix.com/js/p2.js
 ||descargasmix.com/js/p3.js
@@ -213,7 +212,6 @@
 ||guiatv.biz/adporn.html
 ||hazteveg.com/img/banner
 ||heybros.shop/wp-content/uploads/*/heybros.gif^$domain=simpsons-latino.club
-||hgbasics.com^$xmlhttprequest,domain=zonarutoppuden.com
 ||hitfm.es/view/imgs/Trident-Hit-FM-Fondo-*.jpg
 ||horadeopinion.com.ar/imagenes/*.gif
 ||horadeopinion.com.ar/wp-content/uploads/*/*/*.gif
@@ -287,7 +285,6 @@
 ||libertaddigital.com/fragmentos/guijuelo-responsive.html
 ||libertaddigital.com/fragmentos/movistarplus.html
 ||lifezona.com/public_data/img/banners/
-||linkwelove.com/widget/js/lwl.js^$domain=aquiactualidad.com
 ||linuxseguridad.com/random.json
 ||lostiempos.com/sites/default/files/takeover/desktop/$image
 ||loteriasmundiales.com.ar/images/columna_publi_2/anuncie_aqui2.gif
@@ -320,7 +317,6 @@
 ||modelocurriculum.net/wp-content/descuento-promo-plantillas-cv.jpg
 ||montevideo.com.uy/clima/imagenes/claroclima
 ||montevideo.com.uy/plantillas/temas17/imagenes17/mundobebe_dove.jpg
-||moontuftboy.com^$script,third-party,domain=animeblix.com
 ||mundodescuento.s3.amazonaws.com^$domain=cadena3.com
 ||musiquiatra.com/uploads/banners
 ||naciodigital.cat/redaccio/publicitat/
@@ -329,7 +325,6 @@
 ||netpol.es/foropolicia_banner
 ||netuy.net/banner_hosting_uruguay/
 ||newsweeklatino.com/flow/
-||ninemanga.net/1.png
 ||noticias3d.com/imagenes/banners/
 ||noticiasdel6.com/*.gif
 ||noticiasdelaciencia.com/upload/img/periodico/img_2972.jpg
@@ -343,7 +338,6 @@
 ||objetivocastillalamancha.es/sites/default/files/styles/banercolumna
 ||objetivocastillalamancha.es/sites/default/files/styles/bannercolumna
 ||okdiario.com/img/endesa/endesa_300x90.gif
-||p.a-abp.com//simgad/
 ||pamplona.es/banner_noticias/
 ||pamplonaactual.com/wp-content/uploads/*.gif
 ||parlamentario.com/db/000/
@@ -358,8 +352,6 @@
 ||pirlotv.es/js/anuncio.js
 ||pivigames.blog/wp-content/uploads/*750x100
 ||planetabocajuniors.com.ar/imagenes/jaen/
-||playwire.com/bolt4/js/^$domain=gamebanana.com
-||pons.com/p/files/*.jpg|$image
 ||poseidonhd.nz/js/storage/1/
 ||practisistemas.com/images/home/claro.png
 ||practisistemas.com/images/home/movistar.png
@@ -485,11 +477,7 @@
 ||wp.com/sinmordaza.com/*?w=$image,domain=sinmordaza.com
 ||wp.com/www.cronicadigital.cl/imagenes/noticias/2017/02/cronica-letrero.jpg
 ||wp.com/www.cronicadigital.cl/imagenes/promocion-cronica.jpg
-||www-ytmp3.cc/wp-content/themes/tubidy/yt-template/download.png
-||xm0siulufost.com^$script,third-party,domain=4channel.org
 ||xtremostereo.net/t3l33/
-||ytmp3.plus/ba^
-||yts.mx/ypt*.js^$script
 ||yucatan.com.mx/wp-content/uploads/*/*/banner
 ||zapping.live/images/uploads/banners/zapping-*.gif^
 ||zetaestaticos.com/comun/upload/0/628/628692.jpg
