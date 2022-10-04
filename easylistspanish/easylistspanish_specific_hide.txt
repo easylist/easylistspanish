@@ -87,6 +87,7 @@ bemad.es,cuatro.com,divinity.es,energytv.es,factoriadeficcion.com,mtmad.es,niusd
 bemad.es,cuatro.com,divinity.es,energytv.es,factoriadeficcion.com,mtmad.es,niusdiario.es,telecinco.es,uppers.es,yasss.es##div[class^="ads__ad_"]
 bemad.es,cuatro.com,divinity.es,energytv.es,factoriadeficcion.com,mtmad.es,niusdiario.es,telecinco.es,uppers.es,yasss.es##div[class^="cards__card_ad-"]
 avisooportuno.mx##div[class^="div-dfp-"]
+liderendeportes.com##div[class^="lider-"]
 purochocolate.life,tumascota.life##div[class^="tumas-"]
 mariskalrock.com##div[id^="wmd-anuncio-"]
 diariodelaribera.net##img[alt^="Banner"]
