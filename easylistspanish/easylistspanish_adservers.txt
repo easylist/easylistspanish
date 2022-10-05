@@ -1,6 +1,7 @@
 ||brand.ad^$third-party
 ||butlercdn.com^$third-party
 ||premiumleads.com^$third-party
+||tpid.es^$third-party
 ||wemass.com^$third-party
 !
 ||ipfmbexfdzb.com^$third-party
