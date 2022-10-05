@@ -74,6 +74,7 @@ elobservador.com.uy##.sponsors
 publinews.gt##.takeoverlink
 pcpro.es,periodismo.com##.td-a-rec
 marcadegol.com##.textwidget a[href^="https://ar.puma.com/"]
+carrefour.es##[id*="-sponsored_products-"]
 manomano.es##a[class*="sponsoredProductCard"]
 pelisplus.lat##a[href^="https://bit.ly/"]
 anisearch.es##a[href^="https://www.amazon."][href*="tag="]
