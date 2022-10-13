@@ -184,6 +184,7 @@ hsbnoticias.com###block-infoblocks-infoblocks-fixedsize-18
 hsbnoticias.com###block-infoblocks-infoblocks-fixedsize-5
 hsbnoticias.com###block-infoblocks-infoblocks-fixedsize-6
 hsbnoticias.com###block-infoblocks-infoblocks-fixedsize-7
+diaadia.com.pa###block-especialclarodesktop
 informe21.com###block-views-diosuniversal-block-1
 telesemana.com###blog-banner
 ushuaia24.com.ar###bloque-11
