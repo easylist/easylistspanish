@@ -72,7 +72,7 @@ fotocasa.es##.re-AdvertisingDominanceNative
 cuevana.pro,pelispedia.la##.section-cpa
 elobservador.com.uy##.sponsors
 publinews.gt##.takeoverlink
-pcpro.es,periodismo.com##.td-a-rec
+pcpro.es,periodismo.com,udlaspalmas.net##.td-a-rec
 marcadegol.com##.textwidget a[href^="https://ar.puma.com/"]
 carrefour.es##[id*="-sponsored_products-"]
 manomano.es##a[class*="sponsoredProductCard"]
@@ -179,12 +179,12 @@ laindustria.pe###bannertop
 desdesoria.es###bhorizontal
 mundoejecutivo.com.mx###block-block-15
 hsbnoticias.com###block-block-42
+diaadia.com.pa###block-especialclarodesktop
 hsbnoticias.com###block-infoblocks-infoblocks-fixedsize-17
 hsbnoticias.com###block-infoblocks-infoblocks-fixedsize-18
 hsbnoticias.com###block-infoblocks-infoblocks-fixedsize-5
 hsbnoticias.com###block-infoblocks-infoblocks-fixedsize-6
 hsbnoticias.com###block-infoblocks-infoblocks-fixedsize-7
-diaadia.com.pa###block-especialclarodesktop
 informe21.com###block-views-diosuniversal-block-1
 telesemana.com###blog-banner
 ushuaia24.com.ar###bloque-11
