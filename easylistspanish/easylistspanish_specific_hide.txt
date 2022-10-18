@@ -73,6 +73,7 @@ cuevana.pro,pelispedia.la##.section-cpa
 elobservador.com.uy##.sponsors
 publinews.gt##.takeoverlink
 pcpro.es,periodismo.com,udlaspalmas.net##.td-a-rec
+udlaspalmas.net##.tdi_22
 marcadegol.com##.textwidget a[href^="https://ar.puma.com/"]
 carrefour.es##[id*="-sponsored_products-"]
 manomano.es##a[class*="sponsoredProductCard"]
