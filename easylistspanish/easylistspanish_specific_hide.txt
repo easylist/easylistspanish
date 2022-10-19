@@ -15,7 +15,7 @@ rpp.pe,uypress.net##.ads
 mangacrab.com##.anunciofooter
 iproup.com##.ap
 20minutos.es##.axds
-alicanteplaza.es,castellonplaza.com,guarda14.com,lavoz.com.ar,losandes.com.ar,motor.com.co,valenciaplaza.com,viapais.com.ar##.banner
+alicanteplaza.es,castellonplaza.com,guarda14.com,lavoz.com.ar,losandes.com.ar,motor.com.co,tntsports.com.ar,valenciaplaza.com,viapais.com.ar##.banner
 iprofesional.com##.banner-2
 clarin.com,ole.com.ar##.banner-border
 tycsports.com##.banner-bottom
