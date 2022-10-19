@@ -114,6 +114,7 @@ elcomercio.com##ned-ad
 ! Advanced element hiding rules for Adblock Plus
 eltiempo.com#?#.main-article-container-patr:-abp-has(.contenido-comercial)
 eltiempo.com#?#.main-article-container-patr:-abp-has(.mas-contenido:-abp-contains(Más Contenido))
+photocall.tv#?#.dropdown:-abp-has(label:-abp-contains(VPN))
 !
 puromarketing.com###AdsTextHomeCenter
 puromarketing.com###AdsTextHomeMultiple
