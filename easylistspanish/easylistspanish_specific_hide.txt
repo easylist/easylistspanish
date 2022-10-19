@@ -72,6 +72,7 @@ esdiario.com##.publi-foot
 esdiario.com##.publi-top
 areajugones.sport.es,generacionuniversitaria.com.mx,meteored.cl,meteored.com.ar,meteored.mx,tiempo.com##.publicidad
 fotocasa.es##.re-AdvertisingDominanceNative
+motorpasion.com.mx##.related-native-item
 cuevana.pro,pelispedia.la##.section-cpa
 elobservador.com.uy##.sponsors
 publinews.gt##.takeoverlink
