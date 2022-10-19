@@ -1,4 +1,5 @@
 diariodelaribera.net###bannercabeceravideo
+winsports.co###block-wplay
 elnacional.com###en_nd_home_flat_2
 elnacional.com###en_nd_home_flat_3
 bemad.es,cuatro.com,divinity.es,energytv.es,factoriadeficcion.com,mtmad.es,niusdiario.es,telecinco.es,uppers.es,yasss.es###megaSuperior_multisite
@@ -44,6 +45,7 @@ laarena.com.ar##.container-spot
 meteored.cl,meteored.com.ar,meteored.mx,tiempo.com##.creatividad
 perfil.com##.d-xs-none.d-xxl-flex
 valencianews.es##.g
+winsports.co##.goles_acero_banner
 diariodemallorca.es##.grp--branded-style
 habitaclia.com##.gtmclickpromo
 milanuncios.com##.has-advertisement
