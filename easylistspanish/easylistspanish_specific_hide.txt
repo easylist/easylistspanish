@@ -60,6 +60,7 @@ meteored.cl,meteored.com.ar,meteored.mx,tiempo.com##.megabanner
 coches.net##.mt-AdvertisingRoadblock-top
 gamezfull.com##.myButton
 hortanoticias.com##.n2-section-smartslider
+otakustv.com##.pestana_footer
 qmusica.tv##.promoTop
 esdiario.com##.pub-2
 formulatv.com##.pub-btf
