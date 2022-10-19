@@ -1,3 +1,4 @@
+||a.citiservi.es^$third-party
 ||advgo.net/ads/
 ||afiliadoscasadellibro.uinterbox.com^$third-party
 ||alicdn.com/t/$domain=pandrama.com
