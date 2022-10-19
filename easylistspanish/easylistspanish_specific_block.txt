@@ -284,6 +284,7 @@
 ||leganews.es/wp-content/uploads/*/publicidad
 ||libertaddigital.com/fragmentos/guijuelo-responsive.html
 ||libertaddigital.com/fragmentos/movistarplus.html
+||librefutbol.com/z-
 ||lifezona.com/public_data/img/banners/
 ||linuxseguridad.com/random.json
 ||lostiempos.com/sites/default/files/takeover/desktop/$image
