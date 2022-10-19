@@ -1,6 +1,7 @@
-||bit.ly^$popup,third-party,domain=pelisplus.lat
+||bit.ly^$popup,domain=pelisplus.lat
 ||primevideo.com/?tag=^$popup,domain=vergnula.com
 ||significadoconcepto.com^$popup
+||t.co^$popup,domain=cinecalidad.run
 !
 ||badshores.com/*^publisher_code$popup,third-party
 ||foxcdn.me/*.htm^$popup,third-party

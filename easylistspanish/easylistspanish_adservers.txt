@@ -222,7 +222,6 @@
 ||waiwodemanila.com^$third-party
 ||walkinghonoured.com^$third-party
 ||watchahv.com^$third-party
-||waust.at^$third-party
 ||waymarkgentiin.com^$third-party
 ||wdt9iaspfv3o.com^$third-party
 ||whamuthygle.com^$third-party
