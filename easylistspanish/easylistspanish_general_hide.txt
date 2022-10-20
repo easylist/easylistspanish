@@ -230,7 +230,6 @@
 ##adsenseintermedioright
 ##div[class^="publicHoriz"]
 ##div[id^="M"][id*="Composite"]
-##div[id^="anuncio"]
 ! Anti-Adblock
 ###deadblocker_dialog
 ##.adblockInfo
