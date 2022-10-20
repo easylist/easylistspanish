@@ -15,6 +15,7 @@ sport.es##.add
 rpp.pe,uypress.net##.ads
 mangacrab.com##.anunciofooter
 iproup.com##.ap
+lavanguardia.com##.article-module-sponsored
 20minutos.es##.axds
 alicanteplaza.es,c5n.com,castellonplaza.com,guarda14.com,lavoz.com.ar,losandes.com.ar,motor.com.co,tntsports.cl,tntsports.com.ar,valenciaplaza.com,viapais.com.ar##.banner
 iprofesional.com##.banner-2
