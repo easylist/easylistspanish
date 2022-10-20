@@ -50,6 +50,7 @@ cadenaser.com##.cnt-publi
 laarena.com.ar##.container-spot
 meteored.cl,meteored.com.ar,meteored.mx,tiempo.com##.creatividad
 perfil.com##.d-xs-none.d-xxl-flex
+flashscore.es##.detailLeaderboard
 valencianews.es##.g
 winsports.co##.goles_acero_banner
 diariodemallorca.es##.grp--branded-style
@@ -69,6 +70,7 @@ meteored.cl,meteored.com.ar,meteored.mx,tiempo.com##.megabanner
 coches.net##.mt-AdvertisingRoadblock-top
 gamezfull.com##.myButton
 hortanoticias.com##.n2-section-smartslider
+flashscore.es##.oddsPlacement
 otakustv.com##.pestana_footer
 qmusica.tv##.promoTop
 esdiario.com##.pub-2
