@@ -82,6 +82,7 @@ areajugones.sport.es,generacionuniversitaria.com.mx,meteored.cl,meteored.com.ar,
 fotocasa.es##.re-AdvertisingDominanceNative
 motorpasion.com,motorpasion.com.mx##.related-native-item
 cuevana.pro,pelispedia.la##.section-cpa
+seriesturcas.gratis##.serie-optimanetwork
 elobservador.com.uy##.sponsors
 publinews.gt##.takeoverlink
 noticiasuno.com,pcpro.es,periodismo.com,udlaspalmas.net##.td-a-rec
