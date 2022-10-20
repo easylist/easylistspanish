@@ -1,5 +1,6 @@
 marca.com###Patrocinio
 diariodelaribera.net###bannercabeceravideo
+blog.facialix.com###block-29
 winsports.co###block-wplay
 elnacional.com###en_nd_home_flat_2
 elnacional.com###en_nd_home_flat_3
@@ -14,6 +15,7 @@ aurora-israel.co.il##.a-single
 buenazo.pe,elpopular.pe,eltiempo.com,larepublica.pe,libero.pe,somosfanaticos.fans,wapa.pe##.ad-container
 sport.es##.add
 rpp.pe,uypress.net##.ads
+blog.facialix.com##.amazon-auto-links
 mangacrab.com##.anunciofooter
 iproup.com##.ap
 lavanguardia.com##.article-module-sponsored
