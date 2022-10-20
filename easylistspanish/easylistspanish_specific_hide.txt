@@ -38,6 +38,7 @@ elperiodicodeaqui.com##.banner_lat
 iproup.com##.bannerwide
 diariodecuyo.com.ar##.bnr
 eltiempo.com##.board-tu-negocio
+flashscore.es##.boxOverContent__banner
 lapaginamillonaria.com##.boxbanner_container
 latercera.com##.brand-claro
 latercera.com##.branded-sponsor
