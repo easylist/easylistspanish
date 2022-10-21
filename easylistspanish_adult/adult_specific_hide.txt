@@ -13,6 +13,7 @@ verpeliculasporno.gratis##.tpd
 videos.mrvideospornogratis.xxx##.vjs-producer
 qporno.xxx##[href^="https://qp.erotilink.es"]
 pajarracos.es##a[href^="http://www.fuegodevida.com/"]
+muycerditas.com##a[href^="https://www.platanomelon.com/?rfsn="]
 !
 slumi.com###anuncio_pancarta_campaign
 donlgbt.com###banner-superior
