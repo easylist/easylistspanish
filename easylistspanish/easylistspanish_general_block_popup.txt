@@ -1,2 +1,3 @@
 &adbIsActive=$popup
-&zoneid=*&ad_$popup
+/bjmp*.htm^$popup
+/mavenjump.htm^$popup

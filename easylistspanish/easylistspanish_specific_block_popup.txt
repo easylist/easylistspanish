@@ -1,6 +1,29 @@
-$popup,third-party,domain=animeid.tv|jkanime.net|divxtotal.co|mejortorrentt.net|zonarutoppuden.com
+$popup,third-party,domain=cinetux.nu
+!
+$popup,third-party,domain=embedsito.com|fembad.net|fembed.com|feurl.com|hqq.to|hqq.tv|powvibeo.me|seriesyonkis.io|streampiay.me|streamta.pe|streamtape.cc|streamtape.net|streamtape.site|streamz.vg|strtape.cloud|supergoku.com|tarjetarojatvhd.me|upvid.net|uqload.com|yourupload.com|zenkimex.com.mx
+.bid/p.php?$popup,domain=pctfenix.com
+/3djuegos_media_v1^$popup,domain=3djuegos.com
+||animatedshows.to/*/ashows$popup
+||badsways.com^$popup,third-party,domain=pelisplay.co
+||bang-4-buck.com^$popup
 ||bit.ly^$popup,domain=verpeliculasenlatino.com
+||cine24.online/ads/$popup
+||click.expmediadirect1.com^$popup
+||esplay.io/*.webp^$popup,domain=cuevanahd.net
+||foxcdn.me^$popup,domain=telerium.digital
+||geniusdexchange.com^$popup,domain=jac-tv.com
+||nonestolesantes.com^$popup
+||notube.net/p/^$popup
+||pelishouse.me/descargas/$popup
+||pepeliculas.org/mira-video1^$popup
+||pornmediaxxx.net^$popup
+||ruralvia.com^$popup,domain=horajaen.com
 ||t.co^$popup,domain=verpeliculasenlatino.com
-||https://$popup,third-party,domain=linkotes.com
-||uitopadxdy.com^$popup,domain=torrentlocura.com
-||https://$popup,third-party,domain=cliver.to
+||uqload.com/img/player_logo.png^$popup
+||waaw.*/out.php^$popup
+! about:blank popups
+/about:blank.*/$popup,domain=cuevana3-v1.wtf|peliculasmega1k.com
+! html/image popups
+/^https?:\/\/.*\.(jpg|gif|png|php|svg|ico|js|txt)/$popup,domain=anime-flv.net|animeflv.la|atomixhq.club|cuevanahd.net|divicast.com|doramasflixs.com|gnula.nu|gnula.se|ibb.co|jkanime.net|myflixertv.to|pelishouse.me|pelismartv.com|pelisplayer.xyz|pelisplus.io|pelisplus.top|pelisplus2.io|pelisplushd.nu|pelispophd.com|seriesflix.live|seriesturcas.tv|solopeliculasespaã±ol.com|tomatomatela.com
+! html/image popups (without php)
+/^https?:\/\/.*\.(jpg|gif|png|svg|ico|js|txt)/$popup,domain=pirlotvonlinehd.net

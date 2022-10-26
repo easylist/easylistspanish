@@ -1,3 +1,27 @@
+###audimaAdDesktop
+###bloque-publicidad-1
+###bloque-publicidad-2
+###bloque-publicidad-9
+###bloque-publicidad-campania
+###noticias-publicidad-1
+###noticias-publicidad-2
+###noticias-publicidad-3
+###noticias-publicidad-4
+###noticias-publicidad-5
+###noticias-publicidad-6
+##.banner-publicidad
+##.contenedorAdcentrado
+##.content_gpt_caja1_ads
+##.content_gpt_caja2_ads
+##.edi-advertising
+##.publi300x250-sidebar
+##.publi300x600-sidebard
+##.publicidad-pie
+##.publicidad_dfp
+##.voc-advertising
+##.voc-article--sponsored
+##.voc-sponsored
+!
 ###PubMiddle1
 ###PubMiddle2
 ###PubRight
@@ -54,7 +78,6 @@
 ##.ad_728_90_page
 ##.ad_dfp_estandar
 ##.adcontainer-portlet
-##.ads-block-panel-tipo-1
 ##.adsCon
 ##.adsEpi
 ##.adsEpiItem
@@ -67,8 +90,6 @@
 ##.adsforsearch_roba
 ##.adsmovie
 ##.advertisingLeft
-##.advertisingRight
-##.advertisingTop
 ##.app-container > .questions-container-banner
 ##.bg-ad-left
 ##.bg-ad-right
@@ -113,7 +134,6 @@
 ##.pane-publicidad
 ##.pane-publicidades
 ##.patrocinio
-##.penci-google-adsense-1
 ##.producto-doble-publi
 ##.promocion_libre
 ##.pu300
@@ -192,9 +212,6 @@
 ##.txtPubli
 ##.views-row-ads
 ##.vip-section-advertising
-##.voc-advertising
-##.voc-oferplan
-##.voc-sponsored
 ##.voc-sponsored-and-adv
 ##.widget-publi
 ##.widget_categorias_publi
@@ -212,8 +229,6 @@
 ##a[href^="http://www.amigos.com/go/"]
 ##adsenseintermedioleft
 ##adsenseintermedioright
-##div[class^="ads__ad_container"]
-##div[class^="cards__card_ad-"]
 ##div[class^="publicHoriz"]
 ##div[id^="M"][id*="Composite"]
 ! Anti-Adblock
