@@ -49,7 +49,7 @@ futbolred.com##.btn_betplay
 elpais.com##.c-bra
 eltiempo.es##.cls-publi-height
 cadenaser.com##.cnt-publi
-noticiasdealava.eus,noticiasdenavarra.com##.commercial-up-full
+noticiasdealava.eus,noticiasdegipuzkoa.eus,noticiasdenavarra.com##.commercial-up-full
 laarena.com.ar##.container-spot
 meteored.cl,meteored.com.ar,meteored.mx,tiempo.com##.creatividad
 perfil.com##.d-xs-none.d-xxl-flex
