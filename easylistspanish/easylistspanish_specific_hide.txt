@@ -51,7 +51,6 @@ mariskalrock.com##.brave_popup
 futbolred.com##.btn_betplay
 elpais.com##.c-bra
 eltiempo.es##.cls-publi-height
-cadenaser.com##.cnt-publi
 deia.eus,noticiasdealava.eus,noticiasdegipuzkoa.eus,noticiasdenavarra.com##.commercial-up-full
 laarena.com.ar##.container-spot
 meteored.cl,meteored.com.ar,meteored.mx,tiempo.com##.creatividad
@@ -73,6 +72,7 @@ infopico.com##.marco-publicidad
 empresite.eleconomista.es##.mauto.textcenter.mb20.mt20
 esdiario.com##.media-ajust-tablet-publi-top
 meteored.cl,meteored.com.ar,meteored.mx,tiempo.com##.megabanner
+caracol.com.co##.mh266-100
 20minutos.es##.module-coupons
 coches.net##.mt-AdvertisingRoadblock-top
 gamezfull.com##.myButton

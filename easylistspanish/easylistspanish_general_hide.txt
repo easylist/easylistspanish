@@ -10,6 +10,7 @@
 ###noticias-publicidad-5
 ###noticias-publicidad-6
 ##.banner-publicidad
+##.cnt-publi
 ##.contenedorAdcentrado
 ##.content_gpt_caja1_ads
 ##.content_gpt_caja2_ads
