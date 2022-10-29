@@ -1,6 +1,8 @@
 ripley.cl#@#.dfp-ad-unit
 viveusa.mx#@#.dfp-tag-wrapper
 sport.es#@#.following-ad-container
+pccomponentes.com#@#[id^="div-gpt-ad"]
+pccomponentes.com#@#[id^="google_ads_iframe"]
 !
 itsoft.es#@#.ad-col
 itsoft.es#@#.ad-full
