@@ -12,6 +12,7 @@ qmusica.tv###promoSept19B
 planbnoticias.com.ar###text-4
 planbnoticias.com.ar###text-7
 generacionuniversitaria.com.mx###ventana-flotante
+elespectador.com##.Ads_megaBannerTopContainer
 aurora-israel.co.il##.a-single
 reparaciondecomputadoras.online##.aawp
 elpais.com,fmdos.cl##.ad
@@ -138,6 +139,8 @@ hortanoticias.com,transponder1200.com##img[width="728"]
 marcadegol.com##img[width="750"]
 elcomercio.com##ned-ad
 ! Advanced element hiding rules for Adblock Plus
+elespectador.com#?#.Block:-abp-has(.Title_section:-abp-contains(Contenido patrocinado))
+elespectador.com#?#.Card:-abp-has(.Card-Section.Section:-abp-contains(Contenido patrocinado))
 eltiempo.com#?#.main-article-container-patr:-abp-has(.contenido-comercial)
 eltiempo.com#?#.main-article-container-patr:-abp-has(.mas-contenido:-abp-contains(Más Contenido))
 photocall.tv#?#.dropdown:-abp-has(label:-abp-contains(VPN))
