@@ -1,5 +1,6 @@
 marca.com###Patrocinio
 diariodelaribera.net###bannercabeceravideo
+ondavasca.com###billboard-wrapper
 blog.facialix.com###block-29
 winsports.co###block-wplay
 elnacional.com###en_nd_home_flat_2
