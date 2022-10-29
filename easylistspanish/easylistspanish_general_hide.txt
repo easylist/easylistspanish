@@ -17,6 +17,7 @@
 ##.publi300x250-sidebar
 ##.publi300x600-sidebard
 ##.publicidad-pie
+##.publicidad_cabecera
 ##.publicidad_dfp
 ##.voc-advertising
 ##.voc-article--sponsored
