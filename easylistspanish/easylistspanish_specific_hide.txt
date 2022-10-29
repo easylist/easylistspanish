@@ -66,6 +66,7 @@ lavoz.com.ar##.imgSponsor
 diariodelaribera.net##.lateralderecho
 diariodelaribera.net##.lateralizquierdo
 adslzone.net##.leaderboard
+huffingtonpost.es##.leaderboard-flex-placeholder
 bebesymas.com,diariodelviajero.com,elblogsalmon.com,motorpasionmoto.com,pymesyautonomos.com##.m-desvio-ecommerce
 sensacine.com,sensacine.com.mx##.main-banner
 infopico.com##.marco-publicidad
