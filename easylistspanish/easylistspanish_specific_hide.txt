@@ -73,6 +73,7 @@ coches.net##.mt-AdvertisingRoadblock-top
 gamezfull.com##.myButton
 hortanoticias.com##.n2-section-smartslider
 flashscore.es##.oddsPlacement
+autoscout24.es##.osa-as24-placeholder
 otakustv.com##.pestana_footer
 qmusica.tv##.promoTop
 esdiario.com##.pub-2
