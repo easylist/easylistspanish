@@ -8,4 +8,3 @@ itsoft.es#@#.ad-col
 itsoft.es#@#.ad-full
 mejoratuescuela.org#@#.container-ads
 hitfm.es#@#.publi
-xunta.gal#@#div[id^="anuncio"]
