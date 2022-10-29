@@ -14,6 +14,7 @@ planbnoticias.com.ar###text-7
 generacionuniversitaria.com.mx###ventana-flotante
 aurora-israel.co.il##.a-single
 reparaciondecomputadoras.online##.aawp
+elpais.com##.ad
 mundo.com##.ad-banner
 buenazo.pe,elpopular.pe,eltiempo.com,larepublica.pe,libero.pe,somosfanaticos.fans,wapa.pe##.ad-container
 sport.es##.add
