@@ -98,6 +98,7 @@ publinews.gt##.takeoverlink
 noticiasuno.com,pcpro.es,periodismo.com,udlaspalmas.net##.td-a-rec
 udlaspalmas.net##.tdi_22
 marcadegol.com##.textwidget a[href^="https://ar.puma.com/"]
+adnradio.cl##.the-banner
 aristeguinoticias.com##.topleader
 eltiempo.es##.v-banner
 carrefour.es##[id*="-sponsored_products-"]
