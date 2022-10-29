@@ -50,6 +50,7 @@ eldoce.tv##.branding-wrapper
 mariskalrock.com##.brave_popup
 futbolred.com##.btn_betplay
 elpais.com##.c-bra
+vivanolamag.com##.client-logo-slider
 eltiempo.es##.cls-publi-height
 deia.eus,noticiasdealava.eus,noticiasdegipuzkoa.eus,noticiasdenavarra.com##.commercial-up-full
 laarena.com.ar##.container-spot
