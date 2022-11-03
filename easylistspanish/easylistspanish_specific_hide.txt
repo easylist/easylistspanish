@@ -28,7 +28,7 @@ iproup.com##.ap
 lavanguardia.com##.article-module-sponsored
 20minutos.es##.axds
 lectuepubgratis.com##.bam-topbar
-alicanteplaza.es,c5n.com,castellonplaza.com,donbalon.com,guarda14.com,lavoz.com.ar,losandes.com.ar,motor.com.co,tntsports.cl,tntsports.com.ar,tvynovelas.com,valenciaplaza.com,viapais.com.ar##.banner
+alicanteplaza.es,c5n.com,castellonplaza.com,donbalon.com,econojournal.com.ar,guarda14.com,lavoz.com.ar,losandes.com.ar,motor.com.co,tntsports.cl,tntsports.com.ar,tvynovelas.com,valenciaplaza.com,viapais.com.ar##.banner
 iprofesional.com##.banner-2
 clarin.com,ole.com.ar##.banner-border
 tycsports.com##.banner-bottom
