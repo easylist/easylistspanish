@@ -11,6 +11,7 @@ qmusica.tv###promoSept19A
 qmusica.tv###promoSept19B
 planbnoticias.com.ar###text-4
 planbnoticias.com.ar###text-7
+independentespanol.com###top-banner-wrapper
 generacionuniversitaria.com.mx###ventana-flotante
 elespectador.com##.Ads_megaBannerTopContainer
 aurora-israel.co.il##.a-single
