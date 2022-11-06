@@ -93,7 +93,7 @@ formulatv.com##.pub-top
 esdiario.com##.publi-foot
 esdiario.com##.publi-top
 lawebdelprogramador.com##.publi_robapaginas
-areajugones.sport.es,generacionuniversitaria.com.mx,meteored.cl,meteored.com.ar,meteored.mx,tiempo.com##.publicidad
+areajugones.sport.es,generacionuniversitaria.com.mx,iberempleos.es,meteored.cl,meteored.com.ar,meteored.mx,tiempo.com##.publicidad
 fotocasa.es##.re-AdvertisingDominanceNative
 motorpasion.com,motorpasion.com.mx##.related-native-item
 cuevana.pro,pelispedia.la##.section-cpa
