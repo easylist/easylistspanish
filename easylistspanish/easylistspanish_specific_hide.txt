@@ -20,7 +20,7 @@ reparaciondecomputadoras.online##.aawp
 elpais.com,fmdos.cl##.ad
 mundo.com##.ad-banner
 buenazo.pe,elpopular.pe,eltiempo.com,hobbyconsolas.com,larepublica.pe,libero.pe,somosfanaticos.fans,wapa.pe##.ad-container
-elperiodico.com,sport.es##.add
+elperiodico.com,epe.es,sport.es##.add
 rpp.pe,uypress.net##.ads
 blog.facialix.com##.amazon-auto-links
 donbalon.com##.anuncio
