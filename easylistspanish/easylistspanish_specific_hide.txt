@@ -14,12 +14,13 @@ planbnoticias.com.ar###text-7
 independentespanol.com###top-banner-wrapper
 generacionuniversitaria.com.mx###ventana-flotante
 elespectador.com##.Ads_megaBannerTopContainer
+elperiodico.com##._mo_recs_cti
 aurora-israel.co.il##.a-single
 reparaciondecomputadoras.online##.aawp
 elpais.com,fmdos.cl##.ad
 mundo.com##.ad-banner
 buenazo.pe,elpopular.pe,eltiempo.com,hobbyconsolas.com,larepublica.pe,libero.pe,somosfanaticos.fans,wapa.pe##.ad-container
-sport.es##.add
+elperiodico.com,sport.es##.add
 rpp.pe,uypress.net##.ads
 blog.facialix.com##.amazon-auto-links
 donbalon.com##.anuncio
