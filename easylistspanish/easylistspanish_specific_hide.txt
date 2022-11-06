@@ -14,6 +14,7 @@ planbnoticias.com.ar###text-7
 independentespanol.com###top-banner-wrapper
 generacionuniversitaria.com.mx###ventana-flotante
 elespectador.com##.Ads_megaBannerTopContainer
+diaridegirona.cat,diariocordoba.com,diariodeibiza.es,diariodemallorca.es,eldia.es,elperiodicodearagon.com,elperiodicoextremadura.com,elperiodicomediterraneo.com,emporda.info,farodevigo.es,informacion.es,laopinioncoruna.es,laopiniondemalaga.es,laopiniondemurcia.es,laopiniondezamora.es,laprovincia.es,levante-emv.com,lne.es,regio7.cat,superdeporte.es##._mo_recs
 elperiodico.com##._mo_recs_cti
 aurora-israel.co.il##.a-single
 reparaciondecomputadoras.online##.aawp
@@ -82,6 +83,7 @@ caracol.com.co##.mh266-100
 coches.net##.mt-AdvertisingRoadblock-top
 gamezfull.com##.myButton
 hortanoticias.com##.n2-section-smartslider
+diaridegirona.cat,diariocordoba.com,diariodeibiza.es,diariodemallorca.es,eldia.es,elperiodicodearagon.com,elperiodicoextremadura.com,elperiodicomediterraneo.com,emporda.info,farodevigo.es,informacion.es,laopinioncoruna.es,laopiniondemalaga.es,laopiniondemurcia.es,laopiniondezamora.es,laprovincia.es,levante-emv.com,lne.es,regio7.cat,superdeporte.es##.no-baldomero
 flashscore.es##.oddsPlacement
 autoscout24.es##.osa-as24-placeholder
 otakustv.com##.pestana_footer
@@ -176,7 +178,6 @@ cualesmiip.com###anuncio
 arbolabc.com###anuncio-dark
 animeid.tv###ap
 abc.com.py###article-banner-comentarios
-eldia.es###asd
 telesemana.com###author-banner
 lacuerda.net###ban160
 lacuerda.net###ban300
@@ -233,7 +234,6 @@ wordmagicsoft.com###bt_aws_ad_slot_1
 rinconforero.mforos.com###by_hawkers
 abchoy.com.ar###cacho-overlay
 abchoy.com.ar###cacho-popup
-laprovincia.es###caja_1_derecha_17_0
 20minutos.es###cajasbuscadoras
 easy.com.ar###carruselMarcasBlaisten
 ftail.tv,shippuden.tv###categories
@@ -264,15 +264,6 @@ forocoches.com###div-970x90_respuesta_final
 abcsaladillo.com.ar###div-abc_1024x100_arriba_logo
 laveu.cat###divTopBanner
 perfil.com###div_blockTop_1
-lne.es###divderecha_1001
-lne.es###divderecha_1007
-lne.es###divderecha_1008
-lne.es###divderecha_1020
-lne.es###divderecha_1021
-laprovincia.es###divderecha_1050
-diaridegirona.cat###divderecha_1053
-lne.es###divderecha_1055
-lne.es###divderecha_1061
 livesports.pw###divpubli
 3djuegos.com###dst_pub_728
 mega1080.com###enla
@@ -416,7 +407,7 @@ mediavida.com##._p-ft
 mediavida.com##._p-tp
 elambito.com,elmetro.com.co,gasteizhoy.com,radiomunera.com,realidadsm.com,sticknoticias.com##.a-single
 seriesgrey.com##.a728
-abchoy.com.ar,applesfera.com,bebesymas.com,bolavip.com,compradiccion.com,cuatro.com,diariocordoba.com,diariodelviajero.com,directoalpaladar.com,economiadigital.es,elblogsalmon.com,elconfidencial.com,elsol.com.ar,es.wallapop.com,espinof.com,genbeta.com,genbetadev.com,larazon.es,laverdad.com,mediotiempo.com,motorpasion.com,motorpasionmoto.com,pymesyautonomos.com,salvajes.com,telecinco.es,trendencias.com,trendenciashombre.com,vidaextra.com,vitonica.com,xataka.com,xatakaciencia.com,xatakafoto.com,xatakahome.com,xatakamovil.com,xatakandroid.com,xatakawindows.com##.ad
+abchoy.com.ar,applesfera.com,bebesymas.com,bolavip.com,compradiccion.com,cuatro.com,diariodelviajero.com,directoalpaladar.com,economiadigital.es,elblogsalmon.com,elconfidencial.com,elsol.com.ar,es.wallapop.com,espinof.com,genbeta.com,genbetadev.com,larazon.es,laverdad.com,mediotiempo.com,motorpasion.com,motorpasionmoto.com,pymesyautonomos.com,salvajes.com,telecinco.es,trendencias.com,trendenciashombre.com,vidaextra.com,vitonica.com,xataka.com,xatakaciencia.com,xatakafoto.com,xatakahome.com,xatakamovil.com,xatakandroid.com,xatakawindows.com##.ad
 redgol.cl,wildtangent.com##.ad-container
 autoblog.com.ar##.ad-header-right
 marca.com##.ad-item-bt-cont
@@ -534,7 +525,6 @@ rosariogarage.com##.banner_centro_inf
 miltorrents.com##.banner_detail_files
 miltorrents.com##.banner_detail_top
 bienesrosario.com##.banner_dinamic
-lne.es##.banner_doscolum
 bienesrosario.com##.banner_inferior
 bienesrosario.com,rosariogarage.com##.banner_sop
 bienesrosario.com,rosariogarage.com##.banner_superior
@@ -595,7 +585,6 @@ racocatala.cat##.caixa-publicitat
 parlamentario.com##.caja-banner-990
 eleconomista.es##.caja-publi-port
 diariocostadelsol.com##.caja_bannersV
-laprovincia.es##.caja_cuponisimo_slider300
 eldefinido.cl##.cajabanners
 estadiodeportivo.whitelabel.kelisto.es##.car-insurance
 noticiasdel6.com##.cc3
@@ -612,21 +601,17 @@ force-download.es##.col-sm-2
 deportemixtv.info##.column-right-outer
 puntobiz.com.ar##.columna-tercera
 elespanol.com##.comments-adv
-diaridegirona.cat,diariocordoba.com,emporda.info##.commercial-up-full
-laopiniondemalaga.es##.commercial-up-full__wrapper
 renfe.com##.comprabilletes
 tandildiario.com##.containerBannerDesplegable
 reforma.com##.container_publicidad
 anbariloche.com.ar,anroca.com.ar##.contenedor_banner_popup
 anbariloche.com.ar,anroca.com.ar##.contenedor_principal_banner_lateral
-lne.es##.contenedor_widget_1col
 cronista.com##.content-banner
 inmodiario.com,puromarketing.com##.content-pub-top
 elcolombiano.com##.contentBannerIntelecto
 laarena.com.ar##.cookie_lasa_popup
 slimdownload.co##.cssanimations
 t13.cl##.d_banner_t13
-laprovincia.es##.dcham2
 lavanguardia.com##.div-patrocinado5
 maracodigital.net##.divpublicidades
 gnula.cc,uqload.com##.drts
@@ -648,7 +633,6 @@ marca.com##.flex-b-promociones
 elmundo.es##.flex__publi
 cifraclub.com##.floatingBottomAd
 loteriasmundiales.com.ar##.fondo_column_publi2
-lne.es##.fondo_patrocicio
 25digital.com.ar##.fp-slider
 elcucodigital.com##.fullwidthabanner
 elcucodigital.com##.fullwidthbanner-container
@@ -673,7 +657,6 @@ peru21.pe##.hiraoka
 emprendices.co##.homepage-widget > #text-16
 flvto.biz##.horizontal-area
 marfanta.com##.ib-ad-img
-diaridegirona.cat##.iberpi_cajaext
 tokyvideo.com##.intensive-add
 somosxbox.com##.it-ad
 somosxbox.com##.it-ad-wrapper
@@ -686,7 +669,6 @@ ehowenespanol.com##.leaderboard-wrap
 infojobs.net##.lecourse
 eldeber.com.bo##.leftSidebar
 loventine.com.ar,loventine.es##.link-ads-content
-laprovincia.es##.listaofertas
 llanosietedias.com##.llano-antes-del-contenido
 llanosietedias.com##.llano-contenido
 reporteindigo.com##.loading-add
@@ -707,7 +689,6 @@ diarioelinformante.com.ar,laopinionsannicolas.com.ar##.modal-backdrop
 lavozdegalicia.es##.mujerhoy
 elheraldo.hn##.multimedia_taboola
 foro.nmn900.net##.nmn900_bottom_ad
-diariodeibiza.es,diariodemallorca.es,laprovincia.es##.no-baldomero
 hsbnoticias.com##.node-advertisement
 gaceta.es##.node-anuncio-megabanner
 elnueve.com##.note-home-container--1-space
@@ -753,7 +734,6 @@ europa-agricola.es,peliculas69.com##.pub
 divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentrapid.com##.pub300x250
 newpct1.com##.pub468x80
 divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentrapid.com##.pub728x90
-diaridegirona.cat##.pub_340x250
 diario.mx##.pub__portada
 elblog.com##.pub_lat1_father
 elblog.com##.pub_lat2_father
@@ -770,7 +750,7 @@ paginasamarillas.es##.publi-sidebar-listado
 elonce.com##.publi-top
 meristation.as.com,meristation.com.mx##.publi1
 elespanol.com##.publi_intext2
-0221.com.ar,animekb.com,carasycaretas.org.ar,ciclismoafondo.es,diario.mx,dinero.com,eldeportivo.com.co,elrellano.com,eltribuno.info,expansion.com,gonzoo.com,iahorro.com,laizquierdadiario.com,latercera.com,lne.es,motociclismo.es,mountainbike.es,mundoejecutivo.com.mx,okdiario.com,publico.es,semana.com,supercines.com##.publicidad
+0221.com.ar,animekb.com,carasycaretas.org.ar,ciclismoafondo.es,diario.mx,dinero.com,eldeportivo.com.co,elrellano.com,eltribuno.info,expansion.com,gonzoo.com,iahorro.com,laizquierdadiario.com,latercera.com,motociclismo.es,mountainbike.es,mundoejecutivo.com.mx,okdiario.com,publico.es,semana.com,supercines.com##.publicidad
 brujuladigital.net##.publicidad-l
 elretratodehoy.com.ar##.publicidad_nota
 lesportiudecatalunya.cat##.publicitat
@@ -811,7 +791,6 @@ cronista.com,elliberal.com.ar,elobservador.com.uy,publico.es,rpp.pe##.sponsor
 lacapitalmdp.com##.sponsor_stats
 elespanol.com,maximaonline.com.ar##.sponsored
 ruedasgordas.es##.sponsors
-diariocordoba.com##.sponsorship
 laveu.cat##.spotPortada
 flvto.biz##.square-area
 diariolarepublica.com.ar##.st-banner
@@ -1265,7 +1244,6 @@ moviesjoy.to##[id^="gift-"]
 berjadigital.es,el1digital.com.ar,impactonews.co,incp.org.co##[id^="media_image-"]
 bcnoticias.com.co##[id^="metaslider"]
 nacionpaisa.com##[id^="metaslider_widget-"]
-laopiniondemalaga.es##[id^="pc-div-gpt-ad_"]
 puromarketing.com##[id^="pu-"]
 dialoguemos.ec##[id^="slider_"]
 pt-mexico.com##[onclick*="'page' : '/virtual/Ad/"]
