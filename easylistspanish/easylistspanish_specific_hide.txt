@@ -3,6 +3,7 @@ diariodelaribera.net###bannercabeceravideo
 ondavasca.com###billboard-wrapper
 blog.facialix.com###block-29
 winsports.co###block-wplay
+ccma.cat###contenidor_megabanner
 elnacional.com###en_nd_home_flat_2
 elnacional.com###en_nd_home_flat_3
 bemad.es,cuatro.com,divinity.es,energytv.es,factoriadeficcion.com,mtmad.es,niusdiario.es,telecinco.es,uppers.es,yasss.es###megaSuperior_multisite
@@ -14,6 +15,7 @@ planbnoticias.com.ar###text-7
 independentespanol.com###top-banner-wrapper
 generacionuniversitaria.com.mx###ventana-flotante
 elespectador.com##.Ads_megaBannerTopContainer
+ccma.cat##.M-publicitat
 diaridegirona.cat,diariocordoba.com,diariodeibiza.es,diariodemallorca.es,eldia.es,elperiodicodearagon.com,elperiodicoextremadura.com,elperiodicomediterraneo.com,emporda.info,farodevigo.es,informacion.es,laopinioncoruna.es,laopiniondemalaga.es,laopiniondemurcia.es,laopiniondezamora.es,laprovincia.es,levante-emv.com,lne.es,regio7.cat,superdeporte.es##._mo_recs
 elperiodico.com##._mo_recs_cti
 aurora-israel.co.il##.a-single
