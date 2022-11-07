@@ -770,6 +770,8 @@ loventine.com.ar,loventine.es##.publicity
 maracodigital.net##.publicolumna
 noticiasdel6.com##.publii
 intereconomia.tv##.pum-overlay
+as.com##.qtcd_pt
+as.com##.qtcd_wt
 salpimenta.com.ar##.quadro-ads-widget-1col
 televisa.com##.rapid_banner_home
 televisa.com##.rapid_banner_sidebar
