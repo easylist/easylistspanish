@@ -70,8 +70,6 @@
 @@||arenavision.ru^$generichide
 @@||assets.gameallianz.com/api/js/ads/ads.js$script,domain=gamezhero.com
 @@||atresplayer.com^$generichide
-@@||autopista.es/media/cache/medium/upload/images/advert/$image,~third-party
-@@||autopista.es^$generichide
 @@||bambergerkennanchitinous.com/.adframesrc.$script,third-party,domain=divxatope.com|divxatope1.com|newpct.com|newpct1.com|torrentrapid.com
 @@||booksmedicos.org^$generichide
 @@||c0.wp.com/*/lazy-images.min.js$script,domain=mac-torrent-download.net
