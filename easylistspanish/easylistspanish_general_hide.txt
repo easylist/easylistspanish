@@ -26,6 +26,7 @@
 ##.publicidad-pie
 ##.publicidad_cabecera
 ##.publicidad_dfp
+##.ue-c-ad
 ##.voc-advertising
 ##.voc-article--sponsored
 ##.voc-sponsored

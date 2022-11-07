@@ -92,8 +92,6 @@
 @@||ebizlatam.com^$generichide
 @@||eestatic.com/assets_js/dyn/adiframe.js
 @@||eestatic.com/assets_js/dyn/adsiframe.js$script,domain=elespanol.com
-@@||el-mundo.net/js/advertisement.js$script,third-party,domain=elmundo.es|marca.com
-@@||elmundo.es^$generichide
 @@||elperiodico.cat^$generichide
 @@||elrellano.com^$generichide
 @@||elsate.com^$generichide
