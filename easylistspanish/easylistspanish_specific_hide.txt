@@ -95,6 +95,7 @@ coches.net##.mt-Display--top
 gamezfull.com##.myButton
 hortanoticias.com##.n2-section-smartslider
 diaridegirona.cat,diariocordoba.com,diariodeibiza.es,diariodemallorca.es,eldia.es,elperiodicodearagon.com,elperiodicoextremadura.com,elperiodicomediterraneo.com,emporda.info,farodevigo.es,informacion.es,laopinioncoruna.es,laopiniondemalaga.es,laopiniondemurcia.es,laopiniondezamora.es,laprovincia.es,levante-emv.com,lne.es,regio7.cat,superdeporte.es##.no-baldomero
+pensem.cat##.nou-publi-cap-home
 flashscore.es##.oddsPlacement
 autoscout24.es##.osa-as24-placeholder
 otakustv.com##.pestana_footer
@@ -105,6 +106,7 @@ formulatv.com##.pub-mid
 formulatv.com##.pub-top
 esdiario.com##.publi-foot
 esdiario.com##.publi-top
+pensem.cat##.publi_interpagina
 lawebdelprogramador.com##.publi_robapaginas
 areajugones.sport.es,generacionuniversitaria.com.mx,iberempleos.es,meteored.cl,meteored.com.ar,meteored.mx,neomotor.com,tiempo.com##.publicidad
 eleconomista.es##.railContainer1
