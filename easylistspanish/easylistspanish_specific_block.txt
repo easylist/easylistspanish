@@ -486,15 +486,15 @@
 ! Webrtc ads
 $webrtc,domain=allpeliculas.com|animeid.tv|booksmedicos.org|dompl3.info|gnula.biz|jkanime.net|pelispedia.tv
 ! blob ads
-|blob:$domain=divxatope.com|divxatope1.com|newpct.com|newpct1.com|torrentrapid.com
+|blob:$domain=divxatope.com|divxatope1.com|torrentrapid.com
 ! RegEx filters
 /^https?:\/\/([a-z0-9]{8,10}\.)?[a-z0-9]{5,14}\.(com|bid|online|top|club)\/([a-z0-9]{2}\/){3}[a-f0-9]{32}\.js$/$script,third-party
 /^https?:\/\/[0-9a-z]{8,}.[0-9a-z]{8,}\.com\//$script,domain=animefenix.com|hispasexy.org|manga-mx.com|serielatinobobesponja.com|series-de.online
 /^https?:\/\/[a-z0-9]+\.cloudfront\.net\/\?[a-z]{5}\=\d{6}$/$script,third-party
 ! Third party script
-$script,third-party,domain=abcdefamosas.xyz|anitube.cz|anitubebr.com|divxatope.com|divxatope1.com|divxtotal.com|elitetorrent.net|estoesporno.com|estrenosdtl.com|ftail.tv|gamestorrents.com|lacajita.xyz|moviesdvdr.com|newpct.com|newpct1.com|novelasenlinea.net|pepecine.info|reyanime.com|seriesblanco.com|seriesflv.net|shippuden.tv|submanga.org|subtorrents.com|todocvcd.com|torrentesx.com|torrentrapid.com|xtremo.net|xtremostereo.net
+$script,third-party,domain=abcdefamosas.xyz|anitube.cz|anitubebr.com|divxatope.com|divxatope1.com|divxtotal.com|elitetorrent.net|estoesporno.com|estrenosdtl.com|ftail.tv|gamestorrents.com|lacajita.xyz|moviesdvdr.com|novelasenlinea.net|pepecine.info|reyanime.com|seriesblanco.com|seriesflv.net|shippuden.tv|submanga.org|subtorrents.com|todocvcd.com|torrentesx.com|torrentrapid.com|xtremo.net|xtremostereo.net
 ! Third party xmlhttprequest
-$third-party,xmlhttprequest,domain=divxatope.com|divxatope1.com|divxtotal.com|estoesporno.com|estrenosdtl.com|gamestorrents.com|moviesdvdr.com|newpct.com|newpct1.com|seriesflv.net|subtorrents.com|todocvcd.com|torrentesx.com|torrentrapid.com
+$third-party,xmlhttprequest,domain=divxatope.com|divxatope1.com|divxtotal.com|estoesporno.com|estrenosdtl.com|gamestorrents.com|moviesdvdr.com|seriesflv.net|subtorrents.com|todocvcd.com|torrentesx.com|torrentrapid.com
 ! Anti-Adblock
 /ads/brand_day^$domain=diariomotor.com
 /fallback_pub_$domain=ecartelera.com
