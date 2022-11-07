@@ -4,7 +4,7 @@
 @@||g.doubleclick.net/gampad/ads?$domain=pccomponentes.com
 @@||g.doubleclick.net/gpt/pubads_impl_$domain=pccomponentes.com
 @@||googlesyndication.com/simgad/$image,domain=pccomponentes.com
-@@||googletagservices.com/tag/js/gpt.js$domain=pccomponentes.com
+@@||googletagservices.com/tag/js/gpt.js$domain=ivoox.com|pccomponentes.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=api.apolomedia.com|carolina.cl|niusdiario.es|paxtvmovil.org|radiocandela.cl|romantica.cl
 @@||laneros.com/temas/*-publicidad.
 @@||pub.pixels.ai/wrap-independent-prebid-lib.js$script,domain=independentespanol.com
