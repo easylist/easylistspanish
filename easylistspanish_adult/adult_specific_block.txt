@@ -4,9 +4,11 @@
 ||mundosexanuncio.com/img_es/banners/
 ||pasionmujeres.com/ai/
 ||pepeporn.com/tools/get_banner.php
+||poringa.net/ra/
 ||pornogratisdiario.com/imagenes_publicidad/
 ||pornolandia.xxx/static/xxx/cameraprive/
 ||pulpo69.com/nb/
+||ra.poringa.net^
 ||suiteporno.com/fragrant-fog-dc3b/
 ||teatroporno.com/ai/
 ||todorelatos.com/freecam/$subdocument
@@ -19,4 +21,3 @@
 /^https?:\/\/spalumi\.com\/\w+\.[a-z]{3}/$image,domain=spalumi.com
 ||paraisowebcam.com/*banner
 ||paraisowebcam.com^$subdocument,third-party
-||pinklabel.com/tools/live-banners^$subdocument,domain=poringa.net

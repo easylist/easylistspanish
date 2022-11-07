@@ -6,6 +6,7 @@ cerdas.com##.advBottomPagin
 pornogratisdiario.com##.bnfo
 veoporno.gratis,xn--xvideos-espaol-1nb.com##.happy-inside-player
 pampaporno.com##.hidden-under-920
+poringa.net##.home-native-patrocinado
 eurogirlsescort.es##.js-stt-click
 tupornogratis.xxx##.lst_ft_bn
 muchoporno.xxx,serviporno.com##.ntv-disclaimer
@@ -24,7 +25,6 @@ videosdemadurasx.com###pBrazzers
 videosdemadurasx.com###pSponsor
 spalumi.com###topbar
 spalumi.com##.advertisement + .tborder
-poringa.net##.banner
 videosporno.name##.bnfo
 maduras.xxx##.bnpub
 putalocura.com##.c-banner-webcams
