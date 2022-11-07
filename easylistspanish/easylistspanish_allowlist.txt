@@ -74,7 +74,6 @@
 @@||booksmedicos.org^$generichide
 @@||c0.wp.com/*/lazy-images.min.js$script,domain=mac-torrent-download.net
 @@||cdn.adswizz.com/adswizz/js/SynchroClient2.js$script,domain=libremercado.com
-@@||ciclismoafondo.es^$generichide
 @@||cinestrenostv.tv^$generichide
 @@||clasicotas.org^$generichide
 @@||cochesrc.com^$generichide
@@ -125,8 +124,6 @@
 @@||mdsrwdassets-a.akamaihd.net/dist/assets/nonAdBlock/ad$script,third-party,domain=bemad.es|cuatro.com|divinity.es|energytv.es|factoriadeficcion.com|telecinco.es
 @@||menshealth.es^$generichide
 @@||mialojamiento.es^$generichide
-@@||motociclismo.es^$generichide
-@@||mountainbike.es^$generichide
 @@||mundodesconocido.es^$generichide
 @@||mundokodi.com^$generichide
 @@||muyinteresante.es/js/ads.js$script,domain=muyinteresante.es
@@ -136,7 +133,6 @@
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=artesacro.org|elsate.com|mialojamiento.es
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=artesacro.org|elsate.com|mialojamiento.es
 @@||pajaslocas.com^$generichide
-@@||pcbolsa.com/css/ads.js$script,domain=pcbolsa.com
 @@||pelisplus.tv^$generichide
 @@||player.animeid.io/static/ads.js
 @@||player.enetres.net/js/videojs-plugins/videojs-ads-contrib/videojs.ads.js$script,~third-party
