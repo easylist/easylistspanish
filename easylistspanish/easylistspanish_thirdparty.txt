@@ -4,6 +4,7 @@
 ||alicdn.com/t/$domain=pandrama.com
 ||amazonaws.com^$domain=estrenosdoramas.net|m.animeflv.net
 ||bit.ly^$domain=mega-mkv.com
+||grupnaciodigital.cat/redaccio/publicitat/
 ||kisa-link.blok.link^$third-party
 !
 ||economicos.cl/widgets/$third-party
