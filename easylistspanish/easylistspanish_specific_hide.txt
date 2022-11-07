@@ -90,6 +90,7 @@ esdiario.com##.media-ajust-tablet-publi-top
 abc.es##.mega-superior
 meteored.cl,meteored.com.ar,meteored.mx,tiempo.com##.megabanner
 caracol.com.co##.mh266-100
+show.news##.mod.relatednews
 20minutos.es##.module-coupons
 coches.net##.mt-AdvertisingRoadblock-top
 coches.net##.mt-Display--top
