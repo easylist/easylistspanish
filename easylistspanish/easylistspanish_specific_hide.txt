@@ -101,6 +101,8 @@ esdiario.com##.publi-foot
 esdiario.com##.publi-top
 lawebdelprogramador.com##.publi_robapaginas
 areajugones.sport.es,generacionuniversitaria.com.mx,iberempleos.es,meteored.cl,meteored.com.ar,meteored.mx,neomotor.com,tiempo.com##.publicidad
+eleconomista.es##.railContainer1
+eleconomista.es##.railContainer3
 fotocasa.es##.re-AdvertisingDominanceNative
 motorpasion.com,motorpasion.com.mx##.related-native-item
 cuevana.pro,pelispedia.la##.section-cpa
