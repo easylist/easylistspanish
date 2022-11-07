@@ -66,7 +66,7 @@ laarena.com.ar##.container-spot
 meteored.cl,meteored.com.ar,meteored.mx,tiempo.com##.creatividad
 perfil.com##.d-xs-none.d-xxl-flex
 flashscore.es##.detailLeaderboard
-libremercado.com##.dfp
+libertaddigital.com,libremercado.com##.dfp
 valencianews.es##.g
 winsports.co##.goles_acero_banner
 diariodemallorca.es##.grp--branded-style
