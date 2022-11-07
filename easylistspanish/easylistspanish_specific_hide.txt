@@ -171,6 +171,8 @@ elespectador.com#?#.Block:-abp-has(.Title_section:-abp-contains(Contenido patroc
 elespectador.com#?#.Card:-abp-has(.Card-Section.Section:-abp-contains(Contenido patrocinado))
 eltiempo.com#?#.main-article-container-patr:-abp-has(.contenido-comercial)
 eltiempo.com#?#.main-article-container-patr:-abp-has(.mas-contenido:-abp-contains(Más Contenido))
+forocoches.com#?##sidebar > div > section:-abp-has(.fixed_adslot)
+forocoches.com#?##sidebar > section:-abp-has(.fixed_adslot)
 photocall.tv#?#.dropdown:-abp-has(label:-abp-contains(VPN))
 !
 puromarketing.com###AdsTextHomeCenter
