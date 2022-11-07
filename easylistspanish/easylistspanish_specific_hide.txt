@@ -66,6 +66,7 @@ laarena.com.ar##.container-spot
 meteored.cl,meteored.com.ar,meteored.mx,tiempo.com##.creatividad
 perfil.com##.d-xs-none.d-xxl-flex
 flashscore.es##.detailLeaderboard
+libremercado.com##.dfp
 valencianews.es##.g
 winsports.co##.goles_acero_banner
 diariodemallorca.es##.grp--branded-style
@@ -933,7 +934,6 @@ pelisplus.tv##a[href^="http://www.maxonclick.com/"]
 mastercoria.com##a[href^="https://alertlogsemployer.com"]
 zigzagdigital.com##a[href^="https://beone.es/"]
 pivigames.blog##a[href^="https://bstk.me/"]
-libremercado.com##a[href^="https://conectate.estrategiasdeinversion.com/"]
 pelispunto.net##a[href^="https://datingnow.life/"]
 actualarganda.com##a[href^="https://geriasa.es/"]
 nocensor.sbs##a[href^="https://hacktorrent.net/"]
