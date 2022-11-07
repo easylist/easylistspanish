@@ -1,3 +1,4 @@
+###Publi300600x
 ###audimaAdDesktop
 ###bloque-publicidad-1
 ###bloque-publicidad-2
@@ -9,6 +10,9 @@
 ###noticias-publicidad-4
 ###noticias-publicidad-5
 ###noticias-publicidad-6
+##.PubliDereFlo
+##.PubliIzquiFlo
+##.PublicidadArriba
 ##.banner-publicidad
 ##.cnt-publi
 ##.contenedorAdcentrado
