@@ -1,5 +1,6 @@
 marca.com###Patrocinio
 diariodelaribera.net###bannercabeceravideo
+eleconomista.es###banners-superiores
 ondavasca.com###billboard-wrapper
 blog.facialix.com###block-29
 winsports.co###block-wplay
@@ -16,6 +17,7 @@ planbnoticias.com.ar###text-4
 planbnoticias.com.ar###text-7
 independentespanol.com###top-banner-wrapper
 generacionuniversitaria.com.mx###ventana-flotante
+eleconomista.es##.AD_Content
 elespectador.com##.Ads_megaBannerTopContainer
 ccma.cat##.M-publicitat
 diaridegirona.cat,diariocordoba.com,diariodeibiza.es,diariodemallorca.es,eldia.es,elperiodicodearagon.com,elperiodicoextremadura.com,elperiodicomediterraneo.com,emporda.info,farodevigo.es,informacion.es,laopinioncoruna.es,laopiniondemalaga.es,laopiniondemurcia.es,laopiniondezamora.es,laprovincia.es,levante-emv.com,lne.es,regio7.cat,superdeporte.es##._mo_recs
@@ -48,6 +50,7 @@ eltrecetv.com.ar##.banner-swap
 ciudad.com.ar,elcomercio.com,lmcipolletti.com,lmneuquen.com##.banner-wrapper
 diariodelaribera.net##.bannerColumnas
 elperiodicodeaqui.com##.banner_lat
+eleconomista.es##.banners-superiores2
 iproup.com##.bannerwide
 diariodecuyo.com.ar##.bnr
 eltiempo.com##.board-tu-negocio
@@ -215,7 +218,6 @@ tresubresdobles.com###bannerbajo
 laindustria.pe###bannercentral
 laindustria.pe###bannercentral2
 estadio.ec###banners
-eleconomista.es###banners-superiores
 manerasdevivir.com###banners_cabecera
 paxinasgalegas.es###banners_laterales
 laindustria.pe###bannertop
@@ -1072,7 +1074,6 @@ fitnesszona.com##td[style="font-family:Arial, Helvetica, sans-serif;font-size:9p
 astrologiaenlinea.com##td[width="728"][height="90"]
 pelisplay.co##tr[data-lang="Publicidad"]
 ! Site Specific filters (used with $generichide)
-eleconomista.es##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
 ! Anti-Adblock
 pcbolsa.com###Blokmnju
 diariodenavarra.es###abMsgWrap

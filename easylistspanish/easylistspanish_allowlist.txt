@@ -49,7 +49,6 @@
 @@/rsc/js/ads-godo.js$script,~third-party,domain=lavanguardia.com|mundodeportivo.com
 @@/servicios/ads/dfp.js$script,~third-party,domain=diaridegirona.cat|diariodeibiza.es|diariodemallorca.es|diarioinformacion.com|emporda.info|farodevigo.es|laopinion.es|laopinioncoruna.es|laopiniondemalaga.es|laopiniondemurcia.es|laopiniondezamora.es|laprovincia.es|levante-emv.com|lne.es|mallorcazeitung.es|regio7.cat|superdeporte.es
 @@/static/MDSAntiAdBlock/*$script,~third-party,domain=cuatro.com|divinity.es|telecinco.es
-@@||*.s3c.es/imag/$image,domain=eleconomista.es
 @@||09stream.com/reproductores/adblock.js
 @@||active.cache.el-mundo.net/js/advertisement.js
 @@||adhandler.kissfmradio.cires21.com/get_link^$media,domain=kissfm.es
@@ -94,7 +93,6 @@
 @@||eestatic.com/assets_js/dyn/adiframe.js
 @@||eestatic.com/assets_js/dyn/adsiframe.js$script,domain=elespanol.com
 @@||el-mundo.net/js/advertisement.js$script,third-party,domain=elmundo.es|marca.com
-@@||eleconomista.es^$generichide
 @@||elmundo.es^$generichide
 @@||elperiodico.cat^$generichide
 @@||elrellano.com^$generichide
