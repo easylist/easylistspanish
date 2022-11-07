@@ -95,7 +95,7 @@ coches.net##.mt-Display--top
 gamezfull.com##.myButton
 hortanoticias.com##.n2-section-smartslider
 diaridegirona.cat,diariocordoba.com,diariodeibiza.es,diariodemallorca.es,eldia.es,elperiodicodearagon.com,elperiodicoextremadura.com,elperiodicomediterraneo.com,emporda.info,farodevigo.es,informacion.es,laopinioncoruna.es,laopiniondemalaga.es,laopiniondemurcia.es,laopiniondezamora.es,laprovincia.es,levante-emv.com,lne.es,regio7.cat,superdeporte.es##.no-baldomero
-pensem.cat##.nou-publi-cap-home
+naciodigital.cat,pensem.cat##.nou-publi-cap-home
 flashscore.es##.oddsPlacement
 autoscout24.es##.osa-as24-placeholder
 otakustv.com##.pestana_footer
@@ -105,6 +105,7 @@ formulatv.com##.pub-btf
 formulatv.com##.pub-mid
 formulatv.com##.pub-top
 esdiario.com##.publi-foot
+naciodigital.cat##.publi-inter-portada
 esdiario.com##.publi-top
 pensem.cat##.publi_interpagina
 lawebdelprogramador.com##.publi_robapaginas
@@ -123,6 +124,8 @@ marcadegol.com##.textwidget a[href^="https://ar.puma.com/"]
 adnradio.cl##.the-banner
 aristeguinoticias.com##.topleader
 eltiempo.es##.v-banner
+naciodigital.cat##.zona-ajbcn
+naciodigital.cat##.zona-lacaixa
 carrefour.es##[id*="-sponsored_products-"]
 manomano.es##a[class*="sponsoredProductCard"]
 pelisplus.lat##a[href^="https://bit.ly/"]
