@@ -111,6 +111,7 @@ esdiario.com##.publi-top
 pensem.cat##.publi_interpagina
 lawebdelprogramador.com##.publi_robapaginas
 areajugones.sport.es,generacionuniversitaria.com.mx,iberempleos.es,meteored.cl,meteored.com.ar,meteored.mx,neomotor.com,tiempo.com##.publicidad
+naciodigital.cat##.publicolumna
 eleconomista.es##.railContainer1
 eleconomista.es##.railContainer3
 fotocasa.es##.re-AdvertisingDominanceNative
