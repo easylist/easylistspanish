@@ -30,6 +30,7 @@ elpais.com,fmdos.cl##.ad
 mundo.com##.ad-banner
 buenazo.pe,elpopular.pe,eltiempo.com,hobbyconsolas.com,larepublica.pe,libero.pe,somosfanaticos.fans,wapa.pe##.ad-container
 elperiodico.com,epe.es,sport.es##.add
+ondacero.es##.addContainer
 rpp.pe,uypress.net##.ads
 blog.facialix.com##.amazon-auto-links
 donbalon.com##.anuncio
