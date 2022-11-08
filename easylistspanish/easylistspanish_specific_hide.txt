@@ -103,6 +103,7 @@ caracol.com.co##.mh266-100
 diariodevalderrueda.es##.minibanner_content
 show.news##.mod.relatednews
 20minutos.es##.module-coupons
+eldebate.com##.module-free-html-ads
 coches.net##.mt-AdvertisingRoadblock-top
 coches.net##.mt-Display--top
 gamezfull.com##.myButton
