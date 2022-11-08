@@ -30,6 +30,7 @@
 ##.voc-advertising
 ##.voc-article--sponsored
 ##.voc-sponsored
+##a[href^="https://startgaming.net/tienda/"][href*="?offer_id="]
 !
 ###PubMiddle1
 ###PubMiddle2
