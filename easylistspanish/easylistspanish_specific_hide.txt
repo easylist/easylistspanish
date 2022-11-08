@@ -5,6 +5,7 @@ ondavasca.com###billboard-wrapper
 blog.facialix.com###block-29
 winsports.co###block-wplay
 ccma.cat###contenidor_megabanner
+forococheselectricos.com###custom_html-17
 elnacional.com###en_nd_home_flat_2
 elnacional.com###en_nd_home_flat_3
 bemad.es,cuatro.com,divinity.es,energytv.es,factoriadeficcion.com,mtmad.es,niusdiario.es,telecinco.es,uppers.es,yasss.es###megaSuperior_multisite

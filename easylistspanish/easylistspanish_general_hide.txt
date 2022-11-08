@@ -13,6 +13,7 @@
 ##.PubliDereFlo
 ##.PubliIzquiFlo
 ##.PublicidadArriba
+##.ad-cabecera
 ##.banner-publicidad
 ##.cnt-publi
 ##.contenedorAdcentrado
