@@ -105,6 +105,7 @@ coches.net##.mt-AdvertisingRoadblock-top
 coches.net##.mt-Display--top
 gamezfull.com##.myButton
 hortanoticias.com##.n2-section-smartslider
+eldiario.es##.news-sponsored-content
 diaridegirona.cat,diariocordoba.com,diariodeibiza.es,diariodemallorca.es,eldia.es,elperiodicodearagon.com,elperiodicoextremadura.com,elperiodicomediterraneo.com,emporda.info,farodevigo.es,informacion.es,laopinioncoruna.es,laopiniondemalaga.es,laopiniondemurcia.es,laopiniondezamora.es,laprovincia.es,levante-emv.com,lne.es,regio7.cat,superdeporte.es##.no-baldomero
 naciodigital.cat,pensem.cat##.nou-publi-cap-home
 flashscore.es##.oddsPlacement
