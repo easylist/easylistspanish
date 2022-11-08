@@ -10,18 +10,15 @@
 @@||pub.pixels.ai/wrap-independent-prebid-lib.js$script,domain=independentespanol.com
 !
 @@-publicidad.$~third-party,domain=regalos-publicidad.es|todo-publicidad.com
-@@||ajax.googleapis.com/ajax/libs/$script,third-party,domain=anitube.cz|lacajita.xyz|reyanime.com|seriesblanco.com
-@@||bootstrapcdn.com/bootstrap/$script,domain=anitube.cz
-@@||cdn.jsdelivr.net^$script,domain=anitube.cz
-@@||cdn.streamroot.io^$script,domain=anitube.cz
-@@||cloudflare.com/ajax/libs/$script,domain=anitube.cz|anitubebr.com|hlat.me
+@@||ajax.googleapis.com/ajax/libs/$script,third-party,domain=lacajita.xyz|reyanime.com|seriesblanco.com
+@@||cloudflare.com/ajax/libs/$script,domain=anitubebr.com|hlat.me
 @@||code.jquery.com^$script,third-party,domain=elitetorrent.net|lacajita.xyz|seriesblanco.com
-@@||connect.facebook.net/*/all.js$script,third-party,domain=divxatope.com|divxatope1.com|ftail.tv|jkanime.net|lacajita.xyz|seriesblanco.com|shippuden.tv|submanga.org|torrentrapid.com
-@@||connect.facebook.net/*/sdk.js$script,third-party,domain=divxatope.com|divxatope1.com|ftail.tv|jkanime.net|lacajita.xyz|seriesblanco.com|shippuden.tv|submanga.org|torrentrapid.com
+@@||connect.facebook.net/*/all.js$script,third-party,domain=ftail.tv|jkanime.net|lacajita.xyz|seriesblanco.com|shippuden.tv|submanga.org
+@@||connect.facebook.net/*/sdk.js$script,third-party,domain=ftail.tv|jkanime.net|lacajita.xyz|seriesblanco.com|shippuden.tv|submanga.org
 @@||diariosanrafael.com.ar/images/banners/banner_nexo.jpg
 @@||diariosanrafael.com.ar/images/banners/banner_twitter.png
-@@||disqus.com^$script,third-party,domain=anitube.cz|ftail.tv|jkanime.net|lacajita.xyz|seriesblanco.com|shippuden.tv
-@@||disquscdn.com^$script,domain=anitube.cz|ftail.tv|jkanime.net|lacajita.xyz|seriesblanco.com|shippuden.tv
+@@||disqus.com^$script,third-party,domain=ftail.tv|jkanime.net|lacajita.xyz|seriesblanco.com|shippuden.tv
+@@||disquscdn.com^$script,domain=ftail.tv|jkanime.net|lacajita.xyz|seriesblanco.com|shippuden.tv
 @@||elitegol.com/lanzalayer.php$script,third-party,domain=elitetorrent.net
 @@||expreso.com.mx/images/anuncios/newsletter-anuncio.jpg$image,domain=expreso.com.mx
 @@||g.doubleclick.net/gpt/pubads_impl_$script,domain=aristeguinoticias.com|esgentside.com|hola.com
@@ -32,12 +29,11 @@
 @@||lagacetadesalamanca.es/elementosWeb/gestionCajas/GSA/Image/2017//bannernuevastecnologias.jpg$image,domain=lagacetadesalamanca.es
 @@||lagacetadesalamanca.es/elementosWeb/gestionCajas/GSA/Image/GIF_LAGACETA_318X180.gif$image,domain=lagacetadesalamanca.es
 @@||mdsrwdassets-a.akamaihd.net^$script,domain=mitele.es
-@@||platform.twitter.com/widgets.js$script,third-party,domain=divxatope.com|divxatope1.com|ftail.tv|lacajita.xyz|reyanime.com|seriesblanco.com|shippuden.tv|torrentrapid.com
+@@||platform.twitter.com/widgets.js$script,third-party,domain=ftail.tv|lacajita.xyz|reyanime.com|seriesblanco.com|shippuden.tv
 @@||privatelink.de/$popup,third-party,domain=jkanime.net
 @@||republica.com.uy/wp-content/banners/HoroscopoDiario2016.jpg
 @@||seriesblanco.com/jquery*.min.js$script,third-party,domain=lacajita.xyz
 @@||st.chatango.com^$script,third-party,xmlhttprequest,domain=lacajita.xyz|pepecine.info|seriesblanco.com|seriesflv.net
-@@||static.ak.fbcdn.net/connect.php/js/FB.Share$script,third-party,domain=divxatope.com|divxatope1.com|torrentrapid.com
 @@||w.sharethis.com/button/buttons.js$script,third-party,domain=lacajita.xyz|seriesblanco.com
 ! Anti-Adblock
 @@.gif#$image,domain=cinestrenostv.tv|clasicotas.org
@@ -70,7 +66,6 @@
 @@||arenavision.ru^$generichide
 @@||assets.gameallianz.com/api/js/ads/ads.js$script,domain=gamezhero.com
 @@||atresplayer.com^$generichide
-@@||bambergerkennanchitinous.com/.adframesrc.$script,third-party,domain=divxatope.com|divxatope1.com|torrentrapid.com
 @@||booksmedicos.org^$generichide
 @@||c0.wp.com/*/lazy-images.min.js$script,domain=mac-torrent-download.net
 @@||cdn.adswizz.com/adswizz/js/SynchroClient2.js$script,domain=libremercado.com
@@ -83,8 +78,6 @@
 @@||cualbondi.com.ar^$generichide
 @@||cuatro.com^$generichide
 @@||des.smartclip.net/ads?$script,domain=esradio.libertaddigital.com
-@@||divxatope.com^$generichide
-@@||divxatope1.com^$generichide
 @@||dompl3.info^$generichide
 @@||ebizlatam.com^$generichide
 @@||eestatic.com/assets_js/dyn/adiframe.js
@@ -140,8 +133,6 @@
 @@||playview.io/themes/pv/js/showads.js$xmlhttprequest,domain=playview.io
 @@||playview.io^$generichide
 @@||pronunciaciones.com^$generichide
-@@||pubted.com/plugins/pops/adBlockCheck/adblock.js$script,third-party,domain=divxatope.com|divxatope1.com|torrentrapid.com
-@@||requiredcollectfilm.info/path/ads/ads.js$script,third-party,domain=divxatope.com|divxatope1.com|torrentrapid.com
 @@||securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1$domain=videos.cuantarazon.com|videos.humorenserie.com|videos.memedeportes.com|videos.vistoenlasredes.com|videos.vrutal.com
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_*.js$domain=bluradio.com|videos.cuantarazon.com|videos.humorenserie.com|videos.memedeportes.com|videos.vistoenlasredes.com|videos.vrutal.com
 @@||securepubads.g.doubleclick.net^$script,domain=expansion.com
@@ -159,7 +150,6 @@
 @@||todomecanica.com/js/ads.js$script,domain=todomecanica.com
 @@||todomecanica.net/js/ads.js$script,third-party,domain=todomecanica.com
 @@||todotumac.com^$generichide
-@@||torrentrapid.com^$generichide
 @@||tpc.googlesyndication.com/pageadimg/imgad$image,media,domain=videos.cuantarazon.com|videos.humorenserie.com|videos.memedeportes.com|videos.vistoenlasredes.com|videos.vrutal.com
 @@||tpc.googlesyndication.com/pimgad/$image,media,domain=videos.cuantarazon.com|videos.humorenserie.com|videos.memedeportes.com|videos.vistoenlasredes.com|videos.vrutal.com
 @@||tpc.googlesyndication.com^$script,stylesheet,domain=videos.cuantarazon.com|videos.humorenserie.com|videos.memedeportes.com|videos.vistoenlasredes.com|videos.vrutal.com

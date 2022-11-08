@@ -145,6 +145,7 @@ naciodigital.cat##.zona-ajbcn
 naciodigital.cat##.zona-lacaixa
 carrefour.es##[id*="-sponsored_products-"]
 manomano.es##a[class*="sponsoredProductCard"]
+animeid.tv##a[href*="leadzupc.com/"]
 pelisplus.lat##a[href^="https://bit.ly/"]
 anisearch.es##a[href^="https://www.amazon."][href*="tag="]
 portalbici.es##a[href^="https://www.awin1.com/cread.php"]
@@ -215,7 +216,6 @@ noticiasdehoy.site###after-ad
 futbolretro.es,gaceta.es###ai_widget-2
 cualesmiip.com###anuncio
 arbolabc.com###anuncio-dark
-animeid.tv###ap
 abc.com.py###article-banner-comentarios
 telesemana.com###author-banner
 lacuerda.net###ban160
@@ -239,7 +239,6 @@ perfil.com###bannerScreen03
 atresplayer.com###bannerTop
 aica.org###banner_A
 ahorradororata.com###banner_footer
-divxatope.com,divxatope1.com,torrentrapid.com###banner_header
 cinecalidad.to###banner_sinopsis
 paxinasgalegas.es###banner_superior
 nomellamesfriki.com###banneralto
@@ -264,8 +263,6 @@ telesemana.com###blog-banner
 ushuaia24.com.ar###bloque-11
 lagacetadesalamanca.es###bn_vandyck
 ftail.tv,shippuden.tv###bottomlink
-divxatope.com,divxatope1.com,torrentrapid.com###box-ads-tr
-divxatope.com,divxatope1.com,torrentrapid.com###box-ads-trailer
 pickinup.es###brand-carousel
 abc.com.py###breaking-news-banner1
 wordmagicsoft.com###bt_aws_ad_slot_1
@@ -612,7 +609,6 @@ clarin.com##.box-adv
 debate.com.mx##.box-banner
 puntobiz.com.ar##.box-banners-dest
 puntobiz.com.ar##.box-bloque-banners
-divxatope.com,divxatope1.com,torrentrapid.com##.box-publi-left
 lavanguardia.com##.box900
 mundoejecutivo.com.mx##.boxbanner
 redgol.cl##.boxbanner_container
@@ -627,7 +623,6 @@ eldefinido.cl##.cajabanners
 estadiodeportivo.whitelabel.kelisto.es##.car-insurance
 noticiasdel6.com##.cc3
 bernabeudigital.com##.center
-divxatope.com,divxatope1.com,torrentrapid.com##.centerBanner
 cienradios.com##.cienradios-ads
 autoscout24.es##.cl-billboad-wrapper
 lavoz.com.ar##.clublavoz
@@ -721,7 +716,6 @@ miarevista.es,muyinteresante.es##.mega1
 miarevista.es,muyinteresante.es##.mega2
 publico.es##.megabanner-container
 horadeopinion.com.ar##.ml-slider
-divxatope.com,divxatope1.com,torrentrapid.com##.mod-pubb
 atresplayer.com##.mod_roba
 diarioelinformante.com.ar,laopinionsannicolas.com.ar##.modal-backdrop
 lavozdegalicia.es##.mujerhoy
@@ -769,8 +763,6 @@ deportes.televisa.com##.prime-banner
 lavoz.com.ar##.producto-tienda
 rumbo.es##.promo262x90
 europa-agricola.es,peliculas69.com##.pub
-divxatope.com,divxatope1.com,torrentrapid.com##.pub300x250
-divxatope.com,divxatope1.com,torrentrapid.com##.pub728x90
 diario.mx##.pub__portada
 elblog.com##.pub_lat1_father
 elblog.com##.pub_lat2_father
@@ -921,7 +913,6 @@ mundoplus.tv##a[href*="clicktag_promo"]
 irispress.es##a[href*="comprometidoscon.org/"]
 elespanol.com##a[href*="extramaduracion.es/"]
 va6.thand.info##a[href*="http://www.physoi.eu/script/redirect.php?url=*"]
-animeid.tv##a[href*="leadzupc.com/"]
 okdiario.com##a[href*="legalitas.com/"]
 juegos.com##a[href*="smarturl.it/"]
 elespanol.com##a[href*="volcanoteide.com/"]
@@ -938,7 +929,6 @@ noticiasdelmundo.org##a[href="http://ganadineroconencuestas.com/dinero_flow/?web
 forocoches.com##a[href="http://goo.gl/NDrfcW"]
 20minutos.es##a[href="http://lofficiel.es/"]
 telecinco.es##a[href="http://turismourense.com/index"]
-divxatope.com,divxatope1.com,torrentrapid.com##a[href="http://ul.to/ref/4037259"]
 180.com.uy##a[href="http://www.180.com.uy/banner?ID=857&CODE=portal.index"]
 elsiglodetorreon.com.mx##a[href="http://www.ayojon.mx/"]
 ruedasgordas.es##a[href="http://www.cyclosaltamirano.es/"]
@@ -975,7 +965,6 @@ actualarganda.com##a[href^="https://karting-rivas.com/"]
 noticiasparamunicipios.com##a[href^="https://noticiasparamunicipios.com/linkout/"]
 cuatro.com,telecinco.es##a[href^="https://premiercasino.es/"]
 genteflow.us##a[href^="https://veranime.org/"]
-divxatope.com,divxatope1.com,torrentrapid.comm##a[onclick*="pop.redirect.adsjudo.com"]
 desarrollowp.com,microsiervos.com,supercpps.com##a[rel*="sponsored"]
 planetadeagostini.es##article[id^="divAdserver"]
 oversos.com##div[aria-label="QODE"]
@@ -1045,7 +1034,6 @@ epasatiempos.es##div[style="width:728px;height:90px;margin: 0 auto; margin-botto
 diario.mx##div[style="width:970px; height:90px; display:block !important; margin:0 auto; overflow:hidden; margin-bottom: 10px;"]
 foroparalelo.com##div[style="width:970px; height:90px;"]
 epasatiempos.es##div[style="width:970px;height:90px;margin:0 auto;margin-bottom:5px;"]
-divxatope.com,divxatope1.com,torrentrapid.com##div[style="z-index:98;width:570px;height:400px;position:absolute;top:0px;left:0px;"]
 todoblaugrana.com##div[style^="overflow: hidden"]
 razon.com.mx##div[style^="position: fixed!important;text-align: center;bottom: 0!important;left: 0;"]
 calculadora-de-derivadas.com,calculadora-de-integrales.com##div[style^="width: 728px;"]
@@ -1085,7 +1073,6 @@ finofilipino.org##img[src="http://static.tumblr.com/omgciym/0tvmih3p3/memetienda
 finofilipino.org##img[src="http://static.tumblr.com/omgciym/2bBmgb175/juegacos.jpg"]
 finofilipino.org##img[src="http://static.tumblr.com/omgciym/Pnenkw34v/edrfwregwrgwtrgwr.jpg"]
 finofilipino.org##img[src="http://static.tumblr.com/omgciym/SXxm66n6y/lol-logo.png"]
-divxatope.com,divxatope1.com,torrentrapid.com##li[style="width:100%;height:98px;"]
 elespanol.com##p[style="color: #969696;font-family: Arial,Helvetica,sans-serif;font-size: 1rem;font-weight: 400;"]
 eluniversal.com##p[style="color: rgb(144, 144, 144); background-color: rgb(235, 235, 235);font-size: 12px;padding-left:5px;"]
 infoban.com.ar##p[style="margin:2px 2px 2px 2px;padding:2px 2px 2px 2px;border:0px dashed #999999; overflow:hidden;"]
