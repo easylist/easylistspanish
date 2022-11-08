@@ -68,6 +68,7 @@ elpais.com##.c-bra
 vivanolamag.com##.client-logo-slider
 eltiempo.es##.cls-publi-height
 deia.eus,noticiasdealava.eus,noticiasdegipuzkoa.eus,noticiasdenavarra.com##.commercial-up-full
+retinatendencias.com##.concintillo
 vilaweb.cat##.container-banner-header
 laarena.com.ar##.container-spot
 autopista.es##.containerBanner
