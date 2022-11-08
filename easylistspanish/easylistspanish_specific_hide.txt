@@ -187,6 +187,7 @@ eltiempo.com#?#.main-article-container-patr:-abp-has(.mas-contenido:-abp-contain
 forocoches.com#?##sidebar > div > section:-abp-has(.fixed_adslot)
 forocoches.com#?##sidebar > section:-abp-has(.fixed_adslot)
 photocall.tv#?#.dropdown:-abp-has(label:-abp-contains(VPN))
+yorokobu.es#?#.quicklink_w100:-abp-has(.publi-tag:-abp-contains(AD))
 !
 puromarketing.com###AdsTextHomeCenter
 puromarketing.com###AdsTextHomeMultiple
