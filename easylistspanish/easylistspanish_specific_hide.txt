@@ -75,6 +75,7 @@ meteored.cl,meteored.com.ar,meteored.mx,tiempo.com##.creatividad
 perfil.com##.d-xs-none.d-xxl-flex
 flashscore.es##.detailLeaderboard
 libertaddigital.com,libremercado.com##.dfp
+huffingtonpost.es##.entry__right-rail-width-placeholder
 valencianews.es##.g
 winsports.co##.goles_acero_banner
 diariodemallorca.es##.grp--branded-style
