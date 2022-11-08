@@ -88,6 +88,7 @@ diariodelaribera.net##.lateralderecho
 diariodelaribera.net##.lateralizquierdo
 adslzone.net##.leaderboard
 huffingtonpost.es##.leaderboard-flex-placeholder
+directoalpaladar.com,trendenciashombre.com,vidaextra.com,xataka.com##.m-branded
 bebesymas.com,diariodelviajero.com,elblogsalmon.com,motorpasionmoto.com,pymesyautonomos.com##.m-desvio-ecommerce
 sensacine.com,sensacine.com.mx##.main-banner
 infopico.com##.marco-publicidad
@@ -125,6 +126,7 @@ fotocasa.es##.re-AdvertisingDominanceNative
 directoalpaladar.com,motorpasion.com,motorpasion.com.mx,trendenciashombre.com,vidaextra.com,xataka.com##.related-native-item
 burbuja.info##.samCodeUnit
 cuevana.pro,pelispedia.la##.section-cpa
+directoalpaladar.com,trendenciashombre.com,vidaextra.com,xataka.com##.section-native-container
 seriesturcas.gratis##.serie-optimanetwork
 elobservador.com.uy##.sponsors
 publinews.gt##.takeoverlink
