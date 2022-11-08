@@ -122,7 +122,7 @@ naciodigital.cat##.publicolumna
 eleconomista.es##.railContainer1
 eleconomista.es##.railContainer3
 fotocasa.es##.re-AdvertisingDominanceNative
-motorpasion.com,motorpasion.com.mx##.related-native-item
+directoalpaladar.com,motorpasion.com,motorpasion.com.mx,trendenciashombre.com,vidaextra.com,xataka.com##.related-native-item
 burbuja.info##.samCodeUnit
 cuevana.pro,pelispedia.la##.section-cpa
 seriesturcas.gratis##.serie-optimanetwork
