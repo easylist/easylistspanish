@@ -199,10 +199,6 @@
 ||forocoches.com/image/varios/hawkers_2017a.png
 ||forokeys.com/foro/banners/
 ||foroparalelo.com/images/avisos/
-||ftail.tv/wp-content/themes/bideopro/img/dca.gif
-||ftail.tv/wp-content/themes/bideopro/img/dpa.gif
-||ftail.tv/wp-content/themes/bideopro/img/vca.gif
-||ftail.tv/wp-content/themes/bideopro/img/vpa.gif
 ||gacetamercantil.com.ar/banners/
 ||gameflare.com/common/promotions/own-images/$subdocument
 ||gamestorrents.*/realtime/
@@ -275,7 +271,6 @@
 ||lagacetadesalamanca.es/elementosWeb/gestionCajas/*banner*.jpg
 ||lagacetadesalamanca.es/elementosWeb/gestionCajas/comun/Flash/
 ||laindustria.pe/banners/
-||laloterianavidad.com/widgets/widget.html$subdocument,domain=lne.es
 ||lancelotdigital.com/images/banners/
 ||lanoticia1.com/sites/default/files/*.gif
 ||laopinionsemanario.com.ar/sites/default/files/*.gif
@@ -491,14 +486,13 @@ $webrtc,domain=allpeliculas.com|booksmedicos.org|dompl3.info|gnula.biz|jkanime.n
 /^https?:\/\/[0-9a-z]{8,}.[0-9a-z]{8,}\.com\//$script,domain=animefenix.com|hispasexy.org|manga-mx.com|serielatinobobesponja.com|series-de.online
 /^https?:\/\/[a-z0-9]+\.cloudfront\.net\/\?[a-z]{5}\=\d{6}$/$script,third-party
 ! Third party script
-$script,third-party,domain=abcdefamosas.xyz|anitubebr.com|elitetorrent.net|estoesporno.com|estrenosdtl.com|ftail.tv|gamestorrents.com|lacajita.xyz|moviesdvdr.com|novelasenlinea.net|pepecine.info|reyanime.com|seriesblanco.com|seriesflv.net|shippuden.tv|submanga.org|subtorrents.com|todocvcd.com|torrentesx.com|xtremo.net|xtremostereo.net
+$script,third-party,domain=estoesporno.com|gamestorrents.com|moviesdvdr.com|novelasenlinea.net|shippuden.tv|submanga.org|subtorrents.com|todocvcd.com|torrentesx.com|xtremo.net|xtremostereo.net
 ! Third party xmlhttprequest
-$third-party,xmlhttprequest,domain=estoesporno.com|estrenosdtl.com|gamestorrents.com|moviesdvdr.com|seriesflv.net|subtorrents.com|todocvcd.com|torrentesx.com
+$third-party,xmlhttprequest,domain=estoesporno.com|gamestorrents.com|moviesdvdr.com|subtorrents.com|todocvcd.com|torrentesx.com
 ! Anti-Adblock
 /ads/brand_day^$domain=diariomotor.com
 /fallback_pub_$domain=ecartelera.com
 /imagenespublicidad/$image,domain=alcalorpolitico.com
-/js/storage/1/$domain=cuevana.nz|movidy.nz|pelisplus2.org|poseidonhd.in|repelisplus.to
 /popup-maker/$script,domain=diariotextual.com
 /wp-content/uploads/2020/11/Imagen$domain=minovelasubtitulada.com|viveseries.com
 ^banners^$domain=alicantetoday.com

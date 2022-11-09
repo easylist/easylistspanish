@@ -214,15 +214,11 @@ puromarketing.com###AdsTextHomeCenter
 puromarketing.com###AdsTextHomeMultiple
 forocoches.com###AutoNumber30
 diariopopular.com.ar###OBJETO861 > .ad-obj
-pepecine.info,pepecine.tv###SlideMenu1:nth-of-type(2) + h2
-pepecine.info,pepecine.tv###ad
 foroparalelo.com###ad_global_below_navbar
 es.nametests.com###ad_wrapper_head
 nomellamesfriki.com###adpv1
 nomellamesfriki.com###adpv2
-ftail.tv,hlat.me,notariosyregistradores.com,shippuden.tv###ads
-hlat.me###ads2
-hlat.me###ads4
+notariosyregistradores.com,shippuden.tv###ads
 eltiempo.es###ads_position_2
 agma.io###advertDialog1
 hazteveg.com###advertising
@@ -278,7 +274,7 @@ informe21.com###block-views-diosuniversal-block-1
 telesemana.com###blog-banner
 ushuaia24.com.ar###bloque-11
 lagacetadesalamanca.es###bn_vandyck
-ftail.tv,shippuden.tv###bottomlink
+shippuden.tv###bottomlink
 pickinup.es###brand-carousel
 abc.com.py###breaking-news-banner1
 wordmagicsoft.com###bt_aws_ad_slot_1
@@ -287,7 +283,7 @@ abchoy.com.ar###cacho-overlay
 abchoy.com.ar###cacho-popup
 20minutos.es###cajasbuscadoras
 easy.com.ar###carruselMarcasBlaisten
-ftail.tv,shippuden.tv###categories
+shippuden.tv###categories
 artesacro.org###ccr-sidebar-add-place
 diario.mx###centro_pub
 pantallazo.com.uy###clima-banner
@@ -318,7 +314,6 @@ perfil.com###div_blockTop_1
 livesports.pw###divpubli
 3djuegos.com###dst_pub_728
 mega1080.com###enla
-estrenosdtl.com,moviesdvdr.com###f_find_bar
 pelishouse.com###fakeplayer
 capodeportes.net###floatLayer2
 25digital.com.ar###footer-widgets
@@ -476,7 +471,6 @@ cope.es,elperiodico.cat,laconversacion.net,lagaceta.com.ar,lagacetasalta.com.ar#
 hoyaragon.es##.addg
 lavozdegalicia.es##.adpos
 cronicadelquindio.com,dimayor.com.co,eltrecetv.com.ar,eslang.es,gnula.se,lostiempos.com,pctmix1.com,pelispedia.tv,peru.com,publico.es##.ads
-yorokobu.es##.ads-block
 meristation.as.com,meristation.com.mx##.ads-notificator
 elblog.com##.ads-superior
 fuerzasarmadas.eu##.ads_block
@@ -684,7 +678,6 @@ loteriasmundiales.com.ar##.fondo_column_publi2
 elcucodigital.com##.fullwidthabanner
 elcucodigital.com##.fullwidthbanner-container
 diariodepasion.es##.fusion-header-banner
-yorokobu.es##.fw-container
 diarioronda.es##.g-dyn
 aptitus.com##.g-eplanning
 desdesoria.es,economia3.com,gasteizhoy.com,realidadsm.com##.g-single
@@ -693,7 +686,6 @@ macrojuegos.com##.gad
 juegos.com##.game-page-sidebar
 ehowenespanol.com##.gpt_300
 cuevana3.rip##.grid.desk-8.alpha > p
-hlat.me##.grid_12
 ondaluz.tv##.grid_12 > .grid_4
 tallasgrandes.es##.grid_24
 fichajes.com##.gtag
@@ -996,7 +988,6 @@ euribor.com.es##div[style="border: 2px solid #1D8FC1; width: 320px; height:280px
 laarena.com.ar##div[style="box-shadow: rgba(0, 0, 0, 0.4) 0px 0px 20px; background: rgb(255, 255, 255); animation-duration: 0.4s; animation-delay: 0.2s; border-radius: 4px; width: 900px; height: 500px; margin: auto; padding: 30px;"]
 entornointeligente.com##div[style="clear:both;width:100%;background-color: #EFEFEF;height:90px"]
 entornointeligente.com##div[style="clear:both;width:100%;background-color: #EFEFEF;height:90px;"]
-elitetorrent.net##div[style="color:#ccc;font-size:10px;text-align:right;margin-bottom:20px;"]
 argentinavende.com,cordobavende.com##div[style="float:left;width:970px;height:90px;background: #eee; margin-right:10px"]
 booksmedicos.org##div[style="float:none;margin:10px 0 10px 0;text-align:center;"]
 boardzona.com##div[style="font-family:Arial, Helvetica, sans-serif;font-size:9px;color:#666666"]
