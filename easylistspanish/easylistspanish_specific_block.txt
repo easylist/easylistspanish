@@ -459,7 +459,6 @@
 ||widget.laxarxa.com/ext/embeddable_frames/
 ||widgets.helpmycash.com/ranking-financiero/
 ||wolterskluwer.es^$script,subdocument,domain=noticias.juridicas.com
-||wp.com/autoblog.com.ar/wp-content/uploads/*.gif
 ||wp.com/gacetinmadrid.com/wp-content/uploads/2021/06/
 ||wp.com/gacetinmadrid.com/wp-content/uploads/2021/09/
 ||wp.com/gacetinmadrid.com/wp-content/uploads/2021/12/

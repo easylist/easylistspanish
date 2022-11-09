@@ -48,7 +48,8 @@ rpp.pe,uypress.net##.ads
 blog.facialix.com##.amazon-auto-links
 donbalon.com##.anuncio
 mangacrab.com##.anunciofooter
-iproup.com##.ap
+insideevs.com.ar,iproup.com##.ap
+insideevs.com.ar##.apb
 lavanguardia.com##.article-module-sponsored
 20minutos.es##.axds
 lectuepubgratis.com##.bam-topbar
@@ -458,7 +459,6 @@ elambito.com,elmetro.com.co,gasteizhoy.com,radiomunera.com,realidadsm.com,stickn
 seriesgrey.com##.a728
 abchoy.com.ar,applesfera.com,bebesymas.com,bolavip.com,compradiccion.com,cuatro.com,diariodelviajero.com,directoalpaladar.com,economiadigital.es,elblogsalmon.com,elconfidencial.com,elsol.com.ar,es.wallapop.com,espinof.com,genbeta.com,genbetadev.com,larazon.es,laverdad.com,mediotiempo.com,motorpasion.com,motorpasionmoto.com,pymesyautonomos.com,salvajes.com,telecinco.es,trendencias.com,trendenciashombre.com,vidaextra.com,vitonica.com,xataka.com,xatakaciencia.com,xatakafoto.com,xatakahome.com,xatakamovil.com,xatakandroid.com,xatakawindows.com##.ad
 redgol.cl,wildtangent.com##.ad-container
-autoblog.com.ar##.ad-header-right
 marca.com##.ad-item-bt-cont
 juegosdecanciones.net##.ad-latest
 arbolabc.com##.ad-leaderboard-row
@@ -950,7 +950,7 @@ ole.com.ar##a[href="https://www.youtube.com/watch?v=IZPtel51MlA"]
 noticiacristiana.com##a[href='http://iglesiasegura.com/']
 teknofilo.com##a[href^="//clk.tradedoubler.com/click?"]
 adlipay.com##a[href^="/away.php?"]
-autoblog.com.ar,microsiervos.com##a[href^="http://bit.ly/"]
+microsiervos.com##a[href^="http://bit.ly/"]
 cuatro.com,telecinco.es##a[href^="http://premiercasino.es/"]
 pelisplus.tv##a[href^="http://www.maxonclick.com/"]
 mastercoria.com##a[href^="https://alertlogsemployer.com"]
