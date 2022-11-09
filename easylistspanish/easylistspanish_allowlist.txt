@@ -83,7 +83,6 @@
 @@||elperiodico.cat^$generichide
 @@||elrellano.com^$generichide
 @@||elsate.com^$generichide
-@@||estaticos.muyinteresante.es/bundles/nogoffrontend/js/custom/ads.js
 @@||euribor.com.es^$generichide
 @@||exclusivomen.com/jsad/advertisement.js$xmlhttprequest
 @@||foro.nmn900.net/_nmn900/adsbygoogle.js$script,domain=foro.nmn900.net
@@ -117,7 +116,6 @@
 @@||mialojamiento.es^$generichide
 @@||mundodesconocido.es^$generichide
 @@||mundokodi.com^$generichide
-@@||muyinteresante.es/js/ads.js$script,domain=muyinteresante.es
 @@||mzsimg.com/js/ads.js$script,third-party,domain=muyzorras.com
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=artesacro.org|elsate.com|mialojamiento.es
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=artesacro.org|elsate.com|mialojamiento.es

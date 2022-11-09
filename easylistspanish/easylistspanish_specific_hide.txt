@@ -725,9 +725,6 @@ blancas.cl,paginasblancas.com.ar,paginasblancas.com.pe##.m-pod-promo-image
 eltiempo.es##.m_gollum
 tandildiario.com##.mainContainerBanner
 maracodigital.net##.margenpublicidad
-miarevista.es##.mega--desktop
-miarevista.es,muyinteresante.es##.mega1
-miarevista.es,muyinteresante.es##.mega2
 publico.es##.megabanner-container
 horadeopinion.com.ar##.ml-slider
 atresplayer.com##.mod_roba
@@ -801,7 +798,6 @@ tot-hospitalet.cat##.publicitat-banner
 loventine.com.ar,loventine.es##.publicity
 maracodigital.net##.publicolumna
 noticiasdel6.com##.publii
-intereconomia.tv##.pum-overlay
 as.com##.qtcd_pt
 as.com##.qtcd_wt
 salpimenta.com.ar##.quadro-ads-widget-1col
@@ -811,10 +807,6 @@ planv.com.ec##.region-pv1-superior-amplia
 expansion.com##.retargetting
 eldeber.com.bo##.rightSidebar
 diariosur.es,diariovasco.com,digitalcamera.es,e-noticies.cat,elcomercio.es,elcorreo.com,eldiariomontanes.es,elnortedecastilla.es,gonzoo.com,hoy.es,ideal.es,larioja.com,lasprovincias.es,laverdad.es,leonoticias.com,primeralinea.es,publico.es##.roba
-muyinteresante.es##.roba1
-muyinteresante.es##.roba1_movil
-muyinteresante.es##.roba2
-muyinteresante.es##.roba2_movil
 laveu.cat##.row-publi-portada
 contextoganadero.com##.rteright
 lapoliticaonline.com##.section-banner
