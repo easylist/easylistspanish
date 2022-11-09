@@ -73,6 +73,7 @@ latercera.com##.branded-sponsor
 eldoce.tv##.branding-wrapper
 mariskalrock.com##.brave_popup
 futbolred.com##.btn_betplay
+miarevista.es,serpadres.es##.c-add
 elpais.com##.c-bra
 cadenaser.com##.c-s > div
 elpais.com##.c.c-pfb.c--m
