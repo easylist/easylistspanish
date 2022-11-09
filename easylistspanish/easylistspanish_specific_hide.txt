@@ -3,7 +3,9 @@ diariodelaribera.net###bannercabeceravideo
 noticiasyprotagonistas.com###banners
 eleconomista.es###banners-superiores
 ondavasca.com###billboard-wrapper
+elrellano.com###block-2
 blog.facialix.com###block-29
+elrellano.com###block-3
 ancient-origins.es###block-block-17
 ancient-origins.es###block-block-39
 ancient-origins.es###block-block-43
@@ -86,6 +88,11 @@ cadenaser.com##.c-s > div
 elpais.com##.c.c-pfb.c--m
 vivanolamag.com##.client-logo-slider
 eltiempo.es##.cls-publi-height
+elrellano.com##.code-block-1
+elrellano.com##.code-block-18
+elrellano.com##.code-block-4
+elrellano.com##.code-block-6
+elrellano.com##.code-block-9
 deia.eus,noticiasdealava.eus,noticiasdegipuzkoa.eus,noticiasdenavarra.com##.commercial-up-full
 retinatendencias.com##.concintillo
 vilaweb.cat##.container-banner-header
@@ -241,7 +248,6 @@ lacuerda.net###ban300
 lacuerda.net###ban728
 lacuerda.net###banTxt
 fmvida.com.ar,inmonauta.es,lapoliticaonline.com.mx###banner
-elrellano.com###banner-ficha
 viralizalo.com###banner-mega
 perfil.com###banner990
 diariotextual.com###bannerDiv
@@ -783,7 +789,7 @@ paginasamarillas.es##.publi-sidebar-listado
 elonce.com##.publi-top
 meristation.as.com,meristation.com.mx##.publi1
 elespanol.com##.publi_intext2
-0221.com.ar,animekb.com,carasycaretas.org.ar,diario.mx,dinero.com,eldeportivo.com.co,elrellano.com,eltribuno.info,expansion.com,gonzoo.com,iahorro.com,laizquierdadiario.com,latercera.com,mundoejecutivo.com.mx,okdiario.com,publico.es,semana.com,supercines.com##.publicidad
+0221.com.ar,animekb.com,carasycaretas.org.ar,diario.mx,dinero.com,eldeportivo.com.co,eltribuno.info,expansion.com,gonzoo.com,iahorro.com,laizquierdadiario.com,latercera.com,mundoejecutivo.com.mx,okdiario.com,publico.es,semana.com,supercines.com##.publicidad
 brujuladigital.net##.publicidad-l
 elretratodehoy.com.ar##.publicidad_nota
 lesportiudecatalunya.cat##.publicitat

@@ -65,7 +65,6 @@
 @@||eestatic.com/assets_js/dyn/adiframe.js
 @@||eestatic.com/assets_js/dyn/adsiframe.js$script,domain=elespanol.com
 @@||elperiodico.cat^$generichide
-@@||elrellano.com^$generichide
 @@||elsate.com^$generichide
 @@||euribor.com.es^$generichide
 @@||exclusivomen.com/jsad/advertisement.js$xmlhttprequest
