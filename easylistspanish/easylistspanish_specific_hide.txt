@@ -196,11 +196,7 @@ yorokobu.es#?#.quicklink_w100:-abp-has(.publi-tag:-abp-contains(AD))
 puromarketing.com###AdsTextHomeCenter
 puromarketing.com###AdsTextHomeMultiple
 forocoches.com###AutoNumber30
-pcbolsa.com###Conten
-pcbolsa.com###ContenidoPubliCotiza
 diariopopular.com.ar###OBJETO861 > .ad-obj
-pcbolsa.com###PubliBlog
-pcbolsa.com###PubliBlogAbajo
 pepecine.info,pepecine.tv###SlideMenu1:nth-of-type(2) + h2
 pepecine.info,pepecine.tv###ad
 foroparalelo.com###ad_global_below_navbar
@@ -428,8 +424,6 @@ guadairainformacion.com##.Banner300x100
 globalasia.com##.BannerColumna
 globalasia.com##.BannerHeader_Contenedor
 juegosjuegos.com##.Banners-lateral
-pcbolsa.com##.ContenidoClassPubliCotiza
-pcbolsa.com##.ContenidoClassPubliForo300
 bluradio.com,caracoltv.com,shock.co##.GoogleDfpAd-Content
 hipertextual.com##.M50B--md
 eldefinido.cl##.RP
@@ -1090,7 +1084,6 @@ astrologiaenlinea.com##td[width="728"][height="90"]
 pelisplay.co##tr[data-lang="Publicidad"]
 ! Site Specific filters (used with $generichide)
 ! Anti-Adblock
-pcbolsa.com###Blokmnju
 diariodenavarra.es###abMsgWrap
 vergol.com,verliga.net###adb-enabled
 huelva24.com###adblockadvice

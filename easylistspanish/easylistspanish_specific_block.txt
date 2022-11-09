@@ -533,7 +533,6 @@ $third-party,xmlhttprequest,domain=estoesporno.com|estrenosdtl.com|gamestorrents
 ||okdiario.com/app/4/js/check-blocker.js
 ||opanoticias.com/assets/imgs/banner/
 ||opanoticias.com/img/uccnoviembre
-||pcbolsa.com/css/Rasted.js
 ||pieldetoro.net/web/imagen/
 ||pormega.com/dark-hat-*/
 ||prensalibrecasanare.com/b202*/
