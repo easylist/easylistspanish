@@ -57,7 +57,7 @@ insideevs.com.ar##.apb
 lavanguardia.com##.article-module-sponsored
 20minutos.es##.axds
 lectuepubgratis.com##.bam-topbar
-alicanteplaza.es,c5n.com,castellonplaza.com,donbalon.com,econojournal.com.ar,guarda14.com,lavoz.com.ar,losandes.com.ar,motor.com.co,tntsports.cl,tntsports.com.ar,tvynovelas.com,valenciaplaza.com,viapais.com.ar##.banner
+alicanteplaza.es,c5n.com,castellonplaza.com,donbalon.com,econojournal.com.ar,elplural.com,guarda14.com,lavoz.com.ar,losandes.com.ar,motor.com.co,tntsports.cl,tntsports.com.ar,tvynovelas.com,valenciaplaza.com,viapais.com.ar##.banner
 iprofesional.com##.banner-2
 clarin.com,ole.com.ar##.banner-border
 tycsports.com##.banner-bottom
@@ -157,6 +157,7 @@ eleconomista.es##.railContainer3
 fotocasa.es##.re-AdvertisingDominanceNative
 directoalpaladar.com,motorpasion.com,motorpasion.com.mx,trendenciashombre.com,vidaextra.com,xataka.com##.related-native-item
 diariodenavarra.es##.roba
+elplural.com##.row-sky-banners
 burbuja.info##.samCodeUnit
 cuevana.pro,pelispedia.la##.section-cpa
 directoalpaladar.com,trendenciashombre.com,vidaextra.com,xataka.com##.section-native-container
@@ -506,7 +507,7 @@ htcmania.com##.afterlogo
 jugarbet.com##.ai-dynamic
 libremercado.com##.ampliacion
 seguimiento.co##.anpub
-diarioresponsable.com,elplural.com,esmtb.com##.anuncio
+diarioresponsable.com,esmtb.com##.anuncio
 educaplay.com##.anuncioAlt
 androidpit.es##.appSlider
 libertaddigital.com##.apuestas
@@ -1094,7 +1095,6 @@ astrologiaenlinea.com##td[width="728"][height="90"]
 pelisplay.co##tr[data-lang="Publicidad"]
 ! Site Specific filters (used with $generichide)
 ! Anti-Adblock
-diariodenavarra.es###abMsgWrap
 vergol.com,verliga.net###adb-enabled
 huelva24.com###adblockadvice
 noticiasrcn.com###ads-inread
