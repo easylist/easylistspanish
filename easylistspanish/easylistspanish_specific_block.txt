@@ -1,6 +1,7 @@
 ||ansalatina.com/americalatina/images/banner/
 ||cinetux.nu/api/spots/
 ||clivertv.xyz/assets/img/suscripcion.png
+||clm21.es/anuncios/
 ||descargasdd.org/images/amazon.gif
 ||diariodelaribera.net/imagenes/banner
 ||elperiodico.cl/wp-content/uploads/*/banner-
