@@ -6,6 +6,7 @@
 ||cuencanews.es/anuncios/
 ||descargasdd.org/images/amazon.gif
 ||diariodelaribera.net/imagenes/banner
+||diariodeteruel.es/uploads/diariodeteruel/promos/
 ||elperiodico.cl/wp-content/uploads/*/banner-
 ||habimg.com/hab_banners/$domain=habitaclia.com
 ||mil21.es/anuncios/
@@ -136,7 +137,6 @@
 ||diagonales.com/Multimedios/Ads/
 ||diariocorreo.pe/static/diariocorreo_redesign/img/manual-del-exportador.jpg
 ||diariodesevilla.es/2016/11/09/botones_fijos/movistar-deportes_1079902371_60088437_246x27.png
-||diariodeteruel.es/banners/imgbanner/
 ||diariodetorremolinos.com/_uploads/imgBanners/
 ||diarioeldia.cl/banner/
 ||diarioeldia.cl/interstitial*.js

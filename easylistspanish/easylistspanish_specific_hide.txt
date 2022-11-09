@@ -20,10 +20,13 @@ hola.com###div-hola-slot-robainferior
 hola.com###div-hola-slot-robapaginas
 elnacional.com###en_nd_home_flat_2
 elnacional.com###en_nd_home_flat_3
+diariodeteruel.es###leftbanner
 bemad.es,cuatro.com,divinity.es,energytv.es,factoriadeficcion.com,mtmad.es,niusdiario.es,telecinco.es,uppers.es,yasss.es###megaSuperior_multisite
+diariodeteruel.es###mvp-leader-wrap
 qmusica.tv###promo
 qmusica.tv###promoSept19A
 qmusica.tv###promoSept19B
+diariodeteruel.es###rightbanner
 lostiempos.com###takeover-desktop-counter
 lostiempos.com###takeover-movil-counter
 planbnoticias.com.ar###text-4
