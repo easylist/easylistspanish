@@ -120,7 +120,6 @@
 ||comparador.euribor.com.es/lanzadera/retargetting/
 ||conjugacion.es/img/mosalingua/
 ||contextotucuman.com//banners/
-||corporacionwarez.com/wp-content/uploads/$script
 ||cronista.com/arte/pcwlogo.png
 ||css01.lavanguardia.com/imagenes/cajaHTML/loterias.gif
 ||cualesmiip.com/images/banner
@@ -222,7 +221,6 @@
 ||hoyaragon.es/wp-content/uploads/*arvesa
 ||huelva24.com/upload/img/periodico/*.gif
 ||i.imgur.com/Yqo2mgc.jpg
-||identi.li/cacho/license*.js$script
 ||imagenes.aquienlasierra.es/2019/
 ||imagenes.aquienlasierra.es/2020/
 ||imagenes.aquienlasierra.es/2021/
@@ -283,7 +281,6 @@
 ||libertaddigital.com/fragmentos/movistarplus.html
 ||librefutbol.com/z-
 ||lifezona.com/public_data/img/banners/
-||linuxseguridad.com/random.json
 ||lostiempos.com/sites/default/files/takeover/desktop/$image
 ||loteriasmundiales.com.ar/images/columna_publi_2/anuncie_aqui2.gif
 ||loteriasmundiales.com.ar/images/loterias/banners/
@@ -475,7 +472,6 @@
 ||yucatan.com.mx/wp-content/uploads/*/*/banner
 ||zapping.live/images/uploads/banners/zapping-*.gif^
 ||zetaestaticos.com/comun/upload/0/628/628692.jpg
-||zeulo.anime-extremo.com^
 ! Webrtc ads
 $webrtc,domain=allpeliculas.com|booksmedicos.org|dompl3.info|gnula.biz|jkanime.net|pelispedia.tv
 ! blob ads

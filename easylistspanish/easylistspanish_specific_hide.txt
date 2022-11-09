@@ -607,7 +607,6 @@ vix.com##.block-crvt-adbtgmedia
 planetabocajuniors.com.ar##.bloque-secondary
 esmtb.com##.bloque_anun
 diariolaprovinciasj.com,infofueguina.com,pilaradiario.com##.bnn
-anime-extremo.com##.bnr
 mundodeportivo.com##.bolarosa
 pelisadicto.com##.box
 clarin.com##.box-adv
