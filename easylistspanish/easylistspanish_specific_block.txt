@@ -323,7 +323,6 @@
 ||noticias3d.com/imagenes/banners/
 ||noticiasdel6.com/*.gif
 ||noticiasdelaciencia.com/upload/img/periodico/img_2972.jpg
-||noticiasyprotagonistas.com/wp-content/uploads/*.gif
 ||notifalcon.com/wp-content/uploads/*/cropped*.jpg
 ||nueva-ciudad.com.ar/advf/imagenes/*.gif
 ||nueva-ciudad.com.ar/advf/imagenes/2016/09/57eaba064c5fc.png

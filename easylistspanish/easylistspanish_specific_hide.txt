@@ -1,5 +1,6 @@
 marca.com###Patrocinio
 diariodelaribera.net###bannercabeceravideo
+noticiasyprotagonistas.com###banners
 eleconomista.es###banners-superiores
 ondavasca.com###billboard-wrapper
 blog.facialix.com###block-29
