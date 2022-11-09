@@ -31,7 +31,7 @@
 @@.gif#$image,domain=cinestrenostv.tv|clasicotas.org
 @@.png#$image,domain=fullpremiums.com|todotumac.com
 @@.png?*#/$image,domain=pajaslocas.com
-@@/comun/js/2014/adfr*.js$script,~third-party,domain=diariosur.es|diariovasco.com|elcomercio.es|elcorreo.com|eldiariomontanes.es|elnortedecastilla.es|hoy.es|ideal.es|larioja.com|lasprovincias.es|laverdad.es|leonoticias.com
+@@/comun/js/2014/adfr*.js$script,~third-party,domain=diariosur.es|diariovasco.com|elcomercio.es|elcorreo.com|eldiariomontanes.es|elnortedecastilla.es|hoy.es|ideal.es|larioja.com|lasprovincias.es|leonoticias.com
 @@/elementosWeb/js/ads.js$script,~third-party,domain=diaridegirona.cat|diariodeibiza.es|diariodemallorca.es|diarioinformacion.com|emporda.info|farodevigo.es|laopinion.es|laopinioncoruna.es|laopiniondemalaga.es|laopiniondemurcia.es|laopiniondezamora.es|laprovincia.es|levante-emv.com|mallorcazeitung.es|regio7.cat|superdeporte.es
 @@/rsc/js/ads-godo.js$script,~third-party,domain=lavanguardia.com|mundodeportivo.com
 @@/servicios/ads/dfp.js$script,~third-party,domain=diaridegirona.cat|diariodeibiza.es|diariodemallorca.es|diarioinformacion.com|emporda.info|farodevigo.es|laopinion.es|laopinioncoruna.es|laopiniondemalaga.es|laopiniondemurcia.es|laopiniondezamora.es|laprovincia.es|levante-emv.com|mallorcazeitung.es|regio7.cat|superdeporte.es

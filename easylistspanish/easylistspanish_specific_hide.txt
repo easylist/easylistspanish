@@ -170,6 +170,7 @@ aristeguinoticias.com##.topleader
 autopista.es##.transfer-container
 elmundo.es##.ue-c-cover-content--is-branded
 eltiempo.es##.v-banner
+laverdad.es##.voc-home-branded-naked
 naciodigital.cat##.zona-ajbcn
 naciodigital.cat##.zona-lacaixa
 carrefour.es##[id*="-sponsored_products-"]
@@ -806,7 +807,7 @@ televisa.com##.rapid_banner_sidebar
 planv.com.ec##.region-pv1-superior-amplia
 expansion.com##.retargetting
 eldeber.com.bo##.rightSidebar
-diariosur.es,diariovasco.com,digitalcamera.es,e-noticies.cat,elcomercio.es,elcorreo.com,eldiariomontanes.es,elnortedecastilla.es,gonzoo.com,hoy.es,ideal.es,larioja.com,lasprovincias.es,laverdad.es,leonoticias.com,primeralinea.es,publico.es##.roba
+diariosur.es,diariovasco.com,digitalcamera.es,e-noticies.cat,elcomercio.es,elcorreo.com,eldiariomontanes.es,elnortedecastilla.es,gonzoo.com,hoy.es,ideal.es,larioja.com,lasprovincias.es,leonoticias.com,primeralinea.es,publico.es##.roba
 laveu.cat##.row-publi-portada
 contextoganadero.com##.rteright
 lapoliticaonline.com##.section-banner
