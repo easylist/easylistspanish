@@ -3,7 +3,10 @@ diariodelaribera.net###bannercabeceravideo
 eleconomista.es###banners-superiores
 ondavasca.com###billboard-wrapper
 blog.facialix.com###block-29
+ancient-origins.es###block-block-17
+ancient-origins.es###block-block-39
 ancient-origins.es###block-block-43
+ancient-origins.es###block-block-50
 winsports.co###block-wplay
 ccma.cat###contenidor_megabanner
 forococheselectricos.com###custom_html-17
