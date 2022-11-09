@@ -23,8 +23,6 @@ slumi.com###anuncio_pancarta_campaign
 donlgbt.com###banner-superior
 videosdemadurasx.com###pBrazzers
 videosdemadurasx.com###pSponsor
-spalumi.com###topbar
-spalumi.com##.advertisement + .tborder
 videosporno.name##.bnfo
 maduras.xxx##.bnpub
 putalocura.com##.c-banner-webcams
@@ -36,12 +34,7 @@ muyzorras.com##.pds
 doncolombia.com##.samBannerUnit
 torrentesx.com##.slide
 mileroticos.com##[data-l^=" pub"]
-spalumi.com##[href^="https://secretovalencia.com/"]
-spalumi.com##[href^="https://www.hescort.com/"]
-spalumi.com##[href^="https://www.mileroticos.com/"]
-spalumi.com##a[href*="http://www.adcean.com/"]
 esaschicas.com##a[href^="https://esaschicas.com/rbs_banner.php?"]
 selafollan.com##a[href^="https://telelatinotv.page.link/"]
 famosateca.es##div[align^="center"]
-spalumi.com##marquee
 videospornogratisx.net#?#div:-abp-has(>h3:-abp-contains(CHAT PORNO X))

@@ -18,6 +18,5 @@
 !
 /^https?:\/\/[0-9a-z]{8,}\.com\/.*/$~media,third-party,domain=hispasexy.org|pornotorrent.es|pornstarsyfamosas.es
 !
-/^https?:\/\/spalumi\.com\/\w+\.[a-z]{3}/$image,domain=spalumi.com
 ||paraisowebcam.com/*banner
 ||paraisowebcam.com^$subdocument,third-party
