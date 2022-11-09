@@ -24,7 +24,6 @@ bemad.es,cuatro.com,divinity.es,energytv.es,factoriadeficcion.com,mtmad.es,niusd
 qmusica.tv###promo
 qmusica.tv###promoSept19A
 qmusica.tv###promoSept19B
-naciodigital.cat###publicolumna
 lostiempos.com###takeover-desktop-counter
 lostiempos.com###takeover-movil-counter
 planbnoticias.com.ar###text-4
@@ -150,7 +149,6 @@ esdiario.com##.publi-top
 pensem.cat##.publi_interpagina
 lawebdelprogramador.com##.publi_robapaginas
 areajugones.sport.es,generacionuniversitaria.com.mx,iberempleos.es,lavozdealmeria.com,meteored.cl,meteored.com.ar,meteored.mx,neomotor.com,tiempo.com##.publicidad
-naciodigital.cat##.publicolumna
 eleconomista.es##.railContainer1
 eleconomista.es##.railContainer3
 fotocasa.es##.re-AdvertisingDominanceNative
@@ -795,7 +793,6 @@ elretratodehoy.com.ar##.publicidad_nota
 lesportiudecatalunya.cat##.publicitat
 tot-hospitalet.cat##.publicitat-banner
 loventine.com.ar,loventine.es##.publicity
-maracodigital.net##.publicolumna
 noticiasdel6.com##.publii
 as.com##.qtcd_pt
 as.com##.qtcd_wt

@@ -10,6 +10,7 @@
 ###noticias-publicidad-4
 ###noticias-publicidad-5
 ###noticias-publicidad-6
+###publicolumna
 ##.PubliDereFlo
 ##.PubliIzquiFlo
 ##.PublicidadArriba
@@ -27,6 +28,7 @@
 ##.publicidad-pie
 ##.publicidad_cabecera
 ##.publicidad_dfp
+##.publicolumna
 ##.ue-c-ad
 ##.voc-advertising
 ##.voc-article--sponsored
