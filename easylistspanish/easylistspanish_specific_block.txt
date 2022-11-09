@@ -6,6 +6,7 @@
 ||diariodelaribera.net/imagenes/banner
 ||elperiodico.cl/wp-content/uploads/*/banner-
 ||habimg.com/hab_banners/$domain=habitaclia.com
+||mil21.es/anuncios/
 ||minube.click^
 ||notebookcheck.org/fileadmin/Sonstiges/amaz_$xmlhttprequest
 ||pelispop.info/EkBG80SP.js

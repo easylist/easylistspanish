@@ -190,6 +190,7 @@ eltiempo.com#?#.main-article-container-patr:-abp-has(.contenido-comercial)
 eltiempo.com#?#.main-article-container-patr:-abp-has(.mas-contenido:-abp-contains(Más Contenido))
 forocoches.com#?##sidebar > div > section:-abp-has(.fixed_adslot)
 forocoches.com#?##sidebar > section:-abp-has(.fixed_adslot)
+mil21.es#?#td[class*="id_publi_"]:-abp-has(a[href^="https://www.amazon.es/"])
 photocall.tv#?#.dropdown:-abp-has(label:-abp-contains(VPN))
 yorokobu.es#?#.quicklink_w100:-abp-has(.publi-tag:-abp-contains(AD))
 !
