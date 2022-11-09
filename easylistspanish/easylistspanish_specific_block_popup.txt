@@ -7,7 +7,6 @@ $popup,third-party,domain=embedsito.com|fembad.net|fembed.com|feurl.com|hqq.to|h
 ||animatedshows.to/*/ashows$popup
 ||badsways.com^$popup,third-party,domain=pelisplay.co
 ||bang-4-buck.com^$popup
-||bit.ly^$popup,domain=verpeliculasenlatino.com
 ||cine24.online/ads/$popup
 ||click.expmediadirect1.com^$popup
 ||esplay.io/*.webp^$popup,domain=cuevanahd.net
@@ -19,7 +18,6 @@ $popup,third-party,domain=embedsito.com|fembad.net|fembed.com|feurl.com|hqq.to|h
 ||pepeliculas.org/mira-video1^$popup
 ||pornmediaxxx.net^$popup
 ||ruralvia.com^$popup,domain=horajaen.com
-||t.co^$popup,domain=verpeliculasenlatino.com
 ||uqload.com/img/player_logo.png^$popup
 ||waaw.*/out.php^$popup
 ! about:blank popups

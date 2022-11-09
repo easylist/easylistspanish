@@ -486,7 +486,6 @@ periodistadigital.com,realovirtual.com,tribunaavila.com,tribunaburgos.com,tribun
 desdesoria.es##.advertising-corte-interstitial
 diarioadn.co##.advertising-news
 20minutos.com,20minutos.com.mx,20minutos.es##.adx
-mangas-en-pdf.blogspot.com##.afiliados
 vibbo.com##.afs-block
 htcmania.com##.afterlogo
 jugarbet.com##.ai-dynamic
@@ -499,13 +498,11 @@ libertaddigital.com##.apuestas
 perfil.com##.ark-ad-block
 elespanol.com##.article-adv
 planetabocajuniors.com.ar##.article-banner
-windowscracker1.blogspot.com.es##.at4-whatsnext-outer-container
 larepublica.pe##.atm-banner-middle
 larepublica.pe##.atm-banner-strip
 larepublica.pe##.atm-banner-top
 animeid.io##.avm
 costacadizcomunicacion.es##.b-2
-es.gearbest.com##.back-top-banner
 cadena3.com##.baner300x250
 cadena3.com##.baner630x250
 cadena3.com##.baner960x50

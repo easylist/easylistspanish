@@ -171,7 +171,6 @@
 ||eldiariodemadryn.com/wp-content/themes/ElDiario_2017_bootstrap/images/Ecoplas-Banner-300x250px-1.gif
 ||eldiarionuevodia.com.ar/u/banners/
 ||eldivisadero.cl/media/banner/
-||elitegol.com/media/oficial.png
 ||elmundo.es^*/patrocinador/
 ||elpatagonico.com/adjuntos/193/banners/
 ||elpuntodeequilibrio.com/assets/banners/
@@ -451,7 +450,6 @@
 ||verepeliculas.com/dowload/MusicaBANNER.gif^
 ||verliga.net/imagenes/cruz.jpg
 ||verliga.net/publiverliga.html
-||verpeliculasenlatino.com/player/show.php
 ||vertdtgratis.es/publi1.html
 ||vertdtgratis.es/publi2.html
 ||vertdtgratis.es/publi23.html
@@ -486,7 +484,7 @@ $webrtc,domain=allpeliculas.com|booksmedicos.org|dompl3.info|gnula.biz|jkanime.n
 /^https?:\/\/[0-9a-z]{8,}.[0-9a-z]{8,}\.com\//$script,domain=animefenix.com|hispasexy.org|manga-mx.com|serielatinobobesponja.com|series-de.online
 /^https?:\/\/[a-z0-9]+\.cloudfront\.net\/\?[a-z]{5}\=\d{6}$/$script,third-party
 ! Third party script
-$script,third-party,domain=estoesporno.com|gamestorrents.com|moviesdvdr.com|novelasenlinea.net|shippuden.tv|submanga.org|subtorrents.com|todocvcd.com|torrentesx.com|xtremo.net|xtremostereo.net
+$script,third-party,domain=estoesporno.com|gamestorrents.com|moviesdvdr.com|novelasenlinea.net|shippuden.tv|submanga.org|subtorrents.com|todocvcd.com|torrentesx.com|xtremostereo.net
 ! Third party xmlhttprequest
 $third-party,xmlhttprequest,domain=estoesporno.com|gamestorrents.com|moviesdvdr.com|subtorrents.com|todocvcd.com|torrentesx.com
 ! Anti-Adblock
