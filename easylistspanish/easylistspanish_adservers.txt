@@ -1,5 +1,6 @@
 ||brand.ad^$third-party
 ||butlercdn.com^$third-party
+||evolutionadv.it^$third-party
 ||premiumleads.com^$third-party
 ||reypelis.tv^$third-party
 ||tpid.es^$third-party
