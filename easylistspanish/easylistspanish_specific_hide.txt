@@ -148,6 +148,7 @@ naciodigital.cat##.zona-ajbcn
 naciodigital.cat##.zona-lacaixa
 carrefour.es##[id*="-sponsored_products-"]
 manomano.es##a[class*="sponsoredProductCard"]
+kissfm.es##a[href*="/linkout/"]
 animeid.tv##a[href*="leadzupc.com/"]
 pelisplus.lat##a[href^="https://bit.ly/"]
 anisearch.es##a[href^="https://www.amazon."][href*="tag="]
