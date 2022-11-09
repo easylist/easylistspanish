@@ -54,6 +54,7 @@ tycsports.com##.banner-bottom
 agroclave.com.ar,lacapital.com.ar##.banner-box
 elnueve.com.ar##.banner-box-container
 noticiasurbanas.com.ar##.banner-center
+revistacar.es##.banner-container
 iprofesional.com##.banner-horizontal
 diariodecuyo.com.ar##.banner-lanusse
 a24.com,diariouno.com.ar,lared.am##.banner-libre
