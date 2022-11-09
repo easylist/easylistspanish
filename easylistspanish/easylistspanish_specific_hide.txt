@@ -93,7 +93,9 @@ winsports.co##.goles_acero_banner
 diariodemallorca.es##.grp--branded-style
 habitaclia.com##.gtmclickpromo
 milanuncios.com##.has-advertisement
+marie-claire.es,muyhistoria.es,muyinteresante.es,muynegociosyeconomia.es##.henneoHB
 lavoz.com.ar##.imgSponsor
+marie-claire.es,muyhistoria.es,muyinteresante.es,muynegociosyeconomia.es##.js-ads-not-visible
 diariodelaribera.net##.lateralderecho
 diariodelaribera.net##.lateralizquierdo
 adslzone.net##.leaderboard
@@ -105,6 +107,7 @@ infopico.com##.marco-publicidad
 empresite.eleconomista.es##.mauto.textcenter.mb20.mt20
 esdiario.com##.media-ajust-tablet-publi-top
 abc.es##.mega-superior
+marie-claire.es,muyhistoria.es,muyinteresante.es,muynegociosyeconomia.es##.megaBanner
 meteored.cl,meteored.com.ar,meteored.mx,tiempo.com##.megabanner
 caracol.com.co##.mh266-100
 diariodevalderrueda.es##.minibanner_content
