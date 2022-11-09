@@ -110,7 +110,7 @@ winsports.co##.goles_acero_banner
 diariodemallorca.es##.grp--branded-style
 habitaclia.com##.gtmclickpromo
 milanuncios.com##.has-advertisement
-marie-claire.es,muyhistoria.es,muyinteresante.es,muynegociosyeconomia.es##.henneoHB
+diariodenavarra.es,marie-claire.es,muyhistoria.es,muyinteresante.es,muynegociosyeconomia.es##.henneoHB
 lavoz.com.ar##.imgSponsor
 marie-claire.es,muyhistoria.es,muyinteresante.es,muynegociosyeconomia.es##.js-ads-not-visible
 diariodelaribera.net##.lateralderecho
@@ -156,6 +156,7 @@ eleconomista.es##.railContainer1
 eleconomista.es##.railContainer3
 fotocasa.es##.re-AdvertisingDominanceNative
 directoalpaladar.com,motorpasion.com,motorpasion.com.mx,trendenciashombre.com,vidaextra.com,xataka.com##.related-native-item
+diariodenavarra.es##.roba
 burbuja.info##.samCodeUnit
 cuevana.pro,pelispedia.la##.section-cpa
 directoalpaladar.com,trendenciashombre.com,vidaextra.com,xataka.com##.section-native-container
