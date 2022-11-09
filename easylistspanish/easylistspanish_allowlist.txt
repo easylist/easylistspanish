@@ -57,8 +57,6 @@
 @@||akamaihd.net/defaultview/adjs.js$script,third-party,xmlhttprequest,domain=mitele.es
 @@||akamaihd.net/dist/assets/nonAdBlock/$script,third-party,xmlhttprequest,domain=mitele.es
 @@||akamaihd.net/letrascom/static/js/ads.*.js$script,third-party,domain=letras.com
-@@||animeflv.ru/assets/animeflv/js/ads.js$script
-@@||animeflv.ru/assets/vast/videojs.ads.min.js$script
 @@||animextre.me/js/fuckadblock.js$script,~third-party
 @@||animextre.me/js/showads.js$script,~third-party
 @@||animextre.me^$generichide

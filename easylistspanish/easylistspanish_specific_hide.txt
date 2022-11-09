@@ -1162,7 +1162,6 @@ berjadigital.es##.g-dyn
 periodicoeldiario.com##.hustle-popup
 elcolombiano.com##.intelectoslidercabecera
 dataifx.com##.itau-banner
-animeflv.tv##.mn-thumb
 lanacion.com.ar##.mod-banner
 softoniclabs.com##.oxy-modal-backdrop
 microsiervos.com##.pb-tag
