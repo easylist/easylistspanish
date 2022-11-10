@@ -74,6 +74,7 @@ diariodelaribera.net##.bannerColumnas
 elperiodicodeaqui.com##.banner_lat
 eleconomista.es##.banners-superiores2
 iproup.com##.bannerwide
+gastrolabweb.com##.bnn
 diariodecuyo.com.ar##.bnr
 eltiempo.com##.board-tu-negocio
 flashscore.es##.boxOverContent__banner
