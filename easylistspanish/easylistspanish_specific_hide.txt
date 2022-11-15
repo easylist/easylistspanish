@@ -1161,6 +1161,7 @@ berjadigital.es##.g-dyn
 periodicoeldiario.com##.hustle-popup
 elcolombiano.com##.intelectoslidercabecera
 dataifx.com##.itau-banner
+lanacion.com.ar##.logos-wrap
 lanacion.com.ar##.mod-banner
 softoniclabs.com##.oxy-modal-backdrop
 microsiervos.com##.pb-tag
