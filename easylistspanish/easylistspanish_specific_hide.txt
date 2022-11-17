@@ -84,6 +84,7 @@ eldiario.es##.branded-content
 latercera.com##.branded-sponsor
 eldoce.tv##.branding-wrapper
 mariskalrock.com##.brave_popup
+terremoto.mx##.break_patrocinadores
 futbolred.com##.btn_betplay
 miarevista.es,serpadres.es##.c-add
 elpais.com##.c-bra
