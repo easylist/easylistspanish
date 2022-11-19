@@ -177,7 +177,7 @@ aristeguinoticias.com##.topleader
 autopista.es##.transfer-container
 elmundo.es##.ue-c-cover-content--is-branded
 eltiempo.es##.v-banner
-laverdad.es##.voc-home-branded-naked
+ideal.es,laverdad.es##.voc-home-branded-naked
 naciodigital.cat##.zona-ajbcn
 naciodigital.cat##.zona-lacaixa
 carrefour.es##[id*="-sponsored_products-"]
