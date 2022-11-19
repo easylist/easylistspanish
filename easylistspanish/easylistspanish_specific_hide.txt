@@ -49,8 +49,8 @@ buenazo.pe,elpopular.pe,eltiempo.com,hobbyconsolas.com,larepublica.pe,libero.pe,
 elperiodico.com,epe.es,sport.es##.add
 ondacero.es##.addContainer
 rpp.pe,uypress.net##.ads
-elcordillerano.com.ar##.adserver-zona
-elcordillerano.com.ar##.adserver-zona-zocalo
+anbariloche.com.ar,elcordillerano.com.ar##.adserver-zona
+anbariloche.com.ar,elcordillerano.com.ar##.adserver-zona-zocalo
 blog.facialix.com##.amazon-auto-links
 donbalon.com##.anuncio
 mangacrab.com##.anunciofooter
@@ -70,7 +70,7 @@ revistacar.es##.banner-container
 iprofesional.com##.banner-horizontal
 diariodecuyo.com.ar##.banner-lanusse
 a24.com,diariouno.com.ar,lared.am##.banner-libre
-elcordillerano.com.ar##.banner-simple
+anbariloche.com.ar,elcordillerano.com.ar##.banner-simple
 eltrecetv.com.ar##.banner-swap
 ciudad.com.ar,elcomercio.com,lmcipolletti.com,lmneuquen.com##.banner-wrapper
 diariodelaribera.net##.bannerColumnas
