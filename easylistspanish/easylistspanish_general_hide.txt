@@ -1,4 +1,5 @@
 ###Publi300600x
+###PublicidadSuperior
 ###audimaAdDesktop
 ###bloque-publicidad-1
 ###bloque-publicidad-2
