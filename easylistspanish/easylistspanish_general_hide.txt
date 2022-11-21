@@ -4,6 +4,7 @@
 ###bloque-publicidad-2
 ###bloque-publicidad-9
 ###bloque-publicidad-campania
+###ctl00_PublicidadSuperior
 ###noticias-publicidad-1
 ###noticias-publicidad-2
 ###noticias-publicidad-3
