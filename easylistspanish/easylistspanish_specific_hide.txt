@@ -40,7 +40,7 @@ andaluciainformacion.es,informacionalcalalareal.es,informacionpuentegenil.es,inf
 ccma.cat##.M-publicitat
 diaridegirona.cat,diariocordoba.com,diariodeibiza.es,diariodemallorca.es,eldia.es,elperiodicodearagon.com,elperiodicoextremadura.com,elperiodicomediterraneo.com,emporda.info,farodevigo.es,informacion.es,laopinioncoruna.es,laopiniondemalaga.es,laopiniondemurcia.es,laopiniondezamora.es,laprovincia.es,levante-emv.com,lne.es,regio7.cat,superdeporte.es##._mo_recs
 elperiodico.com##._mo_recs_cti
-aurora-israel.co.il##.a-single
+aurora-israel.co.il,teleamazonas.com##.a-single
 reparaciondecomputadoras.online##.aawp
 actualidadradio.com##.actua-widget
 elpais.com,fmdos.cl##.ad
