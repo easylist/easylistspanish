@@ -105,6 +105,7 @@ retinatendencias.com##.concintillo
 vilaweb.cat##.container-banner-header
 laarena.com.ar##.container-spot
 autopista.es##.containerBanner
+futbolred.com##.contenedor-logo-patrocinador
 meteored.cl,meteored.com.ar,meteored.mx,tiempo.com##.creatividad
 perfil.com##.d-xs-none.d-xxl-flex
 flashscore.es##.detailLeaderboard
@@ -145,6 +146,7 @@ diaridegirona.cat,diariocordoba.com,diariodeibiza.es,diariodemallorca.es,eldia.e
 naciodigital.cat,pensem.cat##.nou-publi-cap-home
 flashscore.es##.oddsPlacement
 autoscout24.es##.osa-as24-placeholder
+futbolred.com##.pauta-bk
 otakustv.com##.pestana_footer
 qmusica.tv##.promoTop
 esdiario.com##.pub-2
