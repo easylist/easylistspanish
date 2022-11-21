@@ -57,6 +57,7 @@ mangacrab.com##.anunciofooter
 insideevs.com.ar,iproup.com##.ap
 insideevs.com.ar##.apb
 lavanguardia.com##.article-module-sponsored
+elobservador.com.uy##.auspicios
 20minutos.es##.axds
 lectuepubgratis.com##.bam-topbar
 alicanteplaza.es,bienbonita.com,c5n.com,castellonplaza.com,donbalon.com,econojournal.com.ar,elplural.com,guarda14.com,lavoz.com.ar,losandes.com.ar,motor.com.co,tntsports.cl,tntsports.com.ar,tvynovelas.com,valenciaplaza.com,viapais.com.ar##.banner
@@ -137,6 +138,7 @@ diariodevalderrueda.es##.minibanner_content
 show.news##.mod.relatednews
 20minutos.es##.module-coupons
 eldebate.com##.module-free-html-ads
+elobservador.com.uy##.modulo_publi
 coches.net##.mt-AdvertisingRoadblock-top
 coches.net##.mt-Display--top
 gamezfull.com##.myButton
