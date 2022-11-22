@@ -78,6 +78,7 @@ anbariloche.com.ar,anroca.com.ar,elcordillerano.com.ar##.banner-simple
 eltrecetv.com.ar##.banner-swap
 ciudad.com.ar,elcomercio.com,lmcipolletti.com,lmneuquen.com##.banner-wrapper
 diariodelaribera.net##.bannerColumnas
+chilevision.cl##.banner_full
 elperiodicodeaqui.com##.banner_lat
 eleconomista.es##.banners-superiores2
 iproup.com##.bannerwide
