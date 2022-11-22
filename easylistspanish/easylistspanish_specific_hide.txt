@@ -21,6 +21,8 @@ hola.com###div-hola-slot-robapaginas
 elnacional.com###en_nd_home_flat_2
 elnacional.com###en_nd_home_flat_3
 diariodeteruel.es###leftbanner
+atacamaenlinea.cl###media_image-17
+atacamaenlinea.cl###media_image-30
 bemad.es,cuatro.com,divinity.es,energytv.es,factoriadeficcion.com,mtmad.es,niusdiario.es,telecinco.es,uppers.es,yasss.es###megaSuperior_multisite
 diariodeteruel.es###mvp-leader-wrap
 qmusica.tv###promo
@@ -119,7 +121,9 @@ winsports.co##.goles_acero_banner
 diariodemallorca.es##.grp--branded-style
 habitaclia.com##.gtmclickpromo
 milanuncios.com##.has-advertisement
+atacamaenlinea.cl##.header-promotion
 diariodenavarra.es,marie-claire.es,muyhistoria.es,muyinteresante.es,muynegociosyeconomia.es##.henneoHB
+atacamaenlinea.cl##.home-featured-widgets
 lavoz.com.ar##.imgSponsor
 marie-claire.es,muyhistoria.es,muyinteresante.es,muynegociosyeconomia.es##.js-ads-not-visible
 diariodelaribera.net##.lateralderecho
@@ -220,7 +224,7 @@ laredpampeana.com.ar##img[height="705"]
 lapampadiaxdia.com.ar##img[height="728"]
 pescare.com.ar##img[height="735"]
 hortanoticias.com,libroscristianosgratis.net##img[width="250"]
-cinemascomics.com,diariotextual.com,hortanoticias.com,pcpro.es##img[width="300"]
+atacamaenlinea.cl,cinemascomics.com,diariotextual.com,hortanoticias.com,pcpro.es##img[width="300"]
 highxtar.com##img[width="300"][height="600"]
 planbnoticias.com.ar,transponder1200.com##img[width="336"]
 mododeporte.com##img[width="500"]
