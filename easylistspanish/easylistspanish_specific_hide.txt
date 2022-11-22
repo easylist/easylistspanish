@@ -121,7 +121,7 @@ winsports.co##.goles_acero_banner
 diariodemallorca.es##.grp--branded-style
 habitaclia.com##.gtmclickpromo
 milanuncios.com##.has-advertisement
-atacamaenlinea.cl##.header-promotion
+atacamaenlinea.cl,redmipaisnorte.cl##.header-promotion
 diariodenavarra.es,marie-claire.es,muyhistoria.es,muyinteresante.es,muynegociosyeconomia.es##.henneoHB
 atacamaenlinea.cl##.home-featured-widgets
 lavoz.com.ar##.imgSponsor
