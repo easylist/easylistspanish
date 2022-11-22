@@ -108,6 +108,7 @@ elrellano.com##.code-block-9
 deia.eus,noticiasdealava.eus,noticiasdegipuzkoa.eus,noticiasdenavarra.com##.commercial-up-full
 retinatendencias.com##.concintillo
 vilaweb.cat##.container-banner-header
+depor.com##.container-publicidad
 laarena.com.ar##.container-spot
 autopista.es##.containerBanner
 futbolred.com##.contenedor-logo-patrocinador
