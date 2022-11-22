@@ -6,6 +6,7 @@
 ||bit.ly^$domain=mega-mkv.com
 ||grupnaciodigital.cat/redaccio/publicitat/
 ||kisa-link.blok.link^$third-party
+||triggy-banners.web.app^
 !
 ||economicos.cl/widgets/$third-party
 ||guioteca.com/widget.php^$third-party

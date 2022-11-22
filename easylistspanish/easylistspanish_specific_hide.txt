@@ -86,7 +86,7 @@ gastrolabweb.com,poresto.net##.bnn
 diariodecuyo.com.ar##.bnr
 eltiempo.com##.board-tu-negocio
 flashscore.es##.boxOverContent__banner
-lapaginamillonaria.com##.boxbanner_container
+bolavip.com,lapaginamillonaria.com##.boxbanner_container
 latercera.com##.brand-claro
 eldiario.es##.branded-content
 latercera.com##.branded-sponsor
