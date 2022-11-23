@@ -35,6 +35,7 @@ planbnoticias.com.ar###text-4
 planbnoticias.com.ar###text-7
 independentespanol.com###top-banner-wrapper
 generacionuniversitaria.com.mx###ventana-flotante
+lanacion.com.ar##.--ads
 eleconomista.es##.AD_Content
 elespectador.com##.Ads_megaBannerTopContainer
 andaluciainformacion.es,informacionalcalalareal.es,informacionpuentegenil.es,informacionsanfernando.es,sanlucarinformacion.es,vivaalmeria.es,vivaalmunecar.es,vivaantequera.es,vivaarcos.es,vivabarbate.es,vivabenalmadena.es,vivacadiz.es,vivacampodegibraltar.es,vivachiclana.es,vivaconil.es,vivacordoba.es,vivaelpuerto.es,vivaestepona.es,vivagalicia.tv,vivagranada.es,vivahuelva.es,vivajaen.es,vivajerez.es,vivamalaga.net,vivamarbella.es,vivapunta.es,vivarota.es,vivasevilla.es,vivatorremolinos.es,vivavalencia.net,vivavejer.es,vivavelezmalaga.es##.BANNER
