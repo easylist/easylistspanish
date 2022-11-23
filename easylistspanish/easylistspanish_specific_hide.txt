@@ -535,6 +535,7 @@ planetabocajuniors.com.ar##.article-banner
 larepublica.pe##.atm-banner-middle
 larepublica.pe##.atm-banner-strip
 larepublica.pe##.atm-banner-top
+lanacion.com.ar##.auspicia > a[href^="https://betsson.bet.ar/"]
 animeid.io##.avm
 costacadizcomunicacion.es##.b-2
 cadena3.com##.baner300x250
