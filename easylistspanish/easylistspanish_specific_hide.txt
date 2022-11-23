@@ -849,7 +849,7 @@ cronista.com,elliberal.com.ar,elobservador.com.uy,publico.es,rpp.pe##.sponsor
 lanacion.com.ar##.sponsor-container
 lacapitalmdp.com##.sponsor_stats
 elespanol.com,maximaonline.com.ar##.sponsored
-ruedasgordas.es##.sponsors
+lanacion.com.ar,ruedasgordas.es##.sponsors
 laveu.cat##.spotPortada
 flvto.biz##.square-area
 diariolarepublica.com.ar##.st-banner
