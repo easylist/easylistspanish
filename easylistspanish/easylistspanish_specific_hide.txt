@@ -11,6 +11,7 @@ ancient-origins.es###block-block-39
 ancient-origins.es###block-block-43
 ancient-origins.es###block-block-50
 winsports.co###block-wplay
+anisearch.es###bottombox
 ccma.cat###contenidor_megabanner
 forococheselectricos.com###custom_html-17
 eltorotv.com###custom_html-21
