@@ -56,6 +56,7 @@ ondacero.es##.addContainer
 rpp.pe,uypress.net##.ads
 anbariloche.com.ar,anroca.com.ar,elcordillerano.com.ar##.adserver-zona
 anbariloche.com.ar,anroca.com.ar,elcordillerano.com.ar##.adserver-zona-zocalo
+papajuegos.com##.advertising
 blog.facialix.com##.amazon-auto-links
 donbalon.com##.anuncio
 mangacrab.com##.anunciofooter
