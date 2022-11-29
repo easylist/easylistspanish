@@ -191,6 +191,7 @@ adnradio.cl,cnnchile.com,futuro360.com##.the-banner
 aristeguinoticias.com##.topleader
 autopista.es##.transfer-container
 elmundo.es##.ue-c-cover-content--is-branded
+mercadolibre.cl,mercadolibre.com.ar,mercadolibre.com.co,mercadolibre.com.mx,mercadolibre.com.pe,mercadolibre.com.uy##.ui-search-sidebar-advertising__wrapper
 eltiempo.es##.v-banner
 ideal.es,laverdad.es,leonoticias.com##.voc-home-branded-naked
 naciodigital.cat##.zona-ajbcn
