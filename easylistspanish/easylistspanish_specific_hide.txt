@@ -165,6 +165,7 @@ qmusica.tv##.promoTop
 esdiario.com##.pub-2
 formulatv.com##.pub-btf
 formulatv.com##.pub-mid
+formulatv.com##.pub-text
 formulatv.com##.pub-top
 esdiario.com##.publi-foot
 naciodigital.cat##.publi-inter-portada
