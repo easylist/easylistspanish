@@ -352,6 +352,7 @@
 ||perspectivasur.com/archivos/banners/
 ||pf-ffp-cfp-banners.storage.googleapis.com^$image,domain=portalfruticola.com
 ||pirlotv.es/js/anuncio.js
+||pirlotv.fr/ads-generating.php
 ||pivigames.blog/wp-content/uploads/*750x100
 ||planetabocajuniors.com.ar/imagenes/jaen/
 ||poseidonhd.nz/js/storage/1/
