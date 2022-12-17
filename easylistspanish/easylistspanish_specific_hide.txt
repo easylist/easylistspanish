@@ -198,6 +198,7 @@ elmundo.es##.ue-c-cover-content--is-branded
 mercadolibre.cl,mercadolibre.com.ar,mercadolibre.com.co,mercadolibre.com.mx,mercadolibre.com.pe,mercadolibre.com.uy##.ui-search-sidebar-advertising__wrapper
 eltiempo.es##.v-banner
 ideal.es,laverdad.es,leonoticias.com##.voc-home-branded-naked
+noticiasformosa.com.ar##.widget_media_image
 naciodigital.cat##.zona-ajbcn
 naciodigital.cat##.zona-lacaixa
 carrefour.es##[id*="-sponsored_products-"]
@@ -238,6 +239,7 @@ hortanoticias.com,libroscristianosgratis.net##img[width="250"]
 atacamaenlinea.cl,cinemascomics.com,diariotextual.com,hortanoticias.com,pcpro.es##img[width="300"]
 highxtar.com##img[width="300"][height="600"]
 planbnoticias.com.ar,transponder1200.com##img[width="336"]
+noticiasformosa.com.ar##img[width="400"][height="100"]
 mododeporte.com##img[width="500"]
 hortanoticias.com,transponder1200.com##img[width="728"]
 marcadegol.com##img[width="750"]
