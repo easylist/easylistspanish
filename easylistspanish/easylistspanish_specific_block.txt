@@ -9,6 +9,7 @@
 ||diariodelaribera.net/imagenes/banner
 ||diariodeteruel.es/uploads/diariodeteruel/promos/
 ||elperiodico.cl/wp-content/uploads/*/banner-
+||emol.cl/emol50/js/publicidadsetup/
 ||es.zenit.org/banners/
 ||habimg.com/hab_banners/$domain=habitaclia.com
 ||mil21.es/anuncios/
