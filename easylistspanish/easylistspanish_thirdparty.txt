@@ -7,6 +7,7 @@
 ||grupnaciodigital.cat/redaccio/publicitat/
 ||kisa-link.blok.link^$third-party
 ||triggy-banners.web.app^
+||wp.pl/bidder/usersync?
 !
 ||economicos.cl/widgets/$third-party
 ||guioteca.com/widget.php^$third-party
