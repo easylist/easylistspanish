@@ -54,7 +54,7 @@ elpais.com,fmdos.cl##.ad
 mundo.com##.ad-banner
 buenazo.pe,elpopular.pe,eltiempo.com,hobbyconsolas.com,larepublica.pe,libero.pe,somosfanaticos.fans,wapa.pe##.ad-container
 vidasana.sv##.adblockweb
-elperiodico.com,epe.es,sport.es##.add
+elperiodico.com,epe.es,sport.es,sumedico.com##.add
 ondacero.es##.addContainer
 rpp.pe,uypress.net##.ads
 anbariloche.com.ar,anroca.com.ar,elcordillerano.com.ar,noticiasnet.com.ar##.adserver-zona
