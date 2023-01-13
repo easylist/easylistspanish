@@ -1,5 +1,6 @@
 marca.com###Patrocinio
 cuevana3.nu###anuncioca
+elciudadanoweb.com###apsa-pop-hidden-img
 diariodelaribera.net###bannercabeceravideo
 noticiasyprotagonistas.com###banners
 eleconomista.es###banners-superiores
@@ -37,6 +38,7 @@ planbnoticias.com.ar###text-4
 planbnoticias.com.ar###text-7
 independentespanol.com###top-banner-wrapper
 generacionuniversitaria.com.mx###ventana-flotante
+elciudadanoweb.com###wrapper-header-full
 lanacion.com.ar##.--ads
 eleconomista.es##.AD_Content
 elespectador.com##.Ads_megaBannerTopContainer
@@ -63,6 +65,7 @@ donbalon.com##.anuncio
 mangacrab.com##.anunciofooter
 insideevs.com.ar,iproup.com##.ap
 insideevs.com.ar##.apb
+elciudadanoweb.com##.apsa-embed-cont
 lavanguardia.com##.article-module-sponsored
 elobservador.com.uy##.auspicios
 20minutos.es##.axds
@@ -198,6 +201,7 @@ elmundo.es##.ue-c-cover-content--is-branded
 mercadolibre.cl,mercadolibre.com.ar,mercadolibre.com.co,mercadolibre.com.mx,mercadolibre.com.pe,mercadolibre.com.uy##.ui-search-sidebar-advertising__wrapper
 eltiempo.es##.v-banner
 ideal.es,laverdad.es,leonoticias.com##.voc-home-branded-naked
+elciudadanoweb.com##.widget_apsa_campaign
 noticiasformosa.com.ar##.widget_media_image
 naciodigital.cat##.zona-ajbcn
 naciodigital.cat##.zona-lacaixa
