@@ -14,6 +14,7 @@ ancient-origins.es###block-block-43
 ancient-origins.es###block-block-50
 winsports.co###block-wplay
 anisearch.es###bottombox
+flashscore.co###box-over-content-detail
 ccma.cat###contenidor_megabanner
 forococheselectricos.com###custom_html-17
 eltorotv.com###custom_html-21
@@ -89,6 +90,7 @@ chilevision.cl##.banner_full
 elperiodicodeaqui.com##.banner_lat
 eleconomista.es##.banners-superiores2
 iproup.com##.bannerwide
+flashscore.co##.bettingStrip
 gastrolabweb.com,poresto.net##.bnn
 diariodecuyo.com.ar##.bnr
 eltiempo.com##.board-tu-negocio
@@ -121,7 +123,7 @@ autopista.es##.containerBanner
 futbolred.com##.contenedor-logo-patrocinador
 meteored.cl,meteored.com.ar,meteored.mx,tiempo.com##.creatividad
 perfil.com##.d-xs-none.d-xxl-flex
-flashscore.es##.detailLeaderboard
+flashscore.co,flashscore.es##.detailLeaderboard
 libertaddigital.com,libremercado.com##.dfp
 huffingtonpost.es##.entry__right-rail-width-placeholder
 jotdown.es,valencianews.es##.g
@@ -140,6 +142,7 @@ diariodelaribera.net##.lateralderecho
 diariodelaribera.net##.lateralizquierdo
 adslzone.net##.leaderboard
 huffingtonpost.es##.leaderboard-flex-placeholder
+flashscore.co##.liveActiveBet-ico
 directoalpaladar.com,trendenciashombre.com,vidaextra.com,xataka.com##.m-branded
 bebesymas.com,diariodelviajero.com,elblogsalmon.com,motorpasionmoto.com,pymesyautonomos.com##.m-desvio-ecommerce
 sensacine.com,sensacine.com.mx##.main-banner
@@ -163,7 +166,7 @@ hortanoticias.com##.n2-section-smartslider
 eldiario.es,infolibre.es##.news-sponsored-content
 diaridegirona.cat,diariocordoba.com,diariodeibiza.es,diariodemallorca.es,eldia.es,elperiodicodearagon.com,elperiodicoextremadura.com,elperiodicomediterraneo.com,emporda.info,farodevigo.es,informacion.es,laopinioncoruna.es,laopiniondemalaga.es,laopiniondemurcia.es,laopiniondezamora.es,laprovincia.es,levante-emv.com,lne.es,regio7.cat,superdeporte.es##.no-baldomero
 naciodigital.cat,pensem.cat##.nou-publi-cap-home
-flashscore.es##.oddsPlacement
+flashscore.co,flashscore.es##.oddsPlacement
 autoscout24.es##.osa-as24-placeholder
 futbolred.com##.pauta-bk
 otakustv.com##.pestana_footer
