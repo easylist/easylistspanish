@@ -60,7 +60,7 @@ ondacero.es##.addContainer
 rpp.pe,uypress.net##.ads
 anbariloche.com.ar,anroca.com.ar,elcordillerano.com.ar,noticiasnet.com.ar##.adserver-zona
 anbariloche.com.ar,anroca.com.ar,elcordillerano.com.ar,noticiasnet.com.ar##.adserver-zona-zocalo
-ejeprime.com,papajuegos.com##.advertising
+ejeprime.com,papajuegos.com,plantadoce.com##.advertising
 blog.facialix.com##.amazon-auto-links
 donbalon.com##.anuncio
 mangacrab.com##.anunciofooter
@@ -103,6 +103,7 @@ eldoce.tv##.branding-wrapper
 mariskalrock.com##.brave_popup
 terremoto.mx##.break_patrocinadores
 futbolred.com##.btn_betplay
+plantadoce.com##.bwe_ext_partners
 miarevista.es,serpadres.es##.c-add
 elpais.com##.c-bra
 cadenaser.com##.c-s > div
