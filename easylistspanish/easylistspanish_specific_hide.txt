@@ -60,7 +60,7 @@ ondacero.es##.addContainer
 rpp.pe,uypress.net##.ads
 anbariloche.com.ar,anroca.com.ar,elcordillerano.com.ar,noticiasnet.com.ar##.adserver-zona
 anbariloche.com.ar,anroca.com.ar,elcordillerano.com.ar,noticiasnet.com.ar##.adserver-zona-zocalo
-papajuegos.com##.advertising
+ejeprime.com,papajuegos.com##.advertising
 blog.facialix.com##.amazon-auto-links
 donbalon.com##.anuncio
 mangacrab.com##.anunciofooter
@@ -126,6 +126,7 @@ perfil.com##.d-xs-none.d-xxl-flex
 flashscore.co,flashscore.es##.detailLeaderboard
 libertaddigital.com,libremercado.com##.dfp
 huffingtonpost.es##.entry__right-rail-width-placeholder
+ejeprime.com##.featured_specials
 jotdown.es,valencianews.es##.g
 la-razon.com##.genosha_ads_fixed_bottom
 winsports.co##.goles_acero_banner
