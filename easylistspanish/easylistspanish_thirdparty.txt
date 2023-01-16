@@ -6,6 +6,7 @@
 ||bit.ly^$domain=mega-mkv.com
 ||grupnaciodigital.cat/redaccio/publicitat/
 ||kisa-link.blok.link^$third-party
+||tinyurl.com^$domain=seriesly.top
 ||triggy-banners.web.app^
 ||wp.pl/bidder/usersync?
 !
