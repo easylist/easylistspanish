@@ -155,7 +155,7 @@ esdiario.com##.media-ajust-tablet-publi-top
 abc.es##.mega-superior
 marie-claire.es,muyhistoria.es,muyinteresante.es,muynegociosyeconomia.es##.megaBanner
 meteored.cl,meteored.com.ar,meteored.mx,modaes.com,tiempo.com##.megabanner
-caracol.com.co##.mh266-100
+caracol.com.co,wradio.com.co##.mh266-100
 diariodevalderrueda.es##.minibanner_content
 show.news##.mod.relatednews
 20minutos.es##.module-coupons
