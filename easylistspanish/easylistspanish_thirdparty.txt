@@ -4,6 +4,7 @@
 ||alicdn.com/t/$domain=pandrama.com
 ||amazonaws.com^$domain=estrenosdoramas.net|m.animeflv.net
 ||bit.ly^$domain=mega-mkv.com
+||d1r08wok4169a5.cloudfront.net^
 ||grupnaciodigital.cat/redaccio/publicitat/
 ||kisa-link.blok.link^$third-party
 ||tinyurl.com^$domain=seriesly.top
