@@ -51,7 +51,7 @@ elperiodico.com##._mo_recs_cti
 aurora-israel.co.il,teleamazonas.com##.a-single
 reparaciondecomputadoras.online##.aawp
 actualidadradio.com##.actua-widget
-elpais.com,fmdos.cl##.ad
+elpais.com,fmdos.cl,meteoconsult.es##.ad
 mundo.com##.ad-banner
 buenazo.pe,elpopular.pe,eltiempo.com,hobbyconsolas.com,larepublica.pe,libero.pe,somosfanaticos.fans,wapa.pe##.ad-container
 vidasana.sv##.adblockweb
