@@ -23,13 +23,6 @@
 ||redtarapaca.com^*/ahorrocorp.jpg
 ||static.publinews.gt/*/Skin-
 ||studiofutbol.com.ec/tabla2021/images/banner-copa-300x90.jpg
-! Mercado Libre
-||mercadolibre.cl/adn/api?
-||mercadolibre.com.ar/adn/api?
-||mercadolibre.com.co/adn/api?
-||mercadolibre.com.mx/adn/api?
-||mercadolibre.com.pe/adn/api?
-||mercadolibre.com.uy/adn/api?
 ! Onda Valéncia
 ||ondavalencia.es/images/001_BLOGINFORAM.png
 ||ondavalencia.es/images/002_MORA-_2.png
