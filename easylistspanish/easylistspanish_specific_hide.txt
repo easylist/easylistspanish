@@ -195,6 +195,7 @@ cuevana.pro,pelispedia.la##.section-cpa
 directoalpaladar.com,trendenciashombre.com,vidaextra.com,xataka.com##.section-native-container
 seriesturcas.gratis##.serie-optimanetwork
 elobservador.com.uy##.sponsors
+bernabeudigital.com##.sticky-container[style="height:600px;"]
 publinews.gt##.takeoverlink
 horajaen.com,noticiasuno.com,pcpro.es,periodismo.com,udlaspalmas.net##.td-a-rec
 udlaspalmas.net##.tdi_22
