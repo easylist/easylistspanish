@@ -79,6 +79,7 @@ agroclave.com.ar,lacapital.com.ar##.banner-box
 elnueve.com.ar##.banner-box-container
 noticiasurbanas.com.ar##.banner-center
 revistacar.es##.banner-container
+soychile.cl##.banner-fixed-container
 iprofesional.com##.banner-horizontal
 diariodecuyo.com.ar##.banner-lanusse
 a24.com,diariouno.com.ar,lared.am##.banner-libre
@@ -137,6 +138,7 @@ milanuncios.com##.has-advertisement
 atacamaenlinea.cl,redmipaisnorte.cl##.header-promotion
 elespanol.com##.heading__sponsor
 diariodenavarra.es,marie-claire.es,muyhistoria.es,muyinteresante.es,muynegociosyeconomia.es##.henneoHB
+soychile.cl##.home-banner
 atacamaenlinea.cl##.home-featured-widgets
 lavoz.com.ar##.imgSponsor
 marie-claire.es,muyhistoria.es,muyinteresante.es,muynegociosyeconomia.es##.js-ads-not-visible
@@ -194,6 +196,7 @@ burbuja.info##.samCodeUnit
 cuevana.pro,pelispedia.la##.section-cpa
 directoalpaladar.com,trendenciashombre.com,vidaextra.com,xataka.com##.section-native-container
 seriesturcas.gratis##.serie-optimanetwork
+soychile.cl##.slide__banner
 elobservador.com.uy##.sponsors
 bernabeudigital.com##.sticky-container[style="height:600px;"]
 publinews.gt##.takeoverlink

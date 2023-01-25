@@ -7,6 +7,7 @@
 ||d1r08wok4169a5.cloudfront.net^
 ||grupnaciodigital.cat/redaccio/publicitat/
 ||kisa-link.blok.link^$third-party
+||news.grm.cl^
 ||tinyurl.com^$domain=seriesly.top
 ||triggy-banners.web.app^
 ||wp.pl/bidder/usersync?
