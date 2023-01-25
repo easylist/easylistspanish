@@ -69,7 +69,8 @@ insideevs.com.ar##.apb
 elciudadanoweb.com##.apsa-embed-cont
 lavanguardia.com##.article-module-sponsored
 elobservador.com.uy##.auspicios
-20minutos.es##.axds
+20minutos.es,lainformacion.com##.axds
+lainformacion.com##.axds-lane
 lectuepubgratis.com##.bam-topbar
 alicanteplaza.es,bienbonita.com,c5n.com,castellonplaza.com,donbalon.com,econojournal.com.ar,eleconomista.com.mx,elplural.com,guarda14.com,laverdadnoticias.com,lavoz.com.ar,losandes.com.ar,motor.com.co,tntsports.cl,tntsports.com.ar,tvynovelas.com,valenciaplaza.com,viapais.com.ar##.banner
 iprofesional.com##.banner-2
