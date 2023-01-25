@@ -61,6 +61,7 @@ rpp.pe,uypress.net##.ads
 anbariloche.com.ar,anroca.com.ar,elcordillerano.com.ar,noticiasnet.com.ar##.adserver-zona
 anbariloche.com.ar,anroca.com.ar,elcordillerano.com.ar,noticiasnet.com.ar##.adserver-zona-zocalo
 ejeprime.com,papajuegos.com,plantadoce.com##.advertising
+petitchef.es##.akcelo-wrapper
 blog.facialix.com##.amazon-auto-links
 donbalon.com##.anuncio
 mangacrab.com##.anunciofooter
