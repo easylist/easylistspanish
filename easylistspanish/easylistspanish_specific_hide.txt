@@ -204,6 +204,7 @@ bernabeudigital.com##.sticky-container[style="height:600px;"]
 publinews.gt##.takeoverlink
 elmundotoday.com,horajaen.com,noticiasuno.com,pcpro.es,periodismo.com,udlaspalmas.net##.td-a-rec
 udlaspalmas.net##.tdi_22
+ffcv.es##.testimonials-partners
 marcadegol.com##.textwidget a[href^="https://ar.puma.com/"]
 adnradio.cl,cnnchile.com,futuro360.com##.the-banner
 aristeguinoticias.com##.topleader
