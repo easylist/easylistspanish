@@ -1,4 +1,5 @@
 ||bit.ly^$popup,domain=pelisplus.lat
+||granmp3.net^$popup,domain=nuevomix.net
 ||primevideo.com/?tag=^$popup,domain=vergnula.com
 ||significadoconcepto.com^$popup
 ||t.co^$popup,domain=cinecalidad.run
