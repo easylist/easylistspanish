@@ -91,6 +91,7 @@ ciudad.com.ar,elcomercio.com,lmcipolletti.com,lmneuquen.com##.banner-wrapper
 diariodelaribera.net##.bannerColumnas
 chilevision.cl##.banner_full
 elperiodicodeaqui.com##.banner_lat
+gasteizhoy.com##.bannerclick
 eleconomista.es##.banners-superiores2
 iproup.com##.bannerwide
 flashscore.co##.bettingStrip
@@ -151,6 +152,7 @@ huffingtonpost.es##.leaderboard-flex-placeholder
 flashscore.co##.liveActiveBet-ico
 directoalpaladar.com,trendenciashombre.com,vidaextra.com,xataka.com##.m-branded
 bebesymas.com,diariodelviajero.com,elblogsalmon.com,motorpasionmoto.com,pymesyautonomos.com##.m-desvio-ecommerce
+gasteizhoy.com##.macrobannerblock
 sensacine.com,sensacine.com.mx##.main-banner
 infopico.com##.marco-publicidad
 signodeinterrogacion.com##.masthead-banner
@@ -174,6 +176,7 @@ diaridegirona.cat,diariocordoba.com,diariodeibiza.es,diariodemallorca.es,eldia.e
 naciodigital.cat,pensem.cat##.nou-publi-cap-home
 flashscore.co,flashscore.es##.oddsPlacement
 autoscout24.es##.osa-as24-placeholder
+gasteizhoy.com##.patrocinado-new
 futbolred.com##.pauta-bk
 otakustv.com##.pestana_footer
 qmusica.tv##.promoTop
