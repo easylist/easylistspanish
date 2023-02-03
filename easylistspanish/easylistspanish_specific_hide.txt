@@ -1,3 +1,7 @@
+norteenlinea.com###Mod375
+norteenlinea.com###Mod427
+norteenlinea.com###Mod450
+norteenlinea.com###Mod452
 marca.com###Patrocinio
 cuevana3.nu###anuncioca
 elciudadanoweb.com###apsa-pop-hidden-img
@@ -17,6 +21,7 @@ anisearch.es###bottombox
 flashscore.co###box-over-content-detail
 ccma.cat###contenidor_megabanner
 forococheselectricos.com###custom_html-17
+thaderclub.com###custom_html-19
 eltorotv.com###custom_html-21
 hola.com###div-hola-slot-bannerinferior
 hola.com###div-hola-slot-megabanner
@@ -938,7 +943,7 @@ elespia.co,envilladelparque.com,envilladevoto.com##.widget_metaslider_widget
 cafevirtual.cl,pamplonaactual.com,trincheraonline.com##.widget_text
 jerezcofrade.tv##.widget_ti_image_banner
 envilladelparque.com,envilladevoto.com##.widget_wp_views
-moracontenidos.com##.wp-block-image
+arquimaster.com.ar,moracontenidos.com##.wp-block-image
 diariotextual.com##.wpb_raw_html
 armasymuniciones.net,mariosegura.com##.wpb_single_image
 cronicadigital.cl##.wpb_text_column
@@ -948,6 +953,7 @@ anbariloche.com.ar,anroca.com.ar,nuevodiarioweb.com.ar##.zona_banners
 25digital.com.ar#?#.widget-container:-abp-has(.banners-125)
 25digital.com.ar#?#.widget-container:-abp-has(.metaslider)
 25digital.com.ar#?#.widget-container:-abp-has(.widget_random_banner_widget)
+periodismokosher.com.ar#?#.widget-content:-abp-has(a[target="_blank"])
 st1.idealista.com##A[href="http://www.idealista.com/news/vacacional/mercado-vacacional/2015/08/12/738750-competencia-arremete-contra-la-ley-que-limita-los-pisos-turisticos-en-el?xts=352991&xtor=AD-186-[node/738750]-[]-[57601_1]-[lavanguardia.es__lavanguardia.es]-[]-[titulo_1_1]&source=314"]
 mitele.es##A[href="http://www.premiercasino.es/redirect?provenanceCode=CONECTA5CASINO"]
 depor.com##[class^="content_gpt_caja"]
@@ -1031,6 +1037,7 @@ cuatro.com,telecinco.es##a[href^="https://premiercasino.es/"]
 genteflow.us##a[href^="https://veranime.org/"]
 desarrollowp.com,microsiervos.com,supercpps.com##a[rel*="sponsored"]
 planetadeagostini.es##article[id^="divAdserver"]
+arquimaster.com.ar##div[align="center"] > a
 oversos.com##div[aria-label="QODE"]
 portalfruticola.com##div[class*="banner-set"]
 verepeliculas.com##div[class^="ano_"]
@@ -1209,6 +1216,7 @@ skdesu.com##.code-block[style^="margin: 20px auto;"]
 trome.pe##.content_gpt_top
 zona-leros.net##.content_store
 criptonoticias.com##.cript-adlabel
+arquimaster.com.ar##.custom-html-widget
 incp.org.co##.cyclone-slider-widget-8
 areasac.es##.destacados
 berjadigital.es##.g-dyn
