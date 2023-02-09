@@ -165,7 +165,7 @@ signodeinterrogacion.com##.masthead-banner
 empresite.eleconomista.es##.mauto.textcenter.mb20.mt20
 esdiario.com##.media-ajust-tablet-publi-top
 abc.es##.mega-superior
-marie-claire.es,muyhistoria.es,muyinteresante.es,muynegociosyeconomia.es##.megaBanner
+marie-claire.es,muyhistoria.es,muyinteresante.es,muynegociosyeconomia.es,noticiasdegipuzkoa.eus##.megaBanner
 meteored.cl,meteored.com.ar,meteored.mx,modaes.com,tiempo.com##.megabanner
 caracol.com.co,wradio.com.co##.mh266-100
 diariodevalderrueda.es##.minibanner_content
@@ -412,6 +412,7 @@ superligatv.com###imCell_180
 superligatv.com###imCell_182
 superligatv.com###imHeader_imHTMLObject_27_wrapper
 tribunaavila.com,tribunaburgos.com,tribunaleon.com,tribunapalencia.com,tribunasalamanca.com,tribunasegovia.com,tribunasoria.com,tribunavalladolid.com,tribunazamora.com###interstitial_container
+noticiasdegipuzkoa.eus##.megabanner
 supremacy1914.es###kbg
 freepik.es###layer_coupon
 diariocronica.com.ar###lik
