@@ -30,6 +30,7 @@ hola.com###div-hola-slot-robapaginas
 elnacional.com###en_nd_home_flat_2
 elnacional.com###en_nd_home_flat_3
 futbolme.com###headeradd
+noticiasdegipuzkoa.eus###intext-sunmedia-1
 diariodeteruel.es###leftbanner
 atacamaenlinea.cl###media_image-17
 atacamaenlinea.cl###media_image-30
