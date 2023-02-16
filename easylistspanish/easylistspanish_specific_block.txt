@@ -55,7 +55,7 @@
 ||ondavalencia.es/images/32_VALENHAUS_guia.jpg
 !
 /^https?:\/\/[0-9a-z]{8,}\.com\/.*/$~media,third-party,domain=animefenix.com|animefenix.tv|animeonline.ninja|animeyt.es|compucalitv.com|compupaste.com|cuevana2.cyou|gnula24.xyz|henaojara2.com|mangamovil.net|megaepubsgratis.com|mejortorrent.cc|mundoepub3.com|pelispediahd.site|pelisplus.top|pelisplus2.io|pelisplushd.nu|pirlotv.fr|pirlotvonline.org|rojadirectaenvivo.club|rojadirectatv.tv|seriesly.top|seriespepito.top|shadowrangers.live|shadowrangers.net|telenovelas-turcas.com.es|tomatomatela.com|verblackclover.com|verboruto.online|xn--solopeliculasespaol-c4b.com
-/^https?:\/\/[0-9a-z]{8,}\.xyz\/.*/$~media,third-party,domain=animeonline.ninja|cinehax.com|gnula.nu|gnula.se|seriesperu.com
+/^https?:\/\/[0-9a-z]{8,}\.xyz\/.*/$~media,third-party,domain=animeonline.ninja|cinehax.com|gnula.nu|gnula.se|seriesperu.com|telenovelas-turcas.com.es
 !
 /avisos^$image,domain=novalaplata.com
 /elements*/publicitat^$image,domain=lesportiudecatalunya.cat
