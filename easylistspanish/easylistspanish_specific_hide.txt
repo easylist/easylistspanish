@@ -3,6 +3,7 @@ norteenlinea.com###Mod427
 norteenlinea.com###Mod450
 norteenlinea.com###Mod452
 marca.com###Patrocinio
+freepik.es###adobe-pagination-mkt-copy
 cuevana3.nu###anuncioca
 elciudadanoweb.com###apsa-pop-hidden-img
 diariodelaribera.net###bannercabeceravideo
@@ -66,6 +67,8 @@ buenazo.pe,elpopular.pe,eltiempo.com,hobbyconsolas.com,larepublica.pe,libero.pe,
 vidasana.sv##.adblockweb
 elperiodico.com,epe.es,sport.es,sumedico.com##.add
 ondacero.es##.addContainer
+freepik.es##.adobe-coupon-container
+freepik.es##.adobe-grid-design
 rpp.pe,uypress.net##.ads
 tutorialesenlinea.es##.ads-titleposttl
 anbariloche.com.ar,anroca.com.ar,elcordillerano.com.ar,noticiasnet.com.ar##.adserver-zona
@@ -85,6 +88,7 @@ lainformacion.com##.axds-lane
 lectuepubgratis.com##.bam-topbar
 alicanteplaza.es,bienbonita.com,c5n.com,castellonplaza.com,donbalon.com,econojournal.com.ar,eleconomista.com.mx,elplural.com,guarda14.com,laverdadnoticias.com,lavoz.com.ar,losandes.com.ar,motor.com.co,tntsports.cl,tntsports.com.ar,tvynovelas.com,valenciaplaza.com,viapais.com.ar##.banner
 iprofesional.com##.banner-2
+freepik.es##.banner-adobe
 clarin.com,ole.com.ar##.banner-border
 tycsports.com##.banner-bottom
 agroclave.com.ar,lacapital.com.ar##.banner-box
