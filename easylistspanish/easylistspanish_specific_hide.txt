@@ -218,6 +218,7 @@ seriesturcas.gratis##.serie-optimanetwork
 soychile.cl##.slide__banner
 elobservador.com.uy##.sponsors
 bernabeudigital.com##.sticky-container[style="height:600px;"]
+elrellano.com##.tag-enlace-de-afiliados
 publinews.gt##.takeoverlink
 elmundotoday.com,horajaen.com,noticiasuno.com,pcpro.es,periodismo.com,udlaspalmas.net##.td-a-rec
 udlaspalmas.net##.tdi_22
