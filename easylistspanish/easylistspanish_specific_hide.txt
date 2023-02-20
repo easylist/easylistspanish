@@ -62,7 +62,7 @@ aurora-israel.co.il,teleamazonas.com##.a-single
 tutorialesenlinea.es##.a-wrap
 reparaciondecomputadoras.online##.aawp
 actualidadradio.com##.actua-widget
-elpais.com,fmdos.cl,meteoconsult.es##.ad
+elpais.com,fmdos.cl,meteoconsult.es,revistafama.com##.ad
 mundo.com##.ad-banner
 buenazo.pe,elpopular.pe,eltiempo.com,hobbyconsolas.com,larepublica.pe,libero.pe,somosfanaticos.fans,wapa.pe##.ad-container
 vidasana.sv##.adblockweb
