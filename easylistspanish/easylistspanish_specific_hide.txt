@@ -44,7 +44,7 @@ diariodeteruel.es###rightbanner
 elespanol.com###sticky_container
 lostiempos.com###takeover-desktop-counter
 lostiempos.com###takeover-movil-counter
-knightnoscanlation.com###teaser3
+knightnoscanlation.com,yugenmangas.com###teaser3
 planbnoticias.com.ar###text-4
 planbnoticias.com.ar###text-7
 independentespanol.com###top-banner-wrapper
