@@ -175,7 +175,7 @@ empresite.eleconomista.es##.mauto.textcenter.mb20.mt20
 esdiario.com##.media-ajust-tablet-publi-top
 abc.es##.mega-superior
 marie-claire.es,muyhistoria.es,muyinteresante.es,muynegociosyeconomia.es,noticiasdegipuzkoa.eus##.megaBanner
-meteored.cl,meteored.com.ar,meteored.mx,modaes.com,tiempo.com##.megabanner
+elcorreogallego.es,meteored.cl,meteored.com.ar,meteored.mx,modaes.com,tiempo.com##.megabanner
 caracol.com.co,wradio.com.co##.mh266-100
 diariodevalderrueda.es##.minibanner_content
 show.news##.mod.relatednews
