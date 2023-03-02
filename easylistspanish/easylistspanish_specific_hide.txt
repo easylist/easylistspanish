@@ -332,6 +332,7 @@ entornointeligente.com###bannerHorizontal
 perfil.com###bannerMobile01
 perfil.com###bannerMobile02
 perfil.com###bannerMobile03
+elcordillerano.com.ar###bannerPopup
 perfil.com###bannerScreen01
 perfil.com###bannerScreen02
 perfil.com###bannerScreen03
@@ -804,7 +805,7 @@ noticiasdegipuzkoa.eus##.megabanner
 publico.es##.megabanner-container
 horadeopinion.com.ar##.ml-slider
 atresplayer.com##.mod_roba
-diarioelinformante.com.ar,laopinionsannicolas.com.ar##.modal-backdrop
+diarioelinformante.com.ar,elcordillerano.com.ar,laopinionsannicolas.com.ar##.modal-backdrop
 lavozdegalicia.es##.mujerhoy
 elheraldo.hn##.multimedia_taboola
 foro.nmn900.net##.nmn900_bottom_ad
