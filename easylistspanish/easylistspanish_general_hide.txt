@@ -1,5 +1,6 @@
 ###Publi300600x
 ###PublicidadSuperior
+###ads_singles_bottom
 ###audimaAdDesktop
 ###bloque-publicidad-1
 ###bloque-publicidad-2
@@ -35,6 +36,7 @@
 ##.voc-advertising
 ##.voc-article--sponsored
 ##.voc-sponsored
+##a[href^="https://go.betobet.online/"]
 ##a[href^="https://startgaming.net/tienda/"][href*="?offer_id="]
 !
 ###PubMiddle1
