@@ -60,7 +60,7 @@ diaridegirona.cat,diariocordoba.com,diariodeibiza.es,diariodemallorca.es,eldia.e
 elperiodico.com##._mo_recs_cti
 aurora-israel.co.il,teleamazonas.com##.a-single
 tutorialesenlinea.es##.a-wrap
-beergeeks.cl,reparaciondecomputadoras.online,thebeertimes.com##.aawp
+beergeeks.cl,recetasdepan.net,reparaciondecomputadoras.online,thebeertimes.com##.aawp
 actualidadradio.com##.actua-widget
 elpais.com,fmdos.cl,jornada.com.mx,meteoconsult.es,revistafama.com##.ad
 mundo.com##.ad-banner
@@ -233,8 +233,8 @@ elmundo.es##.ue-c-cover-content--is-branded
 mercadolibre.cl,mercadolibre.com.ar,mercadolibre.com.co,mercadolibre.com.mx,mercadolibre.com.pe,mercadolibre.com.uy##.ui-search-sidebar-advertising__wrapper
 eltiempo.es##.v-banner
 ideal.es,laverdad.es,leonoticias.com##.voc-home-branded-naked
-beermagazine.net##.widget_aawp_widget_bestseller
-beermagazine.net,comidaschilenas.com,thebeertimes.com##.widget_aawp_widget_box
+beermagazine.net,recetasdepan.net##.widget_aawp_widget_bestseller
+beermagazine.net,comidaschilenas.com,recetasdepan.net,thebeertimes.com##.widget_aawp_widget_box
 elciudadanoweb.com##.widget_apsa_campaign
 noticiasformosa.com.ar##.widget_media_image
 naciodigital.cat##.zona-ajbcn
