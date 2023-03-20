@@ -234,7 +234,7 @@ mercadolibre.cl,mercadolibre.com.ar,mercadolibre.com.co,mercadolibre.com.mx,merc
 eltiempo.es##.v-banner
 ideal.es,laverdad.es,leonoticias.com##.voc-home-branded-naked
 beermagazine.net,recetasdepan.net##.widget_aawp_widget_bestseller
-beermagazine.net,comidaschilenas.com,recetasdepan.net,thebeertimes.com,weedmagazine.net##.widget_aawp_widget_box
+beermagazine.net,comidaschilenas.com,debosaber.cl,recetasdepan.net,thebeertimes.com,weedmagazine.net##.widget_aawp_widget_box
 weedmagazine.net##.widget_aawp_widget_new_releases
 elciudadanoweb.com##.widget_apsa_campaign
 noticiasformosa.com.ar##.widget_media_image
@@ -266,6 +266,7 @@ avisooportuno.mx##div[class^="div-dfp-"]
 liderendeportes.com##div[class^="lider-"]
 purochocolate.life,tumascota.life##div[class^="tumas-"]
 beergeeks.cl##div[id^="beerg-"]
+debosaber.cl##div[id^="debos-"]
 weedmagazine.net##div[id^="weedm-"]
 mariskalrock.com##div[id^="wmd-anuncio-"]
 todoblaugrana.com##div[style*="width: 300px; height: 250px;"]
