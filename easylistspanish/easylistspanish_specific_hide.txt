@@ -60,7 +60,7 @@ diaridegirona.cat,diariocordoba.com,diariodeibiza.es,diariodemallorca.es,eldia.e
 elperiodico.com##._mo_recs_cti
 aurora-israel.co.il,teleamazonas.com##.a-single
 tutorialesenlinea.es##.a-wrap
-reparaciondecomputadoras.online##.aawp
+reparaciondecomputadoras.online,thebeertimes.com##.aawp
 actualidadradio.com##.actua-widget
 elpais.com,fmdos.cl,jornada.com.mx,meteoconsult.es,revistafama.com##.ad
 mundo.com##.ad-banner
@@ -233,7 +233,7 @@ elmundo.es##.ue-c-cover-content--is-branded
 mercadolibre.cl,mercadolibre.com.ar,mercadolibre.com.co,mercadolibre.com.mx,mercadolibre.com.pe,mercadolibre.com.uy##.ui-search-sidebar-advertising__wrapper
 eltiempo.es##.v-banner
 ideal.es,laverdad.es,leonoticias.com##.voc-home-branded-naked
-comidaschilenas.com##.widget_aawp_widget_box
+comidaschilenas.com,thebeertimes.com##.widget_aawp_widget_box
 elciudadanoweb.com##.widget_apsa_campaign
 noticiasformosa.com.ar##.widget_media_image
 naciodigital.cat##.zona-ajbcn
@@ -279,7 +279,7 @@ laredpampeana.com.ar##img[height="705"]
 lapampadiaxdia.com.ar##img[height="728"]
 pescare.com.ar##img[height="735"]
 hortanoticias.com,libroscristianosgratis.net##img[width="250"]
-atacamaenlinea.cl,cinemascomics.com,comidaschilenas.com,diariotextual.com,hortanoticias.com,pcpro.es##img[width="300"]
+atacamaenlinea.cl,cinemascomics.com,comidaschilenas.com,diariotextual.com,hortanoticias.com,pcpro.es,thebeertimes.com##img[width="300"]
 highxtar.com##img[width="300"][height="600"]
 planbnoticias.com.ar,transponder1200.com##img[width="336"]
 noticiasformosa.com.ar##img[width="400"][height="100"]
