@@ -60,7 +60,7 @@ diaridegirona.cat,diariocordoba.com,diariodeibiza.es,diariodemallorca.es,eldia.e
 elperiodico.com##._mo_recs_cti
 aurora-israel.co.il,teleamazonas.com##.a-single
 tutorialesenlinea.es##.a-wrap
-reparaciondecomputadoras.online,thebeertimes.com##.aawp
+beergeeks.cl,reparaciondecomputadoras.online,thebeertimes.com##.aawp
 actualidadradio.com##.actua-widget
 elpais.com,fmdos.cl,jornada.com.mx,meteoconsult.es,revistafama.com##.ad
 mundo.com##.ad-banner
@@ -233,7 +233,8 @@ elmundo.es##.ue-c-cover-content--is-branded
 mercadolibre.cl,mercadolibre.com.ar,mercadolibre.com.co,mercadolibre.com.mx,mercadolibre.com.pe,mercadolibre.com.uy##.ui-search-sidebar-advertising__wrapper
 eltiempo.es##.v-banner
 ideal.es,laverdad.es,leonoticias.com##.voc-home-branded-naked
-comidaschilenas.com,thebeertimes.com##.widget_aawp_widget_box
+beermagazine.net##.widget_aawp_widget_bestseller
+beermagazine.net,comidaschilenas.com,thebeertimes.com##.widget_aawp_widget_box
 elciudadanoweb.com##.widget_apsa_campaign
 noticiasformosa.com.ar##.widget_media_image
 naciodigital.cat##.zona-ajbcn
@@ -263,6 +264,7 @@ bemad.es,cuatro.com,divinity.es,energytv.es,factoriadeficcion.com,mtmad.es,niusd
 avisooportuno.mx##div[class^="div-dfp-"]
 liderendeportes.com##div[class^="lider-"]
 purochocolate.life,tumascota.life##div[class^="tumas-"]
+beergeeks.cl##div[id^="beerg-"]
 mariskalrock.com##div[id^="wmd-anuncio-"]
 todoblaugrana.com##div[style*="width: 300px; height: 250px;"]
 futbolme.com##div[style*="z-index: 9999"]
@@ -279,7 +281,7 @@ laredpampeana.com.ar##img[height="705"]
 lapampadiaxdia.com.ar##img[height="728"]
 pescare.com.ar##img[height="735"]
 hortanoticias.com,libroscristianosgratis.net##img[width="250"]
-atacamaenlinea.cl,cinemascomics.com,comidaschilenas.com,diariotextual.com,hortanoticias.com,pcpro.es,thebeertimes.com##img[width="300"]
+atacamaenlinea.cl,beergeeks.cl,beermagazine.net,cinemascomics.com,comidaschilenas.com,diariotextual.com,hortanoticias.com,pcpro.es,thebeertimes.com##img[width="300"]
 highxtar.com##img[width="300"][height="600"]
 planbnoticias.com.ar,transponder1200.com##img[width="336"]
 noticiasformosa.com.ar##img[width="400"][height="100"]
