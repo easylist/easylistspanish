@@ -176,6 +176,7 @@ esdiario.com##.media-ajust-tablet-publi-top
 abc.es##.mega-superior
 marie-claire.es,muyhistoria.es,muyinteresante.es,muynegociosyeconomia.es,noticiasdegipuzkoa.eus##.megaBanner
 elcorreogallego.es,meteored.cl,meteored.com.ar,meteored.mx,modaes.com,tiempo.com##.megabanner
+meteored.com.py##.meteored-ads
 caracol.com.co,wradio.com.co##.mh266-100
 diariodevalderrueda.es##.minibanner_content
 show.news##.mod.relatednews
@@ -205,7 +206,7 @@ naciodigital.cat##.publi-inter-portada
 esdiario.com##.publi-top
 pensem.cat##.publi_interpagina
 lawebdelprogramador.com##.publi_robapaginas
-areajugones.sport.es,generacionuniversitaria.com.mx,iberempleos.es,lavozdealmeria.com,meteored.cl,meteored.com.ar,meteored.mx,neomotor.com,tiempo.com##.publicidad
+areajugones.sport.es,generacionuniversitaria.com.mx,iberempleos.es,lavozdealmeria.com,meteored.cl,meteored.com.ar,meteored.com.py,meteored.mx,neomotor.com,tiempo.com##.publicidad
 eleconomista.es##.railContainer1
 eleconomista.es##.railContainer3
 fotocasa.es##.re-AdvertisingDominanceNative
