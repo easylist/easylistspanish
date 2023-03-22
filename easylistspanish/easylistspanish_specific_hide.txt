@@ -129,6 +129,7 @@ cadenaser.com##.c-s > div
 elpais.com##.c.c-pfb.c--m
 vivanolamag.com##.client-logo-slider
 eltiempo.es##.cls-publi-height
+bembibredigital.com##.code-block
 elrellano.com##.code-block-1
 elrellano.com##.code-block-18
 elrellano.com##.code-block-4
