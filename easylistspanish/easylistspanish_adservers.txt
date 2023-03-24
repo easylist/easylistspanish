@@ -5,7 +5,7 @@
 ||reypelis.tv^$third-party
 ||tpid.es^$third-party
 ||wemass.com^$third-party
-!
+!!
 ||lgpumcja.com^$third-party
 ||lijaseconomic.xyz^$third-party
 ||livezombymil.com^$third-party
