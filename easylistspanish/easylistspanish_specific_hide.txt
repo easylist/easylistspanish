@@ -304,6 +304,7 @@ marcadegol.com##img[width="750"]
 elcomercio.com##ned-ad
 ! Advanced element hiding rules for Adblock Plus
 cuencanews.es#?#td[class*="id_publi_"]:-abp-has(img[alt="publicidad"])
+elcomercio.pe#?##lateral:-abp-has(span:-abp-contains(Auspiciado por:))
 elespectador.com#?#.Block:-abp-has(.Title_section:-abp-contains(Contenido patrocinado))
 elespectador.com#?#.Card:-abp-has(.Card-Section.Section:-abp-contains(Contenido patrocinado))
 eltiempo.com#?#.main-article-container-patr:-abp-has(.contenido-comercial)
