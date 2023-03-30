@@ -195,6 +195,7 @@ flashscore.co,flashscore.es##.oddsPlacement
 autoscout24.es##.osa-as24-placeholder
 gasteizhoy.com##.patrocinado-new
 futbolred.com##.pauta-bk
+vgrecipes.com##.pbl
 otakustv.com##.pestana_footer
 qmusica.tv##.promoTop
 esdiario.com##.pub-2
