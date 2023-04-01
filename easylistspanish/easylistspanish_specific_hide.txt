@@ -74,6 +74,7 @@ rpp.pe,uypress.net##.ads
 tutorialesenlinea.es##.ads-titleposttl
 anbariloche.com.ar,anroca.com.ar,elcordillerano.com.ar,noticiasnet.com.ar##.adserver-zona
 anbariloche.com.ar,anroca.com.ar,elcordillerano.com.ar,noticiasnet.com.ar##.adserver-zona-zocalo
+clarin.com##.adv
 ejeprime.com,papajuegos.com,plantadoce.com##.advertising
 petitchef.es##.akcelo-wrapper
 blog.facialix.com##.amazon-auto-links
