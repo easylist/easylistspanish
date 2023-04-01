@@ -6,11 +6,15 @@
 @@||bradmax.com/client/embed-player/*/pubads.g.doubleclick.net/$subdocument,domain=teletica.com
 @@||g.doubleclick.net/gampad/ads?$domain=pccomponentes.com
 @@||g.doubleclick.net/gpt/pubads_impl_$domain=pccomponentes.com
+@@||g.doubleclick.net/pagead/ads?$domain=3djuegosguias.com|3djuegospc.com|applesfera.com|compradiccion.com|directoalpaladar.com|espinof.com|genbeta.com|poprosa.com|trendencias.com|trendenciashombre.com|vidaextra.com|vitonica.com|xatakamovil.com
+@@||getjad.io/library/$script,domain=3djuegosguias.com|3djuegospc.com|applesfera.com|compradiccion.com|directoalpaladar.com|espinof.com|genbeta.com|poprosa.com|trendencias.com|trendenciashombre.com|vidaextra.com|vitonica.com|xatakamovil.com
+@@||getjad.io/prebid/$script,domain=3djuegosguias.com|3djuegospc.com|applesfera.com|compradiccion.com|directoalpaladar.com|espinof.com|genbeta.com|poprosa.com|trendencias.com|trendenciashombre.com|vidaextra.com|vitonica.com|xatakamovil.com
 @@||googlesyndication.com/simgad/$image,domain=pccomponentes.com
 @@||googletagservices.com/tag/js/gpt.js$domain=ivoox.com|pccomponentes.com
 @@||iframes.5centscdn.com/5centscdn/*&adTagUrl=https://pubads.g.doubleclick.net/$subdocument,domain=teletica.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=api.apolomedia.com|carolina.cl|niusdiario.es|paxtvmovil.org|radiocandela.cl|romantica.cl
 @@||laneros.com/temas/*-publicidad.
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=3djuegosguias.com|3djuegospc.com|applesfera.com|compradiccion.com|directoalpaladar.com|espinof.com|genbeta.com|poprosa.com|trendencias.com|trendenciashombre.com|vidaextra.com|vitonica.com|xatakamovil.com
 @@||pub.pixels.ai/wrap-independent-no-prebid-lib.js$script,domain=independentespanol.com
 @@||pub.pixels.ai/wrap-independent-prebid-lib.js$script,domain=independentespanol.com
 !
