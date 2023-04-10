@@ -89,9 +89,9 @@ elobservador.com.uy##.auspicios
 lainformacion.com##.axds-lane
 lectuepubgratis.com##.bam-topbar
 alicanteplaza.es,bienbonita.com,c5n.com,castellonplaza.com,donbalon.com,econojournal.com.ar,eleconomista.com.mx,elplural.com,guarda14.com,laverdadnoticias.com,lavoz.com.ar,losandes.com.ar,motor.com.co,tntsports.cl,tntsports.com.ar,tvynovelas.com,valenciaplaza.com,viapais.com.ar##.banner
+naiz.eus##.banner--article
 iprofesional.com##.banner-2
 freepik.es##.banner-adobe
-naiz.eus##.banner--article
 clarin.com,ole.com.ar##.banner-border
 tycsports.com##.banner-bottom
 agroclave.com.ar,lacapital.com.ar##.banner-box
@@ -243,6 +243,7 @@ elmundo.es##.ue-c-cover-content--is-branded
 mercadolibre.cl,mercadolibre.com.ar,mercadolibre.com.co,mercadolibre.com.mx,mercadolibre.com.pe,mercadolibre.com.uy##.ui-search-sidebar-advertising__wrapper
 eltiempo.es##.v-banner
 ideal.es,laverdad.es,leonoticias.com##.voc-home-branded-naked
+naiz.eus##.w-openx-banners
 beermagazine.net,recetasdepan.net##.widget_aawp_widget_bestseller
 beermagazine.net,cannabis420.cl,comidaschilenas.com,comidasespanolas.com,debosaber.cl,recetasdepan.net,thebeertimes.com,weedmagazine.net##.widget_aawp_widget_box
 weedmagazine.net##.widget_aawp_widget_new_releases
