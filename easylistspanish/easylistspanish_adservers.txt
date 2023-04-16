@@ -1,3 +1,7 @@
+!
+||pahtfi.tech^
+||palibzh.tech^
+!
 ||brand.ad^$third-party
 ||butlercdn.com^$third-party
 ||evolutionadv.it^$third-party
