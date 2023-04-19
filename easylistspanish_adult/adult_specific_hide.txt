@@ -12,6 +12,7 @@ pajilleros.com##.banner-bg
 freeones.es##.banner-placeholder
 pornogratisdiario.com##.bnfo
 pajilleros.com##.camsHome
+pornes.xxx##.footer_partner_container_wrapper
 veoporno.gratis,xn--xvideos-espaol-1nb.com##.happy-inside-player
 pampaporno.com##.hidden-under-920
 poringa.net##.home-native-patrocinado
