@@ -3,6 +3,7 @@ pajilleros.com###camsFooter
 mangacrab.com###fixedban
 mangacrab.com###fixedban2
 felizporno.com###main_video_fluid_html_on_pause
+petardashd.com###publi1
 escort46.es###top_image_div
 xnalgas.com###ventana-flotante
 bingoporno.com##.Scl-r
@@ -12,6 +13,7 @@ pajilleros.com##.banner
 pajilleros.com##.banner-bg
 freeones.es##.banner-placeholder
 pornogratisdiario.com##.bnfo
+petardashd.com##.botonsponsor
 pajilleros.com##.camsHome
 pornes.xxx##.footer_partner_container_wrapper
 veoporno.gratis,xn--xvideos-espaol-1nb.com##.happy-inside-player
