@@ -1,4 +1,5 @@
 madlifes.com,pepeporn.com###banners_footer
+pajilleros.com###camsFooter
 mangacrab.com###fixedban
 mangacrab.com###fixedban2
 escort46.es###top_image_div
@@ -6,8 +7,11 @@ xnalgas.com###ventana-flotante
 bingoporno.com##.Scl-r
 porneados.com##.adv-square
 cerdas.com##.advBottomPagin
+pajilleros.com##.banner
+pajilleros.com##.banner-bg
 freeones.es##.banner-placeholder
 pornogratisdiario.com##.bnfo
+pajilleros.com##.camsHome
 veoporno.gratis,xn--xvideos-espaol-1nb.com##.happy-inside-player
 pampaporno.com##.hidden-under-920
 poringa.net##.home-native-patrocinado
@@ -21,6 +25,7 @@ verpeliculasporno.gratis##.tpd
 videos.mrvideospornogratis.xxx##.vjs-producer
 qporno.xxx##[href^="https://qp.erotilink.es"]
 pajarracos.es##a[href^="http://www.fuegodevida.com/"]
+pajilleros.com##a[href^="https://www.amateur.tv/"]
 muycerditas.com##a[href^="https://www.platanomelon.com/?rfsn="]
 !
 slumi.com###anuncio_pancarta_campaign
