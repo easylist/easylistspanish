@@ -41,6 +41,7 @@ qmusica.tv###promo
 qmusica.tv###promoSept19A
 qmusica.tv###promoSept19B
 diariodeteruel.es###rightbanner
+noticiasrcn.com###rp1-compuesto
 elespanol.com###sticky_container
 lostiempos.com###takeover-desktop-counter
 lostiempos.com###takeover-movil-counter
@@ -112,6 +113,7 @@ elperiodicodeaqui.com##.banner_lat
 gasteizhoy.com##.bannerclick
 eleconomista.es##.banners-superiores2
 iproup.com##.bannerwide
+noticiasrcn.com##.barra-compuesta
 flashscore.co##.bettingStrip
 gastrolabweb.com,poresto.net##.bnn
 diariodecuyo.com.ar##.bnr
