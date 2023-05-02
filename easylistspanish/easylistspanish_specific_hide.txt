@@ -6,6 +6,7 @@ marca.com###Patrocinio
 freepik.es###adobe-pagination-mkt-copy
 cuevana3.nu###anuncioca
 elciudadanoweb.com###apsa-pop-hidden-img
+ambito.com###bannerStickyHeader
 diariodelaribera.net###bannercabeceravideo
 noticiasyprotagonistas.com###banners
 eleconomista.es###banners-superiores
@@ -89,7 +90,7 @@ elobservador.com.uy##.auspicios
 20minutos.es,lainformacion.com##.axds
 lainformacion.com##.axds-lane
 lectuepubgratis.com##.bam-topbar
-alicanteplaza.es,bienbonita.com,c5n.com,castellonplaza.com,cronista.com,donbalon.com,econojournal.com.ar,eleconomista.com.mx,elplural.com,guarda14.com,laverdadnoticias.com,lavoz.com.ar,losandes.com.ar,motor.com.co,tntsports.cl,tntsports.com.ar,tvynovelas.com,valenciaplaza.com,viapais.com.ar##.banner
+alicanteplaza.es,ambito.com,bienbonita.com,c5n.com,castellonplaza.com,cronista.com,donbalon.com,econojournal.com.ar,eleconomista.com.mx,elplural.com,guarda14.com,laverdadnoticias.com,lavoz.com.ar,losandes.com.ar,motor.com.co,tntsports.cl,tntsports.com.ar,tvynovelas.com,valenciaplaza.com,viapais.com.ar##.banner
 naiz.eus##.banner--article
 iprofesional.com##.banner-2
 freepik.es##.banner-adobe
