@@ -1,6 +1,7 @@
 !
 ||pahtfi.tech^
 ||palibzh.tech^
+||positive-ads.com^
 !
 ||brand.ad^$third-party
 ||butlercdn.com^$third-party
