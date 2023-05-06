@@ -212,6 +212,8 @@ gasteizhoy.com##.patrocinado-new
 futbolred.com##.pauta-bk
 vgrecipes.com##.pbl
 otakustv.com##.pestana_footer
+cronista.com##.piecesponsor
+cronista.com##.piecesponsor2
 qmusica.tv##.promoTop
 esdiario.com##.pub-2
 formulatv.com##.pub-btf
