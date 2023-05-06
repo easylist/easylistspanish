@@ -75,6 +75,7 @@ freepik.es##.adobe-coupon-container
 freepik.es##.adobe-grid-design
 rpp.pe,uypress.net##.ads
 tutorialesenlinea.es##.ads-titleposttl
+eleconomista.es##.adsLinicom
 anbariloche.com.ar,anroca.com.ar,elcordillerano.com.ar,noticiasnet.com.ar##.adserver-zona
 anbariloche.com.ar,anroca.com.ar,elcordillerano.com.ar,noticiasnet.com.ar##.adserver-zona-zocalo
 clarin.com##.adv
@@ -110,6 +111,8 @@ anbariloche.com.ar,anroca.com.ar,elcordillerano.com.ar,noticiasnet.com.ar##.bann
 eltrecetv.com.ar##.banner-swap
 ciudad.com.ar,elcomercio.com,lmcipolletti.com,lmneuquen.com##.banner-wrapper
 diariodelaribera.net##.bannerColumnas
+eleconomista.es##.bannerInferior
+eleconomista.es##.bannerIntermedio
 chilevision.cl##.banner_full
 elperiodicodeaqui.com##.banner_lat
 gasteizhoy.com##.bannerclick
