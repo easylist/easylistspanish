@@ -257,6 +257,7 @@ mercadolibre.cl,mercadolibre.com.ar,mercadolibre.com.co,mercadolibre.com.mx,merc
 eltiempo.es##.v-banner
 ideal.es,laverdad.es,leonoticias.com##.voc-home-branded-naked
 naiz.eus##.w-openx-banners
+tudn.com##.widget[data-widget-type="ListWidget"]
 beermagazine.net,recetasdepan.net##.widget_aawp_widget_bestseller
 beermagazine.net,cannabis420.cl,comidaschilenas.com,comidasespanolas.com,debosaber.cl,recetasdepan.net,thebeertimes.com,weedmagazine.net##.widget_aawp_widget_box
 weedmagazine.net##.widget_aawp_widget_new_releases
@@ -292,6 +293,7 @@ bemad.es,cuatro.com,divinity.es,energytv.es,factoriadeficcion.com,mtmad.es,niusd
 avisooportuno.mx##div[class^="div-dfp-"]
 liderendeportes.com##div[class^="lider-"]
 purochocolate.life,tumascota.life##div[class^="tumas-"]
+tudn.com##div[data-widget-type="Advertisement"]
 eleconomista.es##div[id^="300x"]
 eleconomista.es##div[id^="728x"]
 beergeeks.cl##div[id^="beerg-"]
