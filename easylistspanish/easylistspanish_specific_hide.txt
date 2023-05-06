@@ -135,6 +135,7 @@ futbolred.com##.btn_betplay
 plantadoce.com##.bwe_ext_partners
 miarevista.es,serpadres.es##.c-add
 elpais.com##.c-bra
+cadenaser.com##.c-p-ia
 cadenaser.com##.c-s > div
 elpais.com##.c.c-pfb.c--m
 vivanolamag.com##.client-logo-slider
