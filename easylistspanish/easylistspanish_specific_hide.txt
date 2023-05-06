@@ -93,7 +93,7 @@ elobservador.com.uy##.auspicios
 20minutos.es,lainformacion.com##.axds
 lainformacion.com##.axds-lane
 lectuepubgratis.com##.bam-topbar
-alicanteplaza.es,ambito.com,bienbonita.com,c5n.com,castellonplaza.com,cronista.com,donbalon.com,econojournal.com.ar,eleconomista.com.mx,elplural.com,guarda14.com,laverdadnoticias.com,lavoz.com.ar,losandes.com.ar,motor.com.co,tntsports.cl,tntsports.com.ar,tvynovelas.com,valenciaplaza.com,viapais.com.ar##.banner
+alicanteplaza.es,ambito.com,bienbonita.com,c5n.com,castellonplaza.com,cronista.com,diariolasamericas.com,donbalon.com,econojournal.com.ar,eleconomista.com.mx,elplural.com,guarda14.com,laverdadnoticias.com,lavoz.com.ar,losandes.com.ar,motor.com.co,tntsports.cl,tntsports.com.ar,tvynovelas.com,valenciaplaza.com,viapais.com.ar##.banner
 naiz.eus##.banner--article
 iprofesional.com##.banner-2
 freepik.es##.banner-adobe
