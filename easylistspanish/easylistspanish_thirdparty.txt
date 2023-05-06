@@ -8,6 +8,7 @@
 ||grupnaciodigital.cat/redaccio/publicitat/
 ||kisa-link.blok.link^$third-party
 ||news.grm.cl^
+||pub.tappx.com^
 ||tinyurl.com^$domain=seriesly.top
 ||triggy-banners.web.app^
 ||wp.pl/bidder/usersync?

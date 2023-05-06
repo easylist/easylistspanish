@@ -69,6 +69,7 @@ elpais.com,fmdos.cl,jornada.com.mx,meteoconsult.es,revistafama.com##.ad
 mundo.com##.ad-banner
 buenazo.pe,elpopular.pe,eltiempo.com,hobbyconsolas.com,larepublica.pe,libero.pe,somosfanaticos.fans,wapa.pe##.ad-container
 vidasana.sv##.adblockweb
+paginasiete.bo##.adcontainer-portlet
 elperiodico.com,epe.es,sport.es,sumedico.com##.add
 ondacero.es##.addContainer
 freepik.es##.adobe-coupon-container
