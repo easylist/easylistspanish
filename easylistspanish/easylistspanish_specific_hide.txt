@@ -172,6 +172,8 @@ diariodelaribera.net##.lateralizquierdo
 adslzone.net##.leaderboard
 huffingtonpost.es##.leaderboard-flex-placeholder
 flashscore.co##.liveActiveBet-ico
+lanacion.com.ar##.ln-aside
+lanacion.com.ar##.ln-banner-container
 directoalpaladar.com,trendenciashombre.com,vidaextra.com,xataka.com##.m-branded
 bebesymas.com,diariodelviajero.com,elblogsalmon.com,motorpasionmoto.com,pymesyautonomos.com##.m-desvio-ecommerce
 gasteizhoy.com##.macrobannerblock
