@@ -66,6 +66,7 @@ tutorialesenlinea.es##.a-wrap
 beergeeks.cl,cannabis420.cl,comidasespanolas.com,recetasdepan.net,reparaciondecomputadoras.online,thebeertimes.com,weedmagazine.net##.aawp
 actualidadradio.com##.actua-widget
 elpais.com,fmdos.cl,jornada.com.mx,meteoconsult.es,revistafama.com##.ad
+perfil.com##.ad-300x250
 mundo.com##.ad-banner
 buenazo.pe,elpopular.pe,eltiempo.com,hobbyconsolas.com,larepublica.pe,libero.pe,somosfanaticos.fans,wapa.pe##.ad-container
 vidasana.sv##.adblockweb
@@ -309,6 +310,7 @@ todoblaugrana.com##div[style*="width: 300px; height: 250px;"]
 futbolme.com##div[style*="z-index: 9999"]
 diariocritico.com##div[style^="width: 300px; height: 250px;"]
 diariocritico.com##div[style^="width: 300px; height: 600px;"]
+perfil.com##div[style^="width: 300px;"]
 lectortmo.org##iframe[style*="z-index: 2147483647"]
 diariodelaribera.net##img[alt^="Banner"]
 expansion.com##img[class="ue-c-widget__sponsor"]
