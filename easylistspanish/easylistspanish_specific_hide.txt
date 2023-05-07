@@ -74,7 +74,7 @@ elperiodico.com,epe.es,sport.es,sumedico.com##.add
 ondacero.es##.addContainer
 freepik.es##.adobe-coupon-container
 freepik.es##.adobe-grid-design
-rpp.pe,uypress.net##.ads
+perfil.com,rpp.pe,uypress.net##.ads
 tutorialesenlinea.es##.ads-titleposttl
 eleconomista.es##.adsLinicom
 anbariloche.com.ar,anroca.com.ar,elcordillerano.com.ar,noticiasnet.com.ar##.adserver-zona
@@ -716,7 +716,6 @@ moracontenidos.com##.bc_random_banner
 tumomo.com##.bderecho
 ebay.es##.beta-placement
 juegosjuegos.ws##.bfbc
-exitoina.perfil.com##.bg-ads-spac
 zooplus.es##.bg-banner
 tumomo.com##.bizquierdo
 informe21.com##.block-100
