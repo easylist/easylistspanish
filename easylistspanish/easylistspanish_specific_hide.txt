@@ -156,7 +156,6 @@ autopista.es##.containerBanner
 futbolred.com##.contenedor-logo-patrocinador
 debate.com.mx##.coverless
 meteored.cl,meteored.com.ar,meteored.mx,tiempo.com##.creatividad
-perfil.com##.d-xs-none.d-xxl-flex
 flashscore.co,flashscore.es##.detailLeaderboard
 libertaddigital.com,libremercado.com##.dfp
 huffingtonpost.es##.entry__right-rail-width-placeholder
@@ -304,6 +303,7 @@ cannabis420.cl##div[id^="canna-"]
 debosaber.cl##div[id^="debos-"]
 weedmagazine.net##div[id^="weedm-"]
 mariskalrock.com##div[id^="wmd-anuncio-"]
+perfil.com##div[style*="min-height: 250px;"]
 todoblaugrana.com##div[style*="width: 300px; height: 250px;"]
 futbolme.com##div[style*="z-index: 9999"]
 diariocritico.com##div[style^="width: 300px; height: 250px;"]
@@ -369,17 +369,10 @@ lacuerda.net###ban728
 lacuerda.net###banTxt
 fmvida.com.ar,inmonauta.es,lapoliticaonline.com.mx###banner
 viralizalo.com###banner-mega
-perfil.com###banner990
 diariotextual.com###bannerDiv
 pantallazo.com.uy###bannerEspeciales
 eldefinido.cl###bannerGCP
 entornointeligente.com###bannerHorizontal
-perfil.com###bannerMobile01
-perfil.com###bannerMobile02
-perfil.com###bannerMobile03
-perfil.com###bannerScreen01
-perfil.com###bannerScreen02
-perfil.com###bannerScreen03
 atresplayer.com###bannerTop
 aica.org###banner_A
 ahorradororata.com###banner_footer
@@ -442,7 +435,6 @@ forocoches.com###div-970x90_respuesta
 forocoches.com###div-970x90_respuesta_final
 abcsaladillo.com.ar###div-abc_1024x100_arriba_logo
 laveu.cat###divTopBanner
-perfil.com###div_blockTop_1
 livesports.pw###divpubli
 3djuegos.com###dst_pub_728
 mega1080.com###enla
@@ -626,7 +618,6 @@ diarioresponsable.com,esmtb.com##.anuncio
 educaplay.com##.anuncioAlt
 androidpit.es##.appSlider
 libertaddigital.com##.apuestas
-perfil.com##.ark-ad-block
 elespanol.com##.article-adv
 planetabocajuniors.com.ar##.article-banner
 larepublica.pe##.atm-banner-middle
