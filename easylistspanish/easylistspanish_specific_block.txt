@@ -219,6 +219,7 @@
 ||hazteveg.com/img/banner
 ||heybros.shop/wp-content/uploads/*/heybros.gif^$domain=simpsons-latino.club
 ||hitfm.es/view/imgs/Trident-Hit-FM-Fondo-*.jpg
+||hocalive.com/z-
 ||horadeopinion.com.ar/imagenes/*.gif
 ||horadeopinion.com.ar/wp-content/uploads/*/*/*.gif
 ||horajaen.com/wp-content/uploads/*/FALD*.jpg
