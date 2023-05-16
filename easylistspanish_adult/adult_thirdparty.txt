@@ -1,4 +1,5 @@
 ||amazonaws.com^$domain=pornotorrent.es
+||fuegodevida.com^$third-party
 ||imgur.com^$domain=verpeliculasporno.gratis
 ||pornogratis.online/promo/
 ||pornoplay.online/api/spots/
