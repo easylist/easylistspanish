@@ -44,6 +44,7 @@ qmusica.tv###promoSept19A
 qmusica.tv###promoSept19B
 diariodeteruel.es###rightbanner
 noticiasrcn.com###rp1-compuesto
+gamereactor.es###sky2_1
 elespanol.com###sticky_container
 lostiempos.com###takeover-desktop-counter
 lostiempos.com###takeover-movil-counter
