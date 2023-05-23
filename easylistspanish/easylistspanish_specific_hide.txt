@@ -162,7 +162,7 @@ flashscore.co,flashscore.es##.detailLeaderboard
 libertaddigital.com,libremercado.com##.dfp
 huffingtonpost.es##.entry__right-rail-width-placeholder
 ejeprime.com##.featured_specials
-arquimaster.com.ar,jotdown.es,valencianews.es##.g
+arquimaster.com.ar,isanidad.com,jotdown.es,valencianews.es##.g
 la-razon.com##.genosha_ads_fixed_bottom
 winsports.co##.goles_acero_banner
 diariodemallorca.es##.grp--branded-style
