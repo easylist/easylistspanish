@@ -296,6 +296,7 @@ bemad.es,cuatro.com,divinity.es,energytv.es,factoriadeficcion.com,mtmad.es,niusd
 bemad.es,cuatro.com,divinity.es,energytv.es,factoriadeficcion.com,mtmad.es,niusdiario.es,telecinco.es,uppers.es,yasss.es##div[class^="ads__ad_"]
 bemad.es,cuatro.com,divinity.es,energytv.es,factoriadeficcion.com,mtmad.es,niusdiario.es,telecinco.es,uppers.es,yasss.es##div[class^="cards__card_ad-"]
 avisooportuno.mx##div[class^="div-dfp-"]
+isanidad.com##[class^="g-"]
 liderendeportes.com##div[class^="lider-"]
 purochocolate.life,tumascota.life##div[class^="tumas-"]
 tudn.com##div[data-widget-type="Advertisement"]
