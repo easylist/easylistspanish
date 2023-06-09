@@ -108,6 +108,7 @@
 ||bajafiles.net/leer.jpg
 ||bannersweb.s3.amazonaws.com^
 ||bienesrosario.com/resources/banner/
+||blogger.googleusercontent.com/img/a/$domain=reconquistanoticias.blogspot.com
 ||blogspot.com/*.gif$domain=puertocampoynegocios.com
 ||breves24.com.ar/banners/
 ||buyman.com.ar/pubex/
