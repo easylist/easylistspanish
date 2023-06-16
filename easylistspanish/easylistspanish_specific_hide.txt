@@ -175,6 +175,7 @@ diariodenavarra.es,larazon.es,marie-claire.es,muyhistoria.es,muyinteresante.es,m
 soychile.cl##.home-banner
 atacamaenlinea.cl##.home-featured-widgets
 lavoz.com.ar##.imgSponsor
+nextpit.es##.jobbioapp
 marie-claire.es,muyhistoria.es,muyinteresante.es,muynegociosyeconomia.es##.js-ads-not-visible
 diariodelaribera.net##.lateralderecho
 diariodelaribera.net##.lateralizquierdo
@@ -208,6 +209,7 @@ hortanoticias.com##.n2-section-smartslider
 eldiario.es,infolibre.es##.news-sponsored-content
 diaridegirona.cat,diariocordoba.com,diariodeibiza.es,diariodemallorca.es,eldia.es,elperiodicodearagon.com,elperiodicoextremadura.com,elperiodicomediterraneo.com,emporda.info,farodevigo.es,informacion.es,laopinioncoruna.es,laopiniondemalaga.es,laopiniondemurcia.es,laopiniondezamora.es,laprovincia.es,levante-emv.com,lne.es,regio7.cat,superdeporte.es##.no-baldomero
 naciodigital.cat,pensem.cat##.nou-publi-cap-home
+nextpit.es##.np-product-offers
 flashscore.co,flashscore.es##.oddsPlacement
 autoscout24.es##.osa-as24-placeholder
 gasteizhoy.com##.patrocinado-new
