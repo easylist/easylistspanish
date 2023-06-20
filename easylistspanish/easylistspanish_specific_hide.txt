@@ -196,6 +196,7 @@ abc.es##.mega-superior
 marie-claire.es,muyhistoria.es,muyinteresante.es,muynegociosyeconomia.es,noticiasdegipuzkoa.eus##.megaBanner
 elcorreogallego.es,meteored.cl,meteored.com.ar,meteored.mx,modaes.com,tiempo.com##.megabanner
 meteored.com.py##.meteored-ads
+elperiodicodelaenergia.com##.mrf-banner
 caracol.com.co,wradio.com.co##.mh266-100
 diariodevalderrueda.es##.minibanner_content
 show.news##.mod.relatednews
@@ -789,6 +790,7 @@ teknofilo.com##.e3lan
 diariodesevilla.es##.ePubli1
 elcomercio.pe##.ec-club
 eldeber.com.bo##.ed-ads
+elperiodicodelaenergia.com##.elper-edison-next-mobile > figure.pk-pin-it-container
 cronista.com##.entry-box-banner
 peru.com##.epl-space
 elespectador.com##.external-logos
