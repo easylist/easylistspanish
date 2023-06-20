@@ -62,7 +62,7 @@ andaluciainformacion.es,informacionalcalalareal.es,informacionpuentegenil.es,inf
 ccma.cat##.M-publicitat
 diaridegirona.cat,diariocordoba.com,diariodeibiza.es,diariodemallorca.es,eldia.es,elperiodicodearagon.com,elperiodicoextremadura.com,elperiodicomediterraneo.com,emporda.info,farodevigo.es,informacion.es,laopinioncoruna.es,laopiniondemalaga.es,laopiniondemurcia.es,laopiniondezamora.es,laprovincia.es,levante-emv.com,lne.es,regio7.cat,superdeporte.es##._mo_recs
 elperiodico.com##._mo_recs_cti
-aurora-israel.co.il,teleamazonas.com##.a-single
+aurora-israel.co.il,elperiodicodelaenergia.com,teleamazonas.com##.a-single
 tutorialesenlinea.es##.a-wrap
 beergeeks.cl,cannabis420.cl,comidasespanolas.com,recetasdepan.net,reparaciondecomputadoras.online,thebeertimes.com,weedmagazine.net##.aawp
 actualidadradio.com##.actua-widget
@@ -163,7 +163,7 @@ libertaddigital.com,libremercado.com##.dfp
 euractiv.es##.ea-gat-slot-wrapper
 huffingtonpost.es##.entry__right-rail-width-placeholder
 ejeprime.com##.featured_specials
-arquimaster.com.ar,isanidad.com,jotdown.es,valencianews.es##.g
+arquimaster.com.ar,elperiodicodelaenergia.com,isanidad.com,jotdown.es,valencianews.es##.g
 la-razon.com##.genosha_ads_fixed_bottom
 winsports.co##.goles_acero_banner
 diariodemallorca.es##.grp--branded-style
