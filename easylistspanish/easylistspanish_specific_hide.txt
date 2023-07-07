@@ -42,6 +42,7 @@ diariodeteruel.es###mvp-leader-wrap
 qmusica.tv###promo
 qmusica.tv###promoSept19A
 qmusica.tv###promoSept19B
+promiedos.com.ar###pub728
 diariodeteruel.es###rightbanner
 noticiasrcn.com###rp1-compuesto
 gamereactor.es###sky2_1
@@ -290,6 +291,7 @@ portalbici.es##a[href^="https://www.awin1.com/cread.php"]
 bikezona.com##a[href^="https://www.bikezona.com/util/redirect.asp?idbanner="]
 vergnula.com##a[href^="https://www.primevideo.com/"][href*="tag="]
 espn.cl,espn.co.cr,espn.com.ar,espn.com.co,espn.com.do,espn.com.ec,espn.com.gt,espn.com.mx,espn.com.pa,espn.com.pe,espn.com.uy,espn.com.ve##a[href^="https://www.starplus.com"][href*="?cid="]
+promiedos.com.ar##a[href^="publicidad.php?"]
 darkstone.es##a[onclick^="return ad_redirect"]
 mercadolibre.cl,mercadolibre.co.cr,mercadolibre.com.ar,mercadolibre.com.bo,mercadolibre.com.co,mercadolibre.com.do,mercadolibre.com.ec,mercadolibre.com.gt,mercadolibre.com.hn,mercadolibre.com.mx,mercadolibre.com.ni,mercadolibre.com.pa,mercadolibre.com.pe,mercadolibre.com.py,mercadolibre.com.sv,mercadolibre.com.uy,mercadolibre.com.ve##div.ui-search-result--highlight-p
 elnueve.com.ar##div[class*="_site-banner-top_"]
