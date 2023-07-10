@@ -3,6 +3,7 @@
 ||afiliadoscasadellibro.uinterbox.com^$third-party
 ||alicdn.com/t/$domain=pandrama.com
 ||amazonaws.com^$domain=estrenosdoramas.net|m.animeflv.net
+||avisosdeocasion.com/reforma/gcavisoscom/$domain=reforma.com
 ||bit.ly^$domain=mega-mkv.com
 ||d1r08wok4169a5.cloudfront.net^
 ||grupnaciodigital.cat/redaccio/publicitat/

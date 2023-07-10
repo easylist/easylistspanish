@@ -27,6 +27,7 @@
 ||spanishcorrector.com/cnc/
 ||static.publinews.gt/*/Skin-
 ||studiofutbol.com.ec/tabla2021/images/banner-copa-300x90.jpg
+||tcccdn.com^*/banner/
 ||upcloud.alfabeta.net/zonas.js
 ! Onda Valéncia
 ||ondavalencia.es/images/001_BLOGINFORAM.png
@@ -100,7 +101,6 @@
 ||anroca.com.ar/uploads/archivos/*.gif
 ||apfdigital.com.ar/imgpublicidad/
 ||artesacro.org/banner/Salvar-Torre-San-Bartolome-2017.gif
-||avisosdeocasion.com/*/gcavisoscom^$subdocument,domain=reforma.com
 ||azarplus.com/fotos/banners
 ||azarplus.com/includes/greybox/AJS.js
 ||azcast.live/img/close1.png
@@ -328,8 +328,6 @@
 ||mundodescuento.s3.amazonaws.com^$domain=cadena3.com
 ||musiquiatra.com/uploads/banners
 ||naciodigital.cat/redaccio/publicitat/
-||net-static.tccstatic.com/template/todoblaugrana.com/tmw/banner/$image
-||net-storage.tccstatic.com/storage/esfutbol.net/banner/$image
 ||netpol.es/foropolicia_banner
 ||netuy.net/banner_hosting_uruguay/
 ||newsweeklatino.com/flow/
