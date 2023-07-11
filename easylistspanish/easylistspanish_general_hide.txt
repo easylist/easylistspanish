@@ -33,6 +33,7 @@
 ##.publicidad_dfp
 ##.publicolumna
 ##.ue-c-ad
+##.v-adv
 ##.voc-advertising
 ##.voc-article--sponsored
 ##.voc-sponsored
