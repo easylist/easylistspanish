@@ -242,6 +242,10 @@ directoalpaladar.com,motorpasion.com,motorpasion.com.mx,trendenciashombre.com,vi
 diariodenavarra.es##.roba
 elplural.com##.row-sky-banners
 burbuja.info##.samCodeUnit
+ole.com.ar##.sc-905ccbfc-0
+ole.com.ar##.sc-905ccbfc-1
+ole.com.ar##.sc-905ccbfc-5
+ole.com.ar##.sc-905ccbfc-7
 cuevana.pro,pelispedia.la##.section-cpa
 directoalpaladar.com,trendenciashombre.com,vidaextra.com,xataka.com##.section-native-container
 depor.com##.separator__sponsored
