@@ -10,6 +10,7 @@
 ||kisa-link.blok.link^$third-party
 ||news.grm.cl^
 ||pub.tappx.com^
+||publyads.jstag.space^
 ||tinyurl.com^$domain=seriesly.top
 ||triggy-banners.web.app^
 ||wp.pl/bidder/usersync?
