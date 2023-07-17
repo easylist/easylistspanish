@@ -152,6 +152,7 @@ elrellano.com##.code-block-6
 elrellano.com##.code-block-9
 deia.eus,noticiasdealava.eus,noticiasdegipuzkoa.eus,noticiasdenavarra.com##.commercial-up-full
 retinatendencias.com##.concintillo
+mercadolibre.cl,mercadolibre.co.cr,mercadolibre.com.ar,mercadolibre.com.bo,mercadolibre.com.co,mercadolibre.com.do,mercadolibre.com.ec,mercadolibre.com.gt,mercadolibre.com.hn,mercadolibre.com.mx,mercadolibre.com.ni,mercadolibre.com.pa,mercadolibre.com.pe,mercadolibre.com.py,mercadolibre.com.sv,mercadolibre.com.uy,mercadolibre.com.ve##.container-advertising
 vilaweb.cat##.container-banner-header
 depor.com,elcomercio.pe##.container-publicidad
 laarena.com.ar##.container-spot
