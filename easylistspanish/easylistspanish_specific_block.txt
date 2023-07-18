@@ -1,3 +1,4 @@
+||agencianova.com/avisos/
 ||albaceteabierto.es/anuncios/
 ||ansalatina.com/americalatina/images/banner/
 ||arquimaster.com.ar/banners/
@@ -20,6 +21,7 @@
 ||mil21.es/anuncios/
 ||minube.click^
 ||notebookcheck.org/fileadmin/Sonstiges/amaz_$xmlhttprequest
+||novachaco.com/avisos/
 ||pelispop.info/EkBG80SP.js
 ||pescare.com.ar/wp-content/uploads/*/Grupo-
 ||pordede.click/assets/img/suscripcion.png

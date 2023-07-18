@@ -6,7 +6,7 @@ marca.com###Patrocinio
 freepik.es###adobe-pagination-mkt-copy
 cuevana3.nu###anuncioca
 elciudadanoweb.com###apsa-pop-hidden-img
-agencianova.com###avisosDerecha
+agencianova.com,novachaco.com###avisosDerechaContainer
 ambito.com###bannerStickyHeader
 diariodelaribera.net###bannercabeceravideo
 noticiasyprotagonistas.com###banners
