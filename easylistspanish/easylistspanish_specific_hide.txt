@@ -54,6 +54,7 @@ knightnoscanlation.com,yugenmangas.com###teaser3
 planbnoticias.com.ar###text-4
 planbnoticias.com.ar###text-7
 independentespanol.com###top-banner-wrapper
+anisearch.es###topA_iframe
 generacionuniversitaria.com.mx###ventana-flotante
 elciudadanoweb.com###wrapper-header-full
 lanacion.com.ar##.--ads
