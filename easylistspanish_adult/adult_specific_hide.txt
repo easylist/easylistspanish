@@ -34,7 +34,7 @@ muyzorras.com##a[href^="https://landings.videochatprovider.com/"]
 pajilleros.com##a[href^="https://www.amateur.tv/"]
 muyzorras.com##a[href^="https://www.fuegocams.com/"]
 muycerditas.com##a[href^="https://www.platanomelon.com/?rfsn="]
-!
+!!
 slumi.com###anuncio_pancarta_campaign
 donlgbt.com###banner-superior
 videosdemadurasx.com###pBrazzers
