@@ -219,6 +219,7 @@ naciodigital.cat,pensem.cat##.nou-publi-cap-home
 nextpit.es##.np-product-offers
 flashscore.co,flashscore.es##.oddsPlacement
 autoscout24.es##.osa-as24-placeholder
+libertaddigital.com##.partners
 gasteizhoy.com##.patrocinado-new
 futbolred.com##.pauta-bk
 vgrecipes.com##.pbl
@@ -378,7 +379,7 @@ foroparalelo.com###ad_global_below_navbar
 es.nametests.com###ad_wrapper_head
 nomellamesfriki.com###adpv1
 nomellamesfriki.com###adpv2
-notariosyregistradores.com,shippuden.tv###ads
+notariosyregistradores.com###ads
 eltiempo.es###ads_position_2
 agma.io###advertDialog1
 hazteveg.com###advertising
@@ -426,7 +427,6 @@ informe21.com###block-views-diosuniversal-block-1
 telesemana.com###blog-banner
 ushuaia24.com.ar###bloque-11
 lagacetadesalamanca.es###bn_vandyck
-shippuden.tv###bottomlink
 pickinup.es###brand-carousel
 abc.com.py###breaking-news-banner1
 wordmagicsoft.com###bt_aws_ad_slot_1
@@ -435,14 +435,9 @@ abchoy.com.ar###cacho-overlay
 abchoy.com.ar###cacho-popup
 20minutos.es###cajasbuscadoras
 easy.com.ar###carruselMarcasBlaisten
-shippuden.tv###categories
 artesacro.org###ccr-sidebar-add-place
 diario.mx###centro_pub
 pantallazo.com.uy###clima-banner
-verdirectotv.com,vergol.com,verliga.net,vertelevisor.com###closeX
-cinestrenostv.tv,vercanalestv.com,verdirectotv.com###closeX1
-cinestrenostv.tv###closeX2
-verdirectotv.com###closeX23
 desdesoria.es###columnapublicidad
 montevideo.com.uy###conectab
 economia3.com###contiene_orejeras
@@ -462,10 +457,8 @@ forocoches.com###div-970x90_respuesta
 forocoches.com###div-970x90_respuesta_final
 abcsaladillo.com.ar###div-abc_1024x100_arriba_logo
 laveu.cat###divTopBanner
-livesports.pw###divpubli
 3djuegos.com###dst_pub_728
 mega1080.com###enla
-pelishouse.com###fakeplayer
 capodeportes.net###floatLayer2
 25digital.com.ar###footer-widgets
 abc.com.py###fullwidth-banner
@@ -479,19 +472,11 @@ telesemana.com###highlights-banner
 realbetisbalompie.es###horizotal-banners
 laarena.com.ar###id_popup_MM_cliqueado
 indicepr.com###ifr_widget_sal
-superligatv.com###imCell_10
-superligatv.com###imCell_117
-superligatv.com###imCell_119
-superligatv.com###imCell_120
-superligatv.com###imCell_180
-superligatv.com###imCell_182
-superligatv.com###imHeader_imHTMLObject_27_wrapper
 tribunaavila.com,tribunaburgos.com,tribunaleon.com,tribunapalencia.com,tribunasalamanca.com,tribunasegovia.com,tribunasoria.com,tribunavalladolid.com,tribunazamora.com###interstitial_container
 supremacy1914.es###kbg
 freepik.es###layer_coupon
 diariocronica.com.ar###lik
 diario.mx###main__dehit
-todocvcd.com###mbanner
 desdesoria.es###mediacolumna
 libertaddigital.com###mega-atf
 elmundo.es###modulo_buscador_sv
@@ -620,10 +605,9 @@ elconfidencial.com##.adcrt300x600
 cope.es,elperiodico.cat,laconversacion.net,lagaceta.com.ar,lagacetasalta.com.ar##.add
 hoyaragon.es##.addg
 lavozdegalicia.es##.adpos
-cronicadelquindio.com,dimayor.com.co,eltrecetv.com.ar,eslang.es,gnula.se,lostiempos.com,pctmix1.com,pelispedia.tv,peru.com,publico.es##.ads
+cronicadelquindio.com,dimayor.com.co,eltrecetv.com.ar,eslang.es,gnula.se,lostiempos.com,pctmix1.com,peru.com,publico.es##.ads
 meristation.as.com,meristation.com.mx##.ads-notificator
 elblog.com##.ads-superior
-fuerzasarmadas.eu##.ads_block
 pelisplay.co##.ads_url_insert
 forobeta.com##.adshare_belownav
 forobeta.com##.adshare_firstpost
@@ -639,12 +623,10 @@ diarioadn.co##.advertising-news
 vibbo.com##.afs-block
 htcmania.com##.afterlogo
 jugarbet.com##.ai-dynamic
-libremercado.com##.ampliacion
 seguimiento.co##.anpub
 diarioresponsable.com,esmtb.com##.anuncio
 educaplay.com##.anuncioAlt
 androidpit.es##.appSlider
-libertaddigital.com##.apuestas
 elespanol.com##.article-adv
 planetabocajuniors.com.ar##.article-banner
 larepublica.pe##.atm-banner-middle
@@ -880,7 +862,6 @@ mariosegura.com##.owl-example
 frontera.info##.p15_banners_box1_234
 meteoconsult.es##.partenaire_simple
 meteoconsult.es##.partenaire_simple_home
-libertaddigital.com##.partners
 olx.com.ar##.partnerships-view
 chacohoy.com,corrienteshoy.com##.pasli
 eltiempo.com##.patrocinador-contenedor
@@ -981,7 +962,6 @@ noticiasdelavilla.net##.td-anuncio-contenido
 noticiasdelavilla.net##.td-anuncio-superior
 viruji.andaluciainformacion.es##.td-banner-wrap-full
 aldeaviral.com,periodicoeldiario.com##.td-header-sp-recs
-cronicadigital.cl##.td-main-sidebar > .td-ss-main-sidebar > .td_block_template_5:nth-of-type(1)
 lifeder.com##.td-ss-main-sidebar
 hispanicpost.com##.td-visible-desktop
 diarioconurbano.com.ar##.tdi_36
@@ -1004,14 +984,13 @@ seriesturcas.gratis##.ver-ahora
 larazon.es##.vinculoPatrocinio
 diarionoticias.com.ar##.visable
 wago.io##.wago-ad-container
-alicantetoday.com##.weather-week
 neoauto.com##.widescreen
 cadenaoh.com.ar,profesionalreview.com##.widget-ad-image
 republica.com##.widget-sdb-publi
 republica.com##.widget-widget_this_theme_publi_text
 ladefensadigital.com,reconquistanoticias.blogspot.com##.widget.Image
 cafexmedio.com.ar,invertirenbolsa.mx##.widget_block
-equipar.es,futbolchile.net,nicaraguahoy.info##.widget_custom_html
+equipar.es,nicaraguahoy.info##.widget_custom_html
 lajornadanet.com##.widget_custom_html > .block-title
 st1.idealista.com##.widget_idealista
 crearmiempresa.es,diariotextual.com,moracontenidos.com,realidadsm.com,somosjuarez.com##.widget_media_image
@@ -1022,7 +1001,6 @@ envilladelparque.com,envilladevoto.com##.widget_wp_views
 arquimaster.com.ar,moracontenidos.com##.wp-block-image
 diariotextual.com##.wpb_raw_html
 armasymuniciones.net,mariosegura.com##.wpb_single_image
-cronicadigital.cl##.wpb_text_column
 lajornadanet.com##.wpipa-container
 hipertextual.com##.wrapperBanner
 anbariloche.com.ar,anroca.com.ar,nuevodiarioweb.com.ar##.zona_banners
@@ -1041,7 +1019,6 @@ diaridesabadell.com,diarideterrassa.com##[id^="diari-"]
 lebrijadigital.es##[id^="djslider"]
 armasymuniciones.net,arribalanus.com.ar,diarioconurbano.com.ar##[id^="media_image-"]
 huelva24.com##[id^=detection]
-depo.superligatv.com##[id^=floatLayer]
 va6.thand.info##[src="http://va6.thand.info/0hsfy957uswi2cgypg23"]
 pelis24.gratis##a[class^="fasc"]
 seriesgato.com##a[href*=".leadzutw.com/"]
@@ -1052,7 +1029,6 @@ autoextragti.com,isabadell.cat,madridnorte24horas.com,mexicodesconocido.com.mx,s
 teknofilo.com##a[href*="://clk.tradedoubler.com/click?"]
 todopolicia.com##a[href*="://psicotecnicos2x.es/"]
 htcmania.com##a[href*="_banner.php?id="]
-minovelasubtitulada.com##a[href*="bestrevenuenetwork.com"]
 irispress.es##a[href*="caixabank.es/"]
 mundoplus.tv##a[href*="clicktag_promo"]
 irispress.es##a[href*="comprometidoscon.org/"]
@@ -1098,7 +1074,6 @@ teknofilo.com##a[href^="//clk.tradedoubler.com/click?"]
 adlipay.com##a[href^="/away.php?"]
 microsiervos.com##a[href^="http://bit.ly/"]
 cuatro.com,telecinco.es##a[href^="http://premiercasino.es/"]
-pelisplus.tv##a[href^="http://www.maxonclick.com/"]
 mastercoria.com##a[href^="https://alertlogsemployer.com"]
 zigzagdigital.com##a[href^="https://beone.es/"]
 pivigames.blog##a[href^="https://bstk.me/"]
@@ -1137,7 +1112,6 @@ laarena.com.ar##div[style="box-shadow: rgba(0, 0, 0, 0.4) 0px 0px 20px; backgrou
 entornointeligente.com##div[style="clear:both;width:100%;background-color: #EFEFEF;height:90px"]
 entornointeligente.com##div[style="clear:both;width:100%;background-color: #EFEFEF;height:90px;"]
 argentinavende.com,cordobavende.com##div[style="float:left;width:970px;height:90px;background: #eee; margin-right:10px"]
-booksmedicos.org##div[style="float:none;margin:10px 0 10px 0;text-align:center;"]
 boardzona.com##div[style="font-family:Arial, Helvetica, sans-serif;font-size:9px;color:#666666"]
 vanguardia.com##div[style="font-size: 0.8em; text-align: left; color: rgb(136, 136, 136);"]
 lifezona.com##div[style="font-size:15px;height:19px;color:white;font-weight:bold;"]
@@ -1158,12 +1132,10 @@ concuchilloytenedor.es##div[style="margin:5px auto 5px;text-align:center;"]
 19640noticias.com##div[style="padding: Publicidad"]
 animeid.io##div[style="position: absolute; top: 660px; right: -228px;"]
 la-razon.com##div[style="position:absolute; top:12px; width:970px; height:90px; background:#FFF; z-index:100; padding:0px; margin:0px"]
-peliculasyseries.org##div[style="position:relative;z-index:100;height:450px"]
 cuartopoder.es##div[style="text-align:center; margin-bottom: 15px; background-color:#F4F4F4;width: 302px;"]
 cuartopoder.es##div[style="text-align:center; margin-bottom: 15px; background-color:#F4F4F4;width: 728px;"]
 ahorradororata.com##div[style="width: 300px; height: 600px;"]
 epasatiempos.es##div[style="width: 336px; height: 565px; float: right; margin-top: 30px;"]
-jkanime.net##div[style="width: 354px; padding: 0px; text-align: center; margin: 0px;"]
 ahorradororata.com##div[style="width: 640px; height: 480px;"]
 ahorradororata.com##div[style="width: 728px; height: 90px;"]
 biodiesel.com.ar##div[style="width: 90%; height: 90px; background: #fff; text-align: center; display: inline-block; color: #bbb; font-family: 'Open Sans', sans-serif; font-weight: 700; font-size: 1.2rem; white-space: nowrap; padding: 0px 5% 0; overflow: hidden;"]
@@ -1233,7 +1205,6 @@ astrologiaenlinea.com##td[width="728"][height="90"]
 pelisplay.co##tr[data-lang="Publicidad"]
 ! Site Specific filters (used with $generichide)
 ! Anti-Adblock
-vergol.com,verliga.net###adb-enabled
 huelva24.com###adblockadvice
 noticiasrcn.com###ads-inread
 elheraldo.co###ads-mascotas
