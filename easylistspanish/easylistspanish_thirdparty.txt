@@ -14,7 +14,7 @@
 ||tinyurl.com^$domain=seriesly.top
 ||triggy-banners.web.app^
 ||wp.pl/bidder/usersync?
-!!
+!
 ||economicos.cl/widgets/$third-party
 ||guioteca.com/widget.php^$third-party
 ||partner.leguide.com^$third-party
