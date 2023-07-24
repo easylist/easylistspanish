@@ -2,6 +2,7 @@
 ###PublicidadSuperior
 ###ads_singles_bottom
 ###audimaAdDesktop
+###banner_publi
 ###bloque-publicidad-1
 ###bloque-publicidad-2
 ###bloque-publicidad-9
