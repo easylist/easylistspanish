@@ -170,6 +170,7 @@ flashscore.co,flashscore.es##.detailLeaderboard
 libertaddigital.com,libremercado.com##.dfp
 euractiv.es##.ea-gat-slot-wrapper
 huffingtonpost.es##.entry__right-rail-width-placeholder
+verepeliculas.com##.fake_player
 ejeprime.com##.featured_specials
 arquimaster.com.ar,elperiodicodelaenergia.com,isanidad.com,jotdown.es,valencianews.es##.g
 la-razon.com##.genosha_ads_fixed_bottom
@@ -239,7 +240,7 @@ naciodigital.cat##.publi-inter-portada
 esdiario.com##.publi-top
 pensem.cat##.publi_interpagina
 lawebdelprogramador.com##.publi_robapaginas
-areajugones.sport.es,generacionuniversitaria.com.mx,iberempleos.es,lavozdealmeria.com,meteored.cl,meteored.com.ar,meteored.com.py,meteored.mx,neomotor.com,tiempo.com##.publicidad
+0221.com.ar,areajugones.sport.es,generacionuniversitaria.com.mx,iberempleos.es,lavozdealmeria.com,meteored.cl,meteored.com.ar,meteored.com.py,meteored.mx,neomotor.com,tiempo.com##.publicidad
 eldesmarque.com##.publicidad_marca
 alfabeta.net##.publimg
 eleconomista.es##.railContainer1
@@ -296,9 +297,7 @@ pelisplus.lat##a[href*="://bit.ly/"]
 elrellano.com##a[href*="https://urbanous.com/tienda/tazas/eo-eeeeooo/"]
 animeid.tv##a[href*="leadzupc.com/"]
 mediotiempo.com##a[href^="http://online.caliente.mx/promoRedirect?"]
-atomtt.com##a[href^="https://STaRtgAming.net/"][href*="?offer_id="]
 comidaschilenas.com##a[href^="https://paysuites.me/"]
-elitetorrent.com##a[href^="https://staRTgaming.net/"][href*="?offer_id="]
 moviesdvdr.co##a[href^="https://startgaming.net/"]
 anisearch.es##a[href^="https://www.amazon."][href*="tag="]
 portalbici.es##a[href^="https://www.awin1.com/cread.php"]
@@ -314,6 +313,7 @@ elperiodic.com##div[class^="adcont_"]
 bemad.es,cuatro.com,divinity.es,energytv.es,factoriadeficcion.com,mtmad.es,niusdiario.es,telecinco.es,uppers.es,yasss.es##div[class^="adsGroupTop"]
 bemad.es,cuatro.com,divinity.es,energytv.es,factoriadeficcion.com,mtmad.es,niusdiario.es,telecinco.es,uppers.es,yasss.es##div[class^="ads__ad_"]
 elchapuzasinformatico.com##div[class^="ads_single_"]
+verepeliculas.com##div[class^="ano_"]
 bemad.es,cuatro.com,divinity.es,energytv.es,factoriadeficcion.com,mtmad.es,niusdiario.es,telecinco.es,uppers.es,yasss.es##div[class^="cards__card_ad-"]
 avisooportuno.mx##div[class^="div-dfp-"]
 liderendeportes.com##div[class^="lider-"]
@@ -636,7 +636,6 @@ larepublica.pe##.atm-banner-middle
 larepublica.pe##.atm-banner-strip
 larepublica.pe##.atm-banner-top
 lanacion.com.ar##.auspicia > a[href^="https://betsson.bet.ar/"]
-animeid.io##.avm
 costacadizcomunicacion.es##.b-2
 cadena3.com##.baner300x250
 cadena3.com##.baner630x250
@@ -695,7 +694,6 @@ rosariogarage.com##.banner_bienes_rosario
 bienesrosario.com##.banner_bienes_rosario_contenido
 elimparcial.com,frontera.info##.banner_box
 elimparcial.com,frontera.info##.banner_box_p
-animeid.io,jkanime.co##.banner_center
 rosariogarage.com##.banner_centro_inf
 miltorrents.com##.banner_detail_files
 miltorrents.com##.banner_detail_top
@@ -793,9 +791,6 @@ eldeber.com.bo##.ed-ads
 cronista.com##.entry-box-banner
 peru.com##.epl-space
 elespectador.com##.external-logos
-seriesgato.com##.externo
-peliculas69.com##.fake
-rainanime.co,verepeliculas.com##.fake_player
 tokyvideo.com##.fan
 planetabocajuniors.com.ar##.featured-banner
 estadiodeportivo.whitelabel.kelisto.es##.finance
@@ -875,28 +870,15 @@ forochicas.com##.pbanner
 anitoc.com,panicmanga.com,worldmangas.com##.pbl
 peliculasaudiolatino.com##.pfake
 bernabeudigital.com##.placeholder
-descargar.mobi##.placeholder__item--banner
 casinonewsdaily.es##.popup-promo
 laarena.com.ar##.popup_MM__cliqueado
 diario.mx##.portada_1LB
 diario.mx##.portada_1MT
 elchubut.com.ar,eldia.com,infoplatense.com.ar##.ppp
-letrap.com.ar##.ppp_H12
-letrap.com.ar##.ppp_H13
-letrap.com.ar##.ppp_H14
-letrap.com.ar##.ppp_H18
-letrap.com.ar##.ppp_H19
-letrap.com.ar##.ppp_H20
-letrap.com.ar##.ppp_H4
-letrap.com.ar##.ppp_H5
-letrap.com.ar##.ppp_H6
-letrap.com.ar##.ppp_P5
-letrap.com.ar##.ppp_P6
 noticiasparamunicipios.com##.prefix-adlabel
 deportes.televisa.com##.prime-banner
 lavoz.com.ar##.producto-tienda
 rumbo.es##.promo262x90
-europa-agricola.es,peliculas69.com##.pub
 diario.mx##.pub__portada
 elblog.com##.pub_lat1_father
 elblog.com##.pub_lat2_father
@@ -913,7 +895,7 @@ paginasamarillas.es##.publi-sidebar-listado
 elonce.com##.publi-top
 meristation.as.com,meristation.com.mx##.publi1
 elespanol.com##.publi_intext2
-0221.com.ar,animekb.com,carasycaretas.org.ar,diario.mx,dinero.com,eldeportivo.com.co,eltribuno.info,expansion.com,gonzoo.com,iahorro.com,laizquierdadiario.com,latercera.com,mundoejecutivo.com.mx,okdiario.com,publico.es,semana.com,supercines.com##.publicidad
+animekb.com,carasycaretas.org.ar,diario.mx,dinero.com,eldeportivo.com.co,eltribuno.info,expansion.com,gonzoo.com,iahorro.com,laizquierdadiario.com,latercera.com,mundoejecutivo.com.mx,okdiario.com,publico.es,semana.com,supercines.com##.publicidad
 brujuladigital.net##.publicidad-l
 elretratodehoy.com.ar##.publicidad_nota
 lesportiudecatalunya.cat##.publicitat
@@ -1024,7 +1006,6 @@ armasymuniciones.net,arribalanus.com.ar,diarioconurbano.com.ar##[id^="media_imag
 huelva24.com##[id^=detection]
 va6.thand.info##[src="http://va6.thand.info/0hsfy957uswi2cgypg23"]
 pelis24.gratis##a[class^="fasc"]
-seriesgato.com##a[href*=".leadzutw.com/"]
 pivigames.blog##a[href*=".php"]
 inmodiario.com##a[href*="/ads.php?id="]
 foropolicia.es##a[href*="/publicidad.php?id="]
@@ -1044,9 +1025,7 @@ playpaste.com##a[href*="wg-aff.com/click?"]
 forochicas.com##a[href*="www.amazon.es/"]
 miradetodo.io##a[href="#div0"]
 miradetodo.io##a[href="#playerads"]
-dreamfilmhd.bz##a[href="http://bit.ly/1Lppy4T"]
 20minutos.es##a[href="http://boticariagarcia.com/"]
-dreamfilmhd.bz##a[href="http://byggboss.se"]
 diariodelaribera.org##a[href="http://castillafloristeria.com/"]
 diariodelaribera.org##a[href="http://electrosanzhermanos.com/"]
 noticiasdelmundo.org##a[href="http://ganadineroconencuestas.com/dinero_flow/?webform=*&c=&s2s=*&pubid=*&subid=&medio=*&vendor=*&context="]
@@ -1060,7 +1039,6 @@ mitele.es##a[href="http://www.eltiempohoy.es/"]
 antena3.com##a[href="http://www.englishhouse.tv/sabias-que.php"]
 20minutos.es##a[href="http://www.esquire.es"]
 antena3.com##a[href="http://www.guiainfantil.com/"]
-dreamfilmhd.bz##a[href="http://www.hagopro.se"]
 ldu.com.ec##a[href="http://www.herbalife.com.ec/"]
 ruedasgordas.es##a[href="http://www.morellasingletracks.com/"]
 ruedasgordas.es##a[href="http://www.mybikenet.com/development/"]
@@ -1093,8 +1071,6 @@ planetadeagostini.es##article[id^="divAdserver"]
 arquimaster.com.ar##div[align="center"] > a
 oversos.com##div[aria-label="QODE"]
 portalfruticola.com##div[class*="banner-set"]
-verepeliculas.com##div[class^="ano_"]
-onlineradiobox.com##div[class^="banner--"]
 elcordillerano.com.ar##div[class^="contenedor_banner_"]
 novelasromanticash.blogspot.com##div[class^="fixed-"][class$="Sd"]
 volkgames.com##div[class^="pauta_"]
@@ -1109,8 +1085,6 @@ nuevamujer.com##div[style="background-color: #E6E6E6; padding: 2px; text-align: 
 monografias.com##div[style="background-color:#FFF;margin-bottom:10px;height:250px;"]
 entornointeligente.com##div[style="background-color:#FFFFFF;border-top:2px solid red; margin-bottom: 16px;"]
 entornointeligente.com##div[style="background-color:#ffffff;border-top:2px solid red; margin-bottom: 16px;"]
-dreamfilmhd.bz##div[style="background-color:rgba(0,0,0,0.1);width:750px;height:100px;max-width:100%;margin:0 5px 10px 8px"]
-euribor.com.es##div[style="border: 2px solid #1D8FC1; width: 320px; height:280px; clear:both; margin-bottom: 25px"]
 laarena.com.ar##div[style="box-shadow: rgba(0, 0, 0, 0.4) 0px 0px 20px; background: rgb(255, 255, 255); animation-duration: 0.4s; animation-delay: 0.2s; border-radius: 4px; width: 900px; height: 500px; margin: auto; padding: 30px;"]
 entornointeligente.com##div[style="clear:both;width:100%;background-color: #EFEFEF;height:90px"]
 entornointeligente.com##div[style="clear:both;width:100%;background-color: #EFEFEF;height:90px;"]
@@ -1133,7 +1107,6 @@ bufeo.do##div[style="margin: 0px;padding: 0px; background-color: transparent;"]
 infojobs.net##div[style="margin:0px 20px 20px 30px;font-size:16px;border:1px solid #d5e1e5"]
 concuchilloytenedor.es##div[style="margin:5px auto 5px;text-align:center;"]
 19640noticias.com##div[style="padding: Publicidad"]
-animeid.io##div[style="position: absolute; top: 660px; right: -228px;"]
 la-razon.com##div[style="position:absolute; top:12px; width:970px; height:90px; background:#FFF; z-index:100; padding:0px; margin:0px"]
 cuartopoder.es##div[style="text-align:center; margin-bottom: 15px; background-color:#F4F4F4;width: 302px;"]
 cuartopoder.es##div[style="text-align:center; margin-bottom: 15px; background-color:#F4F4F4;width: 728px;"]
@@ -1212,7 +1185,6 @@ huelva24.com###adblockadvice
 noticiasrcn.com###ads-inread
 elheraldo.co###ads-mascotas
 lebrijadigital.es###aside
-grantorrent.ch###banner_publi
 zigzagdigital.com###banner_top_container
 cerebriti.com###barraAvisoAds
 allinonedownloader.com###binanceAd
@@ -1400,7 +1372,6 @@ hoydiariodelmagdalena.com.co##div[itemtype^="https://schema.org/WPAdBlock"]
 elcontribuyente.mx#?#div:-abp-has(a[title="Clickio"])
 elquindiano.com,laboyanos.com#?#span:-abp-contains(PUBLICIDAD)
 gamestorrents.fm#?#.col-md-2:-abp-has(span:-abp-contains(Promoción))
-grantorrent.ch#?#.imagen-post:-abp-has(a[href^="https://startgaming.net"])
 hoy.com.do#?#span:-abp-contains(Publicidad)
 opanoticias.com##iframe[src^="https://www.youtube.com/embed/CiedpC-wP7E?"]
 educaplay.com##img[alt="ADR Formación"]
@@ -1411,7 +1382,6 @@ juegosdiarios.com#?#.display-ads:-abp-has(>span:-abp-contains(Anuncio))
 laboyanos.com,elquindiano.com#?#span:-abp-contains(PUBLICIDAD)
 lecter.news#?#em:-abp-contains(Patrocinado:)
 lecter.news#?#strong:-abp-contains(Reclama tu crédito)
-pelispanda.com#?#.card:-abp-has([href*="/netflix-premium/"])
 rtwnoticias.com#?#.mvp-widget-home-head:-abp-has(span:-abp-contains(Publicidad))
 superluchas.com#?#h2:-abp-contains(Anuncio)
 univision.com#?#div:-abp-has(>span:-abp-contains(Publicidad))

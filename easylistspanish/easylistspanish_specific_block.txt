@@ -17,6 +17,7 @@
 ||emol.cl/emol50/js/publicidadsetup/
 ||es.zenit.org/banners/
 ||habimg.com/hab_banners/$domain=habitaclia.com
+||inmanga.com/ads/
 ||mil21.es/anuncios/
 ||minube.click^
 ||notebookcheck.org/fileadmin/Sonstiges/amaz_$xmlhttprequest
@@ -30,6 +31,7 @@
 ||studiofutbol.com.ec/tabla2021/images/banner-copa-300x90.jpg
 ||tcccdn.com^*/banner/
 ||upcloud.alfabeta.net/zonas.js
+||verepeliculas.com/dowload/MusicaBANNER.gif
 ! Onda Valéncia
 ||ondavalencia.es/images/001_BLOGINFORAM.png
 ||ondavalencia.es/images/002_MORA-_2.png
@@ -130,7 +132,6 @@
 ||cloudfront.net/ODD/widgets/220x308.html
 ||clubdelectores.cl/cajaEmolClub/$third-party
 ||comodorodeportes.gov.ar/wp-content/uploads/*/*/*.gif
-||comparador.euribor.com.es/lanzadera/retargetting/
 ||conjugacion.es/img/mosalingua/
 ||contextotucuman.com//banners/
 ||cronista.com/arte/pcwlogo.png
@@ -419,7 +420,6 @@
 ||tiemposur.com.ar/banners/
 ||tiemposur.com.ar/uploads/banners
 ||tiquetesbaratos.com/pruebas/periodicos/
-||todomecanica.com/images/patrocinios/
 ||todopuebla.com^$subdocument,domain=elpopular.mx
 ||trtocm.tarjetarojatvonline.com^$script
 ||tucumanalas7.com.ar/u/banners/
@@ -432,7 +432,6 @@
 ||uecdn.es/assets/desktop/master/img/patrocinio_
 ||ushuaia24.com.ar/download/multimedia.normal.*.gif
 ||va6.thand.info/embed-^$third-party
-||verepeliculas.com/dowload/MusicaBANNER.gif^
 ||vertelenovelasonline.com/wp-content/uploads/*/amazon.gif
 ||vertelenovelasonline.com/wp-content/uploads/*/Untitled-design-*.gif
 ||videoo.tv^$script,domain=aulafacil.com
@@ -481,7 +480,6 @@ $script,third-party,domain=xtremostereo.net
 ||mangas.in/js/taktak.js
 ||masgamers.com/wp-content/uploads/2019
 ||motociclismo.es/js/compiled_blockadblock_15.js
-||netcpms.com/$popup,third-party,domain=rainanime.co
 ||newsearnmoney.com/*/popup.js
 ||noticiasdelaciencia.com/libs_oss/adblock/
 ||noticierodelllano.com/wp-content/uploads/2021/05/
