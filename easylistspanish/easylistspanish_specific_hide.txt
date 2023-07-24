@@ -63,6 +63,7 @@ elespectador.com,revistacromos.com.co##.Ads_megaBannerTopContainer
 andaluciainformacion.es,informacionalcalalareal.es,informacionpuentegenil.es,informacionsanfernando.es,sanlucarinformacion.es,vivaalmeria.es,vivaalmunecar.es,vivaantequera.es,vivaarcos.es,vivabarbate.es,vivabenalmadena.es,vivacadiz.es,vivacampodegibraltar.es,vivachiclana.es,vivaconil.es,vivacordoba.es,vivaelpuerto.es,vivaestepona.es,vivagalicia.tv,vivagranada.es,vivahuelva.es,vivajaen.es,vivajerez.es,vivamalaga.net,vivamarbella.es,vivapunta.es,vivarota.es,vivasevilla.es,vivatorremolinos.es,vivavalencia.net,vivavejer.es,vivavelezmalaga.es##.BANNER
 andaluciainformacion.es,informacionalcalalareal.es,informacionpuentegenil.es,informacionsanfernando.es,sanlucarinformacion.es,vivaalmeria.es,vivaalmunecar.es,vivaantequera.es,vivaarcos.es,vivabarbate.es,vivabenalmadena.es,vivacadiz.es,vivacampodegibraltar.es,vivachiclana.es,vivaconil.es,vivacordoba.es,vivaelpuerto.es,vivaestepona.es,vivagalicia.tv,vivagranada.es,vivahuelva.es,vivajaen.es,vivajerez.es,vivamalaga.net,vivamarbella.es,vivapunta.es,vivarota.es,vivasevilla.es,vivatorremolinos.es,vivavalencia.net,vivavejer.es,vivavelezmalaga.es##.BNR-DER
 ccma.cat##.M-publicitat
+elchapuzasinformatico.com##.__lxG__multi
 diaridegirona.cat,diariocordoba.com,diariodeibiza.es,diariodemallorca.es,eldia.es,elperiodicodearagon.com,elperiodicoextremadura.com,elperiodicomediterraneo.com,emporda.info,farodevigo.es,informacion.es,laopinioncoruna.es,laopiniondemalaga.es,laopiniondemurcia.es,laopiniondezamora.es,laprovincia.es,levante-emv.com,lne.es,regio7.cat,superdeporte.es##._mo_recs
 elperiodico.com##._mo_recs_cti
 aurora-israel.co.il,elperiodicodelaenergia.com,teleamazonas.com##.a-single
@@ -311,6 +312,7 @@ computerhoy.com,hobbyconsolas.com##div[class^="ad-slot_"]
 elperiodic.com##div[class^="adcont_"]
 bemad.es,cuatro.com,divinity.es,energytv.es,factoriadeficcion.com,mtmad.es,niusdiario.es,telecinco.es,uppers.es,yasss.es##div[class^="adsGroupTop"]
 bemad.es,cuatro.com,divinity.es,energytv.es,factoriadeficcion.com,mtmad.es,niusdiario.es,telecinco.es,uppers.es,yasss.es##div[class^="ads__ad_"]
+elchapuzasinformatico.com##div[class^="ads_single_"]
 bemad.es,cuatro.com,divinity.es,energytv.es,factoriadeficcion.com,mtmad.es,niusdiario.es,telecinco.es,uppers.es,yasss.es##div[class^="cards__card_ad-"]
 avisooportuno.mx##div[class^="div-dfp-"]
 liderendeportes.com##div[class^="lider-"]
@@ -1395,6 +1397,7 @@ slidesgo.com##div[id^="article_ads"]
 slidesgo.com##div[id^="list_ads"]
 hoydiariodelmagdalena.com.co##div[itemtype^="https://schema.org/WPAdBlock"]
 elcontribuyente.mx#?#div:-abp-has(a[title="Clickio"])
+elquindiano.com,laboyanos.com#?#span:-abp-contains(PUBLICIDAD)
 gamestorrents.fm#?#.col-md-2:-abp-has(span:-abp-contains(Promoción))
 grantorrent.ch#?#.imagen-post:-abp-has(a[href^="https://startgaming.net"])
 hoy.com.do#?#span:-abp-contains(Publicidad)
