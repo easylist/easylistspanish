@@ -226,7 +226,7 @@ autoscout24.es##.osa-as24-placeholder
 libertaddigital.com##.partners
 gasteizhoy.com##.patrocinado-new
 futbolred.com##.pauta-bk
-vgrecipes.com##.pbl
+todomecanica.com,vgrecipes.com##.pbl
 otakustv.com##.pestana_footer
 cronista.com##.piecesponsor
 cronista.com##.piecesponsor2
