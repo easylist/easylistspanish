@@ -236,6 +236,7 @@ formulatv.com##.pub-btf
 formulatv.com##.pub-mid
 formulatv.com##.pub-text
 formulatv.com##.pub-top
+0221.com.ar##.pub_begum
 ceroacero.es##.pubframe
 esdiario.com##.publi-foot
 naciodigital.cat##.publi-inter-portada
@@ -243,6 +244,7 @@ esdiario.com##.publi-top
 pensem.cat##.publi_interpagina
 lawebdelprogramador.com##.publi_robapaginas
 0221.com.ar,areajugones.sport.es,generacionuniversitaria.com.mx,iberempleos.es,lavozdealmeria.com,meteored.cl,meteored.com.ar,meteored.com.py,meteored.mx,neomotor.com,tiempo.com##.publicidad
+0221.com.ar##.publicidad_cont
 eldesmarque.com##.publicidad_marca
 alfabeta.net##.publimg
 eleconomista.es##.railContainer1
