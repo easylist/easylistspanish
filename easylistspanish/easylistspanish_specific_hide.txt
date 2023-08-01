@@ -168,6 +168,7 @@ autopista.es##.containerBanner
 futbolred.com##.contenedor-logo-patrocinador
 debate.com.mx##.coverless
 meteored.cl,meteored.com.ar,meteored.mx,tiempo.com##.creatividad
+cronica.com.ar##.css-svo7lo
 flashscore.co,flashscore.es##.detailLeaderboard
 libertaddigital.com,libremercado.com##.dfp
 euractiv.es##.ea-gat-slot-wrapper
