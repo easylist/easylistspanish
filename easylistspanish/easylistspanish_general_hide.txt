@@ -23,6 +23,7 @@
 ##.banner-publicidad
 ##.cnt-publi
 ##.contenedorAdcentrado
+##.contenedor_publicidad
 ##.content_gpt_caja1_ads
 ##.content_gpt_caja2_ads
 ##.edi-advertising
@@ -33,6 +34,7 @@
 ##.publicidad-pie
 ##.publicidad_cabecera
 ##.publicidad_dfp
+##.publicidad_footer_sticky
 ##.publicolumna
 ##.ue-c-ad
 ##.v-adv
