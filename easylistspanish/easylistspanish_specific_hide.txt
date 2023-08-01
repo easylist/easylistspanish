@@ -168,6 +168,7 @@ depor.com,elcomercio.pe##.container-publicidad
 laarena.com.ar##.container-spot
 autopista.es##.containerBanner
 futbolred.com##.contenedor-logo-patrocinador
+eldebate.com##.content-add
 debate.com.mx##.coverless
 meteored.cl,meteored.com.ar,meteored.mx,tiempo.com##.creatividad
 cronica.com.ar##.css-svo7lo
