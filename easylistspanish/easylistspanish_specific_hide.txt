@@ -106,7 +106,7 @@ iprofesional.com##.banner-2
 freepik.es##.banner-adobe
 clarin.com,ole.com.ar##.banner-border
 tycsports.com##.banner-bottom
-agroclave.com.ar,lacapital.com.ar##.banner-box
+agroclave.com.ar,cronica.com.ar,lacapital.com.ar##.banner-box
 elnueve.com.ar##.banner-box-container
 noticiasurbanas.com.ar##.banner-center
 revistacar.es##.banner-container
@@ -132,6 +132,7 @@ flashscore.co##.bettingStrip
 gastrolabweb.com,poresto.net##.bnn
 diariodecuyo.com.ar##.bnr
 eltiempo.com##.board-tu-negocio
+cronica.com.ar##.bottom-sticky-banner-box
 flashscore.es##.boxOverContent__banner
 bolavip.com,lapaginamillonaria.com##.boxbanner_container
 latercera.com##.brand-claro
@@ -232,6 +233,7 @@ todomecanica.com,vgrecipes.com##.pbl
 otakustv.com##.pestana_footer
 cronista.com##.piecesponsor
 cronista.com##.piecesponsor2
+cronica.com.ar##.pre-home-banner-box
 qmusica.tv##.promoTop
 esdiario.com##.pub-2
 formulatv.com##.pub-btf
