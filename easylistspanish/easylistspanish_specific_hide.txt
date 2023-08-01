@@ -69,6 +69,7 @@ elperiodico.com##._mo_recs_cti
 aurora-israel.co.il,elperiodicodelaenergia.com,teleamazonas.com##.a-single
 tutorialesenlinea.es##.a-wrap
 beergeeks.cl,cannabis420.cl,comidasespanolas.com,recetasdepan.net,reparaciondecomputadoras.online,thebeertimes.com,weedmagazine.net##.aawp
+somosohlala.com##.accession
 actualidadradio.com##.actua-widget
 elpais.com,fmdos.cl,jornada.com.mx,meteoconsult.es,revistafama.com##.ad
 perfil.com##.ad-300x250
