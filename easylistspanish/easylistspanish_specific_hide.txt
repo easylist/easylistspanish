@@ -190,6 +190,7 @@ elespanol.com##.heading__sponsor
 diariodenavarra.es,larazon.es,marie-claire.es,muyhistoria.es,muyinteresante.es,muynegociosyeconomia.es##.henneoHB
 soychile.cl##.home-banner
 atacamaenlinea.cl##.home-featured-widgets
+bolavip.com##.home-poll-block__ad
 lavoz.com.ar##.imgSponsor
 nextpit.es##.jobbioapp
 marie-claire.es,muyhistoria.es,muyinteresante.es,muynegociosyeconomia.es##.js-ads-not-visible
@@ -227,6 +228,7 @@ eldiario.es,infolibre.es##.news-sponsored-content
 diaridegirona.cat,diariocordoba.com,diariodeibiza.es,diariodemallorca.es,eldia.es,elperiodicodearagon.com,elperiodicoextremadura.com,elperiodicomediterraneo.com,emporda.info,farodevigo.es,informacion.es,laopinioncoruna.es,laopiniondemalaga.es,laopiniondemurcia.es,laopiniondezamora.es,laprovincia.es,levante-emv.com,lne.es,regio7.cat,superdeporte.es##.no-baldomero
 naciodigital.cat,pensem.cat##.nou-publi-cap-home
 nextpit.es##.np-product-offers
+bolavip.com##.odds-slider-widget
 flashscore.co,flashscore.es##.oddsPlacement
 autoscout24.es##.osa-as24-placeholder
 libertaddigital.com##.partners
