@@ -173,6 +173,7 @@ meteored.cl,meteored.com.ar,meteored.mx,tiempo.com##.creatividad
 cronica.com.ar##.css-svo7lo
 flashscore.co,flashscore.es##.detailLeaderboard
 libertaddigital.com,libremercado.com##.dfp
+noticias.mitelefe.com##.e-post-banner
 euractiv.es##.ea-gat-slot-wrapper
 huffingtonpost.es##.entry__right-rail-width-placeholder
 verepeliculas.com##.fake_player
@@ -280,6 +281,7 @@ udlaspalmas.net##.tdi_22
 ffcv.es##.testimonials-partners
 marcadegol.com##.textwidget a[href^="https://ar.puma.com/"]
 adnradio.cl,cnnchile.com,futuro360.com##.the-banner
+noticias.mitelefe.com##.tlf-ad
 theobjective.com##.tno-blocks-banner-horizontal
 nickelodeonplus.online##.topads-wrap
 aristeguinoticias.com##.topleader
