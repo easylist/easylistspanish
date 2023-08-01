@@ -6,6 +6,7 @@
 ||cinetux.nu/api/spots/
 ||clivertv.xyz/assets/img/suscripcion.png
 ||clm21.es/anuncios/
+||cronista.com/files/banner/
 ||cuencanews.es/anuncios/
 ||cuevana.cloud/edgeSystemRun.js
 ||cuevana3.plus/perversas.jpg
