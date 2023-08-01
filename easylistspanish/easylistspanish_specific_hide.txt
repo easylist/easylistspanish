@@ -86,7 +86,7 @@ eleconomista.es##.adsLinicom
 anbariloche.com.ar,anroca.com.ar,elcordillerano.com.ar,noticiasnet.com.ar##.adserver-zona
 anbariloche.com.ar,anroca.com.ar,elcordillerano.com.ar,noticiasnet.com.ar##.adserver-zona-zocalo
 clarin.com##.adv
-ejeprime.com,larazon.es,papajuegos.com,plantadoce.com##.advertising
+ejeprime.com,larazon.es,papajuegos.com,plantadoce.com,relevo.com##.advertising
 petitchef.es##.akcelo-wrapper
 blog.facialix.com##.amazon-auto-links
 donbalon.com##.anuncio
