@@ -3,6 +3,7 @@
 ||palibzh.tech^
 ||positive-ads.com^
 !
+||adsviu.com^$third-party
 ||brand.ad^$third-party
 ||butlercdn.com^$third-party
 ||evolutionadv.it^$third-party
