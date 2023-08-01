@@ -328,6 +328,7 @@ bemad.es,cuatro.com,divinity.es,energytv.es,factoriadeficcion.com,mtmad.es,niusd
 bemad.es,cuatro.com,divinity.es,energytv.es,factoriadeficcion.com,mtmad.es,niusdiario.es,telecinco.es,uppers.es,yasss.es##div[class^="ads__ad_"]
 elchapuzasinformatico.com##div[class^="ads_single_"]
 verepeliculas.com##div[class^="ano_"]
+americateve.com##div[class^="banner-"]
 bemad.es,cuatro.com,divinity.es,energytv.es,factoriadeficcion.com,mtmad.es,niusdiario.es,telecinco.es,uppers.es,yasss.es##div[class^="cards__card_ad-"]
 avisooportuno.mx##div[class^="div-dfp-"]
 eluniversal.com.mx##div[class^="itemgpt_"]
