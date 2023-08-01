@@ -66,7 +66,7 @@ ccma.cat##.M-publicitat
 elchapuzasinformatico.com##.__lxG__multi
 diaridegirona.cat,diariocordoba.com,diariodeibiza.es,diariodemallorca.es,eldia.es,elperiodicodearagon.com,elperiodicoextremadura.com,elperiodicomediterraneo.com,emporda.info,farodevigo.es,informacion.es,laopinioncoruna.es,laopiniondemalaga.es,laopiniondemurcia.es,laopiniondezamora.es,laprovincia.es,levante-emv.com,lne.es,regio7.cat,superdeporte.es##._mo_recs
 elperiodico.com##._mo_recs_cti
-aurora-israel.co.il,elperiodicodelaenergia.com,teleamazonas.com##.a-single
+ahoraeg.com,aurora-israel.co.il,elperiodicodelaenergia.com,teleamazonas.com##.a-single
 tutorialesenlinea.es##.a-wrap
 beergeeks.cl,cannabis420.cl,comidasespanolas.com,recetasdepan.net,reparaciondecomputadoras.online,thebeertimes.com,weedmagazine.net##.aawp
 somosohlala.com##.accession
@@ -181,7 +181,7 @@ euractiv.es##.ea-gat-slot-wrapper
 huffingtonpost.es##.entry__right-rail-width-placeholder
 verepeliculas.com##.fake_player
 ejeprime.com##.featured_specials
-arquimaster.com.ar,elperiodicodelaenergia.com,isanidad.com,jotdown.es,valencianews.es##.g
+ahoraeg.com,arquimaster.com.ar,elperiodicodelaenergia.com,isanidad.com,jotdown.es,valencianews.es##.g
 la-razon.com##.genosha_ads_fixed_bottom
 winsports.co##.goles_acero_banner
 diariodemallorca.es##.grp--branded-style
@@ -296,6 +296,9 @@ mercadolibre.cl,mercadolibre.co.cr,mercadolibre.com.ar,mercadolibre.com.bo,merca
 mercadolibre.cl,mercadolibre.co.cr,mercadolibre.com.ar,mercadolibre.com.bo,mercadolibre.com.co,mercadolibre.com.do,mercadolibre.com.ec,mercadolibre.com.gt,mercadolibre.com.hn,mercadolibre.com.mx,mercadolibre.com.ni,mercadolibre.com.pa,mercadolibre.com.pe,mercadolibre.com.py,mercadolibre.com.sv,mercadolibre.com.uy,mercadolibre.com.ve##.ui-search-bottom-ads__container
 mercadolibre.cl,mercadolibre.co.cr,mercadolibre.com.ar,mercadolibre.com.bo,mercadolibre.com.co,mercadolibre.com.do,mercadolibre.com.ec,mercadolibre.com.gt,mercadolibre.com.hn,mercadolibre.com.mx,mercadolibre.com.ni,mercadolibre.com.pa,mercadolibre.com.pe,mercadolibre.com.py,mercadolibre.com.sv,mercadolibre.com.uy,mercadolibre.com.ve##.ui-search-sidebar-advertising__display
 eltiempo.es##.v-banner
+ahoraeg.com##.vc_custom_1650472176304
+ahoraeg.com##.vc_custom_1650479017608
+ahoraeg.com##.vc_custom_1676190182392
 ideal.es,laverdad.es,leonoticias.com##.voc-home-branded-naked
 naiz.eus##.w-openx-banners
 tudn.com##.widget[data-widget-type="ListWidget"]

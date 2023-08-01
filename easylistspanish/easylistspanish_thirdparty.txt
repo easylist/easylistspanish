@@ -8,6 +8,7 @@
 ||d1r08wok4169a5.cloudfront.net^
 ||grupnaciodigital.cat/redaccio/publicitat/
 ||kisa-link.blok.link^$third-party
+||nacash.net^$domain=ahoraeg.com
 ||news.grm.cl^
 ||pub.tappx.com^
 ||publyads.jstag.space^
