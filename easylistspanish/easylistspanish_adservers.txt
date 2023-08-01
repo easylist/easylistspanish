@@ -6,6 +6,7 @@
 ||adsviu.com^$third-party
 ||brand.ad^$third-party
 ||butlercdn.com^$third-party
+||equamarketing.com^$third-party
 ||evolutionadv.it^$third-party
 ||premiumleads.com^$third-party
 ||reypelis.tv^$third-party
