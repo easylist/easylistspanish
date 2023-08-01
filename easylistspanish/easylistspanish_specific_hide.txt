@@ -135,7 +135,8 @@ eltiempo.com##.board-tu-negocio
 flashscore.es##.boxOverContent__banner
 bolavip.com,lapaginamillonaria.com##.boxbanner_container
 latercera.com##.brand-claro
-eldiario.es##.branded-content
+epe.es##.branded
+eldiario.es,epe.es##.branded-content
 latercera.com##.branded-sponsor
 eldoce.tv##.branding-wrapper
 mariskalrock.com##.brave_popup
