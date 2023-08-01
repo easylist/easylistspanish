@@ -86,7 +86,7 @@ tutorialesenlinea.es##.ads-titleposttl
 eleconomista.es##.adsLinicom
 anbariloche.com.ar,anroca.com.ar,elcordillerano.com.ar,noticiasnet.com.ar##.adserver-zona
 anbariloche.com.ar,anroca.com.ar,elcordillerano.com.ar,noticiasnet.com.ar##.adserver-zona-zocalo
-clarin.com##.adv
+clarin.com,elindependiente.com##.adv
 ejeprime.com,larazon.es,papajuegos.com,plantadoce.com,relevo.com##.advertising
 petitchef.es##.akcelo-wrapper
 blog.facialix.com##.amazon-auto-links
@@ -279,6 +279,7 @@ informacion.es##.sk--project-with-logo
 soychile.cl##.slide__banner
 elobservador.com.uy,losandes.com.ar##.sponsors
 bernabeudigital.com##.sticky-container[style="height:600px;"]
+elindependiente.com##.sub_header
 elrellano.com##.tag-enlace-de-afiliados
 publinews.gt##.takeoverlink
 elmundotoday.com,guineainfomarket.com,horajaen.com,noticiasuno.com,pcpro.es,periodismo.com,udlaspalmas.net##.td-a-rec
