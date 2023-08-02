@@ -143,6 +143,8 @@ epe.es##.branded
 eldiario.es,epe.es##.branded-content
 latercera.com##.branded-sponsor
 eldoce.tv##.branding-wrapper
+nacion.com##.brandvoiceFooter
+nacion.com##.brandvoiceHeader
 mariskalrock.com##.brave_popup
 terremoto.mx##.break_patrocinadores
 futbolred.com##.btn_betplay
@@ -176,6 +178,7 @@ meteored.cl,meteored.com.ar,meteored.mx,tiempo.com##.creatividad
 cronica.com.ar##.css-svo7lo
 flashscore.co,flashscore.es##.detailLeaderboard
 libertaddigital.com,libremercado.com##.dfp
+nacion.com##.dfp-container
 noticias.mitelefe.com##.e-post-banner
 euractiv.es##.ea-gat-slot-wrapper
 huffingtonpost.es##.entry__right-rail-width-placeholder
@@ -278,6 +281,7 @@ seriesturcas.gratis##.serie-optimanetwork
 informacion.es##.sk--offered-by
 informacion.es##.sk--project-with-logo
 soychile.cl##.slide__banner
+nacion.com##.small-promo
 elobservador.com.uy,losandes.com.ar##.sponsors
 exitosanoticias.pe##.statics_module
 bernabeudigital.com##.sticky-container[style="height:600px;"]
