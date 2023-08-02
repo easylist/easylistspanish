@@ -46,6 +46,7 @@ qmusica.tv###promoSept19B
 promiedos.com.ar###pub728
 diariodeteruel.es###rightbanner
 noticiasrcn.com###rp1-compuesto
+heraldo.es###sidebarADefault
 gamereactor.es###sky2_1
 elespanol.com###sticky_container
 lostiempos.com###takeover-desktop-counter
