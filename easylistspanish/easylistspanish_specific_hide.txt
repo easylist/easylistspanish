@@ -1014,7 +1014,7 @@ jerezcofrade.tv##.widget_ti_image_banner
 envilladelparque.com,envilladevoto.com##.widget_wp_views
 arquimaster.com.ar,moracontenidos.com##.wp-block-image
 diariotextual.com##.wpb_raw_html
-armasymuniciones.net,mariosegura.com##.wpb_single_image
+armasymuniciones.net,mariosegura.com,miradiols.cl##.wpb_single_image
 lajornadanet.com##.wpipa-container
 hipertextual.com##.wrapperBanner
 anbariloche.com.ar,anroca.com.ar,nuevodiarioweb.com.ar##.zona_banners
