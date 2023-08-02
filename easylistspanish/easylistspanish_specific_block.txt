@@ -20,8 +20,10 @@
 ||es.zenit.org/banners/
 ||habimg.com/hab_banners/$domain=habitaclia.com
 ||inmanga.com/ads/
+||lateja.cr/gnfactory/brandvoice/
 ||mil21.es/anuncios/
 ||minube.click^
+||nacion.com/gnfactory/brandvoice/
 ||notebookcheck.org/fileadmin/Sonstiges/amaz_$xmlhttprequest
 ||novachaco.com/avisos/
 ||pelispop.info/EkBG80SP.js
