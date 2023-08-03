@@ -30,6 +30,7 @@ hola.com###div-hola-slot-bannerinferior
 hola.com###div-hola-slot-megabanner
 hola.com###div-hola-slot-robainferior
 hola.com###div-hola-slot-robapaginas
+mangatigre.net###dl-banner-300-250
 elnacional.com###en_nd_home_flat_2
 elnacional.com###en_nd_home_flat_3
 futbolme.com###headeradd
