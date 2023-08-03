@@ -346,7 +346,7 @@ elchapuzasinformatico.com##div[class^="ads_single_"]
 verepeliculas.com##div[class^="ano_"]
 americateve.com##div[class^="banner-"]
 bemad.es,cuatro.com,divinity.es,energytv.es,factoriadeficcion.com,mtmad.es,niusdiario.es,telecinco.es,uppers.es,yasss.es##div[class^="cards__card_ad-"]
-elcomercio.pe,gestion.pe##div[class^="content_gpt_"]
+depor.com,elcomercio.pe,gestion.pe##div[class^="content_gpt_"]
 avisooportuno.mx##div[class^="div-dfp-"]
 eluniversal.com.mx##div[class^="itemgpt_"]
 liderendeportes.com##div[class^="lider-"]
@@ -1030,7 +1030,6 @@ anbariloche.com.ar,anroca.com.ar,nuevodiarioweb.com.ar##.zona_banners
 25digital.com.ar#?#.widget-container:-abp-has(.widget_random_banner_widget)
 st1.idealista.com##A[href="http://www.idealista.com/news/vacacional/mercado-vacacional/2015/08/12/738750-competencia-arremete-contra-la-ley-que-limita-los-pisos-turisticos-en-el?xts=352991&xtor=AD-186-[node/738750]-[]-[57601_1]-[lavanguardia.es__lavanguardia.es]-[]-[titulo_1_1]&source=314"]
 mitele.es##A[href="http://www.premiercasino.es/redirect?provenanceCode=CONECTA5CASINO"]
-depor.com##[class^="content_gpt_caja"]
 gettyimages.es##[href="http://espanol.istockphoto.com/?esource=gi_es_home_3pack_istock_3"] > .promo-hover
 st1.idealista.com##[href="http://www.idealista.com?xts=352991&xtor=AD-186-[idealista]-[]-[57601_1]-[lavanguardia.es__lavanguardia.es]-[]-[home_1_1]&source=314"]
 ecosdelcombeima.com##[href^="https://bit.ly/"]
