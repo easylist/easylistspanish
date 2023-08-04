@@ -4,6 +4,7 @@
 ||arquimaster.com.ar/banners/
 ||arquimaster.com.ar/Images/banners.htm
 ||atacamaenlinea.cl/wp-content/uploads/*/banner_caserones_
+||cine24h.net/Banners/
 ||cinetux.nu/api/spots/
 ||clivertv.xyz/assets/img/suscripcion.png
 ||clm21.es/anuncios/
