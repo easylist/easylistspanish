@@ -115,6 +115,7 @@ elnueve.com.ar##.banner-box-container
 noticiasurbanas.com.ar##.banner-center
 revistacar.es##.banner-container
 soychile.cl##.banner-fixed-container
+tvn.cl##.banner-full
 iprofesional.com##.banner-horizontal
 diariodecuyo.com.ar##.banner-lanusse
 a24.com,diariouno.com.ar,lared.am##.banner-libre
