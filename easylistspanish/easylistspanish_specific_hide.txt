@@ -324,6 +324,7 @@ beermagazine.net,cannabis420.cl,comidaschilenas.com,comidasespanolas.com,debosab
 weedmagazine.net##.widget_aawp_widget_new_releases
 elciudadanoweb.com##.widget_apsa_campaign
 gacetinmadrid.com,noticiasenlineacr.com,noticiasformosa.com.ar##.widget_media_image
+elperiodista.cl##.widget_owjnimg
 naciodigital.cat##.zona-ajbcn
 naciodigital.cat##.zona-lacaixa
 carrefour.es##[id*="-sponsored_products-"]
