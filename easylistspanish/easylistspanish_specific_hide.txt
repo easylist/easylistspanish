@@ -350,7 +350,7 @@ elchapuzasinformatico.com##div[class^="ads_single_"]
 verepeliculas.com##div[class^="ano_"]
 americateve.com##div[class^="banner-"]
 bemad.es,cuatro.com,divinity.es,energytv.es,factoriadeficcion.com,mtmad.es,niusdiario.es,telecinco.es,uppers.es,yasss.es##div[class^="cards__card_ad-"]
-depor.com,diariocorreo.pe,elcomercio.pe,gestion.pe##div[class^="content_gpt_"]
+depor.com,diariocorreo.pe,elcomercio.pe,gestion.pe,peru.com##div[class^="content_gpt_"]
 avisooportuno.mx##div[class^="div-dfp-"]
 eluniversal.com.mx##div[class^="itemgpt_"]
 liderendeportes.com##div[class^="lider-"]
@@ -1274,7 +1274,6 @@ pctmix1.com##.boxintersitial
 180grados.digital##.code-block-6
 180grados.digital##.code-block-9
 skdesu.com##.code-block[style^="margin: 20px auto;"]
-trome.pe##.content_gpt_top
 zona-leros.net##.content_store
 criptonoticias.com##.cript-adlabel
 arquimaster.com.ar##.custom-html-widget
