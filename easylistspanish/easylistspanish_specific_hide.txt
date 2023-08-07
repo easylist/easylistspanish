@@ -138,6 +138,7 @@ europa-agricola.es,via-mobilis.es##.banniere
 noticiasrcn.com##.barra-compuesta
 flashscore.co##.bettingStrip
 cronista.com##.blocksponsor
+eldinamo.cl##.bloque-dfp
 gastrolabweb.com,poresto.net##.bnn
 diariodecuyo.com.ar##.bnr
 eltiempo.com##.board-tu-negocio
