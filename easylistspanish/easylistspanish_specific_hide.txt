@@ -84,7 +84,7 @@ nationalgeographic.com.es##.add990x90
 ondacero.es##.addContainer
 freepik.es##.adobe-coupon-container
 freepik.es##.adobe-grid-design
-atv.pe,perfil.com,rpp.pe,uypress.net##.ads
+atv.pe,lared.cl,perfil.com,rpp.pe,uypress.net##.ads
 tutorialesenlinea.es##.ads-titleposttl
 eleconomista.es##.adsLinicom
 anbariloche.com.ar,anroca.com.ar,elcordillerano.com.ar,noticiasnet.com.ar##.adserver-zona
