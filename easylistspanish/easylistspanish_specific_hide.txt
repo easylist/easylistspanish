@@ -202,6 +202,7 @@ diariodenavarra.es,larazon.es,marie-claire.es,muyhistoria.es,muyinteresante.es,m
 soychile.cl##.home-banner
 atacamaenlinea.cl##.home-featured-widgets
 bolavip.com##.home-poll-block__ad
+t13.cl##.home-slider__header__sponsor
 lavoz.com.ar##.imgSponsor
 nextpit.es##.jobbioapp
 marie-claire.es,muyhistoria.es,muyinteresante.es,muynegociosyeconomia.es##.js-ads-not-visible
@@ -354,6 +355,7 @@ americateve.com##div[class^="banner-"]
 bemad.es,cuatro.com,divinity.es,energytv.es,factoriadeficcion.com,mtmad.es,niusdiario.es,telecinco.es,uppers.es,yasss.es##div[class^="cards__card_ad-"]
 depor.com,diariocorreo.pe,elcomercio.pe,gestion.pe,peru.com##div[class^="content_gpt_"]
 avisooportuno.mx##div[class^="div-dfp-"]
+t13.cl##div[class^="home-category-grilla__pub-"]
 eluniversal.com.mx##div[class^="itemgpt_"]
 liderendeportes.com##div[class^="lider-"]
 formulatv.com##div[class^="pub-"]
