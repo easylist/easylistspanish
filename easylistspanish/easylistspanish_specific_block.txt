@@ -15,6 +15,7 @@
 ||descargasdd.org/images/amazon.gif
 ||diariodelaribera.net/imagenes/banner
 ||diariodeteruel.es/uploads/diariodeteruel/promos/
+||diarioviregion.cl/images/banners/
 ||elciudadanoweb.com/wp-content/plugins/aparg-smartad/
 ||elperiodico.cl/wp-content/uploads/*/banner-
 ||emol.cl/emol50/js/publicidadsetup/
