@@ -74,7 +74,7 @@ laregion.cr,tutorialesenlinea.es##.a-wrap
 beergeeks.cl,cannabis420.cl,comidasespanolas.com,recetasdepan.net,reparaciondecomputadoras.online,thebeertimes.com,weedmagazine.net##.aawp
 somosohlala.com##.accession
 actualidadradio.com##.actua-widget
-aica.org,elpais.com,fmdos.cl,jornada.com.mx,meteoconsult.es,revistafama.com##.ad
+aica.org,elpais.com,fmdos.cl,jornada.com.mx,meteoconsult.es,ntn24.com,revistafama.com##.ad
 perfil.com##.ad-300x250
 mundo.com##.ad-banner
 buenazo.pe,elpopular.pe,eltiempo.com,hobbyconsolas.com,larepublica.pe,libero.pe,somosfanaticos.fans,wapa.pe##.ad-container
