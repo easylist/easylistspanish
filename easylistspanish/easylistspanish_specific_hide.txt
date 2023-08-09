@@ -68,7 +68,7 @@ andaluciainformacion.es,informacionalcalalareal.es,informacionpuentegenil.es,inf
 ccma.cat##.M-publicitat
 elchapuzasinformatico.com##.__lxG__multi
 diaridegirona.cat,diariocordoba.com,diariodeibiza.es,diariodemallorca.es,eldia.es,elperiodicodearagon.com,elperiodicoextremadura.com,elperiodicomediterraneo.com,emporda.info,farodevigo.es,informacion.es,laopinioncoruna.es,laopiniondemalaga.es,laopiniondemurcia.es,laopiniondezamora.es,laprovincia.es,levante-emv.com,lne.es,regio7.cat,superdeporte.es##._mo_recs
-elperiodico.com,elperiodicomediterraneo.com,levante-emv.com##._mo_recs_cti
+eldia.es,elperiodico.com,elperiodicomediterraneo.com,levante-emv.com##._mo_recs_cti
 ahoraeg.com,aurora-israel.co.il,elperiodicodelaenergia.com,teleamazonas.com##.a-single
 laregion.cr,tutorialesenlinea.es##.a-wrap
 beergeeks.cl,cannabis420.cl,comidasespanolas.com,recetasdepan.net,reparaciondecomputadoras.online,thebeertimes.com,weedmagazine.net##.aawp
