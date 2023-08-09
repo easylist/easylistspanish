@@ -286,6 +286,7 @@ eleconomista.es##.railContainer3
 ceroacero.es##.rbbox-odds
 fotocasa.es##.re-AdvertisingDominanceNative
 directoalpaladar.com,motorpasion.com,motorpasion.com.mx,trendenciashombre.com,vidaextra.com,xataka.com##.related-native-item
+hoylosangeles.com##.revcontent
 diariodenavarra.es##.roba
 elplural.com##.row-sky-banners
 burbuja.info##.samCodeUnit
