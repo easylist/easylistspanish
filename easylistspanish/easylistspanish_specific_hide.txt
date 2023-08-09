@@ -216,6 +216,7 @@ nextpit.es##.jobbioapp
 marie-claire.es,muyhistoria.es,muyinteresante.es,muynegociosyeconomia.es##.js-ads-not-visible
 diariodelaribera.net##.lateralderecho
 diariodelaribera.net##.lateralizquierdo
+c9n.com.py##.layout-rev
 adslzone.net##.leaderboard
 huffingtonpost.es##.leaderboard-flex-placeholder
 flashscore.co##.liveActiveBet-ico
@@ -416,7 +417,7 @@ mododeporte.com##img[width="500"]
 hortanoticias.com,transponder1200.com##img[width="728"]
 marcadegol.com##img[width="750"]
 ellibero.cl##img[width="778"][height="95"]
-elcomercio.com##ned-ad
+c9n.com.py,elcomercio.com##ned-ad
 ! Advanced element hiding rules for Adblock Plus
 as.com#?#.s.s--v:-abp-has(span:-abp-contains(OFRECIDO POR))
 cuencanews.es#?#td[class*="id_publi_"]:-abp-has(img[alt="publicidad"])
