@@ -193,8 +193,10 @@ ellatinodehoy.com##.custom-html-widget
 flashscore.co,flashscore.es##.detailLeaderboard
 libertaddigital.com,libremercado.com##.dfp
 lateja.cr,nacion.com##.dfp-container
+laprensademn.com##.dialog-message
 noticias.mitelefe.com##.e-post-banner
 euractiv.es##.ea-gat-slot-wrapper
+laprensademn.com##.elementor-element-15f1544d
 elnuevogeorgia.com##.elementor-element-a51cde3
 elnuevogeorgia.com##.elementor-element-d45ce2c
 elnuevogeorgia.com##.elementor-element-d782763
@@ -425,9 +427,10 @@ hortanoticias.com,libroscristianosgratis.net##img[width="250"]
 atacamaenlinea.cl,beergeeks.cl,beermagazine.net,cinemascomics.com,diariotextual.com,hortanoticias.com,laprensadecolorado.com,pcpro.es,thebeertimes.com##img[width="300"]
 highxtar.com##img[width="300"][height="600"]
 planbnoticias.com.ar,transponder1200.com##img[width="336"]
+laprensademn.com##img[width="385"]
 noticiasformosa.com.ar##img[width="400"][height="100"]
 mododeporte.com##img[width="500"]
-hortanoticias.com,transponder1200.com##img[width="728"]
+hortanoticias.com,laprensademn.com,transponder1200.com##img[width="728"]
 marcadegol.com##img[width="750"]
 ellibero.cl##img[width="778"][height="95"]
 laprensadecolorado.com##img[width="800"]
