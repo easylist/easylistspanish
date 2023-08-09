@@ -58,6 +58,8 @@ planbnoticias.com.ar###text-7
 independentespanol.com###top-banner-wrapper
 anisearch.es###topA_iframe
 generacionuniversitaria.com.mx###ventana-flotante
+theclinic.cl###web-tc-horizontal-1-d
+theclinic.cl###web-tc-horizontal-2-d
 elciudadanoweb.com###wrapper-header-full
 lanacion.com.ar##.--ads
 eleconomista.es##.AD_Content
@@ -180,6 +182,7 @@ vilaweb.cat##.container-banner-header
 depor.com,elcomercio.pe##.container-publicidad
 laarena.com.ar##.container-spot
 autopista.es##.containerBanner
+theclinic.cl##.contenedor-auspicio
 futbolred.com##.contenedor-logo-patrocinador
 eldebate.com##.content-add
 debate.com.mx##.coverless
