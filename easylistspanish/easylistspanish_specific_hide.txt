@@ -337,6 +337,7 @@ weedmagazine.net##.widget_aawp_widget_new_releases
 elciudadanoweb.com##.widget_apsa_campaign
 claridadpuertorico.com,cronicasnews.com,gacetinmadrid.com,noticiasenlineacr.com,noticiasformosa.com.ar##.widget_media_image
 elperiodista.cl##.widget_owjnimg
+enteratelatino.org##.wp-block-image
 canal-i.com##.wpb_images_carousel
 expresodelacosta.cl##.wpwbs_banners
 naciodigital.cat##.zona-ajbcn
@@ -385,6 +386,7 @@ eldesmarque.com##div[id^="banner_"]
 beergeeks.cl##div[id^="beerg-"]
 cannabis420.cl##div[id^="canna-"]
 debosaber.cl##div[id^="debos-"]
+enteratelatino.org##div[id^="enter-"]
 weedmagazine.net##div[id^="weedm-"]
 mariskalrock.com##div[id^="wmd-anuncio-"]
 perfil.com##div[style*="min-height: 250px;"]
