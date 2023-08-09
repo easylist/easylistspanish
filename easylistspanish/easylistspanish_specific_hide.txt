@@ -187,7 +187,7 @@ meteored.cl,meteored.com.ar,meteored.mx,tiempo.com##.creatividad
 cronica.com.ar##.css-svo7lo
 flashscore.co,flashscore.es##.detailLeaderboard
 libertaddigital.com,libremercado.com##.dfp
-nacion.com##.dfp-container
+lateja.cr,nacion.com##.dfp-container
 noticias.mitelefe.com##.e-post-banner
 euractiv.es##.ea-gat-slot-wrapper
 huffingtonpost.es##.entry__right-rail-width-placeholder
