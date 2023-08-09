@@ -296,6 +296,7 @@ directoalpaladar.com,motorpasion.com,motorpasion.com.mx,trendenciashombre.com,vi
 hoylosangeles.com##.revcontent
 diariodenavarra.es##.roba
 elplural.com##.row-sky-banners
+rumbonews.com##.rumbo-widget
 burbuja.info##.samCodeUnit
 ole.com.ar##.sc-905ccbfc-0
 ole.com.ar##.sc-905ccbfc-1
@@ -344,6 +345,7 @@ beermagazine.net,recetasdepan.net##.widget_aawp_widget_bestseller
 beermagazine.net,cannabis420.cl,comidaschilenas.com,comidasespanolas.com,debosaber.cl,recetasdepan.net,thebeertimes.com,weedmagazine.net##.widget_aawp_widget_box
 weedmagazine.net##.widget_aawp_widget_new_releases
 elciudadanoweb.com##.widget_apsa_campaign
+rumbonews.com##.widget_media_gallery
 claridadpuertorico.com,cronicasnews.com,elnuevogeorgia.com,gacetinmadrid.com,laprensadecolorado.com,noticiasenlineacr.com,noticiasformosa.com.ar,webelpuente.com##.widget_media_image
 elperiodista.cl##.widget_owjnimg
 elespecial.com##.widget_simpleimage
