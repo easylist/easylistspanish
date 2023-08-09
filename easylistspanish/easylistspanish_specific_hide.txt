@@ -194,7 +194,7 @@ huffingtonpost.es##.entry__right-rail-width-placeholder
 adiariocr.com##.esdfp
 verepeliculas.com##.fake_player
 ejeprime.com##.featured_specials
-ahoraeg.com,arquimaster.com.ar,elperiodicodelaenergia.com,isanidad.com,jotdown.es,valencianews.es##.g
+ahoraeg.com,arquimaster.com.ar,elperiodicodelaenergia.com,isanidad.com,jotdown.es,periodicolaperla.com,valencianews.es##.g
 la-razon.com##.genosha_ads_fixed_bottom
 winsports.co##.goles_acero_banner
 diariodemallorca.es##.grp--branded-style
