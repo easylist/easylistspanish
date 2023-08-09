@@ -314,7 +314,7 @@ bernabeudigital.com##.sticky-container[style="height:600px;"]
 elindependiente.com##.sub_header
 elrellano.com##.tag-enlace-de-afiliados
 publinews.gt##.takeoverlink
-diariolaprensa.cl,elmundotoday.com,guineainfomarket.com,horajaen.com,lagdeguinea.com,noticiasuno.com,pcpro.es,periodismo.com,udlaspalmas.net##.td-a-rec
+diariolaprensa.cl,elmundotoday.com,elperiodicousa.com,guineainfomarket.com,horajaen.com,lagdeguinea.com,noticiasuno.com,pcpro.es,periodismo.com,udlaspalmas.net##.td-a-rec
 udlaspalmas.net##.tdi_22
 ffcv.es##.testimonials-partners
 marcadegol.com##.textwidget a[href^="https://ar.puma.com/"]
