@@ -22,6 +22,8 @@
 ||es.zenit.org/banners/
 ||habimg.com/hab_banners/$domain=habitaclia.com
 ||inmanga.com/ads/
+||lasamericasnews.com/images/avisos/
+||lasamericasnews.com/images/banners/
 ||lasubasta.com/img/ners/
 ||lateja.cr/gnfactory/brandvoice/
 ||mil21.es/anuncios/
