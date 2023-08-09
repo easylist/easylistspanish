@@ -197,6 +197,7 @@ laprensademn.com,vidaysabor.com##.dialog-message
 noticias.mitelefe.com##.e-post-banner
 euractiv.es##.ea-gat-slot-wrapper
 laprensademn.com##.elementor-element-15f1544d
+lavozhispanact.com##.elementor-element-32d83d8
 vidaysabor.com##.elementor-element-4485d264
 elnuevogeorgia.com##.elementor-element-a51cde3
 elnuevogeorgia.com##.elementor-element-d45ce2c
