@@ -123,6 +123,7 @@ revistacar.es##.banner-container
 soychile.cl##.banner-fixed-container
 tvn.cl##.banner-full
 iprofesional.com##.banner-horizontal
+elnuevogeorgia.com##.banner-img
 diariodecuyo.com.ar##.banner-lanusse
 a24.com,diariouno.com.ar,lared.am##.banner-libre
 clarin.com##.banner-right
@@ -194,6 +195,9 @@ libertaddigital.com,libremercado.com##.dfp
 lateja.cr,nacion.com##.dfp-container
 noticias.mitelefe.com##.e-post-banner
 euractiv.es##.ea-gat-slot-wrapper
+elnuevogeorgia.com##.elementor-element-a51cde3
+elnuevogeorgia.com##.elementor-element-d45ce2c
+elnuevogeorgia.com##.elementor-element-d782763
 huffingtonpost.es##.entry__right-rail-width-placeholder
 adiariocr.com##.esdfp
 verepeliculas.com##.fake_player
@@ -337,7 +341,7 @@ beermagazine.net,recetasdepan.net##.widget_aawp_widget_bestseller
 beermagazine.net,cannabis420.cl,comidaschilenas.com,comidasespanolas.com,debosaber.cl,recetasdepan.net,thebeertimes.com,weedmagazine.net##.widget_aawp_widget_box
 weedmagazine.net##.widget_aawp_widget_new_releases
 elciudadanoweb.com##.widget_apsa_campaign
-claridadpuertorico.com,cronicasnews.com,gacetinmadrid.com,noticiasenlineacr.com,noticiasformosa.com.ar##.widget_media_image
+claridadpuertorico.com,cronicasnews.com,elnuevogeorgia.com,gacetinmadrid.com,noticiasenlineacr.com,noticiasformosa.com.ar##.widget_media_image
 elperiodista.cl##.widget_owjnimg
 elespecial.com##.widget_simpleimage
 latinopinionbaltimore.com##.widget_sp_image
