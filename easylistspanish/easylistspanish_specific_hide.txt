@@ -350,6 +350,7 @@ canal-i.com##.wpb_images_carousel
 expresodelacosta.cl##.wpwbs_banners
 naciodigital.cat##.zona-ajbcn
 naciodigital.cat##.zona-lacaixa
+elnuevoherald.com##.zone
 carrefour.es##[id*="-sponsored_products-"]
 grantorrent.zip##[onclick^="AbrirEnlaceStar('"]
 cinelibreonline.com##a > img[alt^="Ganar"]
