@@ -48,7 +48,7 @@ qmusica.tv###promoSept19A
 qmusica.tv###promoSept19B
 promiedos.com.ar###pub728
 diariodeteruel.es###rightbanner
-noticiasrcn.com###rp1-compuesto
+canalrcn.com,noticiasrcn.com###rp1-compuesto
 heraldo.es###sidebarADefault
 gamereactor.es###sky2_1
 elespanol.com###sticky_container
@@ -269,6 +269,7 @@ lasubasta.com##.orbit-container
 autoscout24.es##.osa-as24-placeholder
 libertaddigital.com##.partners
 gasteizhoy.com##.patrocinado-new
+canalrcn.com##.pauta-barra-media
 futbolred.com##.pauta-bk
 todomecanica.com,vgrecipes.com##.pbl
 otakustv.com##.pestana_footer
