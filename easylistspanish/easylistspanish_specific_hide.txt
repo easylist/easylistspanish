@@ -1,3 +1,5 @@
+elpais.com.co###Barra_1_D
+elpais.com.co###Boton_1_D
 norteenlinea.com###Mod375
 norteenlinea.com###Mod427
 norteenlinea.com###Mod450
