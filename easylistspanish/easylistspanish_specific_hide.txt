@@ -168,7 +168,7 @@ cadenaser.com##.c-s > div
 elpais.com##.c.c-pfb.c--m
 vivanolamag.com##.client-logo-slider
 eltiempo.es##.cls-publi-height
-bembibredigital.com,comedera.com##.code-block
+bembibredigital.com,comedera.com,washingtonhispanic.com##.code-block
 elrellano.com##.code-block-1
 elrellano.com##.code-block-18
 elrellano.com##.code-block-4
@@ -363,7 +363,7 @@ grantorrent.zip##[onclick^="AbrirEnlaceStar('"]
 cinelibreonline.com##a > img[alt^="Ganar"]
 manomano.es##a[class*="sponsoredProductCard"]
 kissfm.es##a[href*="/linkout/"]
-pelisplus.lat##a[href*="://bit.ly/"]
+pelisplus.lat,washingtonhispanic.com##a[href*="://bit.ly/"]
 elrellano.com##a[href*="https://urbanous.com/tienda/tazas/eo-eeeeooo/"]
 animeid.tv##a[href*="leadzupc.com/"]
 mediotiempo.com##a[href^="http://online.caliente.mx/promoRedirect?"]
