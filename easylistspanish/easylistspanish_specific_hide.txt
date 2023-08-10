@@ -439,7 +439,7 @@ mododeporte.com##img[width="500"]
 hortanoticias.com,laprensademn.com,transponder1200.com,vidaysabor.com##img[width="728"]
 marcadegol.com##img[width="750"]
 ellibero.cl##img[width="778"][height="95"]
-laprensadecolorado.com##img[width="800"]
+laprensadecolorado.com,periodicoelsolpr.com##img[width="800"]
 c9n.com.py,elcomercio.com,repretel.com##ned-ad
 ! Advanced element hiding rules for Adblock Plus
 as.com#?#.s.s--v:-abp-has(span:-abp-contains(OFRECIDO POR))
