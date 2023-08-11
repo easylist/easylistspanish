@@ -203,7 +203,7 @@ ellatinodehoy.com##.custom-html-widget
 flashscore.co,flashscore.es##.detailLeaderboard
 libertaddigital.com,libremercado.com##.dfp
 lateja.cr,nacion.com##.dfp-container
-eluniversal.com.mx##.dfp-tag-wrapper-container
+eluniversal.com.mx,viveusa.mx##.dfp-tag-wrapper-container
 laprensademn.com,vidaysabor.com##.dialog-message
 noticias.mitelefe.com##.e-post-banner
 euractiv.es##.ea-gat-slot-wrapper
