@@ -296,7 +296,7 @@ naciodigital.cat##.publi-inter-portada
 esdiario.com##.publi-top
 pensem.cat##.publi_interpagina
 lawebdelprogramador.com##.publi_robapaginas
-0221.com.ar,areajugones.sport.es,generacionuniversitaria.com.mx,iberempleos.es,lavozdealmeria.com,meteored.cl,meteored.com.ar,meteored.com.py,meteored.mx,neomotor.com,tiempo.com##.publicidad
+0221.com.ar,areajugones.sport.es,generacionuniversitaria.com.mx,iberempleos.es,lavozdealmeria.com,meteored.cl,meteored.com.ar,meteored.com.py,meteored.mx,neomotor.com,pulzo.com,tiempo.com##.publicidad
 diario.mx##.publicidad_basica
 0221.com.ar##.publicidad_cont
 eldesmarque.com##.publicidad_marca
@@ -420,7 +420,7 @@ enteratelatino.org##div[id^="enter-"]
 weedmagazine.net##div[id^="weedm-"]
 mariskalrock.com##div[id^="wmd-anuncio-"]
 perfil.com##div[style*="min-height: 250px;"]
-perfil.com##div[style*="min-height: 600px;"]
+perfil.com,pulzo.com##div[style*="min-height: 600px;"]
 todoblaugrana.com##div[style*="width: 300px; height: 250px;"]
 futbolme.com##div[style*="z-index: 9999"]
 animeflv.net##div[style="width:300px; height:250px"]
