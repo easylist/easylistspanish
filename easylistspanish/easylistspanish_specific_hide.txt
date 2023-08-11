@@ -318,6 +318,7 @@ ole.com.ar##.sc-905ccbfc-0
 ole.com.ar##.sc-905ccbfc-1
 ole.com.ar##.sc-905ccbfc-5
 ole.com.ar##.sc-905ccbfc-7
+sdpnoticias.com##.sdp-ad
 cuevana.pro,pelispedia.la##.section-cpa
 meganoticias.cl##.section-dfp
 directoalpaladar.com,trendenciashombre.com,vidaextra.com,xataka.com##.section-native-container
