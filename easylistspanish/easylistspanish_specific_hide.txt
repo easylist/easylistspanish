@@ -1,3 +1,5 @@
+canal1.com.co###BannerFlotanteDp
+canal1.com.co###Banner_Flotante_Dp
 elpais.com.co###Barra_1_D
 elpais.com.co###Boton_1_D
 norteenlinea.com###Mod375
@@ -5,6 +7,11 @@ norteenlinea.com###Mod427
 norteenlinea.com###Mod450
 norteenlinea.com###Mod452
 marca.com###Patrocinio
+canal1.com.co###Robapagina_1
+canal1.com.co###Robapagina_mb_1
+canal1.com.co###SuperBanner1
+canal1.com.co###SuperBanner2
+canal1.com.co###Superbanner_1
 freepik.es###adobe-pagination-mkt-copy
 cuevana3.nu###anuncioca
 elciudadanoweb.com###apsa-pop-hidden-img
