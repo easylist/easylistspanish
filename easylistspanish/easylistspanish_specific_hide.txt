@@ -230,6 +230,7 @@ milanuncios.com##.has-advertisement
 atacamaenlinea.cl,redmipaisnorte.cl##.header-promotion
 elespanol.com##.heading__sponsor
 diariodenavarra.es,larazon.es,marie-claire.es,muyhistoria.es,muyinteresante.es,muynegociosyeconomia.es##.henneoHB
+publinews.gt##.herald-da
 soychile.cl##.home-banner
 atacamaenlinea.cl##.home-featured-widgets
 bolavip.com##.home-poll-block__ad
@@ -286,6 +287,7 @@ todomecanica.com,vgrecipes.com##.pbl
 otakustv.com##.pestana_footer
 cronista.com##.piecesponsor
 cronista.com##.piecesponsor2
+publinews.gt##.posttakeoverlink
 cronica.com.ar##.pre-home-banner-box
 qmusica.tv##.promoTop
 esdiario.com##.pub-2
