@@ -8,6 +8,7 @@
 ||butlercdn.com^$third-party
 ||equamarketing.com^$third-party
 ||evolutionadv.it^$third-party
+||googledfp.com^$third-party
 ||premiumleads.com^$third-party
 ||reypelis.tv^$third-party
 ||tpid.es^$third-party
