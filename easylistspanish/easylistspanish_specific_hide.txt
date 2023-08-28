@@ -161,8 +161,8 @@ cronica.com.ar##.bottom-sticky-banner-box
 flashscore.es##.boxOverContent__banner
 bolavip.com,lapaginamillonaria.com##.boxbanner_container
 latercera.com##.brand-claro
-epe.es##.branded
-eldiario.es,epe.es##.branded-content
+elperiodico.com,epe.es##.branded
+eldiario.es,elperiodico.com,epe.es##.branded-content
 latercera.com##.branded-sponsor
 eldoce.tv##.branding-wrapper
 lateja.cr,nacion.com##.brandvoiceFooter
