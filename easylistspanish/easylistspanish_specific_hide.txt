@@ -119,7 +119,7 @@ elobservador.com.uy##.auspicios
 20minutos.es,lainformacion.com##.axds
 lainformacion.com##.axds-lane
 lectuepubgratis.com##.bam-topbar
-alicanteplaza.es,ambito.com,bienbonita.com,c5n.com,castellonplaza.com,cronista.com,diariolasamericas.com,donbalon.com,econojournal.com.ar,eleconomista.com.mx,eleconomista.net,elgrafico.com,ella.sv,elplural.com,guarda14.com,laverdadnoticias.com,lavoz.com.ar,letrap.com.ar,losandes.com.ar,motor.com.co,observador.cr,rpp.pe,tntsports.cl,tntsports.com.ar,tvynovelas.com,valenciaplaza.com,viapais.com.ar##.banner
+alicanteplaza.es,ambito.com,bienbonita.com,c5n.com,castellonplaza.com,cronista.com,diariolasamericas.com,donbalon.com,econojournal.com.ar,eleconomista.com.mx,eleconomista.net,elgrafico.com,ella.sv,elplural.com,guarda14.com,laverdadnoticias.com,lavoz.com.ar,letrap.com.ar,losandes.com.ar,motor.com.co,observador.cr,puntal.com.ar,rpp.pe,tntsports.cl,tntsports.com.ar,tvynovelas.com,valenciaplaza.com,viapais.com.ar##.banner
 naiz.eus##.banner--article
 iprofesional.com##.banner-2
 freepik.es##.banner-adobe
@@ -135,7 +135,7 @@ tvn.cl##.banner-full
 iprofesional.com##.banner-horizontal
 elnuevogeorgia.com##.banner-img
 diariodecuyo.com.ar##.banner-lanusse
-a24.com,diariouno.com.ar,lared.am##.banner-libre
+a24.com,diariouno.com.ar,lared.am,puntal.com.ar##.banner-libre
 clarin.com##.banner-right
 anbariloche.com.ar,anroca.com.ar,elcordillerano.com.ar,noticiasnet.com.ar##.banner-simple
 eltrecetv.com.ar##.banner-swap
