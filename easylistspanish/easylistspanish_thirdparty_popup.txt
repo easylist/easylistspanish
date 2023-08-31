@@ -1,6 +1,7 @@
 ||bit.ly^$popup,domain=cuevana.run|pelisplus.lat
 ||granmp3.net^$popup,domain=nuevomix.net
 ||primevideo.com/?tag=^$popup,domain=vergnula.com
+||promociones.betsala.com^$popup,third-party
 ||significadoconcepto.com^$popup
 ||t.co^$popup,domain=cinecalidad.run
 !
