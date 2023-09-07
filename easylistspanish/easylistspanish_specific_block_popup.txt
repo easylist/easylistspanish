@@ -1,4 +1,4 @@
-$popup,third-party,domain=cinecalidad.com.mx|cinetux.nu|cuevana.pro
+$popup,third-party,domain=cinecalidad.com.mx|cinetux.nu|cliver.pro|cuevana.pro
 ||minube.click^$popup
 !
 $popup,third-party,domain=embedsito.com|fembad.net|fembed.com|feurl.com|hqq.to|hqq.tv|powvibeo.me|seriesyonkis.io|streampiay.me|streamta.pe|streamtape.cc|streamtape.net|streamtape.site|streamz.vg|strtape.cloud|supergoku.com|tarjetarojatvhd.me|upvid.net|uqload.com|yourupload.com|zenkimex.com.mx
