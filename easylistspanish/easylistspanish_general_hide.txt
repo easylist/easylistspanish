@@ -147,7 +147,6 @@
 ##.flex__publi
 ##.header-adds
 ##.mclics
-##.mod-ad-top
 ##.mod-roba
 ##.modPublicidad
 ##.myml-menu-navigation > .container-banner
