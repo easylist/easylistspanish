@@ -179,7 +179,7 @@ elpais.com##.c.c-pfb.c--m
 diariobitcoin.com##.clickout-banner-regular_native_box
 vivanolamag.com##.client-logo-slider
 eltiempo.es##.cls-publi-height
-bembibredigital.com,comedera.com,washingtonhispanic.com##.code-block
+bembibredigital.com,comedera.com,mejoresmodsminecraft.site,washingtonhispanic.com##.code-block
 elrellano.com##.code-block-1
 elrellano.com##.code-block-18
 elrellano.com##.code-block-4
@@ -440,9 +440,9 @@ gamereactor.es##div[style^="min-height: 600px;"]
 diariocritico.com##div[style^="width: 300px; height: 250px;"]
 diariocritico.com##div[style^="width: 300px; height: 600px;"]
 perfil.com##div[style^="width: 300px;"]
-misseriesinolvidables.blogspot.com##iframe[style^="width: 100% !important; height: 95px !important; opacity: 1 !important; max-width: 420px"]
 leercapitulo.com##iframe[style*="width: 100% !important; height: 170px !important; opacity: 1 !important;"]
 lectortmo.org##iframe[style*="z-index: 2147483647"]
+misseriesinolvidables.blogspot.com##iframe[style^="width: 100% !important; height: 95px !important; opacity: 1 !important; max-width: 420px"]
 diariodelaribera.net##img[alt^="Banner"]
 expansion.com##img[class="ue-c-widget__sponsor"]
 planbnoticias.com.ar##img[height="200"]
