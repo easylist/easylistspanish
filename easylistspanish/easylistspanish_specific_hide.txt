@@ -155,7 +155,7 @@ flashscore.co##.bettingStrip
 cronista.com##.blocksponsor
 eldinamo.cl,theclinic.cl##.bloque-dfp
 gastrolabweb.com,poresto.net##.bnn
-diariodecuyo.com.ar##.bnr
+diariodecuyo.com.ar,henaojara.com##.bnr
 eltiempo.com##.board-tu-negocio
 cronica.com.ar##.bottom-sticky-banner-box
 flashscore.es##.boxOverContent__banner
