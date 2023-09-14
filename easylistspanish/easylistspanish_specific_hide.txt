@@ -265,6 +265,7 @@ diariodevalderrueda.es##.minibanner_content
 show.news##.mod.relatednews
 20minutos.es##.module-coupons
 eldebate.com##.module-free-html-ads
+rpp.pe##.module__sponsor
 exitosanoticias.pe##.module_mm
 elobservador.com.uy##.modulo_publi
 coches.net##.mt-AdvertisingRoadblock-top
