@@ -254,6 +254,7 @@ sensacine.com,sensacine.com.mx##.main-banner
 infopico.com##.marco-publicidad
 signodeinterrogacion.com##.masthead-banner
 empresite.eleconomista.es##.mauto.textcenter.mb20.mt20
+rpp.pe##.mdl-sponsors
 esdiario.com##.media-ajust-tablet-publi-top
 abc.es##.mega-superior
 marie-claire.es,muyhistoria.es,muyinteresante.es,muynegociosyeconomia.es,noticiasdegipuzkoa.eus##.megaBanner
