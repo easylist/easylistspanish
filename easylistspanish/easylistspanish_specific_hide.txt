@@ -144,6 +144,7 @@ ciudad.com.ar,elcomercio.com,lmcipolletti.com,lmneuquen.com##.banner-wrapper
 diariodelaribera.net##.bannerColumnas
 eleconomista.es##.bannerInferior
 eleconomista.es##.bannerIntermedio
+clarin.com##.bannerTopHeader
 chilevision.cl##.banner_full
 elperiodicodeaqui.com##.banner_lat
 gasteizhoy.com##.bannerclick
@@ -475,6 +476,8 @@ laprensadecolorado.com,periodicoelsolpr.com##img[width="800"]
 c9n.com.py,elcomercio.com,repretel.com##ned-ad
 ! Advanced element hiding rules for Adblock Plus
 as.com#?#.s.s--v:-abp-has(span:-abp-contains(OFRECIDO POR))
+clarin.com#?#.column > div[class] > div[class^="sc-"]:-abp-has(div[class^="sc-"] > div[id^="div-gpt-ad"])
+clarin.com#?#div[class^="sc-"]:-abp-has(> div[id^="div-gpt-ad"])
 cuencanews.es#?#td[class*="id_publi_"]:-abp-has(img[alt="publicidad"])
 elcomercio.pe#?##lateral:-abp-has(span:-abp-contains(Auspiciado por:))
 elespectador.com#?#.Block:-abp-has(.Title_section:-abp-contains(Contenido patrocinado))
