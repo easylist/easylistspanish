@@ -29,6 +29,7 @@ ancient-origins.es###block-block-17
 ancient-origins.es###block-block-39
 ancient-origins.es###block-block-43
 ancient-origins.es###block-block-50
+lexlatin.com###block-views-block-banner-block-1
 winsports.co###block-wplay
 anisearch.es###bottombox
 flashscore.co###box-over-content-detail
