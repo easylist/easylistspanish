@@ -24,6 +24,7 @@ ondavasca.com###billboard-wrapper
 elrellano.com###block-2
 blog.facialix.com###block-29
 elrellano.com###block-3
+lexlatin.com###block-banneranimado
 ancient-origins.es###block-block-17
 ancient-origins.es###block-block-39
 ancient-origins.es###block-block-43
@@ -262,6 +263,7 @@ marie-claire.es,muyhistoria.es,muyinteresante.es,muynegociosyeconomia.es,noticia
 elcorreogallego.es,meteored.cl,meteored.com.ar,meteored.mx,modaes.com,tiempo.com##.megabanner
 meteored.com.py##.meteored-ads
 caracol.com.co,wradio.com.co##.mh266-100
+lexlatin.com##.mibanner
 diariodevalderrueda.es##.minibanner_content
 show.news##.mod.relatednews
 20minutos.es##.module-coupons
