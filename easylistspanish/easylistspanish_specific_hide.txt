@@ -454,6 +454,7 @@ leercapitulo.com##iframe[style*="width: 100% !important; height: 170px !importan
 lectortmo.org##iframe[style*="z-index: 2147483647"]
 misseriesinolvidables.blogspot.com##iframe[style^="width: 100% !important; height: 95px !important; opacity: 1 !important; max-width: 420px"]
 diariodelaribera.net##img[alt^="Banner"]
+extra.com.pe##img[class*="wp-image-"]
 expansion.com##img[class="ue-c-widget__sponsor"]
 planbnoticias.com.ar##img[height="200"]
 planbnoticias.com.ar##img[height="250"]
