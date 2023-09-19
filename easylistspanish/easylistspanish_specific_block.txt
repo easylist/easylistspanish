@@ -3,6 +3,7 @@
 ||albaceteabierto.es/anuncios/
 ||arquimaster.com.ar/banners/
 ||arquimaster.com.ar/Images/banners.htm
+||artesacro.org/imagenes/baner_
 ||atacamaenlinea.cl/wp-content/uploads/*/banner_caserones_
 ||cine24h.net/Banners/
 ||cinetux.nu/api/spots/
@@ -111,7 +112,6 @@
 ||animelatinohd.com/pop.js
 ||anroca.com.ar/uploads/archivos/*.gif
 ||apfdigital.com.ar/imgpublicidad/
-||artesacro.org/banner/Salvar-Torre-San-Bartolome-2017.gif
 ||azarplus.com/fotos/banners
 ||azarplus.com/includes/greybox/AJS.js
 ||azcast.live/img/close1.png
@@ -166,11 +166,9 @@
 ||diarioresponsable.com/images/banners
 ||diarioresponsable.com/images/castellananorte19032020.jpg
 ||diarioresponsable.com/images/triodos_2019-06.jpg
-||diariosanrafael.com.ar/images/banners/
 ||diariotextual.com/inicio/wp-content/uploads/*/*/*.gif
 ||diariotextual.com/inicio/wp-content/uploads/*/*/banner
 ||diariovictoria.com.ar/wp-content/uploads/*.gif
-||divinity.es/zentv/images/zentv-300-2.gif
 ||do67etikr7pwz.cloudfront.net^
 ||domisfera.com/img/patrocinadores/
 ||dontorrents.org/images/NetflixPrime.jpg
@@ -202,7 +200,6 @@
 ||esmtb.com/embed/$image
 ||especiales.woman.es/wid-deportivos/index.html
 ||eventrid.cl/banner_espectaculos_cuadro
-||expreso.com.mx/images/anuncios/
 ||farox.com/barra_productos/
 ||file01.lavanguardia.com/2013/04/09/54371066983-file.jpg
 ||file02.lavanguardia.com/*/*-patrocinadorAgregadores.jpg
@@ -281,9 +278,6 @@
 ||lacapitalmdp.com/img_design/paseo_aero.jpg
 ||laconversacion.net/wp-content/uploads/2017/07/IMG-20170710-WA0000.jpg
 ||laconversacion.net/wp-content/uploads/2017/10/Banner-3.jpg
-||lagacetadesalamanca.es/elementosWeb/gestionCajas/*.gif
-||lagacetadesalamanca.es/elementosWeb/gestionCajas/*banner*.jpg
-||lagacetadesalamanca.es/elementosWeb/gestionCajas/comun/Flash/
 ||laindustria.pe/banners/
 ||lancelotdigital.com/images/banners/
 ||lanoticia1.com/sites/default/files/*.gif
@@ -379,7 +373,6 @@
 ||recursos.equipohumano.com/*_plubli/enlace.html^$subdocument,domain=valenciaplaza.com
 ||red92.com/images/uploaded/spots/
 ||religionenlibertad.com/imgpbs/
-||republica.com.uy/wp-content/banners/
 ||rioja2.com/images/banners/
 ||rojadirectatv.tv/publicity/anuncio.php^
 ||rosariogarage.com/resources/banner/
