@@ -502,6 +502,7 @@ mil21.es#?#td[class*="id_publi_"]:-abp-has(a[href^="https://www.amazon.es/"])
 olympusscans.com#?#.md\:col-span-2.w-full.h-60.flex-center.bg-gray-700.rounded-xl.relative:-abp-has(.empower-ad)
 photocall.tv#?#.dropdown:-abp-has(label:-abp-contains(VPN))
 portafolio.co#?#.sumario.secondary-article.play-inline:-abp-has(.contenido-patrocinado)
+semana.com#?#.section:-abp-has(.section-subtitle:-abp-contains(Contenido en colaboración))
 theobjective.com#?#.tno-article-block:-abp-has(span:-abp-contains(Branded content))
 yorokobu.es#?#.quicklink_w100:-abp-has(.publi-tag:-abp-contains(AD))
 !
