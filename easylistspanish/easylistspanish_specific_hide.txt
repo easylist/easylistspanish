@@ -382,7 +382,7 @@ claridadpuertorico.com,cronicasnews.com,elnuevogeorgia.com,gacetinmadrid.com,lap
 elperiodista.cl##.widget_owjnimg
 elespecial.com##.widget_simpleimage
 latinopinionbaltimore.com##.widget_sp_image
-enteratelatino.org##.wp-block-image
+cultoro.es,enteratelatino.org##.wp-block-image
 canal-i.com##.wpb_images_carousel
 expresodelacosta.cl##.wpwbs_banners
 naciodigital.cat##.zona-ajbcn
