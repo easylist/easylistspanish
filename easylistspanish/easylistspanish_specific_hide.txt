@@ -24,6 +24,7 @@ ondavasca.com###billboard-wrapper
 elrellano.com###block-2
 blog.facialix.com###block-29
 elrellano.com###block-3
+conbasesllenas.com###block-60
 lexlatin.com###block-banneranimado
 ancient-origins.es###block-block-17
 ancient-origins.es###block-block-39
