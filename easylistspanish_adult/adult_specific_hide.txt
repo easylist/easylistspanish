@@ -40,7 +40,7 @@ muyzorras.com##a[href^="https://www.fuegocams.com/"]
 muycerditas.com##a[href^="https://www.platanomelon.com/?rfsn="]
 !
 muyzorras.com#?#.c.d1:-abp-has(div:-abp-contains(Más cosas interesantes))
-!!
+!
 slumi.com###anuncio_pancarta_campaign
 donlgbt.com###banner-superior
 videosdemadurasx.com###pBrazzers
