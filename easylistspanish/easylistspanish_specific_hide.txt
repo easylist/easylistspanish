@@ -110,7 +110,7 @@ meganoticias.cl##.agrupadorPatrocinados
 ilustrado.cl##.ai-viewport-1
 petitchef.es##.akcelo-wrapper
 blog.facialix.com##.amazon-auto-links
-aguaita.cat,pallarsdigital.cat,rubitv.cat##.amp_columnapubli
+aguaita.cat,pallarsdigital.cat,rubitv.cat,tarragonadigital.com##.amp_columnapubli
 donbalon.com##.anuncio
 mangacrab.com##.anunciofooter
 insideevs.com.ar,iproup.com##.ap
@@ -280,7 +280,7 @@ hortanoticias.com##.n2-section-smartslider
 europa-agricola.es,via-mobilis.es##.native
 eldiario.es,infolibre.es##.news-sponsored-content
 diaridegirona.cat,diariocordoba.com,diariodeibiza.es,diariodemallorca.es,eldia.es,elperiodicodearagon.com,elperiodicoextremadura.com,elperiodicomediterraneo.com,emporda.info,farodevigo.es,informacion.es,laopinioncoruna.es,laopiniondemalaga.es,laopiniondemurcia.es,laopiniondezamora.es,laprovincia.es,levante-emv.com,lne.es,regio7.cat,superdeporte.es##.no-baldomero
-aguaita.cat,naciodigital.cat,pallarsdigital.cat,pensem.cat,rubitv.cat##.nou-publi-cap-home
+aguaita.cat,naciodigital.cat,pallarsdigital.cat,pensem.cat,rubitv.cat,tarragonadigital.com##.nou-publi-cap-home
 nextpit.es##.np-product-offers
 bolavip.com##.odds-slider-widget
 flashscore.co,flashscore.es##.oddsPlacement
@@ -305,9 +305,9 @@ formulatv.com##.pub-top
 0221.com.ar##.pub_begum
 ceroacero.es##.pubframe
 esdiario.com##.publi-foot
-aguaita.cat,naciodigital.cat,pallarsdigital.cat##.publi-inter-portada
+aguaita.cat,naciodigital.cat,pallarsdigital.cat,rubitv.cat,tarragonadigital.com##.publi-inter-portada
 esdiario.com##.publi-top
-pensem.cat,rubitv.cat##.publi_interpagina
+aguaita.cat,pallarsdigital.cat,pensem.cat,rubitv.cat,tarragonadigital.com##.publi_interpagina
 lawebdelprogramador.com##.publi_robapaginas
 0221.com.ar,areajugones.sport.es,generacionuniversitaria.com.mx,iberempleos.es,lavozdealmeria.com,meteored.cl,meteored.com.ar,meteored.com.py,meteored.mx,neomotor.com,pulzo.com,tiempo.com##.publicidad
 diario.mx##.publicidad_basica
