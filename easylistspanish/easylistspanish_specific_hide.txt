@@ -110,6 +110,7 @@ meganoticias.cl##.agrupadorPatrocinados
 ilustrado.cl##.ai-viewport-1
 petitchef.es##.akcelo-wrapper
 blog.facialix.com##.amazon-auto-links
+aguaita.cat##.amp_columnapubli
 donbalon.com##.anuncio
 mangacrab.com##.anunciofooter
 insideevs.com.ar,iproup.com##.ap
