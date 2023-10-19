@@ -240,6 +240,7 @@ atacamaenlinea.cl##.home-featured-widgets
 bolavip.com##.home-poll-block__ad
 t13.cl##.home-slider__header__sponsor
 periodicoellaurelpr.com##.hpe-i-ad
+marfanta.com##.ib-ad-text
 lavoz.com.ar##.imgSponsor
 nextpit.es##.jobbioapp
 marie-claire.es,muyhistoria.es,muyinteresante.es,muynegociosyeconomia.es##.js-ads-not-visible
