@@ -345,6 +345,7 @@ eldia.es##.sk--sponsored-by
 elinformador.mx,informador.mx##.sl_caliente
 soychile.cl##.slide__banner
 lateja.cr,nacion.com##.small-promo
+hispanidad.com##.sponsored
 elobservador.com.uy,losandes.com.ar##.sponsors
 exitosanoticias.pe##.statics_module
 bernabeudigital.com##.sticky-container[style="height:600px;"]
