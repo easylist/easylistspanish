@@ -105,7 +105,7 @@ anbariloche.com.ar,anroca.com.ar,elcordillerano.com.ar,noticiasnet.com.ar##.adse
 anbariloche.com.ar,anroca.com.ar,elcordillerano.com.ar,noticiasnet.com.ar##.adserver-zona-zocalo
 clarin.com,elindependiente.com##.adv
 cambio21.cl##.advertisement
-ejeprime.com,larazon.es,papajuegos.com,plantadoce.com,relevo.com##.advertising
+ara.cat,ejeprime.com,larazon.es,papajuegos.com,plantadoce.com,relevo.com##.advertising
 meganoticias.cl##.agrupadorPatrocinados
 ilustrado.cl##.ai-viewport-1
 petitchef.es##.akcelo-wrapper
