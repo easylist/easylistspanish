@@ -262,7 +262,7 @@ rpp.pe##.mdl-sponsors
 esdiario.com##.media-ajust-tablet-publi-top
 abc.es##.mega-superior
 marie-claire.es,muyhistoria.es,muyinteresante.es,muynegociosyeconomia.es,noticiasdegipuzkoa.eus##.megaBanner
-elcorreogallego.es,meteored.cl,meteored.com.ar,meteored.mx,modaes.com,tiempo.com##.megabanner
+elcorreogallego.es,lleida.com,meteored.cl,meteored.com.ar,meteored.mx,modaes.com,tiempo.com##.megabanner
 meteored.com.py##.meteored-ads
 caracol.com.co,wradio.com.co##.mh266-100
 lexlatin.com##.mibanner
