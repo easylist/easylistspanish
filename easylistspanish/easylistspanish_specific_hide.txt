@@ -280,6 +280,7 @@ coches.net##.mt-Display--top
 gamezfull.com##.myButton
 hortanoticias.com##.n2-section-smartslider
 europa-agricola.es,via-mobilis.es##.native
+elcomercio.com##.ned-ad-dynamic
 eldiario.es,infolibre.es##.news-sponsored-content
 diaridegirona.cat,diariocordoba.com,diariodeibiza.es,diariodemallorca.es,eldia.es,elperiodicodearagon.com,elperiodicoextremadura.com,elperiodicomediterraneo.com,emporda.info,farodevigo.es,informacion.es,laopinioncoruna.es,laopiniondemalaga.es,laopiniondemurcia.es,laopiniondezamora.es,laprovincia.es,levante-emv.com,lne.es,regio7.cat,superdeporte.es##.no-baldomero
 aguaita.cat,naciodigital.cat,pallarsdigital.cat,pensem.cat,rubitv.cat,tarragonadigital.com##.nou-publi-cap-home
