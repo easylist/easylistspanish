@@ -175,7 +175,7 @@ mariskalrock.com##.brave_popup
 terremoto.mx##.break_patrocinadores
 futbolred.com##.btn_betplay
 plantadoce.com##.bwe_ext_partners
-miarevista.es,serpadres.es##.c-add
+miarevista.es,segre.com,serpadres.es##.c-add
 elpais.com##.c-bra
 cadenaser.com##.c-p-ia
 cadenaser.com##.c-s > div
