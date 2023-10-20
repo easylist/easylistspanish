@@ -52,6 +52,7 @@ atacamaenlinea.cl###media_image-17
 atacamaenlinea.cl###media_image-30
 bemad.es,cuatro.com,divinity.es,energytv.es,factoriadeficcion.com,mtmad.es,niusdiario.es,telecinco.es,uppers.es,yasss.es###megaSuperior_multisite
 diariodeteruel.es###mvp-leader-wrap
+elcorreogallego.es###pmMarketing_1
 qmusica.tv###promo
 qmusica.tv###promoSept19A
 qmusica.tv###promoSept19B
