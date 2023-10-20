@@ -294,7 +294,7 @@ lasubasta.com##.orbit-container
 autoscout24.es##.osa-as24-placeholder
 libertaddigital.com##.partners
 gasteizhoy.com##.patrocinado-new
-elpuntavui.cat##.patrocini
+elpuntavui.cat,leconomic.cat##.patrocini
 canalrcn.com##.pauta-barra-media
 futbolred.com##.pauta-bk
 todomecanica.com,vgrecipes.com##.pbl
@@ -320,7 +320,7 @@ lawebdelprogramador.com##.publi_robapaginas
 diario.mx##.publicidad_basica
 0221.com.ar##.publicidad_cont
 eldesmarque.com##.publicidad_marca
-elpuntavui.cat##.publicitat
+elpuntavui.cat,leconomic.cat##.publicitat
 alfabeta.net##.publimg
 semana.com##.publish-box
 eleconomista.es##.railContainer1
