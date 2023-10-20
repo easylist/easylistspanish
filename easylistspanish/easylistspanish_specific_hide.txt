@@ -290,6 +290,7 @@ aguaita.cat,naciodigital.cat,pallarsdigital.cat,pensem.cat,rubitv.cat,tarragonad
 nextpit.es##.np-product-offers
 bolavip.com##.odds-slider-widget
 flashscore.co,flashscore.es##.oddsPlacement
+infodefensa.com##.openx
 lasubasta.com##.orbit-container
 autoscout24.es##.osa-as24-placeholder
 libertaddigital.com##.partners
