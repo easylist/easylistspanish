@@ -423,6 +423,8 @@ espn.cl,espn.co.cr,espn.com.ar,espn.com.co,espn.com.do,espn.com.ec,espn.com.gt,e
 ellibero.cl##a[href^="https://www.vgs.cl/"]
 promiedos.com.ar##a[href^="publicidad.php?"]
 darkstone.es##a[onclick^="return ad_redirect"]
+finanzasargy.com##a[target="_blank"][href^="https://accounts.binance.info/register?ref="]
+finanzasargy.com##a[target="_blank"][href^="https://ripio.go.link/"]
 lasexta.com##aside[class^="mod-ad-"]
 elnueve.com.ar##div[class*="_site-banner-top_"]
 diariodecuyo.com.ar##div[class*="dfp-async"]
