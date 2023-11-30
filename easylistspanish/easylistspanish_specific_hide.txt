@@ -354,6 +354,7 @@ informacion.es##.sk--project-with-logo
 eldia.es##.sk--sponsored-by
 elinformador.mx,informador.mx##.sl_caliente
 soychile.cl##.slide__banner
+prensa.com##.sliderPrensa
 lateja.cr,nacion.com##.small-promo
 hispanidad.com##.sponsored
 elobservador.com.uy,losandes.com.ar##.sponsors
@@ -502,6 +503,7 @@ c9n.com.py,elcomercio.com,repretel.com##ned-ad
 ! Advanced element hiding rules for Adblock Plus
 as.com#?#.s.s--v:-abp-has(span:-abp-contains(OFRECIDO POR))
 clarin.com#?#.column > div[class] > div[class^="sc-"]:-abp-has(div[class^="sc-"] > div[id^="div-gpt-ad"])
+prensa.com#?#div.border-l-box:-abp-has(a[href="https://bit.ly/canon-mamá"])
 clarin.com#?#div[class^="sc-"]:-abp-has(> div[id^="div-gpt-ad"])
 cuencanews.es#?#td[class*="id_publi_"]:-abp-has(img[alt="publicidad"])
 elcomercio.pe#?##lateral:-abp-has(span:-abp-contains(Auspiciado por:))
