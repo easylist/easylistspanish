@@ -306,6 +306,7 @@ cronista.com##.piecesponsor
 cronista.com##.piecesponsor2
 publinews.gt##.posttakeoverlink
 cronica.com.ar##.pre-home-banner-box
+prensa.com##.productos
 qmusica.tv##.promoTop
 esdiario.com##.pub-2
 formulatv.com##.pub-btf
