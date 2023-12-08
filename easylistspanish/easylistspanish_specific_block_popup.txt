@@ -13,7 +13,6 @@ $popup,third-party,domain=embedsito.com|fembad.net|fembed.com|feurl.com|hqq.to|h
 ||foxcdn.me^$popup,domain=telerium.digital
 ||geniusdexchange.com^$popup,domain=jac-tv.com
 ||nonestolesantes.com^$popup
-||notube.net/p/^$popup
 ||pelishouse.me/descargas/$popup
 ||pepeliculas.org/mira-video1^$popup
 ||pornmediaxxx.net^$popup
