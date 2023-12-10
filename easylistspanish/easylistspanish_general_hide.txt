@@ -18,6 +18,9 @@
 ##.PubliDereFlo
 ##.PubliIzquiFlo
 ##.PublicidadArriba
+##._mo_recs
+##._mo_recs_cti
+##._mo_recs_vi
 ##.ad-cabecera
 ##.ad-zocalo__container
 ##.banner-publicidad

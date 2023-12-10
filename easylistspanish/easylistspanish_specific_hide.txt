@@ -45,7 +45,6 @@ mangatigre.net###dl-banner-300-250
 elnacional.com###en_nd_home_flat_2
 elnacional.com###en_nd_home_flat_3
 futbolme.com###headeradd
-noticiasdegipuzkoa.eus###intext-sunmedia-1
 excelsior.com.mx###leaderboard0
 diariodeteruel.es###leftbanner
 atacamaenlinea.cl###media_image-17
@@ -81,14 +80,12 @@ andaluciainformacion.es,informacionalcalalareal.es,informacionpuentegenil.es,inf
 andaluciainformacion.es,informacionalcalalareal.es,informacionpuentegenil.es,informacionsanfernando.es,sanlucarinformacion.es,vivaalmeria.es,vivaalmunecar.es,vivaantequera.es,vivaarcos.es,vivabarbate.es,vivabenalmadena.es,vivacadiz.es,vivacampodegibraltar.es,vivachiclana.es,vivaconil.es,vivacordoba.es,vivaelpuerto.es,vivaestepona.es,vivagalicia.tv,vivagranada.es,vivahuelva.es,vivajaen.es,vivajerez.es,vivamalaga.net,vivamarbella.es,vivapunta.es,vivarota.es,vivasevilla.es,vivatorremolinos.es,vivavalencia.net,vivavejer.es,vivavelezmalaga.es##.BNR-DER
 ccma.cat##.M-publicitat
 elchapuzasinformatico.com##.__lxG__multi
-diaridegirona.cat,diariocordoba.com,diariodeibiza.es,diariodemallorca.es,eldia.es,elperiodicodearagon.com,elperiodicoextremadura.com,elperiodicomediterraneo.com,emporda.info,farodevigo.es,informacion.es,laopinioncoruna.es,laopiniondemalaga.es,laopiniondemurcia.es,laopiniondezamora.es,laprovincia.es,levante-emv.com,lne.es,regio7.cat,superdeporte.es##._mo_recs
-eldia.es,elperiodico.cat,elperiodico.com,elperiodicomediterraneo.com,levante-emv.com##._mo_recs_cti
 ahoraeg.com,aurora-israel.co.il,aviacionline.com,elperiodicodelaenergia.com,latinopinionbaltimore.com,teleamazonas.com##.a-single
 laregion.cr,tutorialesenlinea.es##.a-wrap
 beergeeks.cl,cannabis420.cl,comidasespanolas.com,recetasdepan.net,reparaciondecomputadoras.online,thebeertimes.com,weedmagazine.net##.aawp
 somosohlala.com##.accession
 actualidadradio.com##.actua-widget
-aica.org,elpais.com,eurosport.es,fmdos.cl,jornada.com.mx,meteoconsult.es,ntn24.com,revistafama.com##.ad
+aica.org,deia.eus,diaridegirona.cat,diariocordoba.com,diariodeibiza.es,diariodemallorca.es,elcorreogallego.es,eldia.es,elpais.com,elperiodicodearagon.com,elperiodicoextremadura.com,elperiodicomediterraneo.com,emporda.info,eurosport.es,farodevigo.es,fmdos.cl,informacion.es,jornada.com.mx,laopinioncoruna.es,laopiniondemalaga.es,laopiniondezamora.es,laprovincia.es,levante-emv.com,lne.es,meteoconsult.es,noticiasdealava.eus,noticiasdegipuzkoa.eus,noticiasdenavarra.com,ntn24.com,regio7.cat,revistafama.com,superdeporte.es##.ad
 perfil.com##.ad-300x250
 mundo.com##.ad-banner
 buenazo.pe,elpopular.pe,eltiempo.com,hobbyconsolas.com,larepublica.pe,libero.pe,somosfanaticos.fans,wapa.pe##.ad-container
@@ -193,7 +190,6 @@ elrellano.com##.code-block-6
 elrellano.com##.code-block-9
 ansalatina.com##.commercial-banner
 ansalatina.com##.commercial-banner-top
-deia.eus,noticiasdealava.eus,noticiasdegipuzkoa.eus,noticiasdenavarra.com##.commercial-up-full
 elmundofinanciero.com##.con_publi
 retinatendencias.com##.concintillo
 elperiodico.cat##.container-ad
@@ -268,8 +264,8 @@ empresite.eleconomista.es##.mauto.textcenter.mb20.mt20
 rpp.pe##.mdl-sponsors
 esdiario.com##.media-ajust-tablet-publi-top
 abc.es##.mega-superior
-marie-claire.es,muyhistoria.es,muyinteresante.es,muynegociosyeconomia.es,noticiasdegipuzkoa.eus##.megaBanner
-elcorreogallego.es,lleida.com,meteored.cl,meteored.com.ar,meteored.mx,modaes.com,tiempo.com##.megabanner
+marie-claire.es,muyhistoria.es,muyinteresante.es,muynegociosyeconomia.es##.megaBanner
+lleida.com,meteored.cl,meteored.com.ar,meteored.mx,modaes.com,tiempo.com##.megabanner
 meteored.com.py##.meteored-ads
 caracol.com.co,wradio.com.co##.mh266-100
 lexlatin.com##.mibanner
@@ -287,7 +283,7 @@ hortanoticias.com##.n2-section-smartslider
 europa-agricola.es,via-mobilis.es##.native
 elcomercio.com##.ned-ad-dynamic
 eldiario.es,infolibre.es##.news-sponsored-content
-diaridegirona.cat,diariocordoba.com,diariodeibiza.es,diariodemallorca.es,eldia.es,elperiodicodearagon.com,elperiodicoextremadura.com,elperiodicomediterraneo.com,emporda.info,farodevigo.es,informacion.es,laopinioncoruna.es,laopiniondemalaga.es,laopiniondemurcia.es,laopiniondezamora.es,laprovincia.es,levante-emv.com,lne.es,regio7.cat,superdeporte.es##.no-baldomero
+deia.eus,diaridegirona.cat,diariocordoba.com,diariodeibiza.es,diariodemallorca.es,elcorreogallego.es,eldia.es,elperiodicodearagon.com,elperiodicoextremadura.com,elperiodicomediterraneo.com,emporda.info,farodevigo.es,informacion.es,laopinioncoruna.es,laopiniondemalaga.es,laopiniondemurcia.es,laopiniondezamora.es,laprovincia.es,levante-emv.com,lne.es,noticiasdealava.eus,noticiasdegipuzkoa.eus,noticiasdenavarra.com,regio7.cat,superdeporte.es##.no-baldomero
 aguaita.cat,naciodigital.cat,pallarsdigital.cat,pensem.cat,rubitv.cat,tarragonadigital.com##.nou-publi-cap-home
 nextpit.es##.np-product-offers
 bolavip.com##.odds-slider-widget
@@ -989,7 +985,6 @@ blancas.cl,paginasblancas.com.ar,paginasblancas.com.pe##.m-pod-promo-image
 eltiempo.es##.m_gollum
 tandildiario.com##.mainContainerBanner
 maracodigital.net##.margenpublicidad
-noticiasdegipuzkoa.eus##.megabanner
 publico.es##.megabanner-container
 horadeopinion.com.ar##.ml-slider
 diarioelinformante.com.ar,laopinionsannicolas.com.ar##.modal-backdrop
