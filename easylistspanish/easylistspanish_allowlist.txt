@@ -16,7 +16,7 @@
 @@||googlesyndication.com/simgad/$image,domain=pccomponentes.com
 @@||googletagservices.com/tag/js/gpt.js$domain=ivoox.com|pccomponentes.com
 @@||iframes.5centscdn.com/5centscdn/*&adTagUrl=https://pubads.g.doubleclick.net/$subdocument,domain=teletica.com
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=api.apolomedia.com|carolina.cl|niusdiario.es|paxtvmovil.org|radiocandela.cl|romantica.cl|rtve.es|tn.com.ar
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=api.apolomedia.com|carolina.cl|crhoy.com|niusdiario.es|paxtvmovil.org|radiocandela.cl|romantica.cl|rtve.es|tn.com.ar
 @@||laneros.com/temas/*-publicidad.
 @@||letrasyfuentes.com/tardisrocinante/screx.js?$script,~third-party
 @@||live.primis.tech/live/$script,domain=bolavip.com
