@@ -304,6 +304,7 @@ todomecanica.com,vgrecipes.com##.pbl
 otakustv.com##.pestana_footer
 cronista.com##.piecesponsor
 cronista.com##.piecesponsor2
+laboyanos.com##.piki-ads
 publinews.gt##.posttakeoverlink
 cronica.com.ar##.pre-home-banner-box
 prensa.com##.productos
