@@ -41,6 +41,7 @@ muycerditas.com##a[href^="https://www.platanomelon.com/?rfsn="]
 videospornogratisx.net##img[width="300"]
 ! Advanced element hiding rules for Adblock Plus
 muyzorras.com#?#.c.d1:-abp-has(div:-abp-contains(Más cosas interesantes))
+videospornogratisx.net#?#.block:-abp-has(>h3:-abp-contains(WEBCAM PORNO XXX))
 !
 slumi.com###anuncio_pancarta_campaign
 donlgbt.com###banner-superior
