@@ -203,6 +203,7 @@ autopista.es##.containerBanner
 theclinic.cl##.contenedor-auspicio
 futbolred.com##.contenedor-logo-patrocinador
 eldebate.com##.content-add
+prensa.com##.countdown-container
 eluniversal.com.mx##.coupons__container
 debate.com.mx,elimparcial.com##.coverless
 meteored.cl,meteored.com.ar,meteored.mx,tiempo.com##.creatividad
