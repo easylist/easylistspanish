@@ -496,10 +496,11 @@ noticiasformosa.com.ar##img[width="400"][height="100"]
 apuestasfree.com##img[width="468"]
 mododeporte.com##img[width="500"]
 lapanteradc.com##img[width="600"]
-hoyenbogota.com##img[width="720"]
+hoyenbogota.com,mundo724.com##img[width="720"]
 hortanoticias.com,laprensademn.com,transponder1200.com,vidaysabor.com##img[width="728"]
 marcadegol.com##img[width="750"]
 laprensadecolorado.com,periodicoelsolpr.com##img[width="800"]
+mundo724.com#?#.et_pb_column:-abp-has(p:-abp-contains(Publicidad))
 c9n.com.py,elcomercio.com,repretel.com##ned-ad
 ! :has()
 forocoches.com###sidebar > div > section:has(.fixed_adslot)
