@@ -38,6 +38,7 @@ muyzorras.com##a[href^="https://landings.videochatprovider.com/"]
 pajilleros.com##a[href^="https://www.amateur.tv/"]
 muyzorras.com##a[href^="https://www.fuegocams.com/"]
 muycerditas.com##a[href^="https://www.platanomelon.com/?rfsn="]
+videospornogratisx.net##img[width="300"]
 ! Advanced element hiding rules for Adblock Plus
 muyzorras.com#?#.c.d1:-abp-has(div:-abp-contains(Más cosas interesantes))
 !
