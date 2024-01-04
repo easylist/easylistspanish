@@ -45,6 +45,7 @@ mangatigre.net###dl-banner-300-250
 elnacional.com###en_nd_home_flat_2
 elnacional.com###en_nd_home_flat_3
 futbolme.com###headeradd
+periodismokosher.com.ar###key2sticky
 excelsior.com.mx###leaderboard0
 diariodeteruel.es###leftbanner
 atacamaenlinea.cl###media_image-17
