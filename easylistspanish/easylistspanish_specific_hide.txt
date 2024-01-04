@@ -281,7 +281,7 @@ elobservador.com.uy##.modulo_publi
 coches.net##.mt-AdvertisingRoadblock-top
 coches.net##.mt-Display--top
 gamezfull.com##.myButton
-hortanoticias.com##.n2-section-smartslider
+elsolnoticias.com.ar,hortanoticias.com##.n2-section-smartslider
 europa-agricola.es,via-mobilis.es##.native
 elcomercio.com##.ned-ad-dynamic
 eldiario.es,infolibre.es##.news-sponsored-content
@@ -396,7 +396,7 @@ weedmagazine.net##.widget_aawp_widget_new_releases
 elciudadanoweb.com##.widget_apsa_campaign
 grupormultimedio.com,horadeopinion.com.ar##.widget_custom_html
 rumbonews.com##.widget_media_gallery
-claridadpuertorico.com,cronicasnews.com,elnuevogeorgia.com,gacetinmadrid.com,laprensadecolorado.com,noticiasenlineacr.com,noticiasformosa.com.ar,webelpuente.com##.widget_media_image
+claridadpuertorico.com,cronicasnews.com,elnuevogeorgia.com,elsolnoticias.com.ar,gacetinmadrid.com,laprensadecolorado.com,noticiasenlineacr.com,noticiasformosa.com.ar,webelpuente.com##.widget_media_image
 horadeopinion.com.ar##.widget_metaslider_widget
 elperiodista.cl##.widget_owjnimg
 elespecial.com##.widget_simpleimage
