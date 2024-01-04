@@ -295,8 +295,10 @@ autoscout24.es##.osa-as24-placeholder
 libertaddigital.com##.partners
 gasteizhoy.com##.patrocinado-new
 elpuntavui.cat,leconomic.cat##.patrocini
+valoraanalitik.com##.pauta
 canalrcn.com##.pauta-barra-media
 futbolred.com##.pauta-bk
+valoraanalitik.com##.pauta-cuad
 todomecanica.com,vgrecipes.com##.pbl
 otakustv.com##.pestana_footer
 cronista.com##.piecesponsor
