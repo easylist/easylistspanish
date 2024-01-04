@@ -182,7 +182,7 @@ elpais.com##.c.c-pfb.c--m
 diariobitcoin.com##.clickout-banner-regular_native_box
 vivanolamag.com##.client-logo-slider
 eltiempo.es##.cls-publi-height
-bembibredigital.com,comedera.com,mejoresmodsminecraft.site,washingtonhispanic.com##.code-block
+bembibredigital.com,comedera.com,mejoresmodsminecraft.site,valoraanalitik.com,washingtonhispanic.com##.code-block
 elrellano.com##.code-block-1
 elrellano.com##.code-block-18
 elrellano.com##.code-block-4
