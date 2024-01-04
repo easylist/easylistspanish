@@ -223,6 +223,7 @@ huffingtonpost.es##.entry__right-rail-width-placeholder
 adiariocr.com##.esdfp
 compraensanjuan.com##.espacio-publi
 compraensanjuan.com##.espacio-publi-google
+hoyenbogota.com##.et_pb_row_4
 verepeliculas.com##.fake_player
 ejeprime.com##.featured_specials
 ahoraeg.com,arquimaster.com.ar,elperiodicodelaenergia.com,isanidad.com,jotdown.es,periodicolaperla.com,valencianews.es##.g
@@ -494,6 +495,7 @@ noticiasformosa.com.ar##img[width="400"][height="100"]
 apuestasfree.com##img[width="468"]
 mododeporte.com##img[width="500"]
 lapanteradc.com##img[width="600"]
+hoyenbogota.com##img[width="720"]
 hortanoticias.com,laprensademn.com,transponder1200.com,vidaysabor.com##img[width="728"]
 marcadegol.com##img[width="750"]
 laprensadecolorado.com,periodicoelsolpr.com##img[width="800"]
