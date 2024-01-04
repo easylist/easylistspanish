@@ -139,6 +139,7 @@ iprofesional.com##.banner-horizontal
 elnuevogeorgia.com##.banner-img
 diariodecuyo.com.ar##.banner-lanusse
 a24.com,diariouno.com.ar,lared.am,puntal.com.ar##.banner-libre
+25digital.com.ar##.banner-promotions-wrapper
 clarin.com##.banner-right
 anbariloche.com.ar,anroca.com.ar,elcordillerano.com.ar,noticiasnet.com.ar##.banner-simple
 eltrecetv.com.ar##.banner-swap
@@ -268,6 +269,7 @@ esdiario.com##.media-ajust-tablet-publi-top
 abc.es##.mega-superior
 marie-claire.es,muyhistoria.es,muyinteresante.es,muynegociosyeconomia.es##.megaBanner
 lleida.com,meteored.cl,meteored.com.ar,meteored.mx,modaes.com,tiempo.com##.megabanner
+25digital.com.ar##.metaslider
 meteored.com.py##.meteored-ads
 caracol.com.co,wradio.com.co##.mh266-100
 lexlatin.com##.mibanner
@@ -397,7 +399,7 @@ elciudadanoweb.com##.widget_apsa_campaign
 grupormultimedio.com,horadeopinion.com.ar##.widget_custom_html
 rumbonews.com##.widget_media_gallery
 claridadpuertorico.com,cronicasnews.com,elnuevogeorgia.com,elsolnoticias.com.ar,gacetinmadrid.com,laprensadecolorado.com,noticiasenlineacr.com,noticiasformosa.com.ar,webelpuente.com##.widget_media_image
-horadeopinion.com.ar##.widget_metaslider_widget
+25digital.com.ar,horadeopinion.com.ar##.widget_metaslider_widget
 elperiodista.cl##.widget_owjnimg
 elespecial.com##.widget_simpleimage
 latinopinionbaltimore.com##.widget_sp_image
