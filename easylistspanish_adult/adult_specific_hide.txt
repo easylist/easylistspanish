@@ -38,7 +38,7 @@ muyzorras.com##a[href^="https://landings.videochatprovider.com/"]
 pajilleros.com##a[href^="https://www.amateur.tv/"]
 muyzorras.com##a[href^="https://www.fuegocams.com/"]
 muycerditas.com##a[href^="https://www.platanomelon.com/?rfsn="]
-!
+! Advanced element hiding rules for Adblock Plus
 muyzorras.com#?#.c.d1:-abp-has(div:-abp-contains(Más cosas interesantes))
 !
 slumi.com###anuncio_pancarta_campaign
@@ -59,4 +59,3 @@ mileroticos.com##[data-l^=" pub"]
 esaschicas.com##a[href^="https://esaschicas.com/rbs_banner.php?"]
 selafollan.com##a[href^="https://telelatinotv.page.link/"]
 famosateca.es##div[align^="center"]
-videospornogratisx.net#?#div:-abp-has(>h3:-abp-contains(CHAT PORNO X))

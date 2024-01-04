@@ -391,6 +391,7 @@ elciudadanoweb.com##.widget_apsa_campaign
 grupormultimedio.com##.widget_custom_html
 rumbonews.com##.widget_media_gallery
 claridadpuertorico.com,cronicasnews.com,elnuevogeorgia.com,gacetinmadrid.com,laprensadecolorado.com,noticiasenlineacr.com,noticiasformosa.com.ar,webelpuente.com##.widget_media_image
+horadeopinion.com.ar##.widget_metaslider_widget
 elperiodista.cl##.widget_owjnimg
 elespecial.com##.widget_simpleimage
 latinopinionbaltimore.com##.widget_sp_image
@@ -475,6 +476,7 @@ lectortmo.org##iframe[style*="z-index: 2147483647"]
 misseriesinolvidables.blogspot.com##iframe[style^="width: 100% !important; height: 95px !important; opacity: 1 !important; max-width: 420px"]
 diariodelaribera.net##img[alt^="Banner"]
 expansion.com##img[class="ue-c-widget__sponsor"]
+laboyanos.com##img[data-original-height^="300"]
 planbnoticias.com.ar##img[height="200"]
 ipsnoticias.net,planbnoticias.com.ar##img[height="250"]
 lapampadiaxdia.com.ar,laredpampeana.com.ar,planbnoticias.com.ar##img[height="300"]
@@ -496,28 +498,30 @@ hortanoticias.com,laprensademn.com,transponder1200.com,vidaysabor.com##img[width
 marcadegol.com##img[width="750"]
 laprensadecolorado.com,periodicoelsolpr.com##img[width="800"]
 c9n.com.py,elcomercio.com,repretel.com##ned-ad
+! :has()
+forocoches.com###sidebar > div > section:has(.fixed_adslot)
+elpais.com.uy##.Page-above.loaded:has(div[class^="GoogleDfpAd"])
+clarin.com##.column > div[class] > div[class^="sc-"]:has(div[class^="sc-"] > div[id^="div-gpt-ad"])
+eltiempo.com##.main-article-container-patr:has(.contenido-comercial)
+mercadolibre.cl,mercadolibre.co.cr,mercadolibre.com.ar,mercadolibre.com.bo,mercadolibre.com.co,mercadolibre.com.do,mercadolibre.com.ec,mercadolibre.com.gt,mercadolibre.com.hn,mercadolibre.com.mx,mercadolibre.com.ni,mercadolibre.com.pa,mercadolibre.com.pe,mercadolibre.com.py,mercadolibre.com.sv,mercadolibre.com.uy,mercadolibre.com.ve##.ui-recommendations-carousel-wrapper-ref:has(a[rel="nofollow, sponsored"])
+hobbyconsolas.com##div[class^="embed-card_card_"]:has(a[href^="http://disneyplus.bn5x.net/"])
+clarin.com##div[class^="sc-"]:has( > div[id^="div-gpt-ad"])
+mercadolibre.cl,mercadolibre.co.cr,mercadolibre.com.ar,mercadolibre.com.bo,mercadolibre.com.co,mercadolibre.com.do,mercadolibre.com.ec,mercadolibre.com.gt,mercadolibre.com.hn,mercadolibre.com.mx,mercadolibre.com.ni,mercadolibre.com.pa,mercadolibre.com.pe,mercadolibre.com.py,mercadolibre.com.sv,mercadolibre.com.uy,mercadolibre.com.ve##li.ui-search-layout__item:has(div.ui-search-item__pub-container)
+mil21.es##td[class*="id_publi_"]:has(a[href^="https://www.amazon.es/"])
+cuencanews.es##td[class*="id_publi_"]:has(img[alt="publicidad"])
 ! Advanced element hiding rules for Adblock Plus
 as.com#?#.s.s--v:-abp-has(span:-abp-contains(OFRECIDO POR))
-clarin.com#?#.column > div[class] > div[class^="sc-"]:-abp-has(div[class^="sc-"] > div[id^="div-gpt-ad"])
-clarin.com#?#div[class^="sc-"]:-abp-has(> div[id^="div-gpt-ad"])
-cuencanews.es#?#td[class*="id_publi_"]:-abp-has(img[alt="publicidad"])
 elcomercio.pe#?##lateral:-abp-has(span:-abp-contains(Auspiciado por:))
 elespectador.com#?#.Block:-abp-has(.Title_section:-abp-contains(Contenido patrocinado))
 elespectador.com#?#.Card:-abp-has(.Card-Section.Section:-abp-contains(Contenido patrocinado))
-elpais.com.uy#?#.Page-above.loaded:-abp-has(div[class^="GoogleDfpAd"])
-eltiempo.com#?#.main-article-container-patr:-abp-has(.contenido-comercial)
+elquindiano.com,laboyanos.com#?#span:-abp-contains(PUBLICIDAD)
 eltiempo.com#?#.main-article-container-patr:-abp-has(.mas-contenido:-abp-contains(Más Contenido))
-forocoches.com#?##sidebar > div > section:-abp-has(.fixed_adslot)
-forocoches.com#?##sidebar > section:-abp-has(.fixed_adslot)
-hobbyconsolas.com#?#div[class^="embed-card_card_"]:-abp-has(a[href^="http://disneyplus.bn5x.net/"])
-mercadolibre.cl,mercadolibre.co.cr,mercadolibre.com.ar,mercadolibre.com.bo,mercadolibre.com.co,mercadolibre.com.do,mercadolibre.com.ec,mercadolibre.com.gt,mercadolibre.com.hn,mercadolibre.com.mx,mercadolibre.com.ni,mercadolibre.com.pa,mercadolibre.com.pe,mercadolibre.com.py,mercadolibre.com.sv,mercadolibre.com.uy,mercadolibre.com.ve#?#.ui-recommendations-carousel-wrapper-ref:-abp-has(a[rel="nofollow, sponsored"])
-mercadolibre.cl,mercadolibre.co.cr,mercadolibre.com.ar,mercadolibre.com.bo,mercadolibre.com.co,mercadolibre.com.do,mercadolibre.com.ec,mercadolibre.com.gt,mercadolibre.com.hn,mercadolibre.com.mx,mercadolibre.com.ni,mercadolibre.com.pa,mercadolibre.com.pe,mercadolibre.com.py,mercadolibre.com.sv,mercadolibre.com.uy,mercadolibre.com.ve#?#li.ui-search-layout__item:-abp-has(div.ui-search-item__pub-container)
-mercadolibre.cl,mercadolibre.co.cr,mercadolibre.com.ar,mercadolibre.com.bo,mercadolibre.com.co,mercadolibre.com.do,mercadolibre.com.ec,mercadolibre.com.gt,mercadolibre.com.hn,mercadolibre.com.mx,mercadolibre.com.ni,mercadolibre.com.pa,mercadolibre.com.pe,mercadolibre.com.py,mercadolibre.com.sv,mercadolibre.com.uy,mercadolibre.com.ve#?#li.ui-search-layout__item:-abp-has(div.ui-search-item__pub-container>a[href^="https://ads.mercadolibre"])
-mil21.es#?#td[class*="id_publi_"]:-abp-has(a[href^="https://www.amazon.es/"])
-olympusscans.com#?#.md\:col-span-2.w-full.h-60.flex-center.bg-gray-700.rounded-xl.relative:-abp-has(.empower-ad)
+hoy.com.do#?#span:-abp-contains(Publicidad)
+juegosdiarios.com#?#.display-ads:-abp-has(>span:-abp-contains(Anuncio))
+laboyanos.com,elquindiano.com#?#span:-abp-contains(PUBLICIDAD)
+periodismokosher.com.ar#?#.widget-content:-abp-has(a[target="_blank"])
 photocall.tv#?#.dropdown:-abp-has(label:-abp-contains(VPN))
-portafolio.co#?#.sumario.secondary-article.play-inline:-abp-has(.contenido-patrocinado)
-prensa.com#?#div.border-l-box:-abp-has(a[href="https://bit.ly/canon-mamá"])
+recetasfacilescocina.com#?#section > h3:-abp-contains(Publicidad)
 semana.com#?#.section:-abp-has(.section-subtitle:-abp-contains(Contenido en colaboración))
 theobjective.com#?#.tno-article-block:-abp-has(span:-abp-contains(Branded content))
 yorokobu.es#?#.quicklink_w100:-abp-has(.publi-tag:-abp-contains(AD))
@@ -634,10 +638,9 @@ juanbustos.com###mvp-head-top
 esportmaniacos.com###mvp-wallpaper
 chrissysinvite.co###myModal
 megaserie.me###newlayercontent
-forochicas.com,forocoches.com###notices
+forocoches.com###notices
 dle.rae.es###opciones > #patrocinio
 frontera.info###p15_box_1
-forochicas.com###posts > div > div > div[style="padding:0px 0px 0px 0px"]
 eleconomista.es###progressBar
 eldefinido.cl###pub
 imperiodefamosas.com###publi2One
@@ -1004,7 +1007,6 @@ eltiempo.com##.patrocinador-contenedor
 elmundo.es,expansion.com##.patrocinio
 elheraldo.co##.pauta
 infobae.com##.pb-f-utilities-ad
-forochicas.com##.pbanner
 anitoc.com,panicmanga.com,worldmangas.com##.pbl
 peliculasaudiolatino.com##.pfake
 bernabeudigital.com##.placeholder
@@ -1125,9 +1127,6 @@ armasymuniciones.net,mariosegura.com,miradiols.cl##.wpb_single_image
 lajornadanet.com##.wpipa-container
 hipertextual.com##.wrapperBanner
 anbariloche.com.ar,anroca.com.ar,nuevodiarioweb.com.ar##.zona_banners
-25digital.com.ar#?#.widget-container:-abp-has(.banners-125)
-25digital.com.ar#?#.widget-container:-abp-has(.metaslider)
-25digital.com.ar#?#.widget-container:-abp-has(.widget_random_banner_widget)
 st1.idealista.com##A[href="http://www.idealista.com/news/vacacional/mercado-vacacional/2015/08/12/738750-competencia-arremete-contra-la-ley-que-limita-los-pisos-turisticos-en-el?xts=352991&xtor=AD-186-[node/738750]-[]-[57601_1]-[lavanguardia.es__lavanguardia.es]-[]-[titulo_1_1]&source=314"]
 gettyimages.es##[href="http://espanol.istockphoto.com/?esource=gi_es_home_3pack_istock_3"] > .promo-hover
 st1.idealista.com##[href="http://www.idealista.com?xts=352991&xtor=AD-186-[idealista]-[]-[57601_1]-[lavanguardia.es__lavanguardia.es]-[]-[home_1_1]&source=314"]
@@ -1154,7 +1153,6 @@ va6.thand.info##a[href*="http://www.physoi.eu/script/redirect.php?url=*"]
 okdiario.com##a[href*="legalitas.com/"]
 juegos.com##a[href*="smarturl.it/"]
 playpaste.com##a[href*="wg-aff.com/click?"]
-forochicas.com##a[href*="www.amazon.es/"]
 miradetodo.io##a[href="#div0"]
 miradetodo.io##a[href="#playerads"]
 20minutos.es##a[href="http://boticariagarcia.com/"]
@@ -1257,14 +1255,8 @@ epasatiempos.es##div[style="width:970px;height:90px;margin:0 auto;margin-bottom:
 todoblaugrana.com##div[style^="overflow: hidden"]
 razon.com.mx##div[style^="position: fixed!important;text-align: center;bottom: 0!important;left: 0;"]
 calculadora-de-derivadas.com,calculadora-de-integrales.com##div[style^="width: 728px;"]
-elsolnoticias.com.ar#?#.widget_media_image:-abp-has(span:-abp-contains(Publicidad))
-finofilipino.org#?#.adpv:-abp-has(> .adsbygoogle)
-finofilipino.org#?#.posts:-abp-has(> div > div > .adsbygoogle)
-forochicas.com#?#.tborder:-abp-contains(eBay.es)
-forochicas.com#?#.tborder:-abp-contains(elcorteingles.es)
 yucatan.com.mx##h2[style="color: #000000;text-align: left"]
 yucatan.com.mx##h2[style="text-align: center;"]
-horadeopinion.com.ar#?#.widget_metaslider_widget:-abp-contains(ESPACIO PUBLICITARIO)
 manerasdevivir.com##hr[style="width:5px; color:#CC6600; background-color:#CC6600; margin-top:3px; margin-bottom: 3px;"]
 boardzona.com##iframe[src*="://supercore.adm-vids.com/video_offer?"]
 foropolicia.es##iframe[src*="://www.netpol.es/"]
@@ -1296,10 +1288,7 @@ finofilipino.org##img[src="http://static.tumblr.com/omgciym/SXxm66n6y/lol-logo.p
 eluniversal.com##p[style="color: rgb(144, 144, 144); background-color: rgb(235, 235, 235);font-size: 12px;padding-left:5px;"]
 infoban.com.ar##p[style="margin:2px 2px 2px 2px;padding:2px 2px 2px 2px;border:0px dashed #999999; overflow:hidden;"]
 apfdigital.com.ar,infoban.com.ar##p[style="margin:2px auto 2px auto;padding:2px 2px 2px 2px;border:0px solid #999999; background-color:#f0f0f0; overflow:hidden;"]
-periodismokosher.com.ar#?#.widget-content:-abp-has(a[target="_blank"])
 e-noticies.cat##ra[type="intext"]
-recetasfacilescocina.com#?#section > h3:-abp-contains(Publicidad)
-finofilipino.org#?##sidebar > .adpv:-abp-contains(Camiseta de la semana)
 seriesdanko.to##span[style="font-weight:bold; cursor:pointer; text-decoration:underline"]
 sailingzona.com##td[style="color:#666666; font-size:11px; padding:2px;"]
 fitnesszona.com##td[style="font-family:Arial, Helvetica, sans-serif;font-size:9px;color:#efefef"]
@@ -1437,25 +1426,19 @@ guiascasinos.com##[href^="https://refpa.top/"]
 coinfaucet.io,freebitcoin.io,freeethereum.com,freetether.com##[href^="https://roobet.com/"]
 omarhvelasquezm.com##[href^="https://seranking.com/"]
 goraymi.com##[href^="https://tungurahuaturismo.com"]
-mundo724.com##[href^="https://wa.me/"]
 sqlshack.com##[href^="https://www.apexsql.com/"]
 atlnacional.com.co##[href^="https://www.aress.com.co/"]
 radioexito.com.ar##[href^="https://www.bancodecorrientes.com.ar"]
 xanateach.blogspot.com##[href^="https://www.binance.com/"]
 xanateach.blogspot.com##[href^="https://www.bitcoinshoy.com/"]
-mundo724.com##[href^="https://www.brandingsas.com/"]
 noticiestgn.cat##[href^="https://www.caixabank.cat"]
 iberley.es##[href^="https://www.colex.es"]
 bimotos.com##[href^="https://www.continental-neumaticos.es/"]
-mundo724.com##[href^="https://www.cspeakers.com"]
-mundo724.com##[href^="https://www.cuposyserviciopublico.com/"]
-lecter.news##[href^="https://www.digitalocean.com"]
 accounter.co##[href^="https://www.dsa.com.co/"]
 opanoticias.com##[href^="https://www.electrohuila.com.co/"]
 pasionmontanera.com.co##[href^="https://www.inder.gov.co/"]
 blizzboygames.net##[href^="https://www.instant-gaming.com/"]
 guiascasinos.com##[href^="https://www.jackpotcitycasino.com/"]
-hoyenbogota.com,mundo724.com##[href^="https://www.mckellanacademy.com/"]
 la.network##[href^="https://www.montrebar.com/"]
 elcorreoweb.es##[href^="https://www.morerayvallejo.es"]
 iberley.es##[href^="https://www.nuevamutuasanitaria.es"]
@@ -1479,30 +1462,13 @@ pt-mexico.com##[onclick*="'page' : '/virtual/Ad/"]
 andina.pe##[onclick*="/publicidad"]
 nintenderos.com##a[href^="https://www.eneba.com/"][href*="?af_id="]
 miamidiario.com##a[href^="https://www.univistainsurance.com/"]
-elcontribuyente.mx##a[onclick*="Publicidad"]
-gamestorrents.fm##a[target="_blank"][href*="aming.net"]
-gamestorrents.fm##a[target="_blank"][href*="gaming.net"]
-cuevana.se,divxtotal.li,divxtotal.nl,divxtotal.nu,divxtotal.pm,dontorrent.ws,gamestorrents.fm,pelispanda.com##a[target="_blank"][href^="https://startgaming.net"]
+cuevana.se,divxtotal.li,divxtotal.nl,divxtotal.nu,divxtotal.pm,dontorrent.ws,pelispanda.com##a[target="_blank"][href^="https://startgaming.net"]
 kairosweb.com##div[class*="banner-"]
 merca20.com##div[data-id^="013f85c"]
 alcalorpolitico.com##div[id^="Bannerprincipal"]
 slidesgo.com##div[id^="article_ads"]
 slidesgo.com##div[id^="list_ads"]
 hoydiariodelmagdalena.com.co##div[itemtype^="https://schema.org/WPAdBlock"]
-elcontribuyente.mx#?#div:-abp-has(a[title="Clickio"])
-elquindiano.com,laboyanos.com#?#span:-abp-contains(PUBLICIDAD)
-gamestorrents.fm#?#.col-md-2:-abp-has(span:-abp-contains(Promoción))
-hoy.com.do#?#span:-abp-contains(Publicidad)
 opanoticias.com##iframe[src^="https://www.youtube.com/embed/CiedpC-wP7E?"]
 educaplay.com##img[alt="ADR Formación"]
 mediotiempo.com##img[alt^="caliente.mx"]
-laboyanos.com##img[data-original-height^="300"]
-impactonews.co,mundo724.com#?#p:-abp-contains(Publicidad)
-juegosdiarios.com#?#.display-ads:-abp-has(>span:-abp-contains(Anuncio))
-laboyanos.com,elquindiano.com#?#span:-abp-contains(PUBLICIDAD)
-lecter.news#?#em:-abp-contains(Patrocinado:)
-lecter.news#?#strong:-abp-contains(Reclama tu crédito)
-rtwnoticias.com#?#.mvp-widget-home-head:-abp-has(span:-abp-contains(Publicidad))
-superluchas.com#?#h2:-abp-contains(Anuncio)
-univision.com#?#div:-abp-has(>span:-abp-contains(Publicidad))
-valoraanalitik.com#?#label:-abp-contains(Publicidad)
