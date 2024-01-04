@@ -354,6 +354,7 @@ informacion.es##.sk--project-with-logo
 eldia.es##.sk--sponsored-by
 elinformador.mx,informador.mx##.sl_caliente
 soychile.cl##.slide__banner
+horadeopinion.com.ar##.slider-34391
 prensa.com##.sliderPrensa
 lateja.cr,nacion.com##.small-promo
 hispanidad.com##.sponsored
@@ -392,7 +393,7 @@ beermagazine.net,recetasdepan.net##.widget_aawp_widget_bestseller
 beermagazine.net,cannabis420.cl,comidaschilenas.com,comidasespanolas.com,debosaber.cl,recetasdepan.net,thebeertimes.com,weedmagazine.net##.widget_aawp_widget_box
 weedmagazine.net##.widget_aawp_widget_new_releases
 elciudadanoweb.com##.widget_apsa_campaign
-grupormultimedio.com##.widget_custom_html
+grupormultimedio.com,horadeopinion.com.ar##.widget_custom_html
 rumbonews.com##.widget_media_gallery
 claridadpuertorico.com,cronicasnews.com,elnuevogeorgia.com,gacetinmadrid.com,laprensadecolorado.com,noticiasenlineacr.com,noticiasformosa.com.ar,webelpuente.com##.widget_media_image
 horadeopinion.com.ar##.widget_metaslider_widget
@@ -491,7 +492,7 @@ lapampadiaxdia.com.ar##img[height="728"]
 pescare.com.ar##img[height="735"]
 segoviaudaz.es##img[height="90"]
 hortanoticias.com,libroscristianosgratis.net##img[width="250"]
-apuestasfree.com,atacamaenlinea.cl,beergeeks.cl,beermagazine.net,cinemascomics.com,conbasesllenas.com,diariotextual.com,hortanoticias.com,informe21.com,lapanteradc.com,laprensadecolorado.com,mundo724.com,pcpro.es,thebeertimes.com##img[width="300"]
+apuestasfree.com,atacamaenlinea.cl,beergeeks.cl,beermagazine.net,cinemascomics.com,conbasesllenas.com,diariotextual.com,horadeopinion.com.ar,hortanoticias.com,informe21.com,lapanteradc.com,laprensadecolorado.com,mundo724.com,pcpro.es,thebeertimes.com##img[width="300"]
 highxtar.com##img[width="300"][height="600"]
 mundo724.com##img[width="330"]
 planbnoticias.com.ar,transponder1200.com##img[width="336"]
