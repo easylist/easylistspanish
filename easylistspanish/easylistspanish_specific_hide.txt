@@ -252,7 +252,7 @@ nextpit.es##.jobbioapp
 marie-claire.es,muyhistoria.es,muyinteresante.es,muynegociosyeconomia.es##.js-ads-not-visible
 diariodelaribera.net##.lateralderecho
 diariodelaribera.net##.lateralizquierdo
-c9n.com.py,repretel.com##.layout-rev
+c9n.com.py,repretel.com,rts.com.ec##.layout-rev
 adslzone.net##.leaderboard
 huffingtonpost.es##.leaderboard-flex-placeholder
 flashscore.co##.liveActiveBet-ico
