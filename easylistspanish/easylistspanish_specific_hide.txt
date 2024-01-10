@@ -361,6 +361,8 @@ meganoticias.cl##.section-dfp
 directoalpaladar.com,trendenciashombre.com,vidaextra.com,xataka.com##.section-native-container
 depor.com##.separator__sponsored
 seriesturcas.gratis##.serie-optimanetwork
+lagaceta.com.ec##.sgpb-popup-dialog-main-div-wrapper
+lagaceta.com.ec##.sgpb-popup-overlay
 emporda.info##.sk--branded-content
 informacion.es##.sk--offered-by
 informacion.es##.sk--project-with-logo
@@ -527,6 +529,7 @@ marcadegol.com##img[width="750"]
 laprensadecolorado.com,periodicoelsolpr.com##img[width="800"]
 mundo724.com#?#.et_pb_column:-abp-has(p:-abp-contains(Publicidad))
 c9n.com.py,elcomercio.com,repretel.com##ned-ad
+lagaceta.com.ec##rs-slides
 ! :has()
 forocoches.com###sidebar > div > section:has(.fixed_adslot)
 elpais.com.uy##.Page-above.loaded:has(div[class^="GoogleDfpAd"])
