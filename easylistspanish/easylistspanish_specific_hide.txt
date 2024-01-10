@@ -219,9 +219,12 @@ euractiv.es##.ea-gat-slot-wrapper
 laprensademn.com##.elementor-element-15f1544d
 lavozhispanact.com##.elementor-element-32d83d8
 vidaysabor.com##.elementor-element-4485d264
+radiocentro.com.ec##.elementor-element-811f5f8
 elnuevogeorgia.com##.elementor-element-a51cde3
+radiocentro.com.ec##.elementor-element-cfab89b
 elnuevogeorgia.com##.elementor-element-d45ce2c
 elnuevogeorgia.com##.elementor-element-d782763
+radiocentro.com.ec##.elementor-element-fb5d061
 huffingtonpost.es##.entry__right-rail-width-placeholder
 adiariocr.com##.esdfp
 compraensanjuan.com##.espacio-publi
@@ -248,6 +251,7 @@ t13.cl##.home-slider__header__sponsor
 periodicoellaurelpr.com##.hpe-i-ad
 canal21ebre.com,marfanta.com##.ib-ad-text
 lavoz.com.ar##.imgSponsor
+radiocentro.com.ec##.jet-popup
 nextpit.es##.jobbioapp
 marie-claire.es,muyhistoria.es,muyinteresante.es,muynegociosyeconomia.es##.js-ads-not-visible
 diariodelaribera.net##.lateralderecho
