@@ -528,7 +528,7 @@ hortanoticias.com,laprensademn.com,transponder1200.com,vidaysabor.com##img[width
 marcadegol.com##img[width="750"]
 laprensadecolorado.com,periodicoelsolpr.com##img[width="800"]
 mundo724.com#?#.et_pb_column:-abp-has(p:-abp-contains(Publicidad))
-alfa.com.ec,c9n.com.py,elcomercio.com,repretel.com##ned-ad
+alfa.com.ec,c9n.com.py,elcomercio.com,repretel.com,tropicalida.com.ec##ned-ad
 lagaceta.com.ec##rs-slides
 ! :has()
 forocoches.com###sidebar > div > section:has(.fixed_adslot)
