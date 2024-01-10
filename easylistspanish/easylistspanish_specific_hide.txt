@@ -45,6 +45,8 @@ hola.com###div-hola-slot-robapaginas
 mangatigre.net###dl-banner-300-250
 elnacional.com###en_nd_home_flat_2
 elnacional.com###en_nd_home_flat_3
+elmercurio.com.ec###fancybox-overlay
+elmercurio.com.ec###fancybox-wrap
 futbolme.com###headeradd
 periodismokosher.com.ar###key2sticky
 excelsior.com.mx###leaderboard0
@@ -376,7 +378,7 @@ elindependiente.com##.sub_header
 elrellano.com##.tag-enlace-de-afiliados
 prensa.com##.tagPublicidad
 publinews.gt##.takeoverlink
-bavaronews.com,diariolaprensa.cl,elmundotoday.com,elperiodicousa.com,guineainfomarket.com,horajaen.com,lagdeguinea.com,noticiasuno.com,pcpro.es,periodismo.com,udlaspalmas.net##.td-a-rec
+bavaronews.com,diariolaprensa.cl,elmercurio.com.ec,elmundotoday.com,elperiodicousa.com,guineainfomarket.com,horajaen.com,lagdeguinea.com,noticiasuno.com,pcpro.es,periodismo.com,udlaspalmas.net##.td-a-rec
 elsolnews.com##.tdi_132
 udlaspalmas.net##.tdi_22
 ffcv.es##.testimonials-partners
@@ -477,6 +479,7 @@ cannabis420.cl##div[id^="canna-"]
 debosaber.cl##div[id^="debos-"]
 diariosanrafael.com.ar##div[id^="dsr-"]
 durosa4pesetas.com##div[id^="duros-"]
+elmercurio.com.ec##div[id^="elmer-"]
 enteratelatino.org##div[id^="enter-"]
 generacionxbox.com##div[id^="gener-"]
 weedmagazine.net##div[id^="weedm-"]
