@@ -401,6 +401,7 @@ ahoraeg.com##.vc_custom_1676190182392
 ideal.es,laverdad.es,leonoticias.com##.voc-home-branded-naked
 animalpolitico.com##.w-full.min-h-\[100px\].pt-\[48px\]
 naiz.eus##.w-openx-banners
+lanacion.com.ec##.widget.widget_text
 tudn.com##.widget[data-widget-type="ListWidget"]
 beermagazine.net,recetasdepan.net##.widget_aawp_widget_bestseller
 beermagazine.net,cannabis420.cl,comidaschilenas.com,comidasespanolas.com,debosaber.cl,recetasdepan.net,thebeertimes.com,weedmagazine.net##.widget_aawp_widget_box
@@ -408,7 +409,7 @@ weedmagazine.net##.widget_aawp_widget_new_releases
 elciudadanoweb.com##.widget_apsa_campaign
 grupormultimedio.com,horadeopinion.com.ar,lahora.com.ec##.widget_custom_html
 rumbonews.com##.widget_media_gallery
-claridadpuertorico.com,cronica.com.ec,cronicasnews.com,elnuevogeorgia.com,elsolnoticias.com.ar,gacetinmadrid.com,laprensadecolorado.com,larepublica.ec,noticiasenlineacr.com,noticiasformosa.com.ar,radiosucre.com.ec,webelpuente.com##.widget_media_image
+claridadpuertorico.com,cronica.com.ec,cronicasnews.com,elnuevogeorgia.com,elsolnoticias.com.ar,gacetinmadrid.com,lanacion.com.ec,laprensadecolorado.com,larepublica.ec,noticiasenlineacr.com,noticiasformosa.com.ar,radiosucre.com.ec,webelpuente.com##.widget_media_image
 25digital.com.ar,horadeopinion.com.ar##.widget_metaslider_widget
 elperiodista.cl##.widget_owjnimg
 elespecial.com##.widget_simpleimage
