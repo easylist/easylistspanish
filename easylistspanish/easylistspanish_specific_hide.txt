@@ -401,6 +401,7 @@ ahoraeg.com##.vc_custom_1676190182392
 ideal.es,laverdad.es,leonoticias.com##.voc-home-branded-naked
 animalpolitico.com##.w-full.min-h-\[100px\].pt-\[48px\]
 naiz.eus##.w-openx-banners
+ppelverdadero.com.ec##.widget.HTML
 lanacion.com.ec##.widget.widget_text
 tudn.com##.widget[data-widget-type="ListWidget"]
 beermagazine.net,recetasdepan.net##.widget_aawp_widget_bestseller
