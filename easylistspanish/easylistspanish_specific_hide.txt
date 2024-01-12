@@ -274,7 +274,7 @@ bebesymas.com,diariodelviajero.com,elblogsalmon.com,motorpasionmoto.com,pymesyau
 gasteizhoy.com##.macrobannerblock
 sensacine.com,sensacine.com.mx##.main-banner
 infopico.com##.marco-publicidad
-signodeinterrogacion.com##.masthead-banner
+quesonlosvaloreseticos.com,signodeinterrogacion.com##.masthead-banner
 empresite.eleconomista.es##.mauto.textcenter.mb20.mt20
 rpp.pe##.mdl-sponsors
 esdiario.com##.media-ajust-tablet-publi-top
