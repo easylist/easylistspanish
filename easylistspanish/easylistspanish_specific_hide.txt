@@ -344,11 +344,13 @@ eldesmarque.com##.publicidad_marca
 elpuntavui.cat,leconomic.cat##.publicitat
 alfabeta.net##.publimg
 semana.com##.publish-box
+psicologiaymente.com##.py-4.text-center
 eleconomista.es##.railContainer1
 eleconomista.es##.railContainer3
 ceroacero.es##.rbbox-odds
 fotocasa.es##.re-AdvertisingDominanceNative
 directoalpaladar.com,motorpasion.com,motorpasion.com.mx,trendenciashombre.com,vidaextra.com,xataka.com##.related-native-item
+psicologiaymente.com##.relative.flex.h-full.flex-col
 hoylosangeles.com##.revcontent
 diariodenavarra.es##.roba
 elplural.com##.row-sky-banners
