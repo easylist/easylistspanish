@@ -38,6 +38,7 @@
 ##.publicidad_cabecera
 ##.publicidad_dfp
 ##.publicidad_footer_sticky
+##.publicidadbflotante
 ##.publicolumna
 ##.ue-c-ad
 ##.v-adv

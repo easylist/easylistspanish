@@ -347,6 +347,7 @@ semana.com##.publish-box
 psicologiaymente.com##.py-4.text-center
 eleconomista.es##.railContainer1
 eleconomista.es##.railContainer3
+nupcias.mx##.rayabtn
 ceroacero.es##.rbbox-odds
 fotocasa.es##.re-AdvertisingDominanceNative
 directoalpaladar.com,motorpasion.com,motorpasion.com.mx,trendenciashombre.com,vidaextra.com,xataka.com##.related-native-item
