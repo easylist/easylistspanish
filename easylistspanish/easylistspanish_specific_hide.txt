@@ -308,6 +308,8 @@ flashscore.co,flashscore.es##.oddsPlacement
 infodefensa.com##.openx
 lasubasta.com##.orbit-container
 autoscout24.es##.osa-as24-placeholder
+fulltv.com.ar##.p336-c
+fulltv.com.ar##.p336_2
 libertaddigital.com##.partners
 gasteizhoy.com##.patrocinado-new
 elpuntavui.cat,leconomic.cat##.patrocini
@@ -318,6 +320,7 @@ valoraanalitik.com##.pauta-cuad
 portafolio.co##.pauta__billboard
 todomecanica.com,vgrecipes.com##.pbl
 otakustv.com##.pestana_footer
+fulltv.com.ar##.pie
 cronista.com##.piecesponsor
 cronista.com##.piecesponsor2
 laboyanos.com##.piki-ads
@@ -338,6 +341,7 @@ esdiario.com##.publi-top
 aguaita.cat,pallarsdigital.cat,pensem.cat,rubitv.cat,tarragonadigital.com##.publi_interpagina
 lawebdelprogramador.com##.publi_robapaginas
 0221.com.ar,areajugones.sport.es,generacionuniversitaria.com.mx,iberempleos.es,lavozdealmeria.com,meteored.cl,meteored.com.ar,meteored.com.py,meteored.mx,neomotor.com,pulzo.com,tiempo.com##.publicidad
+fulltv.com.ar##.publicidad-728-top
 diario.mx##.publicidad_basica
 0221.com.ar##.publicidad_cont
 eldesmarque.com##.publicidad_marca
