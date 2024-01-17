@@ -225,6 +225,7 @@ euractiv.es##.ea-gat-slot-wrapper
 economipedia.com##.econo-code-block
 laprensademn.com##.elementor-element-15f1544d
 lavozhispanact.com##.elementor-element-32d83d8
+recursos-biblicos.com##.elementor-element-4034d76
 vidaysabor.com##.elementor-element-4485d264
 radiocentro.com.ec##.elementor-element-811f5f8
 elnuevogeorgia.com##.elementor-element-a51cde3
