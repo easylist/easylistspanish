@@ -93,6 +93,7 @@ aica.org,deia.eus,diaridegirona.cat,diariocordoba.com,diariocorreo.com.ec,diario
 perfil.com##.ad-300x250
 mundo.com##.ad-banner
 buenazo.pe,elpopular.pe,eltiempo.com,hobbyconsolas.com,larepublica.pe,libero.pe,somosfanaticos.fans,wapa.pe##.ad-container
+3dgames.com.ar##.ad-wrapper
 vidasana.sv##.adblockweb
 paginasiete.bo##.adcontainer-portlet
 elperiodico.com,epe.es,sport.es,sumedico.com##.add
