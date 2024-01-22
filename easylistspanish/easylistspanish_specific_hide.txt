@@ -185,6 +185,7 @@ terremoto.mx##.break_patrocinadores
 futbolred.com##.btn_betplay
 plantadoce.com##.bwe_ext_partners
 miarevista.es,segre.com,serpadres.es##.c-add
+planetarealmadrid.com##.c-banner
 elpais.com##.c-bra
 elpais.com##.c-brr
 cadenaser.com##.c-p-ia
