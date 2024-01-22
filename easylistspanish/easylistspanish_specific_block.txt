@@ -18,6 +18,7 @@
 ||diariodeteruel.es/uploads/diariodeteruel/promos/
 ||diarioviregion.cl/images/banners/
 ||elciudadanoweb.com/wp-content/plugins/aparg-smartad/
+||elesquiu.com/u/banners/
 ||elmundofinanciero.com/anuncios/
 ||elperiodico.cl/wp-content/uploads/*/banner-
 ||emol.cl/emol50/js/publicidadsetup/
