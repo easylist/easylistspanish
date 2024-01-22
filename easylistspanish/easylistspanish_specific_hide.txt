@@ -34,6 +34,7 @@ lexlatin.com###block-views-block-banner-block-1
 winsports.co###block-wplay
 anisearch.es###bottombox
 flashscore.co###box-over-content-detail
+hackstore.rs###car_top
 ccma.cat###contenidor_megabanner
 forococheselectricos.com###custom_html-17
 thaderclub.com###custom_html-19
