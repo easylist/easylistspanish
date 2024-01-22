@@ -543,7 +543,6 @@ hoyenbogota.com,mundo724.com##img[width="720"]
 hortanoticias.com,laprensademn.com,transponder1200.com,vidaysabor.com##img[width="728"]
 marcadegol.com##img[width="750"]
 laprensadecolorado.com,periodicoelsolpr.com##img[width="800"]
-mundo724.com#?#.et_pb_column:-abp-has(p:-abp-contains(Publicidad))
 alfa.com.ec,c9n.com.py,elcomercio.com,repretel.com,tropicalida.com.ec##ned-ad
 lagaceta.com.ec##rs-slides
 ! :has()
@@ -568,6 +567,7 @@ eltiempo.com#?#.main-article-container-patr:-abp-has(.mas-contenido:-abp-contain
 hoy.com.do#?#span:-abp-contains(Publicidad)
 juegosdiarios.com#?#.display-ads:-abp-has(>span:-abp-contains(Anuncio))
 laboyanos.com,elquindiano.com#?#span:-abp-contains(PUBLICIDAD)
+mundo724.com#?#.et_pb_column:-abp-has(p:-abp-contains(Publicidad))
 periodismokosher.com.ar#?#.widget-content:-abp-has(a[target="_blank"])
 photocall.tv#?#.dropdown:-abp-has(label:-abp-contains(VPN))
 recetasfacilescocina.com#?#section > h3:-abp-contains(Publicidad)
