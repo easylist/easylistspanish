@@ -130,7 +130,7 @@ lainformacion.com##.axds-lane
 elpais.com##.b-bra-bbva
 lectuepubgratis.com##.bam-topbar
 lesportiudecatalunya.cat##.banerpromocio
-alicanteplaza.es,ambito.com,bienbonita.com,c5n.com,castellonplaza.com,cronista.com,diariolasamericas.com,donbalon.com,econojournal.com.ar,eleconomista.com.mx,eleconomista.net,elgrafico.com,elimparcial.com,elinformador.mx,ella.sv,elplural.com,guarda14.com,laverdadnoticias.com,lavoz.com.ar,letrap.com.ar,losandes.com.ar,motor.com.co,observador.cr,puntal.com.ar,rpp.pe,sputniknews.lat,tntsports.cl,tntsports.com.ar,tvynovelas.com,valenciaplaza.com,viapais.com.ar##.banner
+alicanteplaza.es,ambito.com,bienbonita.com,c5n.com,castellonplaza.com,cronista.com,diariolasamericas.com,donbalon.com,econojournal.com.ar,eleconomista.com.mx,eleconomista.net,elgrafico.com,elimparcial.com,elinformador.mx,ella.sv,elplural.com,guarda14.com,laverdadnoticias.com,lavoz.com.ar,letrap.com.ar,losandes.com.ar,motor.com.co,observador.cr,puntal.com.ar,rpp.pe,sputniknews.lat,tntsports.cl,tntsports.com.ar,tvynovelas.com,valenciaplaza.com,viapais.com.ar,welife.es##.banner
 naiz.eus##.banner--article
 iprofesional.com##.banner-2
 freepik.es##.banner-adobe
