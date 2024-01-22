@@ -323,7 +323,8 @@ canalrcn.com##.pauta-barra-media
 futbolred.com##.pauta-bk
 valoraanalitik.com##.pauta-cuad
 portafolio.co##.pauta__billboard
-todomecanica.com,vgrecipes.com##.pbl
+visortmo.com##.pba
+otakuteca.com,todomecanica.com,vgrecipes.com##.pbl
 espaebook2.com##.perfbtn
 otakustv.com##.pestana_footer
 fulltv.com.ar##.pie
