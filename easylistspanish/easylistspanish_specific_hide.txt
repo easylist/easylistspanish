@@ -295,6 +295,7 @@ caracol.com.co,wradio.com.co##.mh266-100
 lexlatin.com##.mibanner
 diariodevalderrueda.es##.minibanner_content
 show.news##.mod.relatednews
+eltiempo.es##.mods-box-body
 20minutos.es##.module-coupons
 eldebate.com##.module-free-html-ads
 rpp.pe##.module__sponsor
@@ -333,6 +334,7 @@ fulltv.com.ar##.pie
 cronista.com##.piecesponsor
 cronista.com##.piecesponsor2
 laboyanos.com##.piki-ads
+eltiempo.es##.placeholder
 publinews.gt##.posttakeoverlink
 cronica.com.ar##.pre-home-banner-box
 prensa.com##.productos
