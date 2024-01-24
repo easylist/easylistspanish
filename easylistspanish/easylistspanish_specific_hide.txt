@@ -108,6 +108,7 @@ freepik.es##.adobe-grid-design
 atv.pe,benditofutbol.com,corazon.pe,lared.cl,perfil.com,rpp.pe,studio92.com,uypress.net##.ads
 tutorialesenlinea.es##.ads-titleposttl
 eleconomista.es##.adsLinicom
+infojardin.com##.adsense-columna
 anbariloche.com.ar,anroca.com.ar,elcordillerano.com.ar,noticiasnet.com.ar##.adserver-zona
 anbariloche.com.ar,anroca.com.ar,elcordillerano.com.ar,noticiasnet.com.ar##.adserver-zona-zocalo
 clarin.com,elindependiente.com##.adv
