@@ -220,6 +220,7 @@ debate.com.mx,elimparcial.com##.coverless
 meteored.cl,meteored.com.ar,meteored.mx,tiempo.com##.creatividad
 cronica.com.ar##.css-svo7lo
 ellatinodehoy.com##.custom-html-widget
+derechouned.com##.customAdvertise_Campaign
 flashscore.co,flashscore.es##.detailLeaderboard
 libertaddigital.com,libremercado.com##.dfp
 lateja.cr,nacion.com##.dfp-container
