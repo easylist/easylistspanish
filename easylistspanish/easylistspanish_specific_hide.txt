@@ -328,6 +328,7 @@ futbolred.com##.pauta-bk
 valoraanalitik.com##.pauta-cuad
 portafolio.co##.pauta__billboard
 visortmo.com##.pba
+visortmo.com##.pbb
 otakuteca.com,todomecanica.com,vgrecipes.com##.pbl
 espaebook2.com##.perfbtn
 otakustv.com##.pestana_footer
