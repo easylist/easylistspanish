@@ -2,6 +2,7 @@ pulpo69.com###affiliate-livecam-widget-435
 hentaienesp.com###banner_float
 madlifes.com,pepeporn.com###banners_footer
 pajilleros.com###camsFooter
+fucklouder.com###espacio-multi
 mangacrab.com###fixedban
 mangacrab.com###fixedban2
 felizporno.com###main_video_fluid_html_on_pause
@@ -40,6 +41,7 @@ pampaporno.com##.resumecard
 verpeliculasporno.gratis##.tpd
 videos.mrvideospornogratis.xxx##.vjs-producer
 qporno.xxx##[href^="https://qp.erotilink.es"]
+fucklouder.com##a[href^="http://bit.ly/"]
 pajarracos.es##a[href^="http://www.fuegodevida.com/"]
 muyzorras.com##a[href^="https://landings.videochatprovider.com/"]
 pajilleros.com##a[href^="https://www.amateur.tv/"]
