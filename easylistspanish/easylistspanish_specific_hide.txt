@@ -248,7 +248,7 @@ compraensanjuan.com##.espacio-publi-google
 hoyenbogota.com##.et_pb_row_4
 verepeliculas.com##.fake_player
 ejeprime.com##.featured_specials
-ahoraeg.com,arquimaster.com.ar,elperiodicodelaenergia.com,isanidad.com,jotdown.es,periodicolaperla.com,valencianews.es##.g
+ahoraeg.com,arquimaster.com.ar,donostitik.com,elperiodicodelaenergia.com,isanidad.com,jotdown.es,periodicolaperla.com,valencianews.es##.g
 la-razon.com##.genosha_ads_fixed_bottom
 winsports.co##.goles_acero_banner
 cuevana3.eu##.got-dvr
@@ -508,6 +508,7 @@ eldesmarque.com##div[id^="banner_"]
 beergeeks.cl##div[id^="beerg-"]
 cannabis420.cl##div[id^="canna-"]
 debosaber.cl##div[id^="debos-"]
+donostitik.com##div[id^="donos-"]
 diariosanrafael.com.ar##div[id^="dsr-"]
 durosa4pesetas.com##div[id^="duros-"]
 elmercurio.com.ec##div[id^="elmer-"]
