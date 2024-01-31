@@ -101,7 +101,7 @@ buenazo.pe,elpopular.pe,eltiempo.com,hobbyconsolas.com,larepublica.pe,libero.pe,
 vidasana.sv##.adblockweb
 paginasiete.bo##.adcontainer-portlet
 elperiodico.com,epe.es,sport.es,sumedico.com##.add
-nationalgeographic.com.es##.add990x90
+lecturas.com,nationalgeographic.com.es##.add990x90
 ondacero.es##.addContainer
 freepik.es##.adobe-coupon-container
 freepik.es##.adobe-grid-design
