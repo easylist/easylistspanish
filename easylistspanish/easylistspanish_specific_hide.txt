@@ -375,7 +375,7 @@ hoylosangeles.com##.revcontent
 diariodenavarra.es##.roba
 elplural.com##.row-sky-banners
 rumbonews.com##.rumbo-widget
-burbuja.info##.samCodeUnit
+burbuja.info,cotilleando.com##.samCodeUnit
 ole.com.ar##.sc-905ccbfc-0
 ole.com.ar##.sc-905ccbfc-1
 ole.com.ar##.sc-905ccbfc-5
