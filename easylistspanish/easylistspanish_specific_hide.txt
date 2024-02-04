@@ -330,7 +330,8 @@ valoraanalitik.com##.pauta-cuad
 portafolio.co##.pauta__billboard
 visortmo.com##.pba
 visortmo.com##.pbb
-otakuteca.com,todomecanica.com,vgrecipes.com##.pbl
+visortmo.com##.pbc
+otakuteca.com,planetaneperian.com,todomecanica.com,vgrecipes.com##.pbl
 espaebook2.com##.perfbtn
 otakustv.com##.pestana_footer
 fulltv.com.ar##.pie
