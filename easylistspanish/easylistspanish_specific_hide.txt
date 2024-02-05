@@ -162,6 +162,8 @@ eleconomista.es##.bannerIntermedio
 clarin.com##.bannerTopHeader
 chilevision.cl##.banner_full
 elperiodicodeaqui.com##.banner_lat
+wiselwisel.com##.banner_superior
+wiselwisel.com##.banner_widget
 gasteizhoy.com##.bannerclick
 eleconomista.es##.banners-superiores2
 iproup.com##.bannerwide
