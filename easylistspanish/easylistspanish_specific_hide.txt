@@ -410,6 +410,7 @@ elobservador.com.uy,losandes.com.ar##.sponsors
 exitosanoticias.pe##.statics_module
 bernabeudigital.com##.sticky-container[style="height:600px;"]
 elindependiente.com##.sub_header
+elpais.com.sv##.supsystic-slider-wrapper
 elrellano.com##.tag-enlace-de-afiliados
 prensa.com##.tagPublicidad
 publinews.gt##.takeoverlink
