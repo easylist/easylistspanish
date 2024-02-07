@@ -231,6 +231,7 @@ lateja.cr,nacion.com##.dfp-container
 eluniversal.com.mx,viveusa.mx##.dfp-tag-wrapper-container
 laprensademn.com,vidaysabor.com##.dialog-message
 noticias.mitelefe.com##.e-post-banner
+diariocolatino.com##.e3lan
 euractiv.es##.ea-gat-slot-wrapper
 economipedia.com##.econo-code-block
 laprensademn.com##.elementor-element-15f1544d
@@ -415,6 +416,7 @@ bavaronews.com,contrapunto.com.sv,diariolaprensa.cl,elmercurio.com.ec,elmundotod
 elsolnews.com##.tdi_132
 udlaspalmas.net##.tdi_22
 ffcv.es##.testimonials-partners
+diariocolatino.com##.text-html-box
 marcadegol.com##.textwidget a[href^="https://ar.puma.com/"]
 adnradio.cl,cnnchile.com,futuro360.com##.the-banner
 prensa.com##.titulares-iframe
