@@ -251,7 +251,7 @@ compraensanjuan.com##.espacio-publi-google
 hoyenbogota.com##.et_pb_row_4
 verepeliculas.com##.fake_player
 ejeprime.com##.featured_specials
-ahoraeg.com,arquimaster.com.ar,donostitik.com,elperiodicodelaenergia.com,isanidad.com,jotdown.es,periodicolaperla.com,valencianews.es##.g
+ahoraeg.com,arquimaster.com.ar,donostitik.com,elperiodicodelaenergia.com,isanidad.com,jotdown.es,lapagina.com.sv,periodicolaperla.com,valencianews.es##.g
 la-razon.com##.genosha_ads_fixed_bottom
 winsports.co##.goles_acero_banner
 cuevana3.eu##.got-dvr
