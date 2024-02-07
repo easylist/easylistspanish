@@ -422,6 +422,7 @@ adnradio.cl,cnnchile.com,futuro360.com##.the-banner
 prensa.com##.titulares-iframe
 noticias.mitelefe.com##.tlf-ad
 theobjective.com##.tno-blocks-banner-horizontal
+elsalvador.com##.top-bar
 nickelodeonplus.online##.topads-wrap
 aristeguinoticias.com##.topleader
 autopista.es##.transfer-container
