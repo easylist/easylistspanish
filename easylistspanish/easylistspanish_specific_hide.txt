@@ -101,6 +101,7 @@ buenazo.pe,elpopular.pe,eltiempo.com,hobbyconsolas.com,larepublica.pe,libero.pe,
 vidasana.sv##.adblockweb
 paginasiete.bo##.adcontainer-portlet
 elperiodico.com,epe.es,sport.es,sumedico.com##.add
+ciudadccs.info##.add-inner
 lecturas.com,nationalgeographic.com.es##.add990x90
 ondacero.es##.addContainer
 freepik.es##.adobe-coupon-container
@@ -207,6 +208,7 @@ elrellano.com##.code-block-18
 elrellano.com##.code-block-4
 elrellano.com##.code-block-6
 elrellano.com##.code-block-9
+ciudadccs.info##.col-sm-9
 ansalatina.com##.commercial-banner
 ansalatina.com##.commercial-banner-top
 elmundofinanciero.com##.con_publi
