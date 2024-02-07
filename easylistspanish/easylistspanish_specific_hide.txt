@@ -320,6 +320,7 @@ flashscore.co,flashscore.es##.oddsPlacement
 infodefensa.com##.openx
 lasubasta.com##.orbit-container
 autoscout24.es##.osa-as24-placeholder
+contrapunto.com.sv##.owl-carousel
 fulltv.com.ar##.p336-c
 fulltv.com.ar##.p336_2
 libertaddigital.com##.partners
@@ -410,7 +411,7 @@ elindependiente.com##.sub_header
 elrellano.com##.tag-enlace-de-afiliados
 prensa.com##.tagPublicidad
 publinews.gt##.takeoverlink
-bavaronews.com,diariolaprensa.cl,elmercurio.com.ec,elmundotoday.com,elperiodicousa.com,guineainfomarket.com,horajaen.com,lagdeguinea.com,noticiasuno.com,pcpro.es,periodismo.com,udlaspalmas.net##.td-a-rec
+bavaronews.com,contrapunto.com.sv,diariolaprensa.cl,elmercurio.com.ec,elmundotoday.com,elperiodicousa.com,guineainfomarket.com,horajaen.com,lagdeguinea.com,noticiasuno.com,pcpro.es,periodismo.com,udlaspalmas.net##.td-a-rec
 elsolnews.com##.tdi_132
 udlaspalmas.net##.tdi_22
 ffcv.es##.testimonials-partners
