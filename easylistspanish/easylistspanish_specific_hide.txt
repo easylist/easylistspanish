@@ -165,6 +165,7 @@ elperiodicodeaqui.com##.banner_lat
 wiselwisel.com##.banner_superior
 wiselwisel.com##.banner_widget
 gasteizhoy.com##.bannerclick
+telesurtv.net##.banners
 eleconomista.es##.banners-superiores2
 iproup.com##.bannerwide
 europa-agricola.es,via-mobilis.es##.banniere
