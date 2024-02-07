@@ -415,7 +415,7 @@ elpais.com.sv##.supsystic-slider-wrapper
 elrellano.com##.tag-enlace-de-afiliados
 prensa.com##.tagPublicidad
 publinews.gt##.takeoverlink
-bavaronews.com,contrapunto.com.sv,diariolaprensa.cl,diariolatino.net,elaragueno.com.ve,elmercurio.com.ec,elmundotoday.com,elperiodicousa.com,guineainfomarket.com,horajaen.com,lagdeguinea.com,noticiasuno.com,pcpro.es,periodismo.com,udlaspalmas.net##.td-a-rec
+bavaronews.com,contrapunto.com.sv,diariolaprensa.cl,diariolatino.net,elaragueno.com.ve,elmercurio.com.ec,elmundotoday.com,elperiodicousa.com,guineainfomarket.com,horajaen.com,lacalle.com.ve,lagdeguinea.com,noticiasuno.com,pcpro.es,periodismo.com,udlaspalmas.net##.td-a-rec
 elsolnews.com##.tdi_132
 udlaspalmas.net##.tdi_22
 ffcv.es##.testimonials-partners
