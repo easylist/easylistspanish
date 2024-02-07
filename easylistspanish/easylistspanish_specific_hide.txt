@@ -111,6 +111,7 @@ eleconomista.es##.adsLinicom
 infojardin.com##.adsense-columna
 anbariloche.com.ar,anroca.com.ar,elcordillerano.com.ar,noticiasnet.com.ar##.adserver-zona
 anbariloche.com.ar,anroca.com.ar,elcordillerano.com.ar,noticiasnet.com.ar##.adserver-zona-zocalo
+aporrea.org##.adunit-01-max
 clarin.com,elindependiente.com##.adv
 cambio21.cl##.advertisement
 ara.cat,ejeprime.com,larazon.es,papajuegos.com,plantadoce.com,relevo.com##.advertising
