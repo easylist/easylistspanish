@@ -51,6 +51,7 @@ elmercurio.com.ec###fancybox-overlay
 elmercurio.com.ec###fancybox-wrap
 futbolme.com###headeradd
 transfermarkt.es###home-rectangle-spotlight
+fronteradigital.com.ve###img_pub
 periodismokosher.com.ar###key2sticky
 excelsior.com.mx###leaderboard0
 diariodeteruel.es###leftbanner
@@ -63,6 +64,7 @@ qmusica.tv###promo
 qmusica.tv###promoSept19A
 qmusica.tv###promoSept19B
 promiedos.com.ar###pub728
+fronteradigital.com.ve###publicidad-2
 record.com.mx###region-preface-second
 diariodeteruel.es###rightbanner
 canalrcn.com,noticiasrcn.com###rp1-compuesto

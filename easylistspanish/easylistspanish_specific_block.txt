@@ -23,6 +23,7 @@
 ||elperiodico.cl/wp-content/uploads/*/banner-
 ||emol.cl/emol50/js/publicidadsetup/
 ||es.zenit.org/banners/
+||fronteradigital.com.ve/assets/img/advertising/
 ||fulltv.video^$domain=fulltv.com.ar
 ||gamestorrents.fm/433b.png
 ||habimg.com/hab_banners/$domain=habitaclia.com
