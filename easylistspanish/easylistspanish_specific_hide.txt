@@ -73,6 +73,7 @@ gamereactor.es###sky2_1
 elespanol.com###sticky_container
 lostiempos.com###takeover-desktop-counter
 lostiempos.com###takeover-movil-counter
+elimpulso.com###tdi_16
 knightnoscanlation.com,yugenmangas.com###teaser3
 planbnoticias.com.ar###text-4
 planbnoticias.com.ar###text-7
