@@ -11,6 +11,7 @@
 ||clm21.es/anuncios/
 ||cronista.com/files/banner/
 ||cuencanews.es/anuncios/
+||cuevana.biz/edgeSystemRunV2.js
 ||cuevana.cloud/edgeSystemRun.js
 ||cuevana3.plus/perversas.jpg
 ||descargasdd.org/images/amazon.gif
