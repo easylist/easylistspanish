@@ -266,6 +266,7 @@ winsports.co##.goles_acero_banner
 cuevana3.eu##.got-dvr
 eltiempo.com,portafolio.co##.gpt-slot-barra-flotante-inferior
 eltiempo.com,portafolio.co##.gpt-slot-satelite-container
+macrojuegos.com##.grow.flex.justify-center.h-\[300px\]
 diariodemallorca.es##.grp--branded-style
 habitaclia.com##.gtmclickpromo
 milanuncios.com##.has-advertisement
@@ -449,6 +450,7 @@ ahoraeg.com##.vc_custom_1650472176304
 ahoraeg.com##.vc_custom_1650479017608
 ahoraeg.com##.vc_custom_1676190182392
 ideal.es,laverdad.es,leonoticias.com##.voc-home-branded-naked
+macrojuegos.com##.w-full.h-\[600px\].my-5
 animalpolitico.com##.w-full.min-h-\[100px\].pt-\[48px\]
 naiz.eus##.w-openx-banners
 transfermarkt.es##.werbung
