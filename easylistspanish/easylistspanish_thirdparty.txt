@@ -13,6 +13,7 @@
 ||kisa-link.blok.link^$third-party
 ||nacash.net^$domain=ahoraeg.com
 ||news.grm.cl^
+||outbrain.com^$domain=visortmo.com
 ||pub.tappx.com^
 ||publyads.jstag.space^
 ||tinyurl.com^$domain=seriesly.top
