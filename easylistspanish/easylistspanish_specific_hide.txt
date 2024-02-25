@@ -163,6 +163,7 @@ anbariloche.com.ar,anroca.com.ar,elcordillerano.com.ar,noticiasnet.com.ar##.bann
 eltrecetv.com.ar##.banner-swap
 clarin.com##.banner-top
 ciudad.com.ar,elcomercio.com,lmcipolletti.com,lmneuquen.com##.banner-wrapper
+visortmo.com##.banner2
 diariodelaribera.net##.bannerColumnas
 eleconomista.es##.bannerInferior
 eleconomista.es##.bannerIntermedio
@@ -349,6 +350,7 @@ visortmo.com##.pbb
 visortmo.com##.pbc
 visortmo.com##.pbd
 visortmo.com##.pbf
+visortmo.com##.pbj
 lucianacocina.com,otakuteca.com,planetaneperian.com,todomecanica.com,vgrecipes.com##.pbl
 espaebook2.com##.perfbtn
 otakustv.com##.pestana_footer
