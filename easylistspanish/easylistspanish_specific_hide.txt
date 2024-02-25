@@ -245,6 +245,7 @@ noticias.mitelefe.com##.e-post-banner
 diariocolatino.com##.e3lan
 euractiv.es##.ea-gat-slot-wrapper
 economipedia.com##.econo-code-block
+elestimulo.com##.ele-banner
 laprensademn.com##.elementor-element-15f1544d
 lavozhispanact.com##.elementor-element-32d83d8
 recursos-biblicos.com##.elementor-element-4034d76
