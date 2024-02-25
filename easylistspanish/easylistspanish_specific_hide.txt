@@ -591,6 +591,7 @@ hoyenbogota.com,mundo724.com##img[width="720"]
 hortanoticias.com,laprensademn.com,transponder1200.com,vidaysabor.com##img[width="728"]
 marcadegol.com##img[width="750"]
 laprensadecolorado.com,periodicoelsolpr.com##img[width="800"]
+laverdaddemonagas.com##img[width="900"]
 elmercurioweb.com##img[width="980"]
 alfa.com.ec,c9n.com.py,canal12.com.sv,elcomercio.com,repretel.com,tropicalida.com.ec##ned-ad
 lagaceta.com.ec##rs-slides
