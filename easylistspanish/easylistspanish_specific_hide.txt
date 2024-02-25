@@ -458,7 +458,7 @@ macrojuegos.com##.w-full.h-\[600px\].my-5
 animalpolitico.com##.w-full.min-h-\[100px\].pt-\[48px\]
 naiz.eus##.w-openx-banners
 transfermarkt.es##.werbung
-ppelverdadero.com.ec##.widget.HTML
+elchavodel8tv.com,ppelverdadero.com.ec##.widget.HTML
 lanacion.com.ec##.widget.widget_text
 tudn.com##.widget[data-widget-type="ListWidget"]
 beermagazine.net,recetasdepan.net##.widget_aawp_widget_bestseller
