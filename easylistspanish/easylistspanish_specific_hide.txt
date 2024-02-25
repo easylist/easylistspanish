@@ -65,6 +65,7 @@ qmusica.tv###promoSept19A
 qmusica.tv###promoSept19B
 promiedos.com.ar###pub728
 fronteradigital.com.ve###publicidad-2
+talcualdigital.com###publicidad-slider
 record.com.mx###region-preface-second
 diariodeteruel.es###rightbanner
 canalrcn.com,noticiasrcn.com###rp1-compuesto
