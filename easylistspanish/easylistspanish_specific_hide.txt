@@ -286,6 +286,7 @@ bolavip.com##.home-poll-block__ad
 t13.cl##.home-slider__header__sponsor
 periodicoellaurelpr.com##.hpe-i-ad
 canal21ebre.com,marfanta.com##.ib-ad-text
+sunoticiero.net##.img-ad-default
 lavoz.com.ar##.imgSponsor
 radiocentro.com.ec##.jet-popup
 nextpit.es##.jobbioapp
@@ -492,6 +493,7 @@ pelisplus.lat,washingtonhispanic.com##a[href*="://bit.ly/"]
 elrellano.com##a[href*="https://urbanous.com/tienda/tazas/eo-eeeeooo/"]
 animeid.tv##a[href*="leadzupc.com/"]
 mediotiempo.com##a[href^="http://online.caliente.mx/promoRedirect?"]
+sunoticiero.net##a[href^="https://amzn.eu/"]
 mejoresmodsminecraft.site##a[href^="https://bisecthosting.com/"]
 superluchas.com##a[href^="https://es.johnnybet.com/"]
 corepunk.online,mundommorpg.com##a[href^="https://get.surfshark.net/"]
