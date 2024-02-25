@@ -197,6 +197,7 @@ lateja.cr,nacion.com##.brandvoiceFooter
 lateja.cr,nacion.com##.brandvoiceHeader
 mariskalrock.com##.brave_popup
 terremoto.mx##.break_patrocinadores
+versionfinal.com.ve##.bsac
 futbolred.com##.btn_betplay
 plantadoce.com##.bwe_ext_partners
 miarevista.es,segre.com,serpadres.es##.c-add
