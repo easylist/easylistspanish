@@ -115,7 +115,7 @@ lecturas.com,nationalgeographic.com.es##.add990x90
 ondacero.es##.addContainer
 freepik.es##.adobe-coupon-container
 freepik.es##.adobe-grid-design
-atv.pe,benditofutbol.com,corazon.pe,lared.cl,perfil.com,rpp.pe,studio92.com,uypress.net##.ads
+atv.pe,benditofutbol.com,cdn.com.do,corazon.pe,lared.cl,perfil.com,rpp.pe,studio92.com,uypress.net##.ads
 tutorialesenlinea.es##.ads-titleposttl
 eleconomista.es##.adsLinicom
 infojardin.com##.adsense-columna
@@ -320,6 +320,7 @@ meteored.com.py##.meteored-ads
 caracol.com.co,wradio.com.co##.mh266-100
 lexlatin.com##.mibanner
 diariodevalderrueda.es##.minibanner_content
+cdn.com.do##.mmc_ads_solo_escritorio
 show.news##.mod.relatednews
 eltiempo.es##.mods-box-body
 20minutos.es##.module-coupons
