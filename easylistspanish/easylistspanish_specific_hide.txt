@@ -12,6 +12,8 @@ canal1.com.co###Robapagina_mb_1
 canal1.com.co###SuperBanner1
 canal1.com.co###SuperBanner2
 canal1.com.co###Superbanner_1
+elperiodicodemonagas.com.ve###ad-area
+elperiodicodemonagas.com.ve###ad-area-top
 freepik.es###adobe-pagination-mkt-copy
 diariocorreo.com.ec###advertisement
 lacapitalmdp.com###anpr
@@ -474,7 +476,7 @@ weedmagazine.net##.widget_aawp_widget_new_releases
 elciudadanoweb.com##.widget_apsa_campaign
 grupormultimedio.com,horadeopinion.com.ar,lahora.com.ec##.widget_custom_html
 rumbonews.com##.widget_media_gallery
-claridadpuertorico.com,cronica.com.ec,cronicasnews.com,diarioeltiempo.com.ve,elnuevogeorgia.com,elsiglo.com.ve,elsolnoticias.com.ar,gacetinmadrid.com,lanacion.com.ec,laprensadecolorado.com,larepublica.ec,noticiasenlineacr.com,noticiasformosa.com.ar,radiosucre.com.ec,webelpuente.com##.widget_media_image
+claridadpuertorico.com,cronica.com.ec,cronicasnews.com,diarioeltiempo.com.ve,elnuevogeorgia.com,elperiodicodemonagas.com.ve,elsiglo.com.ve,elsolnoticias.com.ar,gacetinmadrid.com,lanacion.com.ec,laprensadecolorado.com,larepublica.ec,noticiasenlineacr.com,noticiasformosa.com.ar,radiosucre.com.ec,webelpuente.com##.widget_media_image
 25digital.com.ar,horadeopinion.com.ar##.widget_metaslider_widget
 elperiodista.cl##.widget_owjnimg
 elespecial.com##.widget_simpleimage
