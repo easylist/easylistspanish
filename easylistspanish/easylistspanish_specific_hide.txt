@@ -95,7 +95,7 @@ elpais.com.uy##.List-sponsor
 ccma.cat##.M-publicitat
 elpais.com.uy##.PromoFeat
 elchapuzasinformatico.com##.__lxG__multi
-ahoraeg.com,analitica.com,aurora-israel.co.il,aviacionline.com,elperiodicodelaenergia.com,latinopinionbaltimore.com,teleamazonas.com##.a-single
+ahoraeg.com,analitica.com,aurora-israel.co.il,aviacionline.com,elperiodicodelaenergia.com,elsiglo.com.ve,latinopinionbaltimore.com,teleamazonas.com##.a-single
 laregion.cr,tutorialesenlinea.es##.a-wrap
 beergeeks.cl,cannabis420.cl,comidasespanolas.com,recetasdepan.net,reparaciondecomputadoras.online,thebeertimes.com,weedmagazine.net##.aawp
 somosohlala.com##.accession
@@ -434,7 +434,7 @@ elpais.com.sv##.supsystic-slider-wrapper
 elrellano.com##.tag-enlace-de-afiliados
 prensa.com##.tagPublicidad
 publinews.gt##.takeoverlink
-bavaronews.com,contrapunto.com.sv,diariolaprensa.cl,diariolatino.net,elaragueno.com.ve,elmercurio.com.ec,elmundotoday.com,elperiodicousa.com,guineainfomarket.com,horajaen.com,lacalle.com.ve,lagdeguinea.com,noticiasuno.com,pcpro.es,periodismo.com,udlaspalmas.net##.td-a-rec
+bavaronews.com,contrapunto.com.sv,diariolaprensa.cl,diariolatino.net,elaragueno.com.ve,elmercurio.com.ec,elmundotoday.com,elperiodicousa.com,elsiglo.com.ve,guineainfomarket.com,horajaen.com,lacalle.com.ve,lagdeguinea.com,noticiasuno.com,pcpro.es,periodismo.com,udlaspalmas.net##.td-a-rec
 eldiariodeguayana.com.ve##.td-header-sp-recs
 elsolnews.com##.tdi_132
 udlaspalmas.net##.tdi_22
@@ -474,7 +474,7 @@ weedmagazine.net##.widget_aawp_widget_new_releases
 elciudadanoweb.com##.widget_apsa_campaign
 grupormultimedio.com,horadeopinion.com.ar,lahora.com.ec##.widget_custom_html
 rumbonews.com##.widget_media_gallery
-claridadpuertorico.com,cronica.com.ec,cronicasnews.com,diarioeltiempo.com.ve,elnuevogeorgia.com,elsolnoticias.com.ar,gacetinmadrid.com,lanacion.com.ec,laprensadecolorado.com,larepublica.ec,noticiasenlineacr.com,noticiasformosa.com.ar,radiosucre.com.ec,webelpuente.com##.widget_media_image
+claridadpuertorico.com,cronica.com.ec,cronicasnews.com,diarioeltiempo.com.ve,elnuevogeorgia.com,elsiglo.com.ve,elsolnoticias.com.ar,gacetinmadrid.com,lanacion.com.ec,laprensadecolorado.com,larepublica.ec,noticiasenlineacr.com,noticiasformosa.com.ar,radiosucre.com.ec,webelpuente.com##.widget_media_image
 25digital.com.ar,horadeopinion.com.ar##.widget_metaslider_widget
 elperiodista.cl##.widget_owjnimg
 elespecial.com##.widget_simpleimage
