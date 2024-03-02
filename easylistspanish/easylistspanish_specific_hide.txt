@@ -105,6 +105,7 @@ actualidadradio.com##.actua-widget
 aica.org,deia.eus,diaridegirona.cat,diariocordoba.com,diariocorreo.com.ec,diariodeibiza.es,diariodemallorca.es,elcorreogallego.es,eldia.es,elpais.com,elperiodicodearagon.com,elperiodicoextremadura.com,elperiodicomediterraneo.com,emporda.info,eurosport.es,farodevigo.es,fmdos.cl,informacion.es,jornada.com.mx,laopinioncoruna.es,laopiniondemalaga.es,laopiniondezamora.es,laprovincia.es,levante-emv.com,lne.es,meteoconsult.es,noticiasdealava.eus,noticiasdegipuzkoa.eus,noticiasdenavarra.com,ntn24.com,regio7.cat,revistafama.com,superdeporte.es##.ad
 perfil.com##.ad-300x250
 mundo.com##.ad-banner
+okdiario.com##.ad-block
 buenazo.pe,elpopular.pe,eltiempo.com,hobbyconsolas.com,larepublica.pe,libero.pe,somosfanaticos.fans,wapa.pe##.ad-container
 3dgames.com.ar##.ad-wrapper
 vidasana.sv##.adblockweb
@@ -262,6 +263,7 @@ elnuevogeorgia.com##.elementor-element-d45ce2c
 elnuevogeorgia.com##.elementor-element-d782763
 radiocentro.com.ec##.elementor-element-fb5d061
 huffingtonpost.es##.entry__right-rail-width-placeholder
+okdiario.com##.envoltorio-intext1
 adiariocr.com##.esdfp
 compraensanjuan.com##.espacio-publi
 compraensanjuan.com##.espacio-publi-google
@@ -312,6 +314,7 @@ quesonlosvaloreseticos.com,signodeinterrogacion.com##.masthead-banner
 empresite.eleconomista.es##.mauto.textcenter.mb20.mt20
 rpp.pe##.mdl-sponsors
 esdiario.com##.media-ajust-tablet-publi-top
+okdiario.com##.mega
 abc.es##.mega-superior
 marie-claire.es,muyhistoria.es,muyinteresante.es,muynegociosyeconomia.es##.megaBanner
 lleida.com,meteored.cl,meteored.com.ar,meteored.mx,modaes.com,tiempo.com##.megabanner
@@ -343,6 +346,7 @@ flashscore.co,flashscore.es##.oddsPlacement
 infodefensa.com##.openx
 lasubasta.com##.orbit-container
 autoscout24.es##.osa-as24-placeholder
+okdiario.com##.outofpageHome
 contrapunto.com.sv##.owl-carousel
 fulltv.com.ar##.p336-c
 fulltv.com.ar##.p336_2
