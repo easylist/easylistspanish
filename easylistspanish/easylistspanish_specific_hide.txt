@@ -130,7 +130,7 @@ ilustrado.cl##.ai-viewport-1
 petitchef.es##.akcelo-wrapper
 blog.facialix.com##.amazon-auto-links
 aguaita.cat,pallarsdigital.cat,rubitv.cat,tarragonadigital.com##.amp_columnapubli
-donbalon.com##.anuncio
+donbalon.com,elsaltodiario.com##.anuncio
 mangacrab.com##.anunciofooter
 insideevs.com.ar,iproup.com##.ap
 insideevs.com.ar##.apb
