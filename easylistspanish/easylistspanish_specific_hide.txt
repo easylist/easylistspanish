@@ -54,6 +54,7 @@ elmercurio.com.ec###fancybox-overlay
 elmercurio.com.ec###fancybox-wrap
 futbolme.com###headeradd
 transfermarkt.es###home-rectangle-spotlight
+encuentra24.com###home_top
 fronteradigital.com.ve###img_pub
 periodismokosher.com.ar###key2sticky
 excelsior.com.mx###leaderboard0
@@ -460,6 +461,7 @@ aristeguinoticias.com##.topleader
 autopista.es##.transfer-container
 turium.es##.turium-advertising
 latinpress.es##.u_1843050363
+encuentra24.com##.uber
 elmundo.es,expansion.com##.ue-c-cover-content--is-branded
 mercadolibre.cl,mercadolibre.co.cr,mercadolibre.com.ar,mercadolibre.com.bo,mercadolibre.com.co,mercadolibre.com.do,mercadolibre.com.ec,mercadolibre.com.gt,mercadolibre.com.hn,mercadolibre.com.mx,mercadolibre.com.ni,mercadolibre.com.pa,mercadolibre.com.pe,mercadolibre.com.py,mercadolibre.com.sv,mercadolibre.com.uy,mercadolibre.com.ve##.ui-recommendations-list__container--pads
 mercadolibre.cl,mercadolibre.co.cr,mercadolibre.com.ar,mercadolibre.com.bo,mercadolibre.com.co,mercadolibre.com.do,mercadolibre.com.ec,mercadolibre.com.gt,mercadolibre.com.hn,mercadolibre.com.mx,mercadolibre.com.ni,mercadolibre.com.pa,mercadolibre.com.pe,mercadolibre.com.py,mercadolibre.com.sv,mercadolibre.com.uy,mercadolibre.com.ve##.ui-search-bottom-ads__container
