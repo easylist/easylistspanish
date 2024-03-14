@@ -272,6 +272,7 @@ compraensanjuan.com##.espacio-publi-google
 hoyenbogota.com##.et_pb_row_4
 verepeliculas.com##.fake_player
 ejeprime.com##.featured_specials
+buentv.net##.full_add
 ahoraeg.com,analitica.com,arquimaster.com.ar,donostitik.com,elperiodicodelaenergia.com,isanidad.com,jotdown.es,lapagina.com.sv,periodicolaperla.com,valencianews.es##.g
 cooljuegos.com##.game-promo
 cooljuegos.com##.games-horizontal-promo
