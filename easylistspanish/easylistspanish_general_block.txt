@@ -1,4 +1,5 @@
 /banner-publicidad-
+/player/vast_1win.xml$xmlhttprequest
 /static/vast_1win.xml$xmlhttprequest
 !
 /234x60.php
