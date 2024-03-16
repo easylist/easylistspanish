@@ -488,6 +488,7 @@ $script,third-party,domain=xtremostereo.net
 ||forosforex.com/images/banner/
 ||gerente.com/co?_$subdocument
 ||gtsstatic.com/static/mscripts/index_457.js
+||imparteconocimientos.com/recursos/Anti-AdBlocker.js
 ||incp.org.co/wp-content/uploads/2021/07/
 ||jerezcofrade.tv/wp-content/uploads/*/*.js$script
 ||lacasadeel.net/banners/$image
