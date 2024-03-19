@@ -1,3 +1,4 @@
+/assets/vast_1win.xml$xmlhttprequest
 /banner-publicidad-
 /player/vast_1win.xml$xmlhttprequest
 /static/vast_1win.xml$xmlhttprequest
