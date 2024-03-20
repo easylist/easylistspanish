@@ -3,6 +3,7 @@
 ||pahtfi.tech^
 ||palibzh.tech^
 ||positive-ads.com^
+||revenuemakerdata.com^
 !
 ||adsviu.com^$third-party
 ||brand.ad^$third-party
