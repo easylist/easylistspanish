@@ -645,8 +645,6 @@ semana.com#?#.section:-abp-has(.section-subtitle:-abp-contains(Contenido en cola
 theobjective.com#?#.tno-article-block:-abp-has(span:-abp-contains(Branded content))
 yorokobu.es#?#.quicklink_w100:-abp-has(.publi-tag:-abp-contains(AD))
 !
-puromarketing.com###AdsTextHomeCenter
-puromarketing.com###AdsTextHomeMultiple
 forocoches.com###AutoNumber30
 diariopopular.com.ar###OBJETO861 > .ad-obj
 foroparalelo.com###ad_global_below_navbar
@@ -1040,7 +1038,7 @@ reforma.com##.container_publicidad
 anbariloche.com.ar,anroca.com.ar##.contenedor_banner_popup
 anbariloche.com.ar,anroca.com.ar##.contenedor_principal_banner_lateral
 cronista.com##.content-banner
-inmodiario.com,puromarketing.com##.content-pub-top
+inmodiario.com##.content-pub-top
 elcolombiano.com##.contentBannerIntelecto
 laarena.com.ar##.cookie_lasa_popup
 slimdownload.co##.cssanimations
@@ -1516,7 +1514,6 @@ hosteltur.com##[class^="bp"]
 t13.cl##[class^="home-category-grid"]
 t13.cl##[class^="home-slider__ads"]
 hobbyconsolas.com##[class^="product-card"]
-puromarketing.com##[class^="pu-"]
 mioriente.com##[class^="pub-banner"]
 legionasia.com##[class^="teaser"]
 univision.com##[data-widget-type^="Outbrain"]
@@ -1575,7 +1572,6 @@ moviesjoy.to##[id^="gift-"]
 berjadigital.es,el1digital.com.ar,impactonews.co,incp.org.co##[id^="media_image-"]
 bcnoticias.com.co##[id^="metaslider"]
 nacionpaisa.com##[id^="metaslider_widget-"]
-puromarketing.com##[id^="pu-"]
 dialoguemos.ec##[id^="slider_"]
 pt-mexico.com##[onclick*="'page' : '/virtual/Ad/"]
 andina.pe##[onclick*="/publicidad"]

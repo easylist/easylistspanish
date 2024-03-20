@@ -48,6 +48,7 @@
 ||player.gnula.nu/assets/vast_
 ||player.repelis24.life/assets/vast_
 ||pordede.click/assets/img/suscripcion.png
+||puromarketing.com/adxs/
 ||redtarapaca.com^*/ahorrocorp.jpg
 ||ripollesdigital.cat/imatges/ripollesdigital.cat/ginys/
 ||spanishcorrector.com/cnc/
@@ -373,7 +374,6 @@
 ||puntobiz.com.ar/data/img_cont/img_banners/
 ||puntomedio.mx/wp-content/uploads/2019/07/whatsapp-image-2019-07-29-at-3.40.53-pm-1.jpeg
 ||puntomedio.mx/wp-content/uploads/2019/11/kinea2.jpg
-||puromarketing.com//img/banners/
 ||px.fotos.cdn.0223.com.ar/f/5399f9f213cd649c19000009/
 ||px.fotos.cdn.0223.com.ar/f/539f4f6c5408217c16000029/
 ||px.fotos.cdn.0223.com.ar/f/5487365314cdac0400000148/
