@@ -3,6 +3,7 @@ fondosmil.co#@#.ads1
 ripley.cl#@#.dfp-ad-unit
 viveusa.mx#@#.dfp-tag-wrapper
 sport.es#@#.following-ad-container
+1000respuestas.net,buscasencuentras.net,preguntasrespuestas.net#@#.right-ads
 pccomponentes.com#@#[id^="div-gpt-ad"]
 pccomponentes.com#@#[id^="google_ads_iframe"]
 !
