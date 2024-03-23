@@ -125,7 +125,7 @@ infojardin.com##.adsense-columna
 anbariloche.com.ar,anroca.com.ar,elcordillerano.com.ar,noticiasnet.com.ar##.adserver-zona
 anbariloche.com.ar,anroca.com.ar,elcordillerano.com.ar,noticiasnet.com.ar##.adserver-zona-zocalo
 aporrea.org##.adunit-01-max
-antena3.com,clarin.com,elindependiente.com##.adv
+clarin.com,elindependiente.com##.adv
 cambio21.cl##.advertisement
 ara.cat,ejeprime.com,larazon.es,papajuegos.com,plantadoce.com,relevo.com##.advertising
 meganoticias.cl##.agrupadorPatrocinados
@@ -547,7 +547,7 @@ formulatv.com##div[class^="pub-"]
 liderendeportes.com##div[class^="r89-"]
 purochocolate.life,tumascota.life##div[class^="tumas-"]
 huffingtonpost.es##div[data-adtype]
-lasexta.com##div[data-mod="ads"]
+antena3.com,lasexta.com##div[data-mod="ads"]
 tudn.com,univision.com##div[data-widget-type="Advertisement"]
 eleconomista.es##div[id^="300x"]
 eleconomista.es##div[id^="728x"]
@@ -1282,16 +1282,11 @@ telecinco.es##a[href="http://turismourense.com/index"]
 180.com.uy##a[href="http://www.180.com.uy/banner?ID=857&CODE=portal.index"]
 elsiglodetorreon.com.mx##a[href="http://www.ayojon.mx/"]
 ruedasgordas.es##a[href="http://www.cyclosaltamirano.es/"]
-antena3.com##a[href="http://www.englishhouse.tv/sabias-que.php"]
 20minutos.es##a[href="http://www.esquire.es"]
-antena3.com##a[href="http://www.guiainfantil.com/"]
 ldu.com.ec##a[href="http://www.herbalife.com.ec/"]
 ruedasgordas.es##a[href="http://www.morellasingletracks.com/"]
 ruedasgordas.es##a[href="http://www.mybikenet.com/development/"]
-antena3.com##a[href="http://www.neoxkidz.com/revista/estais-preparados-neox-kidz-estrena-revista_2015051255521d350cf2c05b5ea0c08b.html"]
-antena3.com##a[href="http://www.objetivobienestar.com/"]
 todopolicia.com##a[href="http://www.sespol.es"]
-antena3.com##a[href="http://www.tualbum.es/"]
 ole.com.ar##a[href="https://www.facebook.com/SchneiderARG/"]
 ruedasgordas.es##a[href="https://www.facebook.com/pages/BENIBIKES-Benidorm/177123992350243?fref=ts"]
 ole.com.ar##a[href="https://www.youtube.com/watch?v=IZPtel51MlA"]
