@@ -298,6 +298,7 @@ periodicoellaurelpr.com##.hpe-i-ad
 canal21ebre.com,marfanta.com##.ib-ad-text
 sunoticiero.net##.img-ad-default
 lavoz.com.ar##.imgSponsor
+diarioadn.co##.imperdibles__position
 radiocentro.com.ec##.jet-popup
 nextpit.es##.jobbioapp
 marie-claire.es,muyhistoria.es,muyinteresante.es,muynegociosyeconomia.es##.js-ads-not-visible
