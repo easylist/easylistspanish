@@ -2,6 +2,7 @@
 ||agencianova.com/avisos/
 ||aica.org/imagenes/pubs/
 ||albaceteabierto.es/anuncios/
+||api.servicesdtk2.cl/v1/count/banners$domain=autosusados.cl
 ||arquimaster.com.ar/banners/
 ||arquimaster.com.ar/Images/banners.htm
 ||artesacro.org/imagenes/baner_
@@ -53,6 +54,7 @@
 ||ripollesdigital.cat/imatges/ripollesdigital.cat/ginys/
 ||spanishcorrector.com/cnc/
 ||static.publinews.gt/*/Skin-
+||storage.googleapis.com/foto_autosusados/banners/$domain=autosusados.cl
 ||streamsito.com/static/vast_
 ||studiofutbol.com.ec/tabla2021/images/banner-copa-300x90.jpg
 ||tcccdn.com^*/banner/
