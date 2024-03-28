@@ -140,7 +140,7 @@ mangacrab.com##.anunciofooter
 insideevs.com.ar,iproup.com##.ap
 insideevs.com.ar##.apb
 elciudadanoweb.com##.apsa-embed-cont
-metroecuador.com.ec##.arcad-feature
+metroecuador.com.ec,publimetro.cl##.arcad-feature
 lavanguardia.com##.article-module-sponsored
 elconfidencial.com##.articleAside__module.articleAside__module--isSticky
 elobservador.com.uy##.auspicios
