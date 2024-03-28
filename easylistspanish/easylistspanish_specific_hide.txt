@@ -372,6 +372,7 @@ visortmo.com##.pbd
 visortmo.com##.pbf
 visortmo.com##.pbj
 lucianacocina.com,otakuteca.com,planetaneperian.com,todomecanica.com,vgrecipes.com##.pbl
+chileautos.cl##.peace-of-mind
 espaebook2.com##.perfbtn
 otakustv.com##.pestana_footer
 fulltv.com.ar##.pie
