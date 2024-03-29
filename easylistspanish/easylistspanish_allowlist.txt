@@ -19,7 +19,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=api.apolomedia.com|carolina.cl|crhoy.com|niusdiario.es|paxtvmovil.org|radiocandela.cl|romantica.cl|rtve.es|tn.com.ar
 @@||laneros.com/temas/*-publicidad.
 @@||letrasyfuentes.com/tardisrocinante/screx.js?$script,~third-party
-@@||live.primis.tech/live/$script,domain=bolavip.com
+@@||live.primis.tech/live/$script,domain=bolavip.com|lapaginamillonaria.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=3djuegosguias.com|3djuegospc.com|applesfera.com|compradiccion.com|directoalpaladar.com|espinof.com|genbeta.com|poprosa.com|trendencias.com|trendenciashombre.com|vidaextra.com|vitonica.com|xatakamovil.com
 @@||pub.pixels.ai/wrap-independent-no-prebid-lib.js$script,domain=independentespanol.com
 @@||pub.pixels.ai/wrap-independent-prebid-lib.js$script,domain=independentespanol.com
