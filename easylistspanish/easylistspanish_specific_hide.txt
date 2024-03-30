@@ -389,6 +389,7 @@ prensa.com##.productos
 qmusica.tv##.promoTop
 esdiario.com##.pub-2
 formulatv.com##.pub-btf
+elamaule.cl,elboyaldia.cl,elconcecuente.cl,elmagallanews.cl,elmartutino.cl,elmorrocotudo.cl,elnaveghable.cl,elnortero.cl,elobservatodo.cl,elquehaydecierto.cl,elrancahuaso.cl,elrepuertero.cl,elvacanudo.cl,laopinon.cl##.pub-escritorio
 formulatv.com##.pub-mid
 formulatv.com##.pub-text
 formulatv.com##.pub-top
