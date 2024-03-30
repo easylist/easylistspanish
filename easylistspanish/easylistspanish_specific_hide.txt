@@ -21,6 +21,7 @@ cuevana3.nu###anuncioca
 elciudadanoweb.com###apsa-pop-hidden-img
 agencianova.com,novachaco.com###avisosDerechaContainer
 ambito.com###bannerStickyHeader
+diarioeldia.cl###bannerZocalo
 diariodelaribera.net###bannercabeceravideo
 noticiasyprotagonistas.com###banners
 eleconomista.es###banners-superiores
@@ -256,6 +257,7 @@ laprensademn.com,vidaysabor.com##.dialog-message
 noticias.mitelefe.com##.e-post-banner
 diariocolatino.com##.e3lan
 euractiv.es##.ea-gat-slot-wrapper
+diarioeldia.cl##.each-container.grid.grid-cols-1.items-center.default-gap.items-end.mx-auto.container.default-padding
 economipedia.com##.econo-code-block
 elestimulo.com##.ele-banner
 laprensademn.com##.elementor-element-15f1544d
