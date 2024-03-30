@@ -78,6 +78,8 @@ diariodeteruel.es###rightbanner
 canalrcn.com,noticiasrcn.com###rp1-compuesto
 heraldo.es###sidebarADefault
 gamereactor.es###sky2_1
+latribuna.cl###slot_box01
+latribuna.cl###slot_top
 elespanol.com###sticky_container
 lostiempos.com###takeover-desktop-counter
 lostiempos.com###takeover-movil-counter
