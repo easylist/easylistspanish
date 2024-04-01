@@ -162,6 +162,7 @@ tycsports.com##.banner-bottom
 agroclave.com.ar,cronica.com.ar,lacapital.com.ar##.banner-box
 elnueve.com.ar##.banner-box-container
 noticiasurbanas.com.ar##.banner-center
+concierto.cl##.banner-cms
 revistacar.es##.banner-container
 soychile.cl##.banner-fixed-container
 puntal.com.ar##.banner-flex

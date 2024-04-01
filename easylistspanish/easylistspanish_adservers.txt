@@ -10,6 +10,7 @@
 ||brand.ad^$third-party
 ||butlercdn.com^$third-party
 ||equamarketing.com^$third-party
+||getadjacent.com^$third-party
 ||googledfp.com^$third-party
 ||premiumads.com.br^$third-party
 ||premiumleads.com^$third-party
