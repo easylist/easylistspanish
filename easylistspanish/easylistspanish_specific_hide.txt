@@ -125,6 +125,7 @@ freepik.es##.adobe-coupon-container
 freepik.es##.adobe-grid-design
 atv.pe,benditofutbol.com,cdn.com.do,corazon.pe,laprensaaustral.cl,lared.cl,perfil.com,rpp.pe,studio92.com,uypress.net##.ads
 tutorialesenlinea.es##.ads-titleposttl
+13.cl##.ads13
 eleconomista.es##.adsLinicom
 cocina-chilena.com##.adsense
 infojardin.com##.adsense-columna
