@@ -304,6 +304,7 @@ t13.cl##.home-slider__header__sponsor
 periodicoellaurelpr.com##.hpe-i-ad
 canal21ebre.com,marfanta.com##.ib-ad-text
 sunoticiero.net##.img-ad-default
+lanacion.cl##.img-banner
 lavoz.com.ar##.imgSponsor
 diarioadn.co##.imperdibles__position
 radiocentro.com.ec##.jet-popup
