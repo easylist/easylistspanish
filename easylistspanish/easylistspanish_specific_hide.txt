@@ -349,6 +349,7 @@ elobservador.com.uy##.modulo_publi
 coches.net##.mt-AdvertisingRoadblock-top
 coches.net##.mt-Display--top
 guiahoreca.cl##.mx-auto.aspect-box.bg-primary.bg-opacity-10.overflow-hidden.my-1
+800.cl##.mx-auto.aspect-box.bg-secondary.bg-opacity-10
 gamezfull.com##.myButton
 elsolnoticias.com.ar,hortanoticias.com##.n2-section-smartslider
 europa-agricola.es,via-mobilis.es##.native
