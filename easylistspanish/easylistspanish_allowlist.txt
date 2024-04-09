@@ -10,6 +10,7 @@
 @@||g.doubleclick.net/gpt/pubads_impl_$domain=pccomponentes.com
 @@||g.doubleclick.net/pagead/ads?$domain=3djuegosguias.com|3djuegospc.com|applesfera.com|compradiccion.com|directoalpaladar.com|espinof.com|genbeta.com|poprosa.com|trendencias.com|trendenciashombre.com|vidaextra.com|vitonica.com|xatakamovil.com
 @@||gecpublicidad.com/publicidades/ESPECIALES/assets/banner_ecuadoradio.jpg$domain=elcomercio.com
+@@||getadjacent.com^$domain=adnradio.cl
 @@||getjad.io/library/$script,domain=3djuegosguias.com|3djuegospc.com|applesfera.com|compradiccion.com|directoalpaladar.com|espinof.com|genbeta.com|poprosa.com|trendencias.com|trendenciashombre.com|vidaextra.com|vitonica.com|xatakamovil.com
 @@||getjad.io/prebid/$script,domain=3djuegosguias.com|3djuegospc.com|applesfera.com|compradiccion.com|directoalpaladar.com|espinof.com|genbeta.com|poprosa.com|trendencias.com|trendenciashombre.com|vidaextra.com|vitonica.com|xatakamovil.com
 @@||go.ezodn.com/tardisrocinante/lazy_load.js?$script,domain=mensajesdecumpleanosweb.com
