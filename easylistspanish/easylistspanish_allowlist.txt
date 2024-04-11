@@ -6,6 +6,7 @@
 @@||amazon-adsystem.com/aax2/apstag.js$script,domain=20minutos.es
 @@||bradmax.com/client/embed-player/*/pubads.g.doubleclick.net/$subdocument,domain=teletica.com
 @@||d1r08wok4169a5.cloudfront.net/iframes/depor_logo.svg$domain=depor.com
+@@||firmadigital.gob.ec/wp-content/plugins/banner-ads-rotator/$~third-party
 @@||g.doubleclick.net/gampad/ads?$domain=pccomponentes.com
 @@||g.doubleclick.net/gpt/pubads_impl_$domain=pccomponentes.com
 @@||g.doubleclick.net/pagead/ads?$domain=3djuegosguias.com|3djuegospc.com|applesfera.com|compradiccion.com|directoalpaladar.com|espinof.com|genbeta.com|poprosa.com|trendencias.com|trendenciashombre.com|vidaextra.com|vitonica.com|xatakamovil.com
