@@ -44,10 +44,6 @@ forococheselectricos.com###custom_html-17
 thaderclub.com###custom_html-19
 eltorotv.com###custom_html-21
 neomotor.epe.es###cx_widget
-hola.com###div-hola-slot-bannerinferior
-hola.com###div-hola-slot-megabanner
-hola.com###div-hola-slot-robainferior
-hola.com###div-hola-slot-robapaginas
 mangatigre.net###dl-banner-300-250
 elnacional.com###en_nd_home_flat_2
 elnacional.com###en_nd_home_flat_3
