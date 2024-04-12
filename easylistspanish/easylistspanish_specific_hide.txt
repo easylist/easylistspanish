@@ -658,6 +658,7 @@ eltiempo.com#?#.main-article-container-patr:-abp-has(.mas-contenido:-abp-contain
 hoy.com.do#?#span:-abp-contains(Publicidad)
 juegosdiarios.com#?#.display-ads:-abp-has(>span:-abp-contains(Anuncio))
 laboyanos.com,elquindiano.com#?#span:-abp-contains(PUBLICIDAD)
+lavoz.com.ar#?#.clearfix.list-cards.mb1.section-ciudadanos:-abp-has(.title:-abp-contains(Espacio de marca))
 mundo724.com#?#.et_pb_column:-abp-has(p:-abp-contains(Publicidad))
 periodismokosher.com.ar#?#.widget-content:-abp-has(a[target="_blank"])
 photocall.tv#?#.dropdown:-abp-has(label:-abp-contains(VPN))
