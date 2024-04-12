@@ -126,7 +126,7 @@ eleconomista.es##.adsLinicom
 cocina-chilena.com##.adsense
 infojardin.com##.adsense-columna
 anbariloche.com.ar,anroca.com.ar,elcordillerano.com.ar,noticiasnet.com.ar##.adserver-zona
-anbariloche.com.ar,anroca.com.ar,elcordillerano.com.ar,noticiasnet.com.ar##.adserver-zona-zocalo
+anbariloche.com.ar,anroca.com.ar,elcordillerano.com.ar,elterritorio.com.ar,noticiasnet.com.ar##.adserver-zona-zocalo
 aporrea.org##.adunit-01-max
 clarin.com,elindependiente.com##.adv
 cambio21.cl##.advertisement
@@ -172,7 +172,7 @@ diariodecuyo.com.ar##.banner-lanusse
 a24.com,diariouno.com.ar,lared.am,puntal.com.ar##.banner-libre
 25digital.com.ar##.banner-promotions-wrapper
 clarin.com##.banner-right
-anbariloche.com.ar,anroca.com.ar,elcordillerano.com.ar,noticiasnet.com.ar##.banner-simple
+anbariloche.com.ar,anroca.com.ar,elcordillerano.com.ar,elterritorio.com.ar,noticiasnet.com.ar##.banner-simple
 eltrecetv.com.ar##.banner-swap
 clarin.com##.banner-top
 ciudad.com.ar,elcomercio.com,lmcipolletti.com,lmneuquen.com##.banner-wrapper
