@@ -319,6 +319,7 @@ lanacion.com.ar##.ln-aside
 lanacion.com.ar##.ln-banner-container
 directoalpaladar.com,trendenciashombre.com,vidaextra.com,xataka.com##.m-branded
 bebesymas.com,diariodelviajero.com,elblogsalmon.com,motorpasionmoto.com,pymesyautonomos.com##.m-desvio-ecommerce
+milanuncios.com##.ma-ContentListing-advertising-native
 gasteizhoy.com##.macrobannerblock
 sensacine.com,sensacine.com.mx##.main-banner
 infopico.com##.marco-publicidad
