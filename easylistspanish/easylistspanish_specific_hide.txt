@@ -378,6 +378,7 @@ visortmo.com##.pbb
 visortmo.com##.pbc
 visortmo.com##.pbd
 visortmo.com##.pbf
+visortmo.com##.pbi
 visortmo.com##.pbj
 lucianacocina.com,otakuteca.com,planetaneperian.com,todomecanica.com,vgrecipes.com##.pbl
 chileautos.cl##.peace-of-mind
