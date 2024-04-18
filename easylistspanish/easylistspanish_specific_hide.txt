@@ -669,6 +669,7 @@ photocall.tv#?#.dropdown:-abp-has(label:-abp-contains(VPN))
 recetasfacilescocina.com#?#section > h3:-abp-contains(Publicidad)
 semana.com#?#.section:-abp-has(.section-subtitle:-abp-contains(Contenido en colaboración))
 theobjective.com#?#.tno-article-block:-abp-has(span:-abp-contains(Branded content))
+walmart.com.mx#?#[data-testid="item-stack"] > div:-abp-contains(Patrocinado)
 yorokobu.es#?#.quicklink_w100:-abp-has(.publi-tag:-abp-contains(AD))
 !
 forocoches.com###AutoNumber30
