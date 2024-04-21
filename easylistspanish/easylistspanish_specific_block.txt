@@ -11,6 +11,7 @@
 ||cinetux.nu/api/spots/
 ||clivertv.xyz/assets/img/suscripcion.png
 ||clm21.es/anuncios/
+||cronicabalear.es/access/public/img/anuncios/
 ||cronista.com/files/banner/
 ||cuencanews.es/anuncios/
 ||cuevana.biz/edgeSystemRunV2.js
@@ -97,7 +98,6 @@
 /avisos^$image,domain=novalaplata.com
 /elements*/publicitat^$image,domain=lesportiudecatalunya.cat
 /public/Image/*banner*^$image,domain=alicanteplaza.es|castellonplaza.com|valenciaplaza.com
-/public/img/anuncios/*$image,domain=cronicabalear.es
 /publicity/*$subdocument,domain=aodirectos.xyz|hdchannel.xyz|livexonline.xyz|srfixerhd.info
 /skin-esportmaniacos$image,domain=esportmaniacos.com
 /static/BB3HTML/images/*sponsor*.png$domain=diariodecadiz.es|diariodejerez.es|diariodesevilla.es|elalmeria.es|eldiadecordoba.es|europasur.es|granadahoy.com|huelvainformacion.es|malagahoy.es
