@@ -21,6 +21,7 @@
 ||trafico.prensaiberica.es^
 ||triggy-banners.web.app^
 ||vario.tv/play.gif
+||vario.tv/playf.gif
 ||wp.pl/bidder/usersync?
 !
 ||economicos.cl/widgets/$third-party
