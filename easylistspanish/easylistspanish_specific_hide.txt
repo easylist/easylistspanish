@@ -644,6 +644,7 @@ lagaceta.com.ec##rs-slides
 ! :has()
 forocoches.com###sidebar > div > section:has(.fixed_adslot)
 elpais.com.uy##.Page-above.loaded:has(div[class^="GoogleDfpAd"])
+elpais.com.uy##.PromoBasic:has(.Promo-sponsor)
 businessinsider.mx##.col-md-4.col-12.three-column-item:has(.presentado-por)
 clarin.com##.column > div[class] > div[class^="sc-"]:has(div[class^="sc-"] > div[id^="div-gpt-ad"])
 leroymerlin.es##.l-resultsList__item:has(.kl-blade--sponsored)
