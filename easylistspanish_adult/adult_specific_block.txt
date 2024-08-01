@@ -19,6 +19,7 @@
 ||todorelatos.com/promo/$subdocument
 ||tupornogratis.xxx/bnr/
 ||videosporno.org/empty-band-2ead/
+||xcuca.com/pout/
 ||xtusubs.com/zindexadspro1.php
 !!
 /^https?:\/\/.*\/[a-z0-9A-Z_]{2,15}\.(php|jx|jsx|1ph|jsf|jz|jsm|j$)/$image,script,subdocument,domain=elmundoporno.com|pasionchicas.com|pornoculazos.com|pornoespaniol.com|pornofakings.com|pornoincreible.com|teatrodelporno.com|teatroporno.com
