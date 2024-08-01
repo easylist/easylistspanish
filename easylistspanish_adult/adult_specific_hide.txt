@@ -46,6 +46,7 @@ pampaporno.com##.resumecard
 verpeliculasporno.gratis##.tpd
 videos.mrvideospornogratis.xxx##.vjs-producer
 qporno.xxx##[href^="https://qp.erotilink.es"]
+comicxporn.com##a[href*="/comicxporntrafee.html"]
 fucklouder.com##a[href^="http://bit.ly/"]
 pajarracos.es##a[href^="http://www.fuegodevida.com/"]
 muyzorras.com##a[href^="https://landings.videochatprovider.com/"]
