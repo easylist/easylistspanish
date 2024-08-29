@@ -190,6 +190,7 @@ elperiodicodeaqui.com##.banner_lat
 wiselwisel.com##.banner_superior
 wiselwisel.com##.banner_widget
 gasteizhoy.com##.bannerclick
+totsantcugat.cat##.bannerfix
 telesurtv.net##.banners
 eleconomista.es##.banners-superiores2
 iproup.com##.bannerwide
