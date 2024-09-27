@@ -423,6 +423,7 @@ semana.com##.publish-box
 psicologiaymente.com##.py-4.text-center
 eleconomista.es##.railContainer1
 eleconomista.es##.railContainer3
+ciclismoatual.com,tenisaldia.es##.raw-html-component
 nupcias.mx##.rayabtn
 ceroacero.es##.rbbox-odds
 fotocasa.es##.re-AdvertisingDominanceNative
