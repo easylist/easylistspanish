@@ -218,7 +218,7 @@ terremoto.mx##.break_patrocinadores
 versionfinal.com.ve##.bsac
 futbolred.com##.btn_betplay
 plantadoce.com##.bwe_ext_partners
-eltiempo.com,miarevista.es,segre.com,serpadres.es##.c-add
+eleconomista.com.mx,eltiempo.com,miarevista.es,segre.com,serpadres.es##.c-add
 eltiempo.com##.c-add--no-text
 planetarealmadrid.com##.c-banner
 elpais.com##.c-bra
