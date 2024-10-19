@@ -261,7 +261,7 @@ meteored.cl,meteored.com.ar,meteored.mx,tiempo.com##.creatividad
 cronica.com.ar##.css-svo7lo
 ellatinodehoy.com##.custom-html-widget
 derechouned.com##.customAdvertise_Campaign
-flashscore.co,flashscore.es##.detailLeaderboard
+flashscore.co,flashscore.es,flashscore.pe##.detailLeaderboard
 libertaddigital.com,libremercado.com##.dfp
 lateja.cr,nacion.com##.dfp-container
 eluniversal.com.mx,viveusa.mx##.dfp-tag-wrapper-container
@@ -370,6 +370,7 @@ aguaita.cat,naciodigital.cat,pallarsdigital.cat,pensem.cat,rubitv.cat,tarragonad
 nextpit.es##.np-product-offers
 bolavip.com,dalealbo.cl,futbolcentroamerica.com,juanbeisbol.com,juanfutbol.com,lapaginamillonaria.com,redgol.cl,somosfanaticos.fans##.odds-slider-widget
 flashscore.co,flashscore.es##.oddsPlacement
+flashscore.pe##.oddsWrapper
 diarioestrategia.cl,infodefensa.com##.openx
 lasubasta.com##.orbit-container
 autoscout24.es##.osa-as24-placeholder
