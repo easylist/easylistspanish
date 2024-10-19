@@ -220,7 +220,7 @@ futbolred.com##.btn_betplay
 plantadoce.com##.bwe_ext_partners
 eleconomista.com.mx,eltiempo.com,miarevista.es,segre.com,serpadres.es##.c-add
 eltiempo.com##.c-add--no-text
-planetarealmadrid.com##.c-banner
+diario16plus.com,planetarealmadrid.com##.c-banner
 elpais.com##.c-bra
 elpais.com##.c-brr
 cadenaser.com##.c-p-ia
