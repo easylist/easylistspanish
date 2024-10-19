@@ -50,6 +50,7 @@ elnacional.com###en_nd_home_flat_2
 elnacional.com###en_nd_home_flat_3
 elmercurio.com.ec###fancybox-overlay
 elmercurio.com.ec###fancybox-wrap
+promodescuentos.com###headerFuseZonePortal
 futbolme.com###headeradd
 transfermarkt.es###home-rectangle-spotlight
 encuentra24.com###home_top
@@ -60,9 +61,12 @@ diariodeteruel.es###leftbanner
 atacamaenlinea.cl###media_image-17
 atacamaenlinea.cl###media_image-30
 bemad.es,cuatro.com,divinity.es,energytv.es,factoriadeficcion.com,mtmad.es,niusdiario.es,telecinco.es,uppers.es,yasss.es###megaSuperior_multisite
+promodescuentos.com###mrec1FuseZonePortal
 diariodeteruel.es###mvp-leader-wrap
 chileautos.cl###page-header
 elcorreogallego.es###pmMarketing_1
+promodescuentos.com###productIncontent1FuseZonePortal
+promodescuentos.com###productIncontent2FuseZonePortal
 qmusica.tv###promo
 qmusica.tv###promoSept19A
 qmusica.tv###promoSept19B
