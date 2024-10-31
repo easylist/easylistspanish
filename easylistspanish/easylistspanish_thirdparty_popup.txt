@@ -1,5 +1,4 @@
 ||bit.ly^$popup,domain=cuevana.run|pelisplus.lat
-||granmp3.net^$popup,domain=nuevomix.net
 ||leagueofslots-cl.com^$popup
 ||premiumihzvs.miliongames.com^$popup,third-party
 ||primevideo.com/?tag=^$popup,domain=vergnula.com
@@ -9,5 +8,3 @@
 ||tracking.actualidad.es^$popup
 !
 ||badshores.com/*^publisher_code$popup,third-party
-||foxcdn.me/*.htm^$popup,third-party
-||streams.lerroyje.xyz^$popup,third-party
