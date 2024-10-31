@@ -1,12 +1,12 @@
 $popup,third-party,domain=cinecalidad.com.mx|cinetux.nu|cliver.pro|cuevana.pro|enpantallas.com|seriesgod.com
 ||minube.click^$popup
+||pepeliculas.org/patrocinado$popup
 !
 $popup,third-party,domain=feurl.com|seriesyonkis.io|streamz.vg|supergoku.com|zenkimex.com.mx
 /3djuegos_media_v1^$popup,domain=3djuegos.com
 ||click.expmediadirect1.com^$popup
 ||esplay.io/*.webp^$popup,domain=cuevanahd.net
 ||geniusdexchange.com^$popup,domain=jac-tv.com
-||pepeliculas.org/mira-video1^$popup
 ||ruralvia.com^$popup,domain=horajaen.com
 ! about:blank popups
 /about:blank.*/$popup,domain=peliculasmega1k.com
