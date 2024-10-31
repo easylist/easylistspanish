@@ -106,7 +106,7 @@
 /static/BB3HTML/images/*sponsor*.png$domain=diariodecadiz.es|diariodejerez.es|diariodesevilla.es|elalmeria.es|eldiadecordoba.es|europasur.es|granadahoy.com|huelvainformacion.es|malagahoy.es
 /uploads/advertisings/*$domain=tribunaavila.com|tribunaburgos.com|tribunaleon.com|tribunapalencia.com|tribunasalamanca.com|tribunasegovia.com|tribunasoria.com|tribunavalladolid.com|tribunazamora.com
 /widget_libros.php^$domain=noticias.juridicas.com
-/wp-content/uploads/*banner$image,domain=horajaen.com|simpsons-latino.net|socialetic.com
+/wp-content/uploads/*banner$image,domain=simpsons-latino.net|socialetic.com
 ||16valvulas.com.ar/wp-content/uploads/*.gif
 ||20m.es/css4/img/ui/pastilla_forbes.png
 ||24con.com/files/image/228/228563/59e666afdced4.jpg
@@ -249,8 +249,6 @@
 ||hitfm.es/view/imgs/Trident-Hit-FM-Fondo-*.jpg
 ||horadeopinion.com.ar/imagenes/*.gif
 ||horadeopinion.com.ar/wp-content/uploads/*/*/*.gif
-||horajaen.com/wp-content/uploads/*/FALD*.jpg
-||horajaen.com/wp-content/uploads/pum/pum-site-scripts.js
 ||hostinet.com/comprar/affiliate/resource/
 ||hostinet.com/hstatics/templates/images/banner/
 ||hoyaragon.es/wp-content/uploads/*300x

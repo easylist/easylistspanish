@@ -6,5 +6,3 @@
 ||significadoconcepto.com^$popup
 ||t.co^$popup,domain=cinecalidad.run
 ||tracking.actualidad.es^$popup
-!
-||badshores.com/*^publisher_code$popup,third-party
