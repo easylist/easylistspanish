@@ -919,7 +919,7 @@ elconfidencial.com##.adcrt300x600
 cope.es,elperiodico.cat,laconversacion.net,lagaceta.com.ar,lagacetasalta.com.ar##.add
 hoyaragon.es##.addg
 lavozdegalicia.es##.adpos
-cronicadelquindio.com,dimayor.com.co,eltrecetv.com.ar,eslang.es,gnula.se,lostiempos.com,pctmix1.com,peru.com,publico.es##.ads
+cronicadelquindio.com,dimayor.com.co,eltrecetv.com.ar,eslang.es,gnula.se,lostiempos.com,peru.com,publico.es##.ads
 meristation.as.com,meristation.com.mx##.ads-notificator
 elblog.com##.ads-superior
 pelisplay.co##.ads_url_insert
@@ -1424,7 +1424,7 @@ foropolicia.es##iframe[src*="://www.netpol.es/"]
 buenaisla.net##iframe[src*="ads.ad4game.com/"]
 tarjetaroja-tv.info##iframe[src="about:blank"]
 20minutos.es##iframe[src^="https://www.20minutos.es/cajasbuscadoras/"]
-2conv.com,animeyt.es,atomixhq.club,cuevana3.so,cuevana3.video,doramasflixs.com,doramasvip.com,flvto.biz,gnula.cc,gnula.se,jkanime.net,mp3juices.cc,pelishouse.me,pelisplus.video,pelisplus2.io,serieskao.net,serieskao.tv,superflix.io,telenovelas-turcas.com.es,vidoza.net##iframe[style*="z-index: 2147483647"]
+2conv.com,cuevana3.video,doramasflixs.com,doramasvip.com,flvto.biz,gnula.cc,gnula.se,jkanime.net,mp3juices.cc,pelisplus.video,pelisplus2.io,serieskao.net,serieskao.tv,superflix.io,telenovelas-turcas.com.es,vidoza.net##iframe[style*="z-index: 2147483647"]
 apurogol.net##iframe[width="300"][height="250"][border="0"][frameborder="0"][scrolling="no"]
 apurogol.net##iframe[width="500"][height="400"][border="0"][frameborder="0"][scrolling="no"][maxwidth="500"][maxheight="400"][type="responsive"]
 leganews.es##img[alt*="Banner"]
@@ -1499,10 +1499,8 @@ noticierodelllano.com##.banner-img
 extra.com.co##.banner_header
 elinformador.com.co,lavozdemoron.es##.bannergroup
 areasac.es##.bannerhome
-pctmix1.com##.bgshadow
 eluniverso.com##.border-grey-100
 noticialdia.com##.box_a
-pctmix1.com##.boxintersitial
 180grados.digital##.code-block-3
 180grados.digital##.code-block-5
 180grados.digital##.code-block-6
@@ -1513,7 +1511,6 @@ criptonoticias.com##.cript-adlabel
 arquimaster.com.ar##.custom-html-widget
 incp.org.co##.cyclone-slider-widget-8
 areasac.es##.destacados
-berjadigital.es##.g-dyn
 periodicoeldiario.com##.hustle-popup
 elcolombiano.com##.intelectoslidercabecera
 dataifx.com##.itau-banner
