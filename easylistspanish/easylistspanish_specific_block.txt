@@ -61,6 +61,8 @@
 ||redtarapaca.com^*/ahorrocorp.jpg
 ||ripollesdigital.cat/imatges/ripollesdigital.cat/ginys/
 ||spanishcorrector.com/cnc/
+||ssp.emol.com^
+||sspnm.emol.com^
 ||static.publinews.gt/*/Skin-
 ||storage.googleapis.com/foto_autosusados/banners/$domain=autosusados.cl
 ||streamsito.com/static/vast_
