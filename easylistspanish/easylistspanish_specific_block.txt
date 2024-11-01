@@ -38,6 +38,7 @@
 ||lasamericasnews.com/images/banners/
 ||lasubasta.com/img/ners/
 ||lateja.cr/gnfactory/brandvoice/
+||mediaserver.emol.cl/other/lleison/
 ||mil21.es/anuncios/
 ||minube.click^
 ||nacion.com/gnfactory/brandvoice/
@@ -201,8 +202,6 @@
 ||elsiglodetorreon.com.mx/desplegados/banners/$subdocument
 ||elsiglodetorreon.com.mx/images/banners/$image
 ||elsoldemexico.com.mx/cultura/gastronomia/*_banner-400x250_01.jpg^$image
-||emol.com/_portada/cajasecciones/cajaeconomicos.aspx
-||emol.com/www/noticias/sqn.php?zones=
 ||escolar.net/wp-content/hoyenvertele*.jpg
 ||esmtb.com/embed/$image
 ||especiales.woman.es/wid-deportivos/index.html
@@ -301,16 +300,10 @@
 ||mariosegura.com/wp-content/uploads/*/*/*.gif
 ||media.airedesantafe.com.ar/*/banners/$image
 ||media.easy.com.ar/is/image/EasyArg/blaisteneasyhome
-||mediaserver.emol.cl/*/erreve.js
-||mediaserver.emol.cl/*/json$script
-||mediaserver.emol.cl/*/rv.js
-||mediaserver.emol.cl/other/lleison/
 ||mediterraneodigital.com/images/banners/
 ||mercadosonora.com.mx/wp-content/uploads/*/32X320BIOTIQUIN.png
 ||meridiano.com.ve/Picfiles/logo-merbet_96x34.png
 ||mesebre.cat/img/pub/
-||meteoconsult.es/publicite/
-||millionairedream.co^$third-party
 ||minube.com/administrator/minipresManager/
 ||minube.com/administrator/suggestionBoxManager/
 ||misionescuatro.com/wp-content/uploads/*.gif
