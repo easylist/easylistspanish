@@ -174,7 +174,6 @@ soychile.cl##.banner-fixed-container
 puntal.com.ar##.banner-flex
 tvn.cl##.banner-full
 primicia.com.ve##.banner-header
-businessinsider.mx##.banner-holder
 iprofesional.com##.banner-horizontal
 elnuevogeorgia.com##.banner-img
 diariodecuyo.com.ar##.banner-lanusse
@@ -393,7 +392,7 @@ visortmo.com##.pbd
 visortmo.com##.pbf
 visortmo.com##.pbi
 visortmo.com##.pbj
-lucianacocina.com,otakuteca.com,planetaneperian.com,recetasmaria.com,todomecanica.com,vgrecipes.com##.pbl
+otakuteca.com,planetaneperian.com,recetasmaria.com,todomecanica.com,vgrecipes.com##.pbl
 chileautos.cl##.peace-of-mind
 espaebook2.com##.perfbtn
 otakustv.com##.pestana_footer
@@ -552,7 +551,6 @@ playdede.us##a[href^="https://vario.tv"]
 anisearch.es##a[href^="https://www.amazon."][href*="tag="]
 portalbici.es##a[href^="https://www.awin1.com/cread.php"]
 bikezona.com##a[href^="https://www.bikezona.com/util/redirect.asp?idbanner="]
-businessinsider.mx##a[href^="https://www.compartamos.com.mx/"] > img
 quepasamedia.com##a[href^="https://www.gymglish.com/partner/"]
 vergnula.com##a[href^="https://www.primevideo.com/"][href*="tag="]
 espn.cl,espn.co.cr,espn.com.ar,espn.com.co,espn.com.do,espn.com.ec,espn.com.gt,espn.com.mx,espn.com.pa,espn.com.pe,espn.com.uy,espn.com.ve##a[href^="https://www.starplus.com"][href*="?cid="]
@@ -662,7 +660,6 @@ forocoches.com##section[style="min-width: 300px; height: 640px"]
 forocoches.com###sidebar > div > section:has(.fixed_adslot)
 elpais.com.uy##.Page-above.loaded:has(div[class^="GoogleDfpAd"])
 elpais.com.uy##.PromoBasic:has(.Promo-sponsor)
-businessinsider.mx##.col-md-4.col-12.three-column-item:has(.presentado-por)
 clarin.com##.column > div[class] > div[class^="sc-"]:has(div[class^="sc-"] > div[id^="div-gpt-ad"])
 falabella.com##.grid-pod:has(.patrocinado-title)
 leroymerlin.es##.l-resultsList__item:has(.kl-blade--sponsored)
@@ -700,8 +697,6 @@ forocoches.com###AutoNumber30
 diariopopular.com.ar###OBJETO861 > .ad-obj
 foroparalelo.com###ad_global_below_navbar
 es.nametests.com###ad_wrapper_head
-nomellamesfriki.com###adpv1
-nomellamesfriki.com###adpv2
 notariosyregistradores.com###ads
 eltiempo.es###ads_position_2
 agma.io###advertDialog1
@@ -718,7 +713,7 @@ lacuerda.net###ban160
 lacuerda.net###ban300
 lacuerda.net###ban728
 lacuerda.net###banTxt
-fmvida.com.ar,inmonauta.es,lapoliticaonline.com.mx###banner
+fmvida.com.ar,lapoliticaonline.com.mx###banner
 viralizalo.com###banner-mega
 diariotextual.com###bannerDiv
 pantallazo.com.uy###bannerEspeciales
@@ -726,9 +721,7 @@ eldefinido.cl###bannerGCP
 entornointeligente.com###bannerHorizontal
 aica.org###banner_A
 ahorradororata.com###banner_footer
-cinecalidad.to###banner_sinopsis
 paxinasgalegas.es###banner_superior
-nomellamesfriki.com###banneralto
 tresubresdobles.com###bannerbajo
 laindustria.pe###bannercentral
 laindustria.pe###bannercentral2
@@ -748,7 +741,6 @@ hsbnoticias.com###block-infoblocks-infoblocks-fixedsize-7
 informe21.com###block-views-diosuniversal-block-1
 telesemana.com###blog-banner
 ushuaia24.com.ar###bloque-11
-pickinup.es###brand-carousel
 abc.com.py###breaking-news-banner1
 wordmagicsoft.com###bt_aws_ad_slot_1
 rinconforero.mforos.com###by_hawkers
@@ -762,7 +754,6 @@ pantallazo.com.uy###clima-banner
 desdesoria.es###columnapublicidad
 montevideo.com.uy###conectab
 economia3.com###contiene_orejeras
-clipwatching.com###coverAds
 henaojara.com###custom_html-12
 laopinionsannicolas.com.ar###custom_html-3
 futbolhoy.com.ar###custom_html-4
@@ -788,7 +779,6 @@ gente.com.ar###generico
 diariotextual.com###gkRightBottom
 diariotextual.com###gkRightTop
 telesemana.com###header-banner
-interviu.es###headerBanner
 telesemana.com###highlights-banner
 realbetisbalompie.es###horizotal-banners
 laarena.com.ar###id_popup_MM_cliqueado
@@ -804,7 +794,6 @@ elmundo.es###modulo_buscador_sv
 cadena3.com###mundo-descuento
 juanbustos.com###mvp-head-top
 esportmaniacos.com###mvp-wallpaper
-chrissysinvite.co###myModal
 megaserie.me###newlayercontent
 forocoches.com###notices
 dle.rae.es###opciones > #patrocinio
@@ -818,10 +807,8 @@ naciodigital.cat###publicos
 naciodigital.cat###publientrenotis
 elcucodigital.com###publitopfondo
 ehowenespanol.com###radlinks
-revistagmgastronomia.com###rev_slider_1_1_wrapper
 realbetisbalompie.es###right-banners
 noticias.juridicas.com###sc-brandday
-nomellamesfriki.com###shopall1
 noticias3d.com###skin
 noticiasmallorca.es###slider-wrapper
 todoblaugrana.com###slimbanner
@@ -846,25 +833,24 @@ misionesonline.net###text-20
 misionesonline.net###text-21
 misionesonline.net###text-22
 comodorodeportes.gov.ar###text-25
-16valvulas.com.ar,bufeo.do,elsigloweb.com,infoagro.com.ar,todopolicia.com###text-3
+16valvulas.com.ar,elsigloweb.com,infoagro.com.ar,todopolicia.com###text-3
 crearmiempresa.es,infoagro.com.ar###text-4
 diariovictoria.com.ar,elsigloweb.com###text-5
 smnoticias.com,smnoticias.info###text-52
 diariovictoria.com.ar,elsigloweb.com###text-6
 telesemana.com###text-69
-animechou.com,diariovictoria.com.ar,elexpediente.co,nuestroclima.com###text-7
+diariovictoria.com.ar,elexpediente.co,nuestroclima.com###text-7
 livenumetal.es###text-7 > .textwidget
 irispress.es###text-72
-bufeo.do,nuestroclima.com,todopolicia.com###text-8
+nuestroclima.com,todopolicia.com###text-8
 telesemana.com###text-86
 telesemana.com###text-87
-lasextaseccion.com.ar###text-9
 comodorodeportes.gov.ar###text-999
 elcolombiano.com###tiquetesMasBaratos
 chathispano.com###top
 abc.com.py###top-banners
 ecuavisa.com###topbar
-dinostream.pw,verdirectotv.org###total
+dinostream.pw###total
 dinostream.pw###total2
 dinostream.pw###total3
 latino-webtv.com,ver-television.online###ventana-flotante
@@ -886,10 +872,8 @@ reforma.com###zonaavisos
 informe21.com###zone-user-wrapper
 madridpress.com,sahagundigital.com##.BANNER-IMAGES
 diariodelalinea.es##.BANNER_COLUMN
-diariolagrada.com,globalasia.com,marketingregistrado.com,prensa.com##.Banner
+diariolagrada.com,marketingregistrado.com,prensa.com##.Banner
 guadairainformacion.com##.Banner300x100
-globalasia.com##.BannerColumna
-globalasia.com##.BannerHeader_Contenedor
 juegosjuegos.com##.Banners-lateral
 hipertextual.com##.M50B--md
 eldefinido.cl##.RP
@@ -907,7 +891,6 @@ elambito.com,elmetro.com.co,gasteizhoy.com,radiomunera.com,realidadsm.com,stickn
 seriesgrey.com##.a728
 abchoy.com.ar,applesfera.com,bebesymas.com,bolavip.com,compradiccion.com,diariodelviajero.com,directoalpaladar.com,economiadigital.es,elblogsalmon.com,elconfidencial.com,elsol.com.ar,es.wallapop.com,espinof.com,genbeta.com,genbetadev.com,larazon.es,laverdad.com,mediotiempo.com,motorpasion.com,motorpasionmoto.com,pymesyautonomos.com,salvajes.com,telecinco.es,trendencias.com,trendenciashombre.com,vidaextra.com,vitonica.com,xataka.com,xatakaciencia.com,xatakafoto.com,xatakahome.com,xatakamovil.com,xatakandroid.com,xatakawindows.com##.ad
 marca.com##.ad-item-bt-cont
-juegosdecanciones.net##.ad-latest
 arbolabc.com##.ad-leaderboard-row
 elpatagonico.com##.ad02-obj
 costacadizcomunicacion.es,smnoticias.com,smnoticias.info##.ad2
@@ -955,7 +938,7 @@ cadena3.com##.baner960x50
 cadena3.com##.baners-medio-nota-ampliada
 eleconomista.es##.bankia-cuerda
 expansion.com##.bankimia
-24con.com,agenciafe.com,agritotal.com,azarplus.com,bigbangnews.com,canal-ar.com.ar,debate.com.mx,diariodecuyo.com.ar,diariohoy.net,diariolaprovinciasj.com,diariopopular.com.ar,elancasti.com.ar,eldiarionuevodia.com.ar,elpatagonico.com,gacetadeportiva.com.ar,garticphone.com,impulsobaires.com.ar,infocanuelas.com,informador.mx,lacapital.com.ar,lacuarta.com,laiguana.tv,lanacion.com.ar,lapoliticaonline.com,laprensagrafica.com,masgamers.com,mdzol.com,meristation.com.mx,mibrujula.com,minutouno.com,paraveronline.com,planetadeagostini.es,primiciasya.com,puntobiz.com.ar,realpolitik.com.ar,rosario3.com,sanjuan8.com,t13.cl,tutecnomundo.com,tycsports.com,unoentrerios.com.ar,unosantafe.com.ar,voydeviaje.com.ar##.banner
+24con.com,agenciafe.com,agritotal.com,azarplus.com,bigbangnews.com,canal-ar.com.ar,debate.com.mx,diariodecuyo.com.ar,diariohoy.net,diariolaprovinciasj.com,diariopopular.com.ar,elancasti.com.ar,eldiarionuevodia.com.ar,elpatagonico.com,garticphone.com,impulsobaires.com.ar,infocanuelas.com,informador.mx,lacapital.com.ar,lacuarta.com,laiguana.tv,lanacion.com.ar,lapoliticaonline.com,laprensagrafica.com,masgamers.com,mdzol.com,meristation.com.mx,mibrujula.com,minutouno.com,paraveronline.com,planetadeagostini.es,primiciasya.com,puntobiz.com.ar,realpolitik.com.ar,rosario3.com,sanjuan8.com,t13.cl,tutecnomundo.com,tycsports.com,unoentrerios.com.ar,unosantafe.com.ar,voydeviaje.com.ar##.banner
 alicanteplaza.es,castellonplaza.com,valenciaplaza.com##.banner--
 hipertextual.com##.banner--evento
 bigbangnews.com##.banner--full
@@ -992,14 +975,8 @@ cronista.com##.banner-revista
 unosantafe.com.ar##.banner-side
 cooperativa.cl,tycsports.com##.banner-top
 hazteveg.com##.banner-wrapper
-breves24.com.ar##.banner1
-breves24.com.ar,laprensagrafica.com##.banner2
-nomellamesfriki.com##.banner250
-breves24.com.ar##.banner3
+laprensagrafica.com##.banner2
 iprofesional.com##.banner300x
-breves24.com.ar##.banner4
-breves24.com.ar##.banner5
-interviu.es##.bannerBlock
 tottarragona.cat##.bannerContainer
 gente.com.ar##.bannerSide
 rosariogarage.com##.banner_bienes_rosario
@@ -1017,7 +994,6 @@ azarplus.com##.bannerfijodcha
 azarplus.com##.bannerfijoizda2
 ecijaweb.com,elwebdelmirall.net,lancelotdigital.com##.bannergroup
 lancelotdigital.com##.bannerheader
-ennaranja.com##.bannering
 diarioresponsable.com##.banneritem
 elliberal.com.ar##.bannernota
 elliberal.com.ar##.bannernota2
@@ -1052,7 +1028,6 @@ planetabocajuniors.com.ar##.bloque-secondary
 esmtb.com##.bloque_anun
 diariolaprovinciasj.com,infofueguina.com,pilaradiario.com##.bnn
 mundodeportivo.com##.bolarosa
-pelisadicto.com##.box
 clarin.com##.box-adv
 debate.com.mx##.box-banner
 puntobiz.com.ar##.box-banners-dest
@@ -1079,11 +1054,9 @@ abc.com.py##.col-banner
 abc.com.py##.col-banner-45
 frontera.info##.col-banner_c2
 force-download.es##.col-sm-2
-deportemixtv.info##.column-right-outer
 puntobiz.com.ar##.columna-tercera
 elespanol.com##.comments-adv
 renfe.com##.comprabilletes
-tandildiario.com##.containerBannerDesplegable
 reforma.com##.container_publicidad
 anbariloche.com.ar,anroca.com.ar##.contenedor_banner_popup
 anbariloche.com.ar,anroca.com.ar##.contenedor_principal_banner_lateral
@@ -1128,7 +1101,6 @@ tallasgrandes.es##.grid_24
 fichajes.com##.gtag
 ramenparados.com##.head-wrap-out
 loventine.com.ar,loventine.es##.header_publicity
-canalciclismo.com##.hide-for-small
 peru21.pe##.hiraoka
 emprendices.co##.homepage-widget > #text-16
 flvto.biz##.horizontal-area
@@ -1152,7 +1124,6 @@ rpp.pe##.logo-min
 lavanguardia.com##.lv-publi-box
 blancas.cl,paginasblancas.com.ar,paginasblancas.com.pe##.m-pod-promo-image
 eltiempo.es##.m_gollum
-tandildiario.com##.mainContainerBanner
 maracodigital.net##.margenpublicidad
 publico.es##.megabanner-container
 horadeopinion.com.ar##.ml-slider
@@ -1243,8 +1214,8 @@ laveu.cat##.spotPortada
 flvto.biz##.square-area
 diariolarepublica.com.ar##.st-banner
 profesionalreview.com##.stream-item
-cadenaoh.com.ar,envilladelparque.com,envilladevoto.com##.stream-item-mag
-envilladelparque.com,envilladevoto.com##.stream-item-widget
+cadenaoh.com.ar,envilladevoto.com##.stream-item-mag
+envilladevoto.com##.stream-item-widget
 t13.cl##.t_banner_t13
 chacodiapordia.com,eladelantado.com,mundoplus.tv,tumbaabierta.com,ultimahoraec.com##.td-a-rec
 laarena.com.ar##.td-a-rec-id-sidebar
@@ -1260,7 +1231,6 @@ larazon.es##.textoPatrocinio
 elbierzodigital.com,futbolretro.es,villavonoticias.com##.textwidget
 henaojara.com##.textwidget.custom-html-widget
 gameflare.com##.timer
-miradetodo.io##.tit
 hoyaragon.es##.titulo-publicidad
 telefe.com##.tlf-ad
 theobjective.com##.tno-banner
@@ -1284,10 +1254,10 @@ equipar.es,nicaraguahoy.info##.widget_custom_html
 lajornadanet.com##.widget_custom_html > .block-title
 st1.idealista.com##.widget_idealista
 crearmiempresa.es,diariotextual.com,moracontenidos.com,realidadsm.com,somosjuarez.com##.widget_media_image
-elespia.co,envilladelparque.com,envilladevoto.com##.widget_metaslider_widget
+elespia.co,envilladevoto.com##.widget_metaslider_widget
 cafevirtual.cl,pamplonaactual.com,trincheraonline.com##.widget_text
 jerezcofrade.tv##.widget_ti_image_banner
-envilladelparque.com,envilladevoto.com##.widget_wp_views
+envilladevoto.com##.widget_wp_views
 arquimaster.com.ar,moracontenidos.com##.wp-block-image
 diariotextual.com##.wpb_raw_html
 armasymuniciones.net,mariosegura.com,miradiols.cl##.wpb_single_image
@@ -1320,8 +1290,6 @@ va6.thand.info##a[href*="http://www.physoi.eu/script/redirect.php?url=*"]
 okdiario.com##a[href*="legalitas.com/"]
 juegos.com##a[href*="smarturl.it/"]
 playpaste.com##a[href*="wg-aff.com/click?"]
-miradetodo.io##a[href="#div0"]
-miradetodo.io##a[href="#playerads"]
 20minutos.es##a[href="http://boticariagarcia.com/"]
 diariodelaribera.org##a[href="http://castillafloristeria.com/"]
 diariodelaribera.org##a[href="http://electrosanzhermanos.com/"]
@@ -1342,7 +1310,6 @@ ruedasgordas.es##a[href="https://www.facebook.com/pages/BENIBIKES-Benidorm/17712
 ole.com.ar##a[href="https://www.youtube.com/watch?v=IZPtel51MlA"]
 noticiacristiana.com##a[href='http://iglesiasegura.com/']
 teknofilo.com##a[href^="//clk.tradedoubler.com/click?"]
-adlipay.com##a[href^="/away.php?"]
 microsiervos.com##a[href^="http://bit.ly/"]
 mastercoria.com##a[href^="https://alertlogsemployer.com"]
 zigzagdigital.com##a[href^="https://beone.es/"]
@@ -1353,7 +1320,6 @@ nocensor.sbs##a[href^="https://hacktorrent.net/"]
 blog-peliculas.com##a[href^="https://innyweakela.co/redirect?"]
 actualarganda.com##a[href^="https://karting-rivas.com/"]
 noticiasparamunicipios.com##a[href^="https://noticiasparamunicipios.com/linkout/"]
-genteflow.us##a[href^="https://veranime.org/"]
 desarrollowp.com,microsiervos.com,supercpps.com##a[rel*="sponsored"]
 planetadeagostini.es##article[id^="divAdserver"]
 arquimaster.com.ar##div[align="center"] > a
@@ -1379,18 +1345,11 @@ entornointeligente.com##div[style="clear:both;width:100%;background-color: #EFEF
 argentinavende.com,cordobavende.com##div[style="float:left;width:970px;height:90px;background: #eee; margin-right:10px"]
 boardzona.com##div[style="font-family:Arial, Helvetica, sans-serif;font-size:9px;color:#666666"]
 vanguardia.com##div[style="font-size: 0.8em; text-align: left; color: rgb(136, 136, 136);"]
-lifezona.com##div[style="font-size:15px;height:19px;color:white;font-weight:bold;"]
 todomercadoweb.es##div[style="height:270px; padding: 10px 0;"]
 3djuegos.com##div[style="height:334px"]
-canalchic.com##div[style="margin-bottom:1px; padding-bottom:1px; height:70px; margin-top:1px"]
 elcomercial.com.ar##div[style="margin-top:10px;float: left;"]
 vanguardia.com##div[style="margin-top:15px;float:left;width:100%;"]
 elotrolado.net##div[style="margin: 0 -10px 20px -10px"]
-girabsas.com##div[style="margin: 0 0 15px 0; overflow: hidden; position: relative; height: 0; padding-bottom: 25.39%;"]
-girabsas.com##div[style="margin: 0 0 15px 0; overflow: hidden; position: relative; height: 0; padding-bottom: 338.34%;"]
-girabsas.com##div[style="margin: 0 0 15px 0; overflow: hidden; position: relative; height: 0; padding-bottom: 344.09%;"]
-girabsas.com##div[style="margin: 0 0 15px 0; overflow: hidden; position: relative; height: 0; padding-bottom: 9.39%;"]
-bufeo.do##div[style="margin: 0px;padding: 0px; background-color: transparent;"]
 infojobs.net##div[style="margin:0px 20px 20px 30px;font-size:16px;border:1px solid #d5e1e5"]
 concuchilloytenedor.es##div[style="margin:5px auto 5px;text-align:center;"]
 19640noticias.com##div[style="padding: Publicidad"]
@@ -1402,7 +1361,6 @@ epasatiempos.es##div[style="width: 336px; height: 565px; float: right; margin-to
 ahorradororata.com##div[style="width: 640px; height: 480px;"]
 ahorradororata.com##div[style="width: 728px; height: 90px;"]
 biodiesel.com.ar##div[style="width: 90%; height: 90px; background: #fff; text-align: center; display: inline-block; color: #bbb; font-family: 'Open Sans', sans-serif; font-weight: 700; font-size: 1.2rem; white-space: nowrap; padding: 0px 5% 0; overflow: hidden;"]
-lifezona.com##div[style="width:100%;height:95px;margin-top:5px;"]
 elciudadano.cl##div[style="width:100%;margin: 30px auto; text-align:center;clear:both;padding:20px 0;"]
 foroparalelo.com##div[style="width:120px; height:600px;"]
 tabascohoy.com##div[style="width:300px; height:250px; margin:0px auto;"]
@@ -1423,13 +1381,11 @@ manerasdevivir.com##hr[style="width:5px; color:#CC6600; background-color:#CC6600
 boardzona.com##iframe[src*="://supercore.adm-vids.com/video_offer?"]
 foropolicia.es##iframe[src*="://www.netpol.es/"]
 buenaisla.net##iframe[src*="ads.ad4game.com/"]
-tarjetaroja-tv.info##iframe[src="about:blank"]
 20minutos.es##iframe[src^="https://www.20minutos.es/cajasbuscadoras/"]
-2conv.com,cuevana3.video,doramasflixs.com,doramasvip.com,flvto.biz,gnula.cc,gnula.se,jkanime.net,mp3juices.cc,pelisplus.video,pelisplus2.io,serieskao.net,serieskao.tv,superflix.io,telenovelas-turcas.com.es,vidoza.net##iframe[style*="z-index: 2147483647"]
+2conv.com,cuevana3.video,doramasflixs.com,doramasvip.com,flvto.biz,gnula.cc,gnula.se,jkanime.net,mp3juices.cc,pelisplus.video,serieskao.net,serieskao.tv,telenovelas-turcas.com.es,vidoza.net##iframe[style*="z-index: 2147483647"]
 apurogol.net##iframe[width="300"][height="250"][border="0"][frameborder="0"][scrolling="no"]
 apurogol.net##iframe[width="500"][height="400"][border="0"][frameborder="0"][scrolling="no"][maxwidth="500"][maxheight="400"][type="responsive"]
 leganews.es##img[alt*="Banner"]
-bufeo.do##img[alt="Espacio Publicitario"]
 interbenavente.es##img[alt="http://interbenavente.es/pag/serviciosweb"]
 interbenavente.es##img[alt="http://www.ford.es/serviciopostventa/PromocionesPostventa2013"]
 interbenavente.es##img[alt="http://www.serviciosfunerarioszamoranos.com/"]
@@ -1467,8 +1423,6 @@ cerebriti.com###barraAvisoAds
 allinonedownloader.com###binanceAd
 wizcase.com###bio_ep
 flashscore.co###box-over-content-a
-noticiasamarillascartago.com###carrusel_publicidad
-diarioputumayo.com###custom_html-3
 andro4all.com###disp-cta
 bolivia.com,colombia.com###espacio-teads
 radioexito.com.ar###imagensidebar
@@ -1594,7 +1548,6 @@ iberley.es##[href^="https://www.colex.es"]
 bimotos.com##[href^="https://www.continental-neumaticos.es/"]
 accounter.co##[href^="https://www.dsa.com.co/"]
 opanoticias.com##[href^="https://www.electrohuila.com.co/"]
-pasionmontanera.com.co##[href^="https://www.inder.gov.co/"]
 blizzboygames.net##[href^="https://www.instant-gaming.com/"]
 guiascasinos.com##[href^="https://www.jackpotcitycasino.com/"]
 la.network##[href^="https://www.montrebar.com/"]
@@ -1619,7 +1572,7 @@ pt-mexico.com##[onclick*="'page' : '/virtual/Ad/"]
 andina.pe##[onclick*="/publicidad"]
 nintenderos.com##a[href^="https://www.eneba.com/"][href*="?af_id="]
 miamidiario.com##a[href^="https://www.univistainsurance.com/"]
-cuevana.se,divxtotal.li,divxtotal.nl,divxtotal.nu,divxtotal.pm,dontorrent.ws,pelispanda.com##a[target="_blank"][href^="https://startgaming.net"]
+cuevana.se,divxtotal.li,divxtotal.nl,divxtotal.pm,dontorrent.ws,pelispanda.com##a[target="_blank"][href^="https://startgaming.net"]
 kairosweb.com##div[class*="banner-"]
 merca20.com##div[data-id^="013f85c"]
 alcalorpolitico.com##div[id^="Bannerprincipal"]

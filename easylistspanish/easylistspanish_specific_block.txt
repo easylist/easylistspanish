@@ -54,7 +54,6 @@
 ||player.cuevana8.com/assets/vast_
 ||player.gnula.nu/assets/vast_
 ||player.repelis24.life/assets/vast_
-||pordede.click/assets/img/suscripcion.png
 ||puromarketing.com/adxs/
 ||redtarapaca.com^*/ahorrocorp.jpg
 ||ripollesdigital.cat/imatges/ripollesdigital.cat/ginys/
@@ -95,13 +94,12 @@
 ||ondavalencia.es/images/1808_MUDANZAS_BENICALAP.png
 ||ondavalencia.es/images/32_VALENHAUS_guia.jpg
 !
-/^https?:\/\/[0-9a-z]{8,}\.com\/.*/$~media,third-party,domain=animefenix.com|animeonline.ninja|animeyt.es|compucalitv.com|compupaste.com|cuevana2.cyou|gnula24.xyz|henaojara2.com|mangamovil.net|megaepubsgratis.com|mejortorrent.cc|mundoepub3.com|pelispediahd.site|pelisplus.top|pelisplus2.io|pelisplushd.nu|pirlotv.fr|pirlotvonline.org|pormega.com|rojadirectaenvivo.club|rojadirectatv.tv|seriesly.top|seriespepito.top|shadowrangers.live|shadowrangers.net|telenovelas-turcas.com.es|tomatomatela.com|verblackclover.com|verboruto.online|xn--solopeliculasespaol-c4b.com
+/^https?:\/\/[0-9a-z]{8,}\.com\/.*/$~media,third-party,domain=animefenix.com|animeonline.ninja|animeyt.es|compupaste.com|cuevana2.cyou|gnula24.xyz|henaojara2.com|mangamovil.net|megaepubsgratis.com|mejortorrent.cc|mundoepub3.com|pelisplus.top|pelisplushd.nu|pirlotv.fr|pirlotvonline.org|pormega.com|rojadirectaenvivo.club|rojadirectatv.tv|seriesly.top|seriespepito.top|shadowrangers.live|shadowrangers.net|telenovelas-turcas.com.es|tomatomatela.com|verblackclover.com|verboruto.online|xn--solopeliculasespaol-c4b.com
 /^https?:\/\/[0-9a-z]{8,}\.xyz\/.*/$~media,third-party,domain=abismalonshort.blogspot.com|animeonline.ninja|cinehax.com|gnula.nu|gnula.se|nickelodeonplus.online|pormega.com|seriesperu.com|telenovelas-turcas.com.es|verificandoarch2.blogspot.com|verificarhuman.blogspot.com
 !
 /avisos^$image,domain=novalaplata.com
 /elements*/publicitat^$image,domain=lesportiudecatalunya.cat
 /public/Image/*banner*^$image,domain=alicanteplaza.es|castellonplaza.com|valenciaplaza.com
-/publicity/*$subdocument,domain=aodirectos.xyz|hdchannel.xyz|livexonline.xyz|srfixerhd.info
 /skin-esportmaniacos$image,domain=esportmaniacos.com
 /static/BB3HTML/images/*sponsor*.png$domain=diariodecadiz.es|diariodejerez.es|diariodesevilla.es|elalmeria.es|eldiadecordoba.es|europasur.es|granadahoy.com|huelvainformacion.es|malagahoy.es
 /uploads/advertisings/*$domain=tribunaavila.com|tribunaburgos.com|tribunaleon.com|tribunapalencia.com|tribunasalamanca.com|tribunasegovia.com|tribunasoria.com|tribunavalladolid.com|tribunazamora.com
@@ -121,7 +119,6 @@
 ||abchoy.com.ar/publipopup/
 ||abocados.es/wp-content/uploads/*/*/banner-
 ||acortalo.net/js/clasicotas.js
-||adlipay.com/away.php?
 ||agar.live/300banner.gif
 ||agenciafe.com/data/img_cont/img_banners/
 ||agma.io/img/agmaAd/
@@ -136,7 +133,6 @@
 ||apfdigital.com.ar/imgpublicidad/
 ||azarplus.com/fotos/banners
 ||azarplus.com/includes/greybox/AJS.js
-||azcast.live/img/close1.png
 ||babalonia.com/images/promo/*.gif
 ||bajafiles.net/ima.gif
 ||bajafiles.net/leer.jpg
@@ -144,11 +140,8 @@
 ||bienesrosario.com/resources/banner/
 ||blogger.googleusercontent.com/img/a/$domain=reconquistanoticias.blogspot.com
 ||blogspot.com/*.gif$domain=puertocampoynegocios.com
-||breves24.com.ar/banners/
-||buyman.com.ar/pubex/
 ||cadizbuenasnoticias.com/wp-content/banners/
 ||caletadesarrollos.com/marketing/banner-pc/banner-pc.html^$domain=elchubut.com.ar
-||canalciclismo.com/media/banners/
 ||capodeportes.net/extremotv/abajo.php
 ||capodeportes.net/extremotv/arriba.php
 ||capodeportes.net/extremotv/lateral.php
@@ -159,7 +152,6 @@
 ||cdn23.merca20.com/wp-content/uploads/2017/10/panorama-marketing-farmaceutico.jpg
 ||chacohoy.com/files/banners/
 ||chatzona.net/img/amigos-banner.jpg
-||chrissysinvite.co/a
 ||cloudfront.net/ODD/widgets/220x308.html
 ||clubdelectores.cl/cajaEmolClub/$third-party
 ||comodorodeportes.gov.ar/wp-content/uploads/*/*/*.gif
@@ -217,7 +209,6 @@
 ||elsoldemexico.com.mx/cultura/gastronomia/*_banner-400x250_01.jpg^$image
 ||emol.com/_portada/cajasecciones/cajaeconomicos.aspx
 ||emol.com/www/noticias/sqn.php?zones=
-||ennaranja.com/wp-content/themes/ingblog-fa/assets/images/logoing.png
 ||escolar.net/wp-content/hoyenvertele*.jpg
 ||esmtb.com/embed/$image
 ||especiales.woman.es/wid-deportivos/index.html
@@ -229,8 +220,6 @@
 ||file02.lavanguardia.com/2015/03/02/54428665978-file.jpg
 ||file02.lavanguardia.com/2015/06/30/54432622531-file.jpg
 ||fm899.com.ar/public/images/banners/
-||fmgol.com.ar/index_htm_files/CECAITRA_TRANSITO.gif
-||fmgol.com.ar/index_htm_files/EDELAP_300X300.gif
 ||forocoches.com/image/varios/hawkers_2017a.png
 ||forokeys.com/foro/banners/
 ||foroparalelo.com/images/avisos/
@@ -243,9 +232,7 @@
 ||googleapis.com/lanacion-media-storage/*bannernacionnews.png
 ||googleusercontent.com/proxy^$image,domain=paralelohoy.com.ar
 ||gualeguaychu.gov.ar/apps/web/images/temporales/municipalidad-06.png
-||guiatv.biz/adporn.html
 ||hazteveg.com/img/banner
-||heybros.shop/wp-content/uploads/*/heybros.gif^$domain=simpsons-latino.club
 ||hitfm.es/view/imgs/Trident-Hit-FM-Fondo-*.jpg
 ||horadeopinion.com.ar/imagenes/*.gif
 ||horadeopinion.com.ar/wp-content/uploads/*/*/*.gif
@@ -308,7 +295,6 @@
 ||laxarxa.com/media/asset_publics/resources/000/009/887/original/publicitat.gif
 ||ldu.com.ec/fotos/publi_*.png
 ||leganews.es/wp-content/uploads/*/publicidad
-||lifezona.com/public_data/img/banners/
 ||lostiempos.com/sites/default/files/takeover/desktop/$image
 ||loteriasmundiales.com.ar/images/columna_publi_2/anuncie_aqui2.gif
 ||loteriasmundiales.com.ar/images/loterias/banners/
@@ -321,7 +307,6 @@
 ||mariosegura.com/wp-content/uploads/*/*/*.gif
 ||media.airedesantafe.com.ar/*/banners/$image
 ||media.easy.com.ar/is/image/EasyArg/blaisteneasyhome
-||mediainterior.com.ar/images/
 ||mediaserver.emol.cl/*/erreve.js
 ||mediaserver.emol.cl/*/json$script
 ||mediaserver.emol.cl/*/rv.js
@@ -345,7 +330,6 @@
 ||naciodigital.cat/redaccio/publicitat/
 ||netpol.es/foropolicia_banner
 ||netuy.net/banner_hosting_uruguay/
-||newsweeklatino.com/flow/
 ||noticias3d.com/imagenes/banners/
 ||noticiasdel6.com/*.gif
 ||noticiasdelaciencia.com/upload/img/periodico/img_2972.jpg
@@ -353,7 +337,6 @@
 ||nueva-ciudad.com.ar/advf/imagenes/*.gif
 ||nueva-ciudad.com.ar/advf/imagenes/2016/09/57eaba064c5fc.png
 ||nueva-ciudad.com.ar/banners/
-||nuevaeranet.com.ar/publicidades_cate/
 ||objetivocastillalamancha.es/sites/default/files/NOTICIAS/BANNER
 ||objetivocastillalamancha.es/sites/default/files/styles/banercolumna
 ||objetivocastillalamancha.es/sites/default/files/styles/bannercolumna
@@ -388,7 +371,6 @@
 ||realovirtual.com/pictures/banners/
 ||realpolitik.com.ar/uploads/banners/
 ||recambios-expres.es/medias/oil-bundle-oil-es.png
-||recursos.dl-cdn24.com/bannerpl/
 ||recursos.equipohumano.com/*_plubli/enlace.html^$subdocument,domain=valenciaplaza.com
 ||red92.com/images/uploaded/spots/
 ||religionenlibertad.com/imgpbs/
@@ -435,14 +417,12 @@
 ||tabascohoy.com/img/blogmiguelcanton.png
 ||tabascohoy.com/img/temp/banner_miguelcanton.png
 ||tabascohoy.com/img/temp/banner_notasgoogle.png
-||tarjetaroja-tv.info/publicity/
 ||telexplorer.com.ar/images/banners/
 ||teliad.es/*/banner/
 ||tiemposur.com.ar/banners/
 ||tiemposur.com.ar/uploads/banners
 ||tiquetesbaratos.com/pruebas/periodicos/
 ||todopuebla.com^$subdocument,domain=elpopular.mx
-||trtocm.tarjetarojatvonline.com^$script
 ||tucumanalas7.com.ar/u/banners/
 ||tumbaabierta.com/wp-content/uploads/*/*/banner_
 ||tumblr.com/eqq8p0h/2f9mqpk3y/gif__1_.gif
@@ -465,7 +445,6 @@
 ||xtremostereo.net/t3l33/
 ||yucatan.com.mx/wp-content/uploads/*/*/banner
 ||zapping.live/images/uploads/banners/zapping-*.gif^
-||zetaestaticos.com/comun/upload/0/628/628692.jpg
 ! blob ads
 ! RegEx filters
 /^https?:\/\/([a-z0-9]{8,10}\.)?[a-z0-9]{5,14}\.(com|bid|online|top|club)\/([a-z0-9]{2}\/){3}[a-f0-9]{32}\.js$/$script,third-party
@@ -480,7 +459,6 @@ $script,third-party,domain=xtremostereo.net
 /popup-maker/$script,domain=diariotextual.com
 ||annarecetasfaciles.com/*-idoneo.gif
 ||budokaifighters.com/images/
-||diarioputumayo.com/wp-content/uploads/2021/04/PUB
 ||elcolombiano.com/*/punto-de-compras-2-productos
 ||elhistoriador.com.ar/*/*banner
 ||elhistoriador.com.ar/*/2021/1*/
