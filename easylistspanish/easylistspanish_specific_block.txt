@@ -33,6 +33,7 @@
 ||habimg.com/hab_banners/$domain=habitaclia.com
 ||inmanga.com/ads/
 ||juanfutbol.com/caliente-ticker-widget?
+||lapostaldemardelplata.com/img/avisos/
 ||lasamericasnews.com/images/avisos/
 ||lasamericasnews.com/images/banners/
 ||lasubasta.com/img/ners/
