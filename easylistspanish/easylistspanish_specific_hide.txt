@@ -425,7 +425,7 @@ record.com.mx##.publicidadBoxBanner300x75
 diario.mx##.publicidad_basica
 0221.com.ar##.publicidad_cont
 eldesmarque.com##.publicidad_marca
-elpuntavui.cat,leconomic.cat##.publicitat
+elpuntavui.cat,leconomic.cat,lesportiudecatalunya.cat##.publicitat
 alfabeta.net##.publimg
 semana.com##.publish-box
 psicologiaymente.com##.py-4.text-center
@@ -639,7 +639,7 @@ pescare.com.ar##img[height="735"]
 segoviaudaz.es##img[height="90"]
 expreso.ec##img[style*="max-width: 970px;"]
 hortanoticias.com,libroscristianosgratis.net##img[width="250"]
-apuestasfree.com,atacamaenlinea.cl,beergeeks.cl,beermagazine.net,cinemascomics.com,conbasesllenas.com,diariotextual.com,horadeopinion.com.ar,hortanoticias.com,informe21.com,lacapitalmdp.com,lapanteradc.com,laprensadecolorado.com,mundo724.com,pcpro.es,thebeertimes.com##img[width="300"]
+apuestasfree.com,atacamaenlinea.cl,beergeeks.cl,beermagazine.net,cinemascomics.com,conbasesllenas.com,diariotextual.com,horadeopinion.com.ar,hortanoticias.com,informe21.com,lacapitalmdp.com,lapanteradc.com,laprensadecolorado.com,mundo724.com,pcpro.es,socialetic.com,thebeertimes.com##img[width="300"]
 highxtar.com##img[width="300"][height="600"]
 mundo724.com##img[width="330"]
 planbnoticias.com.ar,transponder1200.com##img[width="336"]
@@ -720,7 +720,6 @@ diariotextual.com###bannerDiv
 pantallazo.com.uy###bannerEspeciales
 eldefinido.cl###bannerGCP
 entornointeligente.com###bannerHorizontal
-aica.org###banner_A
 ahorradororata.com###banner_footer
 paxinasgalegas.es###banner_superior
 tresubresdobles.com###bannerbajo
@@ -794,7 +793,6 @@ libertaddigital.com###mega-atf
 elmundo.es###modulo_buscador_sv
 cadena3.com###mundo-descuento
 juanbustos.com###mvp-head-top
-esportmaniacos.com###mvp-wallpaper
 megaserie.me###newlayercontent
 forocoches.com###notices
 dle.rae.es###opciones > #patrocinio
@@ -1177,7 +1175,6 @@ elespanol.com##.publi_intext2
 animekb.com,carasycaretas.org.ar,diario.mx,dinero.com,eldeportivo.com.co,eltribuno.info,expansion.com,gonzoo.com,iahorro.com,laizquierdadiario.com,latercera.com,mundoejecutivo.com.mx,okdiario.com,publico.es,supercines.com##.publicidad
 brujuladigital.net##.publicidad-l
 elretratodehoy.com.ar##.publicidad_nota
-lesportiudecatalunya.cat##.publicitat
 tot-hospitalet.cat##.publicitat-banner
 loventine.com.ar,loventine.es##.publicity
 noticiasdel6.com##.publii
@@ -1367,7 +1364,6 @@ foroparalelo.com##div[style="width:120px; height:600px;"]
 tabascohoy.com##div[style="width:300px; height:250px; margin:0px auto;"]
 epasatiempos.es##div[style="width:300px; height:600px; float:right; margin-left:3px;"]
 epasatiempos.es##div[style="width:300px;height:600px;float:right"]
-aica.org##div[style="width:600px;height:60px;margin:10px 0px 10px 0px;"]
 epasatiempos.es##div[style="width:728px; height:90px; margin: 0 auto; margin-top: 5px; margin-bottom: 5px;"]
 epasatiempos.es##div[style="width:728px;height:90px;margin: 0 auto; margin-bottom:5px; margin-top:5px"]
 diario.mx##div[style="width:970px; height:90px; display:block !important; margin:0 auto; overflow:hidden; margin-bottom: 10px;"]

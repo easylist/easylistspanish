@@ -99,18 +99,13 @@
 /^https?:\/\/[0-9a-z]{8,}\.com\/.*/$~media,third-party,domain=animefenix.com|animeonline.ninja|animeyt.es|compupaste.com|cuevana2.cyou|gnula24.xyz|henaojara2.com|mangamovil.net|megaepubsgratis.com|mejortorrent.cc|mundoepub3.com|pelisplus.top|pelisplushd.nu|pirlotv.fr|pirlotvonline.org|pormega.com|rojadirectaenvivo.club|rojadirectatv.tv|seriesly.top|seriespepito.top|shadowrangers.live|shadowrangers.net|telenovelas-turcas.com.es|tomatomatela.com|verblackclover.com|verboruto.online|xn--solopeliculasespaol-c4b.com
 /^https?:\/\/[0-9a-z]{8,}\.xyz\/.*/$~media,third-party,domain=abismalonshort.blogspot.com|animeonline.ninja|cinehax.com|gnula.nu|gnula.se|nickelodeonplus.online|pormega.com|seriesperu.com|telenovelas-turcas.com.es|verificandoarch2.blogspot.com|verificarhuman.blogspot.com
 !
-/elements*/publicitat^$image,domain=lesportiudecatalunya.cat
 /public/Image/*banner*^$image,domain=alicanteplaza.es|castellonplaza.com|valenciaplaza.com
-/skin-esportmaniacos$image,domain=esportmaniacos.com
 /static/BB3HTML/images/*sponsor*.png$domain=diariodecadiz.es|diariodejerez.es|diariodesevilla.es|elalmeria.es|eldiadecordoba.es|europasur.es|granadahoy.com|huelvainformacion.es|malagahoy.es
 /uploads/advertisings/*$domain=tribunaavila.com|tribunaburgos.com|tribunaleon.com|tribunapalencia.com|tribunasalamanca.com|tribunasegovia.com|tribunasoria.com|tribunavalladolid.com|tribunazamora.com
-/widget_libros.php^$domain=noticias.juridicas.com
-/wp-content/uploads/*banner$image,domain=simpsons-latino.net|socialetic.com
 ||16valvulas.com.ar/wp-content/uploads/*.gif
 ||20m.es/css4/img/ui/pastilla_forbes.png
 ||24con.com/files/image/228/228563/59e666afdced4.jpg
 ||24con.com/files/image/230/230804/5a01a74262820_300_!.jpg
-||35.193.89.147^
 ||3djuegos.com/*/skins/
 ||3djuegos.com/?zona=
 ||3djuegos.com/img3/temp/81_war/$image
@@ -124,8 +119,6 @@
 ||agenciafe.com/data/img_cont/img_banners/
 ||agma.io/img/agmaAd/
 ||agritotal.com/file/image/*.gif
-||aica.org/publi*.html?t=
-||aica.org/publi/
 ||anbariloche.com.ar/uploads/archivos/*.gif
 ||andaluciainformacion.es/cms/media/banners/
 ||animebum.net/ads.php
@@ -403,8 +396,6 @@
 ||smnoticias.info/*.gif
 ||smnoticias.info/mpa.jpg
 ||smnoticias.info/separador.banner.jpg
-||socialetic.com/cms/wp-content/uploads/*/250x400.gif$image
-||socialetic.com/cms/wp-content/uploads/*/anuncio$image
 ||srnovelas.com/wp-content/uploads/*/descubre-wsp.jpg$image
 ||srnovelas.com/wp-content/uploads/*/sistemawsp.jpg$image
 ||st.forocoches.com/image/top_c2_fcs_hd_hawkers.png
@@ -440,7 +431,6 @@
 ||vigoe.es/images/pbanner/
 ||widget.laxarxa.com/ext/embeddable_frames/
 ||widgets.helpmycash.com/ranking-financiero/
-||wolterskluwer.es^$script,subdocument,domain=noticias.juridicas.com
 ||wp.com/realidadsm.com/wp-content/*banner$image,domain=realidadsm.com
 ||wp.com/sinmordaza.com/*?w=$image,domain=sinmordaza.com
 ||xtremostereo.net/t3l33/
