@@ -20,7 +20,7 @@ lacapitalmdp.com###anpr
 separarensilabas.com###antiBannersGigantes
 cuevana3.nu###anuncioca
 elciudadanoweb.com###apsa-pop-hidden-img
-agencianova.com,novachaco.com###avisosDerechaContainer
+agencianova.com,novachaco.com,novalaplata.com###avisosDerechaContainer
 ambito.com###bannerStickyHeader
 diarioeldia.cl###bannerZocalo
 diariodelaribera.net###bannercabeceravideo
@@ -63,6 +63,7 @@ atacamaenlinea.cl###media_image-30
 bemad.es,cuatro.com,divinity.es,energytv.es,factoriadeficcion.com,mtmad.es,niusdiario.es,telecinco.es,uppers.es,yasss.es###megaSuperior_multisite
 promodescuentos.com###mrec1FuseZonePortal
 diariodeteruel.es###mvp-leader-wrap
+novalaplata.com###notas_arriba
 chileautos.cl###page-header
 elcorreogallego.es###pmMarketing_1
 promodescuentos.com###productIncontent1FuseZonePortal
