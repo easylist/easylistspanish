@@ -24,6 +24,7 @@ pajilleros.com##.banner-bg
 freeones.es##.banner-placeholder
 eurogirlsescort.es##.banners
 pornogratisdiario.com##.bnfo
+maduras.xxx##.bnpub
 petardashd.com##.botonsponsor
 pajilleros.com##.camsHome
 pornocolombiano.net##.cnt-down
@@ -34,6 +35,7 @@ pampaporno.com##.hidden-under-920
 poringa.net##.home-native-patrocinado
 muyzorras.com##.i_sba
 jkhentai.net##.jk-300
+maduras.xxx##.join
 eurogirlsescort.es##.js-stt-click > picture
 conejox.com##.link_cams
 tupornogratis.xxx##.lst_ft_bn
@@ -67,8 +69,3 @@ muyzorras.com#?#.c.d1:-abp-has(div:-abp-contains(Más cosas interesantes))
 videospornogratisx.net#?#.block:-abp-has(>h3:-abp-contains(WEBCAM PORNO XXX))
 !!
 slumi.com###anuncio_pancarta_campaign
-donlgbt.com###banner-superior
-videosdemadurasx.com###pBrazzers
-videosdemadurasx.com###pSponsor
-videosporno.name##.bnfo
-maduras.xxx##.bnpub
