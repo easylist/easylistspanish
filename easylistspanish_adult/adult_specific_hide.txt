@@ -80,4 +80,3 @@ xvideospanish.net##.inside-player-ad
 muyzorras.com##.pds
 doncolombia.com##.samBannerUnit
 torrentesx.com##.slide
-mileroticos.com##[data-l^=" pub"]
