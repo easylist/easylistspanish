@@ -81,4 +81,3 @@ doncolombia.com##.samBannerUnit
 torrentesx.com##.slide
 mileroticos.com##[data-l^=" pub"]
 esaschicas.com##a[href^="https://esaschicas.com/rbs_banner.php?"]
-selafollan.com##a[href^="https://telelatinotv.page.link/"]
