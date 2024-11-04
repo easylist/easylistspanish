@@ -44,7 +44,7 @@ zonavideosx.com##.popvidcnt
 canalporno.com##.publ11s-b0ttom
 canalporno.com##.r11ght-pl4yer-169
 pampaporno.com##.resumecard
-esaschicas.com##.samBannerUnit
+doncolombia.com,esaschicas.com##.samBannerUnit
 verpeliculasporno.gratis##.tpd
 videos.mrvideospornogratis.xxx##.vjs-producer
 famosateca.es##[href^="https://lustlia.co/?ref="]
@@ -72,11 +72,3 @@ videosdemadurasx.com###pBrazzers
 videosdemadurasx.com###pSponsor
 videosporno.name##.bnfo
 maduras.xxx##.bnpub
-putalocura.com##.c-banner-webcams
-putalocura.com##.c-webcams
-xxxpornohq.com##.close-text
-mileroticos.com##.horizontal-webb
-xvideospanish.net##.inside-player-ad
-muyzorras.com##.pds
-doncolombia.com##.samBannerUnit
-torrentesx.com##.slide
