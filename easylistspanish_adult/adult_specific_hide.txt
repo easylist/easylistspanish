@@ -44,6 +44,7 @@ zonavideosx.com##.popvidcnt
 canalporno.com##.publ11s-b0ttom
 canalporno.com##.r11ght-pl4yer-169
 pampaporno.com##.resumecard
+esaschicas.com##.samBannerUnit
 verpeliculasporno.gratis##.tpd
 videos.mrvideospornogratis.xxx##.vjs-producer
 famosateca.es##[href^="https://lustlia.co/?ref="]
@@ -80,4 +81,3 @@ muyzorras.com##.pds
 doncolombia.com##.samBannerUnit
 torrentesx.com##.slide
 mileroticos.com##[data-l^=" pub"]
-esaschicas.com##a[href^="https://esaschicas.com/rbs_banner.php?"]
