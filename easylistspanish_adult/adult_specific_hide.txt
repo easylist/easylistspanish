@@ -46,16 +46,19 @@ canalporno.com##.r11ght-pl4yer-169
 pampaporno.com##.resumecard
 verpeliculasporno.gratis##.tpd
 videos.mrvideospornogratis.xxx##.vjs-producer
+famosateca.es##[href^="https://lustlia.co/?ref="]
 qporno.xxx##[href^="https://qp.erotilink.es"]
 comicxporn.com##a[href*="/comicxporntrafee.html"]
 fucklouder.com##a[href^="http://bit.ly/"]
 pajarracos.es##a[href^="http://www.fuegodevida.com/"]
+famosateca.es##a[href^="https://es.amateur.tv/"]
 muyzorras.com##a[href^="https://landings.videochatprovider.com/"]
 pajilleros.com##a[href^="https://www.amateur.tv/"]
 muyzorras.com##a[href^="https://www.fuegocams.com/"]
 muycerditas.com##a[href^="https://www.platanomelon.com/?rfsn="]
 cerdas.com##a[href^="https://www.pornogratis.online/"]
 pornogratisdiario.com##a[href^="https://www.webcampornoxxx.net/"]
+famosateca.es##div[align^="center"]
 videospornogratisx.net##img[width="300"]
 videospornogratisx.net##img[width="728"]
 ! Advanced element hiding rules for Adblock Plus
@@ -79,4 +82,3 @@ torrentesx.com##.slide
 mileroticos.com##[data-l^=" pub"]
 esaschicas.com##a[href^="https://esaschicas.com/rbs_banner.php?"]
 selafollan.com##a[href^="https://telelatinotv.page.link/"]
-famosateca.es##div[align^="center"]
