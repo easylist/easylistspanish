@@ -17,7 +17,6 @@
 ||outbrain.com^$domain=visortmo.com
 ||pub.tappx.com^
 ||publyads.jstag.space^
-||tags.refinery89.com^
 ||tinyurl.com^$domain=seriesly.top
 ||trafico.prensaiberica.es^
 ||triggy-banners.web.app^
