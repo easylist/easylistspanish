@@ -328,6 +328,7 @@ c9n.com.py,canal12.com.sv,repretel.com,rts.com.ec,snt.com.py##.layout-rev
 adslzone.net##.leaderboard
 huffingtonpost.es##.leaderboard-flex-placeholder
 flashscore.co##.liveActiveBet-ico
+flashscore.co,flashscore.es,flashscore.pe##.liveBetWrapper
 lanacion.com.ar##.ln-aside
 lanacion.com.ar##.ln-banner-container
 directoalpaladar.com,trendenciashombre.com,vidaextra.com,xataka.com##.m-branded
