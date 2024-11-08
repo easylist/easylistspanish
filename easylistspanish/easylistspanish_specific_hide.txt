@@ -394,7 +394,7 @@ visortmo.com##.pbd
 visortmo.com##.pbf
 visortmo.com##.pbi
 visortmo.com##.pbj
-otakuteca.com,planetaneperian.com,recetasmaria.com,todomecanica.com,vgrecipes.com##.pbl
+otakuteca.com,planetaneperian.com,recetasmaria.com,sombracycling.com,todomecanica.com,vgrecipes.com##.pbl
 chileautos.cl##.peace-of-mind
 espaebook2.com##.perfbtn
 otakustv.com##.pestana_footer
