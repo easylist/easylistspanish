@@ -112,7 +112,7 @@ laregion.cr,tutorialesenlinea.es##.a-wrap
 beergeeks.cl,cannabis420.cl,comidasespanolas.com,recetasdepan.net,reparaciondecomputadoras.online,thebeertimes.com,weedmagazine.net##.aawp
 somosohlala.com##.accession
 actualidadradio.com##.actua-widget
-aica.org,deia.eus,diaridegirona.cat,diariocordoba.com,diariocorreo.com.ec,diariodeibiza.es,diariodemallorca.es,elcorreogallego.es,eldia.es,elpais.com,elperiodicodearagon.com,elperiodicoextremadura.com,elperiodicomediterraneo.com,emporda.info,eurosport.es,farodevigo.es,fmdos.cl,informacion.es,jornada.com.mx,laopinioncoruna.es,laopiniondemalaga.es,laopiniondezamora.es,laprovincia.es,levante-emv.com,lne.es,meteoconsult.es,noticiasdealava.eus,noticiasdegipuzkoa.eus,noticiasdenavarra.com,ntn24.com,regio7.cat,revistafama.com,superdeporte.es##.ad
+aica.org,deia.eus,diaridegirona.cat,diariocordoba.com,diariocorreo.com.ec,diariodeibiza.es,diariodemallorca.es,elcorreogallego.es,eldia.es,elpais.com,elperiodicodearagon.com,elperiodicoextremadura.com,elperiodicomediterraneo.com,emporda.info,eurosport.es,farodevigo.es,fmdos.cl,informacion.es,jornada.com.mx,laopinioncoruna.es,laopiniondemalaga.es,laopiniondezamora.es,laprovincia.es,levante-emv.com,lne.es,meteoconsult.es,noticiasdealava.eus,noticiasdegipuzkoa.eus,noticiasdenavarra.com,noticiasrcn.com,ntn24.com,regio7.cat,revistafama.com,superdeporte.es##.ad
 perfil.com##.ad-300x250
 mundo.com##.ad-banner
 okdiario.com##.ad-block
