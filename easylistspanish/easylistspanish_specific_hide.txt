@@ -476,6 +476,7 @@ prensa.com##.sticky-box[style="height: 950px;"]
 bernabeudigital.com##.sticky-container[style="height:600px;"]
 elindependiente.com##.sub_header
 elpais.com.sv##.supsystic-slider-wrapper
+laprensani.com##.tads-header-mobile
 elrellano.com##.tag-enlace-de-afiliados
 prensa.com##.tagPublicidad
 publinews.gt##.takeoverlink
