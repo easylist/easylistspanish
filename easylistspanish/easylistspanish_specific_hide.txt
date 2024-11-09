@@ -138,7 +138,7 @@ anbariloche.com.ar,anroca.com.ar,elcordillerano.com.ar,noticiasnet.com.ar##.adse
 anbariloche.com.ar,anroca.com.ar,elcordillerano.com.ar,elterritorio.com.ar,noticiasnet.com.ar##.adserver-zona-zocalo
 aporrea.org##.adunit-01-max
 clarin.com,elindependiente.com##.adv
-cambio21.cl##.advertisement
+cambio21.cl,nicaraguainvestiga.com##.advertisement
 ara.cat,ejeprime.com,larazon.es,papajuegos.com,plantadoce.com,relevo.com##.advertising
 confidencial.digital##.advertising-last
 meganoticias.cl##.agrupadorPatrocinados
