@@ -140,6 +140,7 @@ aporrea.org##.adunit-01-max
 clarin.com,elindependiente.com##.adv
 cambio21.cl##.advertisement
 ara.cat,ejeprime.com,larazon.es,papajuegos.com,plantadoce.com,relevo.com##.advertising
+confidencial.digital##.advertising-last
 meganoticias.cl##.agrupadorPatrocinados
 ilustrado.cl##.ai-viewport-1
 petitchef.es##.akcelo-wrapper
