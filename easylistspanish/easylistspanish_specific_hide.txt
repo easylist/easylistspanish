@@ -104,6 +104,7 @@ andaluciainformacion.es,informacionalcalalareal.es,informacionpuentegenil.es,inf
 andaluciainformacion.es,informacionalcalalareal.es,informacionpuentegenil.es,informacionsanfernando.es,sanlucarinformacion.es,vivaalmeria.es,vivaalmunecar.es,vivaantequera.es,vivaarcos.es,vivabarbate.es,vivabenalmadena.es,vivacadiz.es,vivacampodegibraltar.es,vivachiclana.es,vivaconil.es,vivacordoba.es,vivaelpuerto.es,vivaestepona.es,vivagalicia.tv,vivagranada.es,vivahuelva.es,vivajaen.es,vivajerez.es,vivamalaga.net,vivamarbella.es,vivapunta.es,vivarota.es,vivasevilla.es,vivatorremolinos.es,vivavalencia.net,vivavejer.es,vivavelezmalaga.es##.BNR-DER
 elpais.com.uy##.List-sponsor
 ccma.cat##.M-publicitat
+foxsports.com.mx##.MitadLogoCaliente
 autosusados.cl##.OtherPages_othersection__Ad_Ae
 elpais.com.uy##.PromoFeat
 elchapuzasinformatico.com##.__lxG__multi
