@@ -47,6 +47,9 @@ thaderclub.com###custom_html-19
 eltorotv.com###custom_html-21
 neomotor.epe.es###cx_widget
 mangatigre.net###dl-banner-300-250
+diariolibre.com###dl_970x250_1
+diariolibre.com###dl_970x250_2
+diariolibre.com###dl_970x250_3
 elnacional.com###en_nd_home_flat_2
 elnacional.com###en_nd_home_flat_3
 elmercurio.com.ec###fancybox-overlay
@@ -86,6 +89,7 @@ latribuna.cl###slot_box01
 latribuna.cl###slot_top
 avisosdeocasion.com###srcpublicidadhub
 elespanol.com###sticky_container
+diariolibre.com###stickyunit
 lostiempos.com###takeover-desktop-counter
 lostiempos.com###takeover-movil-counter
 elimpulso.com###tdi_16
@@ -166,7 +170,7 @@ lainformacion.com##.axds-lane
 elpais.com##.b-bra-bbva
 lectuepubgratis.com##.bam-topbar
 lesportiudecatalunya.cat##.banerpromocio
-alicanteplaza.es,ambito.com,bienbonita.com,c5n.com,castellonplaza.com,cronista.com,diariolasamericas.com,donbalon.com,econojournal.com.ar,eleconomista.com.mx,eleconomista.net,elgrafico.com,elimparcial.com,elinformador.mx,ella.sv,ellas.pa,elonce.com,elplural.com,guarda14.com,laverdadnoticias.com,lavoz.com.ar,letrap.com.ar,losandes.com.ar,motor.com.co,observador.cr,puntal.com.ar,rpp.pe,sputniknews.lat,tntsports.cl,tntsports.com.ar,tvynovelas.com,valenciaplaza.com,viapais.com.ar,visortmo.com,welife.es##.banner
+alicanteplaza.es,ambito.com,bienbonita.com,c5n.com,castellonplaza.com,cronista.com,diariolasamericas.com,diariolibre.com,donbalon.com,econojournal.com.ar,eleconomista.com.mx,eleconomista.net,elgrafico.com,elimparcial.com,elinformador.mx,ella.sv,ellas.pa,elonce.com,elplural.com,guarda14.com,laverdadnoticias.com,lavoz.com.ar,letrap.com.ar,losandes.com.ar,motor.com.co,observador.cr,puntal.com.ar,rpp.pe,sputniknews.lat,tntsports.cl,tntsports.com.ar,tvynovelas.com,valenciaplaza.com,viapais.com.ar,visortmo.com,welife.es##.banner
 naiz.eus##.banner--article
 iprofesional.com##.banner-2
 freepik.es##.banner-adobe
@@ -498,6 +502,7 @@ adnradio.cl,cnnchile.com,futuro360.com##.the-banner
 prensa.com##.titulares-iframe
 noticias.mitelefe.com##.tlf-ad
 theobjective.com##.tno-blocks-banner-horizontal
+diariolibre.com##.top-banner
 elsalvador.com##.top-bar
 nickelodeonplus.online##.topads-wrap
 aristeguinoticias.com##.topleader
