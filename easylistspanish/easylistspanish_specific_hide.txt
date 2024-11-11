@@ -75,6 +75,7 @@ qmusica.tv###promoSept19B
 promiedos.com.ar###pub728
 fronteradigital.com.ve###publicidad-2
 talcualdigital.com###publicidad-slider
+avisosdeocasion.com###publicidadhub
 pelisplushd.nz###publiperro
 record.com.mx###region-preface-second
 diariodeteruel.es###rightbanner
@@ -83,6 +84,7 @@ heraldo.es###sidebarADefault
 gamereactor.es###sky2_1
 latribuna.cl###slot_box01
 latribuna.cl###slot_top
+avisosdeocasion.com###srcpublicidadhub
 elespanol.com###sticky_container
 lostiempos.com###takeover-desktop-counter
 lostiempos.com###takeover-movil-counter
