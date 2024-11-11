@@ -353,7 +353,6 @@ abc.es##.mega-superior
 marie-claire.es,muyhistoria.es,muyinteresante.es,muynegociosyeconomia.es##.megaBanner
 lleida.com,meteored.cl,meteored.com.ar,meteored.mx,modaes.com,tiempo.com##.megabanner
 25digital.com.ar##.metaslider
-meteored.com.py##.meteored-ads
 adnradio.cl,caracol.com.co,wradio.com.co,wradio.com.mx##.mh266-100
 lexlatin.com##.mibanner
 diariodevalderrueda.es##.minibanner_content
