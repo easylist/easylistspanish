@@ -343,6 +343,7 @@ bebesymas.com,diariodelviajero.com,elblogsalmon.com,motorpasionmoto.com,pymesyau
 milanuncios.com##.ma-ContentListing-advertising-native
 gasteizhoy.com##.macrobannerblock
 sensacine.com,sensacine.com.mx##.main-banner
+laoctava.com##.main-banner-ad
 infopico.com##.marco-publicidad
 quesonlosvaloreseticos.com,signodeinterrogacion.com##.masthead-banner
 empresite.eleconomista.es##.mauto.textcenter.mb20.mt20
@@ -408,6 +409,7 @@ fulltv.com.ar##.pie
 cronista.com##.piecesponsor
 cronista.com##.piecesponsor2
 laboyanos.com##.piki-ads
+laoctava.com##.pinno-ad-container
 eltiempo.es##.placeholder
 publinews.gt##.posttakeoverlink
 cronica.com.ar##.pre-home-banner-box
