@@ -14,5 +14,6 @@
 ||premiumads.com.br^$third-party
 ||premiumleads.com^$third-party
 ||reypelis.tv^$third-party
+||stoic-media.com^$third-party
 ||tpid.es^$third-party
 ||wemass.com^$third-party
