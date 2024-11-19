@@ -684,6 +684,7 @@ forocoches.com##section[style="min-width: 300px; height: 640px"]
 forocoches.com###sidebar > div > section:has(.fixed_adslot)
 elpais.com.uy##.Page-above.loaded:has(div[class^="GoogleDfpAd"])
 elpais.com.uy##.PromoBasic:has(.Promo-sponsor)
+chocale.cl##.cnvs-block-section:has(#contenido-patrocinado)
 clarin.com##.column > div[class] > div[class^="sc-"]:has(div[class^="sc-"] > div[id^="div-gpt-ad"])
 falabella.com##.grid-pod:has(.patrocinado-title)
 leroymerlin.es##.l-resultsList__item:has(.kl-blade--sponsored)
