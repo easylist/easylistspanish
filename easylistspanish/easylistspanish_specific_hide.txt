@@ -37,6 +37,7 @@ ancient-origins.es###block-block-43
 ancient-origins.es###block-block-50
 lexlatin.com###block-views-block-banner-block-1
 winsports.co###block-wplay
+fenix951.com.ar###bloqueBannersHorizontal1
 anisearch.es###bottombox
 flashscore.co###box-over-content-detail
 hackstore.rs###car_top
