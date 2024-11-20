@@ -202,6 +202,7 @@ eleconomista.es##.bannerInferior
 eleconomista.es##.bannerIntermedio
 clarin.com##.bannerTopHeader
 chilevision.cl##.banner_full
+fenix951.com.ar##.banner_inner
 elperiodicodeaqui.com##.banner_lat
 wiselwisel.com##.banner_superior
 wiselwisel.com##.banner_widget

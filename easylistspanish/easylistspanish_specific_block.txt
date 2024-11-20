@@ -27,6 +27,7 @@
 ||elperiodico.cl/wp-content/uploads/*/banner-
 ||emol.cl/emol50/js/publicidadsetup/
 ||es.zenit.org/banners/
+||fenix951.com.ar/nuevo_2013/img/banner/
 ||fronteradigital.com.ve/assets/img/advertising/
 ||fulltv.video^$domain=fulltv.com.ar
 ||gamestorrents.fm/433b.png
