@@ -152,6 +152,7 @@ clarin.com,elindependiente.com##.adv
 cambio21.cl,nicaraguainvestiga.com##.advertisement
 ara.cat,ejeprime.com,larazon.es,papajuegos.com,plantadoce.com,relevo.com##.advertising
 confidencial.digital##.advertising-last
+lapatilla.com##.adyb
 meganoticias.cl##.agrupadorPatrocinados
 ilustrado.cl##.ai-viewport-1
 petitchef.es##.akcelo-wrapper
