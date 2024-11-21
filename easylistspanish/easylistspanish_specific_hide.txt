@@ -501,6 +501,7 @@ bavaronews.com,contrapunto.com.sv,diariolaprensa.cl,diariolatino.net,elaragueno.
 eldiariodeguayana.com.ve##.td-header-sp-recs
 elsolnews.com##.tdi_132
 udlaspalmas.net##.tdi_22
+mundour.com##.tdi_307
 ffcv.es##.testimonials-partners
 diariocolatino.com##.text-html-box
 marcadegol.com##.textwidget a[href^="https://ar.puma.com/"]
