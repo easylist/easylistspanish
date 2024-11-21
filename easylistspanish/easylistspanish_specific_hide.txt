@@ -555,6 +555,7 @@ expresodelacosta.cl##.wpwbs_banners
 naciodigital.cat##.zona-ajbcn
 naciodigital.cat##.zona-lacaixa
 elnuevoherald.com##.zone
+lr21.com.uy##.zone-adsense
 mediamarkt.es##[data-test="pdp-bundles-content"]
 europafm.com,ondacero.es##[data-type="ads"]
 carrefour.es##[id*="-sponsored_products-"]
