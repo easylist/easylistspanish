@@ -311,7 +311,7 @@ verepeliculas.com##.fake_player
 ejeprime.com##.featured_specials
 ecuavisa.com##.fondo_publicidad
 buentv.net##.full_add
-ahoraeg.com,analitica.com,arquimaster.com.ar,donostitik.com,elperiodicodelaenergia.com,isanidad.com,jotdown.es,lapagina.com.sv,periodicolaperla.com,valencianews.es##.g
+ahoraeg.com,analitica.com,arquimaster.com.ar,donostitik.com,elperiodicodelaenergia.com,eltelegrafo.com,isanidad.com,jotdown.es,lapagina.com.sv,periodicolaperla.com,valencianews.es##.g
 cooljuegos.com##.game-promo
 cooljuegos.com##.games-horizontal-promo
 la-razon.com##.genosha_ads_fixed_bottom
