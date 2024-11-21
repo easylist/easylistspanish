@@ -267,6 +267,7 @@ vilaweb.cat##.container-banner-header
 depor.com,elcomercio.pe##.container-publicidad
 laarena.com.ar##.container-spot
 autopista.es##.containerBanner
+reduno.com.bo##.container_publi
 theclinic.cl##.contenedor-auspicio
 futbolred.com##.contenedor-logo-patrocinador
 eldestapeweb.com##.contenedor__publicidad
