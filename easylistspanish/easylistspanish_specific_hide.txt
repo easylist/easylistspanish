@@ -683,6 +683,7 @@ hortanoticias.com,laprensademn.com,transponder1200.com,vidaysabor.com##img[width
 marcadegol.com##img[width="750"]
 laprensadecolorado.com,periodicoelsolpr.com##img[width="800"]
 laverdaddemonagas.com##img[width="900"]
+radiocarve.uy##img[width="970"][height="120"]
 elmercurioweb.com##img[width="980"]
 lagaceta.com.ec##rs-slides
 forocoches.com##section[style="min-width: 300px; height: 640px"]
