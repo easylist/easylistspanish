@@ -498,7 +498,7 @@ laprensani.com##.tads-header-mobile
 elrellano.com##.tag-enlace-de-afiliados
 prensa.com##.tagPublicidad
 publinews.gt##.takeoverlink
-bavaronews.com,contrapunto.com.sv,diariolaprensa.cl,diariolatino.net,elaragueno.com.ve,elmercurio.com.ec,elmundotoday.com,elperiodicousa.com,elsiglo.com.ve,guineainfomarket.com,horajaen.com,lacalle.com.ve,lagdeguinea.com,noticialdia.com,noticiasuno.com,pcpro.es,periodismo.com,soynuevaprensadigital.com,udlaspalmas.net##.td-a-rec
+avn.info.ve,bavaronews.com,contrapunto.com.sv,diariolaprensa.cl,diariolatino.net,elaragueno.com.ve,elmercurio.com.ec,elmundotoday.com,elperiodicousa.com,elsiglo.com.ve,guineainfomarket.com,horajaen.com,lacalle.com.ve,lagdeguinea.com,noticialdia.com,noticiasuno.com,pcpro.es,periodismo.com,soynuevaprensadigital.com,udlaspalmas.net##.td-a-rec
 eldiariodeguayana.com.ve##.td-header-sp-recs
 elsolnews.com##.tdi_132
 udlaspalmas.net##.tdi_22
