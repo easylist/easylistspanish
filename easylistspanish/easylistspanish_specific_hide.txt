@@ -262,11 +262,12 @@ ansalatina.com##.commercial-banner-top
 diaridegirona.cat,diariocordoba.com,diariodeibiza.es,diariodemallorca.es,elcorreogallego.es,elcorreoweb.es,eldia.es,elperiodicodearagon.com,elperiodicoextremadura.com,elperiodicomediterraneo.com,emporda.info,farodevigo.es,informacion.es,laopinioncoruna.es,laopiniondemalaga.es,laopiniondemurcia.es,laopiniondezamora.es,laprovincia.es,levante-emv.com,lne.es,regio7.cat,superdeporte.es##.commercial-up-full
 elmundofinanciero.com##.con_publi
 retinatendencias.com##.concintillo
+dolarhoy.com##.cont_publi_desktop
 elperiodico.cat,elperiodico.com,epe.es##.container-ad
 mercadolibre.cl,mercadolibre.co.cr,mercadolibre.com.ar,mercadolibre.com.bo,mercadolibre.com.co,mercadolibre.com.do,mercadolibre.com.ec,mercadolibre.com.gt,mercadolibre.com.hn,mercadolibre.com.mx,mercadolibre.com.ni,mercadolibre.com.pa,mercadolibre.com.pe,mercadolibre.com.py,mercadolibre.com.sv,mercadolibre.com.uy,mercadolibre.com.ve##.container-advertising
 vilaweb.cat##.container-banner-header
 depor.com,elcomercio.pe##.container-publicidad
-laarena.com.ar##.container-spot
+dolarhoy.com,laarena.com.ar##.container-spot
 autopista.es##.containerBanner
 reduno.com.bo##.container_publi
 theclinic.cl##.contenedor-auspicio
