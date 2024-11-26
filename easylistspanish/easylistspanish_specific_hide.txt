@@ -409,6 +409,7 @@ canalrcn.com##.pauta-barra-media
 futbolred.com##.pauta-bk
 valoraanalitik.com##.pauta-cuad
 portafolio.co##.pauta__billboard
+publico.es##.pb-ads
 visortmo.com##.pba
 visortmo.com##.pbb
 visortmo.com##.pbc
