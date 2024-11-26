@@ -202,7 +202,7 @@ visortmo.com##.banner2
 diariodelaribera.net##.bannerColumnas
 eleconomista.es##.bannerInferior
 eleconomista.es##.bannerIntermedio
-clarin.com##.bannerTopHeader
+clarin.com,ole.com.ar##.bannerTopHeader
 radiomontecarlo.com.uy##.banner_elementos
 chilevision.cl##.banner_full
 fenix951.com.ar##.banner_inner
