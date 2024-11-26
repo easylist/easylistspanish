@@ -25,6 +25,9 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=3djuegosguias.com|3djuegospc.com|applesfera.com|compradiccion.com|directoalpaladar.com|espinof.com|genbeta.com|poprosa.com|trendencias.com|trendenciashombre.com|vidaextra.com|vitonica.com|xataka.com|xatakamovil.com
 @@||pub.pixels.ai/wrap-independent-no-prebid-lib.js$script,domain=independentespanol.com
 @@||pub.pixels.ai/wrap-independent-prebid-lib.js$script,domain=independentespanol.com
+! https://www.a24.com/vivo
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=vmf.edge-apps.net
+@@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=vmf.edge-apps.net
 !
 @@-publicidad.$~third-party,domain=regalos-publicidad.es|todo-publicidad.com
 @@||g.doubleclick.net/gpt/pubads_impl_$script,domain=aristeguinoticias.com|hola.com
