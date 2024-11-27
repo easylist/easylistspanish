@@ -246,6 +246,7 @@ diario16plus.com,planetarealmadrid.com##.c-banner
 elpais.com##.c-bra
 elpais.com##.c-brr
 cadenaser.com##.c-p-ia
+los40.com##.c-pub
 cadenaser.com##.c-s > div
 huffingtonpost.es##.c-sidebar-branded
 elpais.com##.c.c-pfb.c--m
