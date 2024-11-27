@@ -43,7 +43,6 @@ anisearch.es###bottombox
 flashscore.co###box-over-content-detail
 hackstore.rs###car_top
 europapress.es###colLateral[style="height: 1200px;"]
-ccma.cat###contenidor_megabanner
 forococheselectricos.com###custom_html-17
 thaderclub.com###custom_html-19
 eltorotv.com###custom_html-21
@@ -114,7 +113,7 @@ elespectador.com,revistacromos.com.co##.Ads_megaBannerTopContainer
 andaluciainformacion.es,informacionalcalalareal.es,informacionpuentegenil.es,informacionsanfernando.es,sanlucarinformacion.es,vivaalmeria.es,vivaalmunecar.es,vivaantequera.es,vivaarcos.es,vivabarbate.es,vivabenalmadena.es,vivacadiz.es,vivacampodegibraltar.es,vivachiclana.es,vivaconil.es,vivacordoba.es,vivaelpuerto.es,vivaestepona.es,vivagalicia.tv,vivagranada.es,vivahuelva.es,vivajaen.es,vivajerez.es,vivamalaga.net,vivamarbella.es,vivapunta.es,vivarota.es,vivasevilla.es,vivatorremolinos.es,vivavalencia.net,vivavejer.es,vivavelezmalaga.es##.BANNER
 andaluciainformacion.es,informacionalcalalareal.es,informacionpuentegenil.es,informacionsanfernando.es,sanlucarinformacion.es,vivaalmeria.es,vivaalmunecar.es,vivaantequera.es,vivaarcos.es,vivabarbate.es,vivabenalmadena.es,vivacadiz.es,vivacampodegibraltar.es,vivachiclana.es,vivaconil.es,vivacordoba.es,vivaelpuerto.es,vivaestepona.es,vivagalicia.tv,vivagranada.es,vivahuelva.es,vivajaen.es,vivajerez.es,vivamalaga.net,vivamarbella.es,vivapunta.es,vivarota.es,vivasevilla.es,vivatorremolinos.es,vivavalencia.net,vivavejer.es,vivavelezmalaga.es##.BNR-DER
 elpais.com.uy##.List-sponsor
-ccma.cat##.M-publicitat
+3cat.cat##.M-publicitat
 foxsports.com.mx##.MitadLogoCaliente
 autosusados.cl##.OtherPages_othersection__Ad_Ae
 elpais.com.uy##.PromoFeat
