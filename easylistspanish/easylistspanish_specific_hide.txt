@@ -119,6 +119,7 @@ autosusados.cl##.OtherPages_othersection__Ad_Ae
 elpais.com.uy##.PromoFeat
 elchapuzasinformatico.com##.__lxG__multi
 sport.es##._mo_recs_tpi
+huffingtonpost.es##._modulo-amazon
 ahoraeg.com,analitica.com,atb.com.bo,aurora-israel.co.il,aviacionline.com,elperiodicodelaenergia.com,elsiglo.com.ve,latinopinionbaltimore.com,siempre.mx,teleamazonas.com##.a-single
 laregion.cr,tutorialesenlinea.es##.a-wrap
 beergeeks.cl,cannabis420.cl,comidasespanolas.com,recetasdepan.net,reparaciondecomputadoras.online,thebeertimes.com,weedmagazine.net##.aawp
