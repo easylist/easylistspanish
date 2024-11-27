@@ -21,9 +21,9 @@ separarensilabas.com###antiBannersGigantes
 cuevana3.nu###anuncioca
 elciudadanoweb.com###apsa-pop-hidden-img
 agencianova.com,novachaco.com,novalaplata.com###avisosDerechaContainer
-elcordillerano.com.ar###bannerPopup
+anbariloche.com.ar,anroca.com.ar,elcordillerano.com.ar,elterritorio.com.ar,noticiasnet.com.ar###bannerPopup
 ambito.com###bannerStickyHeader
-diarioeldia.cl,elcordillerano.com.ar###bannerZocalo
+anbariloche.com.ar,anroca.com.ar,diarioeldia.cl,elcordillerano.com.ar,elterritorio.com.ar,noticiasnet.com.ar###bannerZocalo
 diariodelaribera.net###bannercabeceravideo
 noticiasyprotagonistas.com###banners
 eleconomista.es###banners-superiores
@@ -148,9 +148,6 @@ tutorialesenlinea.es##.ads-titleposttl
 eleconomista.es##.adsLinicom
 cocina-chilena.com##.adsense
 infojardin.com##.adsense-columna
-anbariloche.com.ar,anroca.com.ar,elcordillerano.com.ar,noticiasnet.com.ar##.adserver-zona
-anbariloche.com.ar,anroca.com.ar,elcordillerano.com.ar,elterritorio.com.ar,noticiasnet.com.ar##.adserver-zona-zocalo
-elcordillerano.com.ar##.adserver-zonas-noticias
 aporrea.org##.adunit-01-max
 clarin.com,elindependiente.com##.adv
 cambio21.cl,nicaraguainvestiga.com##.advertisement
@@ -207,6 +204,7 @@ visortmo.com##.banner2
 diariodelaribera.net##.bannerColumnas
 eleconomista.es##.bannerInferior
 eleconomista.es##.bannerIntermedio
+anbariloche.com.ar,anroca.com.ar,elcordillerano.com.ar,elterritorio.com.ar,noticiasnet.com.ar##.bannerLoaded
 clarin.com,ole.com.ar##.bannerTopHeader
 radiomontecarlo.com.uy##.banner_elementos
 chilevision.cl##.banner_full
@@ -353,7 +351,7 @@ diariodelaribera.net##.lateralizquierdo
 atv.pe,c9n.com.py,canal12.com.sv,chapintv.com,repretel.com,rts.com.ec,snt.com.py,sonora.com.gt##.layout-rev
 adslzone.net##.leaderboard
 huffingtonpost.es##.leaderboard-flex-placeholder
-elcordillerano.com.ar##.linkBannerHeader
+anbariloche.com.ar,anroca.com.ar,elcordillerano.com.ar,elterritorio.com.ar,noticiasnet.com.ar##.linkBannerHeader
 flashscore.co##.liveActiveBet-ico
 flashscore.co,flashscore.es,flashscore.pe##.liveBetWrapper
 lanacion.com.ar##.ln-aside
@@ -1373,7 +1371,6 @@ planetadeagostini.es##article[id^="divAdserver"]
 arquimaster.com.ar##div[align="center"] > a
 oversos.com##div[aria-label="QODE"]
 portalfruticola.com##div[class*="banner-set"]
-elcordillerano.com.ar##div[class^="contenedor_banner_"]
 novelasromanticash.blogspot.com##div[class^="fixed-"][class$="Sd"]
 volkgames.com##div[class^="pauta_"]
 kiwilimon.com##div[class^="pubcaja"]
