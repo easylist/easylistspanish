@@ -190,6 +190,7 @@ soychile.cl##.banner-fixed-container
 puntal.com.ar##.banner-flex
 tvn.cl##.banner-full
 primicia.com.ve##.banner-header
+elsol.com.ar##.banner-home
 iprofesional.com##.banner-horizontal
 elnuevogeorgia.com##.banner-img
 diariodecuyo.com.ar##.banner-lanusse
