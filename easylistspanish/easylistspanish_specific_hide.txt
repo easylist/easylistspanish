@@ -21,8 +21,9 @@ separarensilabas.com###antiBannersGigantes
 cuevana3.nu###anuncioca
 elciudadanoweb.com###apsa-pop-hidden-img
 agencianova.com,novachaco.com,novalaplata.com###avisosDerechaContainer
+elcordillerano.com.ar###bannerPopup
 ambito.com###bannerStickyHeader
-diarioeldia.cl###bannerZocalo
+diarioeldia.cl,elcordillerano.com.ar###bannerZocalo
 diariodelaribera.net###bannercabeceravideo
 noticiasyprotagonistas.com###banners
 eleconomista.es###banners-superiores
@@ -149,6 +150,7 @@ cocina-chilena.com##.adsense
 infojardin.com##.adsense-columna
 anbariloche.com.ar,anroca.com.ar,elcordillerano.com.ar,noticiasnet.com.ar##.adserver-zona
 anbariloche.com.ar,anroca.com.ar,elcordillerano.com.ar,elterritorio.com.ar,noticiasnet.com.ar##.adserver-zona-zocalo
+elcordillerano.com.ar##.adserver-zonas-noticias
 aporrea.org##.adunit-01-max
 clarin.com,elindependiente.com##.adv
 cambio21.cl,nicaraguainvestiga.com##.advertisement
@@ -351,6 +353,7 @@ diariodelaribera.net##.lateralizquierdo
 atv.pe,c9n.com.py,canal12.com.sv,chapintv.com,repretel.com,rts.com.ec,snt.com.py,sonora.com.gt##.layout-rev
 adslzone.net##.leaderboard
 huffingtonpost.es##.leaderboard-flex-placeholder
+elcordillerano.com.ar##.linkBannerHeader
 flashscore.co##.liveActiveBet-ico
 flashscore.co,flashscore.es,flashscore.pe##.liveBetWrapper
 lanacion.com.ar##.ln-aside
