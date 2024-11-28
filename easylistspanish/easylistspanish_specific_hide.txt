@@ -60,7 +60,7 @@ promodescuentos.com###headerFuseZonePortal
 futbolme.com###headeradd
 transfermarkt.es###home-rectangle-spotlight
 encuentra24.com###home_top
-diariodejerez.es###id-bannerUnderHeader
+diariodealmeria.es,diariodecadiz.es,diariodejerez.es,diariodesevilla.es,eldiadecordoba.es,europasur.es,granadahoy.com,huelvainformacion.es,malagahoy.es###id-bannerUnderHeader
 fronteradigital.com.ve###img_pub
 periodismokosher.com.ar###key2sticky
 excelsior.com.mx###leaderboard0
@@ -152,8 +152,8 @@ aporrea.org##.adunit-01-max
 clarin.com,elindependiente.com##.adv
 cambio21.cl,nicaraguainvestiga.com##.advertisement
 ara.cat,ejeprime.com,larazon.es,papajuegos.com,plantadoce.com,relevo.com##.advertising
-diariodejerez.es##.advertising--desktop
-diariodejerez.es##.advertising--mobile
+diariodealmeria.es,diariodecadiz.es,diariodejerez.es,diariodesevilla.es,eldiadecordoba.es,europasur.es,granadahoy.com,huelvainformacion.es,malagahoy.es##.advertising--desktop
+diariodealmeria.es,diariodecadiz.es,diariodejerez.es,diariodesevilla.es,eldiadecordoba.es,europasur.es,granadahoy.com,huelvainformacion.es,malagahoy.es##.advertising--mobile
 confidencial.digital##.advertising-last
 lapatilla.com##.adyb
 meganoticias.cl##.agrupadorPatrocinados
@@ -167,7 +167,6 @@ insideevs.com.ar,iproup.com##.ap
 insideevs.com.ar##.apb
 elciudadanoweb.com##.apsa-embed-cont
 metroecuador.com.ec,publimetro.cl##.arcad-feature
-diariodealmeria.es,diariodecadiz.es,diariodejerez.es,diariodesevilla.es,eldiadecordoba.es,europasur.es,granadahoy.com,huelvainformacion.es,malagahoy.es##.article-branded-big
 lavanguardia.com##.article-module-sponsored
 elconfidencial.com##.articleAside__module.articleAside__module--isSticky
 elobservador.com.uy##.auspicios
@@ -228,7 +227,6 @@ eldinamo.cl,theclinic.cl##.bloque-dfp
 eleconomista.com.ar##.bnc
 elesquiu.com,gastrolabweb.com,poresto.net##.bnn
 diariodecuyo.com.ar,henaojara.com##.bnr
-diariodejerez.es##.board-advertising
 eltiempo.com##.board-tu-negocio
 cronica.com.ar##.bottom-sticky-banner-box
 flashscore.es##.boxOverContent__banner
@@ -719,7 +717,6 @@ expansion.com##.ue-l-article__secondary-column-item.ue-l-article--grow:has(.ue-c
 mercadolibre.cl,mercadolibre.co.cr,mercadolibre.com.ar,mercadolibre.com.bo,mercadolibre.com.co,mercadolibre.com.do,mercadolibre.com.ec,mercadolibre.com.gt,mercadolibre.com.hn,mercadolibre.com.mx,mercadolibre.com.ni,mercadolibre.com.pa,mercadolibre.com.pe,mercadolibre.com.py,mercadolibre.com.sv,mercadolibre.com.uy,mercadolibre.com.ve##.ui-recommendations-carousel-wrapper-ref:has(a[rel="nofollow, sponsored"])
 hobbyconsolas.com##div[class^="embed-card_card_"]:has(a[href^="http://disneyplus.bn5x.net/"])
 clarin.com##div[class^="sc-"]:has( > div[id^="div-gpt-ad"])
-granadahoy.com,malagahoy.es,diariodealmeria.es,huelvainformacion.es,eldiadecordoba.es,diariodesevilla.es,europasur.es,diariodejerez.es,diariodecadiz.es#?#.md.md-news-main:-abp-has(.kicker:-abp-contains(CONTENIDO OFRECIDO POR))
 mercadolibre.cl,mercadolibre.co.cr,mercadolibre.com.ar,mercadolibre.com.bo,mercadolibre.com.co,mercadolibre.com.do,mercadolibre.com.ec,mercadolibre.com.gt,mercadolibre.com.hn,mercadolibre.com.mx,mercadolibre.com.ni,mercadolibre.com.pa,mercadolibre.com.pe,mercadolibre.com.py,mercadolibre.com.sv,mercadolibre.com.uy,mercadolibre.com.ve##li.ui-search-layout__item:has(div.ui-search-item__pub-container)
 mil21.es##td[class*="id_publi_"]:has(a[href^="https://www.amazon.es/"])
 cuencanews.es##td[class*="id_publi_"]:has(img[alt="publicidad"])
