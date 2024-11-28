@@ -457,6 +457,7 @@ eldesmarque.com##.publicidad_marca
 elpuntavui.cat,leconomic.cat,lesportiudecatalunya.cat##.publicitat
 alfabeta.net##.publimg
 semana.com##.publish-box
+noticiasformosa.com.ar##.pum-content
 psicologiaymente.com##.py-4.text-center
 eleconomista.es##.railContainer1
 eleconomista.es##.railContainer3
