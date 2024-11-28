@@ -60,6 +60,7 @@ promodescuentos.com###headerFuseZonePortal
 futbolme.com###headeradd
 transfermarkt.es###home-rectangle-spotlight
 encuentra24.com###home_top
+diariodejerez.es###id-bannerUnderHeader
 fronteradigital.com.ve###img_pub
 periodismokosher.com.ar###key2sticky
 excelsior.com.mx###leaderboard0
@@ -226,6 +227,7 @@ eldinamo.cl,theclinic.cl##.bloque-dfp
 eleconomista.com.ar##.bnc
 elesquiu.com,gastrolabweb.com,poresto.net##.bnn
 diariodecuyo.com.ar,henaojara.com##.bnr
+diariodejerez.es##.board-advertising
 eltiempo.com##.board-tu-negocio
 cronica.com.ar##.bottom-sticky-banner-box
 flashscore.es##.boxOverContent__banner
