@@ -21,6 +21,9 @@
 ||diariodelaribera.net/imagenes/banner
 ||diariodeteruel.es/uploads/diariodeteruel/promos/
 ||diarioviregion.cl/images/banners/
+||dolarito.ar/static/buenbit/
+||dolarito.ar/static/vita/
+||dolarito.ar/static/wallbit/
 ||elciudadanoweb.com/wp-content/plugins/aparg-smartad/
 ||elesquiu.com/u/banners/
 ||elmundofinanciero.com/anuncios/
