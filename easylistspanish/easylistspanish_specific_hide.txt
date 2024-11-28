@@ -151,6 +151,8 @@ aporrea.org##.adunit-01-max
 clarin.com,elindependiente.com##.adv
 cambio21.cl,nicaraguainvestiga.com##.advertisement
 ara.cat,ejeprime.com,larazon.es,papajuegos.com,plantadoce.com,relevo.com##.advertising
+diariodejerez.es##.advertising--desktop
+diariodejerez.es##.advertising--mobile
 confidencial.digital##.advertising-last
 lapatilla.com##.adyb
 meganoticias.cl##.agrupadorPatrocinados
