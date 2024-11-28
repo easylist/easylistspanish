@@ -222,6 +222,7 @@ iproup.com##.bannerwide
 europa-agricola.es,via-mobilis.es##.banniere
 noticiasrcn.com##.barra-compuesta
 flashscore.co,flashscore.es,flashscore.pe##.bettingStrip
+cosasdecome.es##.block-anuncios
 cronista.com##.blocksponsor
 eldinamo.cl,theclinic.cl##.bloque-dfp
 eleconomista.com.ar##.bnc
