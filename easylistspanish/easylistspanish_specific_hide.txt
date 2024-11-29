@@ -141,6 +141,7 @@ elperiodico.com,epe.es,sport.es,sumedico.com##.add
 ciudadccs.info##.add-inner
 lecturas.com,nationalgeographic.com.es##.add990x90
 ondacero.es##.addContainer
+foromtb.com##.addoor-pubtag
 freepik.es##.adobe-coupon-container
 freepik.es##.adobe-grid-design
 atv.pe,benditofutbol.com,cdn.com.do,corazon.pe,laprensaaustral.cl,lared.cl,perfil.com,rpp.pe,studio92.com,uypress.net##.ads
