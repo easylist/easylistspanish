@@ -457,6 +457,7 @@ lawebdelprogramador.com##.publi_robapaginas
 0221.com.ar,areajugones.sport.es,cronicabalear.es,elpais.com.co,estadiodeportivo.com,generacionuniversitaria.com.mx,highxtar.com,iberempleos.es,lavozdealmeria.com,meteored.cl,meteored.com.ar,meteored.com.py,meteored.mx,neomotor.com,pulzo.com,tiempo.com##.publicidad
 fulltv.com.ar##.publicidad-728-top
 record.com.mx##.publicidadBoxBanner300x75
+contextotucuman.com##.publicidadTop
 diario.mx##.publicidad_basica
 0221.com.ar##.publicidad_cont
 eldesmarque.com##.publicidad_marca
