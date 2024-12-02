@@ -602,6 +602,7 @@ espn.cl,espn.co.cr,espn.com.ar,espn.com.co,espn.com.do,espn.com.ec,espn.com.gt,e
 ellibero.cl##a[href^="https://www.vgs.cl/"]
 promiedos.com.ar##a[href^="publicidad.php?"]
 darkstone.es##a[onclick^="return ad_redirect"]
+contextotucuman.com##a[rel="nofollow sponsored noopener"]
 finanzasargy.com##a[target="_blank"][href^="https://accounts.binance.info/register?ref="]
 finanzasargy.com##a[target="_blank"][href^="https://ripio.go.link/"]
 rionegro.com.ar##ads-component
