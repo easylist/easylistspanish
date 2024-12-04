@@ -131,7 +131,7 @@ aica.org,deia.eus,diaridegirona.cat,diariocordoba.com,diariocorreo.com.ec,diario
 perfil.com##.ad-300x250
 mundo.com##.ad-banner
 okdiario.com##.ad-block
-bolavip.com,buenazo.pe,dalealbo.cl,elpopular.pe,eltiempo.com,futbolcentroamerica.com,hobbyconsolas.com,juanbeisbol.com,juanfutbol.com,lapaginamillonaria.com,larepublica.pe,libero.pe,redgol.cl,somosfanaticos.fans,wapa.pe##.ad-container
+americatv.com.ar,bolavip.com,buenazo.pe,dalealbo.cl,elpopular.pe,eltiempo.com,futbolcentroamerica.com,hobbyconsolas.com,juanbeisbol.com,juanfutbol.com,lapaginamillonaria.com,larepublica.pe,libero.pe,redgol.cl,somosfanaticos.fans,wapa.pe##.ad-container
 3dgames.com.ar##.ad-wrapper
 bandaancha.eu##.adMbBlTp
 lavozdegalicia.es##.ad_fixed_h
