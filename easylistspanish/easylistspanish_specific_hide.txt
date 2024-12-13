@@ -427,7 +427,7 @@ visortmo.com##.pbf
 visortmo.com##.pbi
 visortmo.com##.pbj
 zonatmo.com##.pbk
-lectormanga.com,otakuteca.com,planetaneperian.com,recetasmaria.com,sombracycling.com,tannyfashion.com,todomecanica.com,vgrecipes.com##.pbl
+lectormanga.com,nombresdetubaby.com,otakuteca.com,planetaneperian.com,recetasmaria.com,sombracycling.com,tannyfashion.com,todomecanica.com,vgrecipes.com##.pbl
 chileautos.cl##.peace-of-mind
 espaebook2.com##.perfbtn
 otakustv.com##.pestana_footer
