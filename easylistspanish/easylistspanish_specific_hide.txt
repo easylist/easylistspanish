@@ -164,7 +164,6 @@ petitchef.es##.akcelo-wrapper
 blog.facialix.com##.amazon-auto-links
 aguaita.cat,pallarsdigital.cat,rubitv.cat,tarragonadigital.com##.amp_columnapubli
 donbalon.com,elsaltodiario.com,toonscrab.com##.anuncio
-mangacrab.com##.anunciofooter
 insideevs.com.ar,iproup.com##.ap
 insideevs.com.ar##.apb
 elciudadanoweb.com##.apsa-embed-cont
