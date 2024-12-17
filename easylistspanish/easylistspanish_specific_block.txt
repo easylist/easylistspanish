@@ -1,3 +1,4 @@
+||agenciafe.com/data/img_cont/img_banners/
 ||agencianova.com/avisos/
 ||aica.org/imagenes/pubs/
 ||albaceteabierto.es/anuncios/
@@ -118,11 +119,7 @@
 /uploads/advertisings/*$domain=tribunaavila.com|tribunaburgos.com|tribunaleon.com|tribunapalencia.com|tribunasalamanca.com|tribunasegovia.com|tribunasoria.com|tribunavalladolid.com|tribunazamora.com
 ||acortalo.net/js/clasicotas.js
 ||agar.live/300banner.gif
-||agenciafe.com/data/img_cont/img_banners/
 ||agma.io/img/agmaAd/
-||agritotal.com/file/image/*.gif
-||andaluciainformacion.es/cms/media/banners/
-||anroca.com.ar/uploads/archivos/*.gif
 ||apfdigital.com.ar/imgpublicidad/
 ||azarplus.com/fotos/banners
 ||azarplus.com/includes/greybox/AJS.js
