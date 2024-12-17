@@ -179,7 +179,7 @@ lainformacion.com##.axds-lane
 elpais.com##.b-bra-bbva
 lectuepubgratis.com##.bam-topbar
 lesportiudecatalunya.cat##.banerpromocio
-0221.com.ar,24con.com,alicanteplaza.es,ambito.com,bienbonita.com,busqueda.com.uy,c5n.com,castellonplaza.com,cronista.com,diariolasamericas.com,diariolibre.com,donbalon.com,econojournal.com.ar,eleconomista.com.mx,eleconomista.net,elgrafico.com,elimparcial.com,elinformador.mx,ella.sv,ellas.pa,elnacional.com,elonce.com,elplural.com,guarda14.com,laverdadnoticias.com,lavoz.com.ar,letrap.com.ar,losandes.com.ar,motor.com.co,observador.cr,puntal.com.ar,rpp.pe,sputniknews.lat,tntsports.cl,tntsports.com.ar,tvynovelas.com,valenciaplaza.com,viapais.com.ar,visortmo.com,welife.es##.banner
+0221.com.ar,24con.com,alicanteplaza.es,ambito.com,bienbonita.com,busqueda.com.uy,c5n.com,castellonplaza.com,cronista.com,diariolasamericas.com,diariolibre.com,donbalon.com,econojournal.com.ar,eleconomista.com.mx,eleconomista.net,elgrafico.com,elimparcial.com,elinformador.mx,ella.sv,ellas.pa,elnacional.com,elonce.com,elplural.com,guarda14.com,laverdadnoticias.com,lavoz.com.ar,letrap.com.ar,losandes.com.ar,motor.com.co,nuevodiarioweb.com.ar,observador.cr,puntal.com.ar,rpp.pe,sputniknews.lat,tntsports.cl,tntsports.com.ar,tvynovelas.com,valenciaplaza.com,viapais.com.ar,visortmo.com,welife.es##.banner
 naiz.eus##.banner--article
 iprofesional.com##.banner-2
 freepik.es##.banner-adobe
@@ -359,7 +359,6 @@ atv.pe,c9n.com.py,canal12.com.sv,chapintv.com,repretel.com,rts.com.ec,snt.com.py
 abchoy.com.ar##.lazypubli
 adslzone.net##.leaderboard
 huffingtonpost.es##.leaderboard-flex-placeholder
-anbariloche.com.ar,anroca.com.ar,elcordillerano.com.ar,elterritorio.com.ar,noticiasnet.com.ar##.linkBannerHeader
 flashscore.co##.liveActiveBet-ico
 flashscore.co,flashscore.es,flashscore.pe##.liveBetWrapper
 lanacion.com.ar##.ln-aside
@@ -832,7 +831,6 @@ forocoches.com###div-970x90_respuesta
 forocoches.com###div-970x90_respuesta_final
 abcsaladillo.com.ar###div-abc_1024x100_arriba_logo
 laveu.cat###divTopBanner
-3djuegos.com###dst_pub_728
 mega1080.com###enla
 capodeportes.net###floatLayer2
 25digital.com.ar###footer-widgets
@@ -1115,8 +1113,6 @@ puntobiz.com.ar##.columna-tercera
 elespanol.com##.comments-adv
 renfe.com##.comprabilletes
 reforma.com##.container_publicidad
-anbariloche.com.ar,anroca.com.ar##.contenedor_banner_popup
-anbariloche.com.ar,anroca.com.ar##.contenedor_principal_banner_lateral
 cronista.com##.content-banner
 inmodiario.com##.content-pub-top
 elcolombiano.com##.contentBannerIntelecto
@@ -1315,10 +1311,7 @@ diariotextual.com##.wpb_raw_html
 armasymuniciones.net,mariosegura.com,miradiols.cl##.wpb_single_image
 lajornadanet.com##.wpipa-container
 hipertextual.com##.wrapperBanner
-anbariloche.com.ar,anroca.com.ar,nuevodiarioweb.com.ar##.zona_banners
-st1.idealista.com##A[href="http://www.idealista.com/news/vacacional/mercado-vacacional/2015/08/12/738750-competencia-arremete-contra-la-ley-que-limita-los-pisos-turisticos-en-el?xts=352991&xtor=AD-186-[node/738750]-[]-[57601_1]-[lavanguardia.es__lavanguardia.es]-[]-[titulo_1_1]&source=314"]
 gettyimages.es##[href="http://espanol.istockphoto.com/?esource=gi_es_home_3pack_istock_3"] > .promo-hover
-st1.idealista.com##[href="http://www.idealista.com?xts=352991&xtor=AD-186-[idealista]-[]-[57601_1]-[lavanguardia.es__lavanguardia.es]-[]-[home_1_1]&source=314"]
 ecosdelcombeima.com##[href^="https://bit.ly/"]
 ecosdelcombeima.com##[href^="https://velotax.com.co/"]
 noticiasdehoy.site##[id^="Image"]
@@ -1397,7 +1390,6 @@ argentinavende.com,cordobavende.com##div[style="float:left;width:970px;height:90
 boardzona.com##div[style="font-family:Arial, Helvetica, sans-serif;font-size:9px;color:#666666"]
 vanguardia.com##div[style="font-size: 0.8em; text-align: left; color: rgb(136, 136, 136);"]
 todomercadoweb.es##div[style="height:270px; padding: 10px 0;"]
-3djuegos.com##div[style="height:334px"]
 elcomercial.com.ar##div[style="margin-top:10px;float: left;"]
 vanguardia.com##div[style="margin-top:15px;float:left;width:100%;"]
 elotrolado.net##div[style="margin: 0 -10px 20px -10px"]

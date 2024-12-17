@@ -54,6 +54,7 @@
 ||notebookcheck.org/fileadmin/Sonstiges/amaz_$xmlhttprequest
 ||novachaco.com/avisos/
 ||novalaplata.com/avisos/
+||nuevodiarioweb.com.ar/galeria/publicidad/
 ||otakuteca.com/images/books/cover/cru_300.
 ||otakuteca.com/images/books/cover/n_728.
 ||pelispop.info/EkBG80SP.js
@@ -115,16 +116,11 @@
 /public/Image/*banner*^$image,domain=alicanteplaza.es|castellonplaza.com|valenciaplaza.com
 /static/BB3HTML/images/*sponsor*.png$domain=diariodecadiz.es|diariodejerez.es|diariodesevilla.es|elalmeria.es|eldiadecordoba.es|europasur.es|granadahoy.com|huelvainformacion.es|malagahoy.es
 /uploads/advertisings/*$domain=tribunaavila.com|tribunaburgos.com|tribunaleon.com|tribunapalencia.com|tribunasalamanca.com|tribunasegovia.com|tribunasoria.com|tribunavalladolid.com|tribunazamora.com
-||3djuegos.com/*/skins/
-||3djuegos.com/?zona=
-||3djuegos.com/img3/temp/81_war/$image
-||abocados.es/wp-content/uploads/*/*/banner-
 ||acortalo.net/js/clasicotas.js
 ||agar.live/300banner.gif
 ||agenciafe.com/data/img_cont/img_banners/
 ||agma.io/img/agmaAd/
 ||agritotal.com/file/image/*.gif
-||anbariloche.com.ar/uploads/archivos/*.gif
 ||andaluciainformacion.es/cms/media/banners/
 ||anroca.com.ar/uploads/archivos/*.gif
 ||apfdigital.com.ar/imgpublicidad/
