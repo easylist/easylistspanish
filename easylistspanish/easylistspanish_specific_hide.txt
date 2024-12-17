@@ -100,6 +100,7 @@ lostiempos.com###takeover-movil-counter
 elimpulso.com###tdi_16
 mixfm.mx###tdi_42
 knightnoscanlation.com,yugenmangas.com###teaser3
+16valvulas.com.ar###text-3
 planbnoticias.com.ar###text-4
 planbnoticias.com.ar###text-7
 independentespanol.com###top-banner-wrapper
@@ -664,6 +665,7 @@ resultados-futbol.com##div[style="height:200px;max-width: 840px;width: 840px;"]
 neomotor.epe.es##div[style="min-height: 700px"]
 eltiempo.es##div[style="min-height:250px;"]
 eltiempo.es##div[style="min-height:290px;"]
+16valvulas.com.ar##div[style="text-align:center;margin:0;background-color:#29509d;width:100%"]
 yapo.cl##div[style="width: 970px; height: 250px;"]
 animeflv.net##div[style="width:300px; height:250px"]
 milenio.com##div[style^="height: 300px;"]
@@ -892,7 +894,7 @@ misionesonline.net###text-20
 misionesonline.net###text-21
 misionesonline.net###text-22
 comodorodeportes.gov.ar###text-25
-16valvulas.com.ar,elsigloweb.com,infoagro.com.ar,todopolicia.com###text-3
+elsigloweb.com,infoagro.com.ar,todopolicia.com###text-3
 crearmiempresa.es,infoagro.com.ar###text-4
 diariovictoria.com.ar,elsigloweb.com###text-5
 smnoticias.com,smnoticias.info###text-52
