@@ -72,6 +72,8 @@ bemad.es,cuatro.com,divinity.es,energytv.es,factoriadeficcion.com,mtmad.es,niusd
 elnacional.com.do,hoy.com.do###modalanucio
 promodescuentos.com###mrec1FuseZonePortal
 diariodeteruel.es###mvp-leader-wrap
+abchoy.com.ar###netkevin-overlay
+abchoy.com.ar###netkevin-popup
 novalaplata.com###notas_arriba
 chileautos.cl###page-header
 elcorreogallego.es###pmMarketing_1
@@ -318,6 +320,7 @@ compraensanjuan.com##.espacio-publi-google
 hoyenbogota.com##.et_pb_row_4
 verepeliculas.com##.fake_player
 ejeprime.com##.featured_specials
+abchoy.com.ar##.fondo-banner
 ecuavisa.com##.fondo_publicidad
 buentv.net##.full_add
 ahoraeg.com,analitica.com,arquimaster.com.ar,donostitik.com,elperiodicodelaenergia.com,eltelegrafo.com,isanidad.com,jotdown.es,lapagina.com.sv,periodicolaperla.com,valencianews.es##.g
@@ -504,6 +507,7 @@ elinformador.mx,informador.mx##.sl_caliente
 soychile.cl##.slide__banner
 horadeopinion.com.ar##.slider-34391
 prensa.com##.sliderPrensa
+abchoy.com.ar##.sm-wrapper
 lateja.cr,nacion.com##.small-promo
 hispanidad.com##.sponsored
 elobservador.com.uy,losandes.com.ar##.sponsors
