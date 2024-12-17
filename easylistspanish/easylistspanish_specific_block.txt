@@ -1,6 +1,7 @@
 ||agencianova.com/avisos/
 ||aica.org/imagenes/pubs/
 ||albaceteabierto.es/anuncios/
+||animelatinohd.com/popAds.js
 ||api.servicesdtk2.cl/v1/count/banners$domain=autosusados.cl
 ||arquimaster.com.ar/banners/
 ||arquimaster.com.ar/Images/banners.htm
@@ -117,10 +118,6 @@
 ||3djuegos.com/*/skins/
 ||3djuegos.com/?zona=
 ||3djuegos.com/img3/temp/81_war/$image
-||4.bp.blogspot.com/-tNi8RVCQRuA/*/s640/Banner%2BVIP.gif
-||91.116.142.114/iframe
-||abc.com.py/plantillas/js/banners-mkt.js
-||abchoy.com.ar/publipopup/
 ||abocados.es/wp-content/uploads/*/*/banner-
 ||acortalo.net/js/clasicotas.js
 ||agar.live/300banner.gif
@@ -129,8 +126,6 @@
 ||agritotal.com/file/image/*.gif
 ||anbariloche.com.ar/uploads/archivos/*.gif
 ||andaluciainformacion.es/cms/media/banners/
-||animebum.net/ads.php
-||animelatinohd.com/pop.js
 ||anroca.com.ar/uploads/archivos/*.gif
 ||apfdigital.com.ar/imgpublicidad/
 ||azarplus.com/fotos/banners

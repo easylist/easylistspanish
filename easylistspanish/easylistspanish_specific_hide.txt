@@ -128,7 +128,7 @@ laregion.cr,tutorialesenlinea.es##.a-wrap
 beergeeks.cl,cannabis420.cl,comidasespanolas.com,recetasdepan.net,reparaciondecomputadoras.online,thebeertimes.com,weedmagazine.net##.aawp
 somosohlala.com##.accession
 actualidadradio.com##.actua-widget
-aica.org,deia.eus,diaridegirona.cat,diariocordoba.com,diariocorreo.com.ec,diariodeibiza.es,diariodemallorca.es,elcorreogallego.es,eldia.es,eldiario.com,elpais.com,elperiodicodearagon.com,elperiodicoextremadura.com,elperiodicomediterraneo.com,emporda.info,eurosport.es,farodevigo.es,fmdos.cl,informacion.es,jornada.com.mx,laopinioncoruna.es,laopiniondemalaga.es,laopiniondezamora.es,laprovincia.es,levante-emv.com,lne.es,meteoconsult.es,noticiasdealava.eus,noticiasdegipuzkoa.eus,noticiasdenavarra.com,noticiasrcn.com,ntn24.com,regio7.cat,revistafama.com,superdeporte.es,todo-mail.com##.ad
+abchoy.com.ar,aica.org,deia.eus,diaridegirona.cat,diariocordoba.com,diariocorreo.com.ec,diariodeibiza.es,diariodemallorca.es,elcorreogallego.es,eldia.es,eldiario.com,elpais.com,elperiodicodearagon.com,elperiodicoextremadura.com,elperiodicomediterraneo.com,emporda.info,eurosport.es,farodevigo.es,fmdos.cl,informacion.es,jornada.com.mx,laopinioncoruna.es,laopiniondemalaga.es,laopiniondezamora.es,laprovincia.es,levante-emv.com,lne.es,meteoconsult.es,noticiasdealava.eus,noticiasdegipuzkoa.eus,noticiasdenavarra.com,noticiasrcn.com,ntn24.com,regio7.cat,revistafama.com,superdeporte.es,todo-mail.com##.ad
 perfil.com##.ad-300x250
 mundo.com##.ad-banner
 okdiario.com##.ad-block
@@ -353,6 +353,7 @@ marie-claire.es,muyhistoria.es,muyinteresante.es,muynegociosyeconomia.es##.js-ad
 diariodelaribera.net##.lateralderecho
 diariodelaribera.net##.lateralizquierdo
 atv.pe,c9n.com.py,canal12.com.sv,chapintv.com,repretel.com,rts.com.ec,snt.com.py,sonora.com.gt##.layout-rev
+abchoy.com.ar##.lazypubli
 adslzone.net##.leaderboard
 huffingtonpost.es##.leaderboard-flex-placeholder
 anbariloche.com.ar,anroca.com.ar,elcordillerano.com.ar,elterritorio.com.ar,noticiasnet.com.ar##.linkBannerHeader
@@ -770,7 +771,6 @@ noticiasdehoy.site###after-ad
 futbolretro.es,gaceta.es###ai_widget-2
 cualesmiip.com###anuncio
 arbolabc.com###anuncio-dark
-abc.com.py###article-banner-comentarios
 telesemana.com###author-banner
 lacuerda.net###ban160
 lacuerda.net###ban300
@@ -803,11 +803,8 @@ hsbnoticias.com###block-infoblocks-infoblocks-fixedsize-7
 informe21.com###block-views-diosuniversal-block-1
 telesemana.com###blog-banner
 ushuaia24.com.ar###bloque-11
-abc.com.py###breaking-news-banner1
 wordmagicsoft.com###bt_aws_ad_slot_1
 rinconforero.mforos.com###by_hawkers
-abchoy.com.ar###cacho-overlay
-abchoy.com.ar###cacho-popup
 20minutos.es###cajasbuscadoras
 easy.com.ar###carruselMarcasBlaisten
 artesacro.org###ccr-sidebar-add-place
@@ -835,7 +832,6 @@ laveu.cat###divTopBanner
 mega1080.com###enla
 capodeportes.net###floatLayer2
 25digital.com.ar###footer-widgets
-abc.com.py###fullwidth-banner
 tvenganchado.com###g
 gente.com.ar###generico
 diariotextual.com###gkRightBottom
@@ -909,7 +905,6 @@ telesemana.com###text-87
 comodorodeportes.gov.ar###text-999
 elcolombiano.com###tiquetesMasBaratos
 chathispano.com###top
-abc.com.py###top-banners
 ecuavisa.com###topbar
 dinostream.pw###total
 dinostream.pw###total2
@@ -950,7 +945,7 @@ mediavida.com##._p-ft
 mediavida.com##._p-tp
 elambito.com,elmetro.com.co,gasteizhoy.com,radiomunera.com,realidadsm.com,sticknoticias.com##.a-single
 seriesgrey.com##.a728
-abchoy.com.ar,applesfera.com,bebesymas.com,bolavip.com,compradiccion.com,diariodelviajero.com,directoalpaladar.com,economiadigital.es,elblogsalmon.com,elconfidencial.com,elsol.com.ar,es.wallapop.com,espinof.com,genbeta.com,genbetadev.com,larazon.es,laverdad.com,mediotiempo.com,motorpasion.com,motorpasionmoto.com,pymesyautonomos.com,salvajes.com,telecinco.es,trendencias.com,trendenciashombre.com,vidaextra.com,vitonica.com,xataka.com,xatakaciencia.com,xatakafoto.com,xatakahome.com,xatakamovil.com,xatakandroid.com,xatakawindows.com##.ad
+applesfera.com,bebesymas.com,bolavip.com,compradiccion.com,diariodelviajero.com,directoalpaladar.com,economiadigital.es,elblogsalmon.com,elconfidencial.com,elsol.com.ar,es.wallapop.com,espinof.com,genbeta.com,genbetadev.com,larazon.es,laverdad.com,mediotiempo.com,motorpasion.com,motorpasionmoto.com,pymesyautonomos.com,salvajes.com,telecinco.es,trendencias.com,trendenciashombre.com,vidaextra.com,vitonica.com,xataka.com,xatakaciencia.com,xatakafoto.com,xatakahome.com,xatakamovil.com,xatakandroid.com,xatakawindows.com##.ad
 marca.com##.ad-item-bt-cont
 arbolabc.com##.ad-leaderboard-row
 elpatagonico.com##.ad02-obj
@@ -1024,7 +1019,6 @@ elonce.com##.banner-d
 750.am##.banner-desktop-300
 elonce.com##.banner-e
 elonce.com##.banner-f
-abc.com.py##.banner-full-60
 elonce.com##.banner-g
 elonce.com,rewisor.com##.banner-h
 20minutos.com,20minutos.com.mx,20minutos.es,ushuaianoticias.com##.banner-header
@@ -1111,8 +1105,6 @@ cienradios.com##.cienradios-ads
 autoscout24.es##.cl-billboad-wrapper
 lavoz.com.ar##.clublavoz
 marca.com##.codere
-abc.com.py##.col-banner
-abc.com.py##.col-banner-45
 frontera.info##.col-banner_c2
 force-download.es##.col-sm-2
 puntobiz.com.ar##.columna-tercera
@@ -1173,7 +1165,6 @@ jawcloud.co##.jawban
 aulafacil.com##.jlm-ad-videoo
 lanusnoticias.com.ar##.lanus-widget
 noticiasmallorca.es##.lateral
-abchoy.com.ar##.lazypubli
 ehowenespanol.com##.leaderboard-wrap
 infojobs.net##.lecourse
 eldeber.com.bo##.leftSidebar
@@ -1258,7 +1249,6 @@ cuyonoticias.com##.sidebar > #text-html-widget-11
 novelasromanticash.blogspot.com##.sidebar > .widget.Image
 diariocorreo.pe##.sidebar-zonahogar
 mediotiempo.com##.sign
-abchoy.com.ar##.slickWindow
 zigzagdigital.com##.slidebanner
 infojobs.net##.slotbanner-top
 parentesis.com##.space
