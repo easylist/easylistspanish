@@ -20,6 +20,7 @@ notariosyregistradores.com###ads
 diariocorreo.com.ec###advertisement
 lacapitalmdp.com###anpr
 separarensilabas.com###antiBannersGigantes
+arbolabc.com###anuncio-dark
 cuevana3.nu###anuncioca
 elciudadanoweb.com###apsa-pop-hidden-img
 agencianova.com,novachaco.com,novalaplata.com###avisosDerechaContainer
@@ -66,6 +67,7 @@ encuentra24.com###home_top
 diariodealmeria.es,diariodecadiz.es,diariodejerez.es,diariodesevilla.es,eldiadecordoba.es,europasur.es,granadahoy.com,huelvainformacion.es,malagahoy.es###id-bannerUnderHeader
 fronteradigital.com.ve###img_pub
 periodismokosher.com.ar###key2sticky
+arbolabc.com###leaderboard
 excelsior.com.mx###leaderboard0
 diariodeteruel.es###leftbanner
 atacamaenlinea.cl###media_image-17
@@ -139,6 +141,7 @@ mundo.com##.ad-banner
 okdiario.com##.ad-block
 americatv.com.ar,bolavip.com,buenazo.pe,dalealbo.cl,elpopular.pe,eltiempo.com,futbolcentroamerica.com,hobbyconsolas.com,juanbeisbol.com,juanfutbol.com,lapaginamillonaria.com,larepublica.pe,libero.pe,redgol.cl,somosfanaticos.fans,wapa.pe##.ad-container
 cualesmiip.com##.ad-detail-adaptable
+arbolabc.com##.ad-leaderboard-row
 3dgames.com.ar##.ad-wrapper
 bandaancha.eu##.adMbBlTp
 lavozdegalicia.es##.ad_fixed_h
@@ -764,7 +767,6 @@ yorokobu.es#?#.quicklink_w100:-abp-has(.publi-tag:-abp-contains(AD))
 ! ! top-level domain wildcard
 mercadolibre.*##.ui-search-layout__item:has(.poly-component__ads-promotions)
 !
-arbolabc.com###anuncio-dark
 telesemana.com###author-banner
 lacuerda.net###ban160
 lacuerda.net###ban300
@@ -939,7 +941,6 @@ elambito.com,elmetro.com.co,gasteizhoy.com,radiomunera.com,realidadsm.com,stickn
 seriesgrey.com##.a728
 applesfera.com,bebesymas.com,bolavip.com,compradiccion.com,diariodelviajero.com,directoalpaladar.com,economiadigital.es,elblogsalmon.com,elconfidencial.com,elsol.com.ar,es.wallapop.com,espinof.com,genbeta.com,genbetadev.com,larazon.es,laverdad.com,mediotiempo.com,motorpasion.com,motorpasionmoto.com,pymesyautonomos.com,salvajes.com,telecinco.es,trendencias.com,trendenciashombre.com,vidaextra.com,vitonica.com,xataka.com,xatakaciencia.com,xatakafoto.com,xatakahome.com,xatakamovil.com,xatakandroid.com,xatakawindows.com##.ad
 marca.com##.ad-item-bt-cont
-arbolabc.com##.ad-leaderboard-row
 elpatagonico.com##.ad02-obj
 costacadizcomunicacion.es,smnoticias.com,smnoticias.info##.ad2
 smnoticias.com,smnoticias.info##.ad3
