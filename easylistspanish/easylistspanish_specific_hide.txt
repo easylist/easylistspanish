@@ -14,7 +14,9 @@ canal1.com.co###SuperBanner2
 canal1.com.co###Superbanner_1
 elperiodicodemonagas.com.ve###ad-area
 elperiodicodemonagas.com.ve###ad-area-top
+foroparalelo.com###ad_global_below_navbar
 freepik.es###adobe-pagination-mkt-copy
+notariosyregistradores.com###ads
 diariocorreo.com.ec###advertisement
 lacapitalmdp.com###anpr
 separarensilabas.com###antiBannersGigantes
@@ -179,7 +181,7 @@ lainformacion.com##.axds-lane
 elpais.com##.b-bra-bbva
 lectuepubgratis.com##.bam-topbar
 lesportiudecatalunya.cat##.banerpromocio
-0221.com.ar,24con.com,agritotal.com,alicanteplaza.es,ambito.com,bienbonita.com,busqueda.com.uy,c5n.com,castellonplaza.com,cronista.com,diariolasamericas.com,diariolibre.com,donbalon.com,econojournal.com.ar,eleconomista.com.mx,eleconomista.net,elgrafico.com,elimparcial.com,elinformador.mx,ella.sv,ellas.pa,elnacional.com,elonce.com,elplural.com,guarda14.com,laverdadnoticias.com,lavoz.com.ar,letrap.com.ar,losandes.com.ar,motor.com.co,nuevodiarioweb.com.ar,observador.cr,puntal.com.ar,rpp.pe,sputniknews.lat,tntsports.cl,tntsports.com.ar,tvynovelas.com,valenciaplaza.com,viapais.com.ar,visortmo.com,welife.es##.banner
+0221.com.ar,24con.com,agritotal.com,alicanteplaza.es,ambito.com,bienbonita.com,busqueda.com.uy,c5n.com,castellonplaza.com,cronista.com,diariolasamericas.com,diariolibre.com,diariopopular.com.ar,donbalon.com,econojournal.com.ar,eleconomista.com.mx,eleconomista.net,elgrafico.com,elimparcial.com,elinformador.mx,ella.sv,ellas.pa,elnacional.com,elonce.com,elplural.com,guarda14.com,laverdadnoticias.com,lavoz.com.ar,letrap.com.ar,losandes.com.ar,motor.com.co,nuevodiarioweb.com.ar,observador.cr,puntal.com.ar,rpp.pe,sputniknews.lat,tntsports.cl,tntsports.com.ar,tvynovelas.com,valenciaplaza.com,viapais.com.ar,visortmo.com,welife.es##.banner
 naiz.eus##.banner--article
 iprofesional.com##.banner-2
 freepik.es##.banner-adobe
@@ -204,7 +206,7 @@ clarin.com##.banner-right
 anbariloche.com.ar,anroca.com.ar,elcordillerano.com.ar,elterritorio.com.ar,noticiasnet.com.ar##.banner-simple
 eltrecetv.com.ar##.banner-swap
 clarin.com##.banner-top
-ciudad.com.ar,elcomercio.com,lmcipolletti.com,lmneuquen.com##.banner-wrapper
+ciudad.com.ar,elcomercio.com,hazteveg.com,lmcipolletti.com,lmneuquen.com##.banner-wrapper
 visortmo.com##.banner2
 diariodelaribera.net##.bannerColumnas
 eleconomista.es##.bannerInferior
@@ -760,18 +762,6 @@ yorokobu.es#?#.quicklink_w100:-abp-has(.publi-tag:-abp-contains(AD))
 ! ! top-level domain wildcard
 mercadolibre.*##.ui-search-layout__item:has(.poly-component__ads-promotions)
 !
-forocoches.com###AutoNumber30
-diariopopular.com.ar###OBJETO861 > .ad-obj
-foroparalelo.com###ad_global_below_navbar
-es.nametests.com###ad_wrapper_head
-notariosyregistradores.com###ads
-eltiempo.es###ads_position_2
-agma.io###advertDialog1
-hazteveg.com###advertising
-comunio.es###advertising-right
-comunio.es###advertising-top
-noticiasdehoy.site###after-ad
-futbolretro.es,gaceta.es###ai_widget-2
 cualesmiip.com###anuncio
 arbolabc.com###anuncio-dark
 telesemana.com###author-banner
@@ -995,7 +985,7 @@ cadena3.com##.baner960x50
 cadena3.com##.baners-medio-nota-ampliada
 eleconomista.es##.bankia-cuerda
 expansion.com##.bankimia
-agenciafe.com,azarplus.com,bigbangnews.com,canal-ar.com.ar,debate.com.mx,diariodecuyo.com.ar,diariohoy.net,diariolaprovinciasj.com,diariopopular.com.ar,elancasti.com.ar,eldiarionuevodia.com.ar,elpatagonico.com,garticphone.com,impulsobaires.com.ar,infocanuelas.com,informador.mx,lacapital.com.ar,lacuarta.com,laiguana.tv,lanacion.com.ar,lapoliticaonline.com,laprensagrafica.com,masgamers.com,mdzol.com,meristation.com.mx,mibrujula.com,minutouno.com,paraveronline.com,planetadeagostini.es,primiciasya.com,puntobiz.com.ar,realpolitik.com.ar,rosario3.com,sanjuan8.com,t13.cl,tutecnomundo.com,tycsports.com,unoentrerios.com.ar,unosantafe.com.ar,voydeviaje.com.ar##.banner
+agenciafe.com,azarplus.com,bigbangnews.com,canal-ar.com.ar,debate.com.mx,diariodecuyo.com.ar,diariohoy.net,diariolaprovinciasj.com,elancasti.com.ar,eldiarionuevodia.com.ar,elpatagonico.com,garticphone.com,impulsobaires.com.ar,infocanuelas.com,informador.mx,lacapital.com.ar,lacuarta.com,laiguana.tv,lanacion.com.ar,lapoliticaonline.com,laprensagrafica.com,masgamers.com,mdzol.com,meristation.com.mx,mibrujula.com,minutouno.com,paraveronline.com,planetadeagostini.es,primiciasya.com,puntobiz.com.ar,realpolitik.com.ar,rosario3.com,sanjuan8.com,t13.cl,tutecnomundo.com,tycsports.com,unoentrerios.com.ar,unosantafe.com.ar,voydeviaje.com.ar##.banner
 alicanteplaza.es,castellonplaza.com,valenciaplaza.com##.banner--
 hipertextual.com##.banner--evento
 bigbangnews.com##.banner--full
@@ -1029,7 +1019,6 @@ lacapital.com.ar,primiciasya.com,unoentrerios.com.ar,unosantafe.com.ar##.banner-
 cronista.com##.banner-revista
 unosantafe.com.ar##.banner-side
 cooperativa.cl,tycsports.com##.banner-top
-hazteveg.com##.banner-wrapper
 laprensagrafica.com##.banner2
 iprofesional.com##.banner300x
 tottarragona.cat##.bannerContainer
@@ -1173,7 +1162,6 @@ reporteindigo.com##.loading-add
 rpp.pe##.logo-min
 lavanguardia.com##.lv-publi-box
 blancas.cl,paginasblancas.com.ar,paginasblancas.com.pe##.m-pod-promo-image
-eltiempo.es##.m_gollum
 maracodigital.net##.margenpublicidad
 publico.es##.megabanner-container
 horadeopinion.com.ar##.ml-slider
@@ -1181,7 +1169,6 @@ diarioelinformante.com.ar,laopinionsannicolas.com.ar##.modal-backdrop
 lavozdegalicia.es##.mujerhoy
 elheraldo.hn##.multimedia_taboola
 hsbnoticias.com##.node-advertisement
-gaceta.es##.node-anuncio-megabanner
 elnueve.com##.note-home-container--1-space
 pdindustriales.com.ar##.ofertas2
 elmundo.es##.other-services
@@ -1273,7 +1260,7 @@ lifeder.com##.td-ss-main-sidebar
 hispanicpost.com##.td-visible-desktop
 diarioconurbano.com.ar##.tdi_36
 larazon.es##.textoPatrocinio
-elbierzodigital.com,futbolretro.es,villavonoticias.com##.textwidget
+elbierzodigital.com,villavonoticias.com##.textwidget
 henaojara.com##.textwidget.custom-html-widget
 gameflare.com##.timer
 hoyaragon.es##.titulo-publicidad
@@ -1311,7 +1298,6 @@ hipertextual.com##.wrapperBanner
 gettyimages.es##[href="http://espanol.istockphoto.com/?esource=gi_es_home_3pack_istock_3"] > .promo-hover
 ecosdelcombeima.com##[href^="https://bit.ly/"]
 ecosdelcombeima.com##[href^="https://velotax.com.co/"]
-noticiasdehoy.site##[id^="Image"]
 diaridesabadell.com,diarideterrassa.com##[id^="diari-"]
 lebrijadigital.es##[id^="djslider"]
 armasymuniciones.net,arribalanus.com.ar,diarioconurbano.com.ar##[id^="media_image-"]
