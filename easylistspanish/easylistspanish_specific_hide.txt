@@ -138,6 +138,7 @@ perfil.com##.ad-300x250
 mundo.com##.ad-banner
 okdiario.com##.ad-block
 americatv.com.ar,bolavip.com,buenazo.pe,dalealbo.cl,elpopular.pe,eltiempo.com,futbolcentroamerica.com,hobbyconsolas.com,juanbeisbol.com,juanfutbol.com,lapaginamillonaria.com,larepublica.pe,libero.pe,redgol.cl,somosfanaticos.fans,wapa.pe##.ad-container
+cualesmiip.com##.ad-detail-adaptable
 3dgames.com.ar##.ad-wrapper
 bandaancha.eu##.adMbBlTp
 lavozdegalicia.es##.ad_fixed_h
@@ -763,7 +764,6 @@ yorokobu.es#?#.quicklink_w100:-abp-has(.publi-tag:-abp-contains(AD))
 ! ! top-level domain wildcard
 mercadolibre.*##.ui-search-layout__item:has(.poly-component__ads-promotions)
 !
-cualesmiip.com###anuncio
 arbolabc.com###anuncio-dark
 telesemana.com###author-banner
 lacuerda.net###ban160
