@@ -103,6 +103,7 @@ lostiempos.com###takeover-desktop-counter
 lostiempos.com###takeover-movil-counter
 elimpulso.com###tdi_16
 mixfm.mx###tdi_42
+futbolretro.es###tdi_71
 knightnoscanlation.com,yugenmangas.com###teaser3
 16valvulas.com.ar###text-3
 planbnoticias.com.ar###text-4
