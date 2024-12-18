@@ -24,6 +24,10 @@ arbolabc.com###anuncio-dark
 cuevana3.nu###anuncioca
 elciudadanoweb.com###apsa-pop-hidden-img
 agencianova.com,novachaco.com,novalaplata.com###avisosDerechaContainer
+lacuerda.net###ban160
+lacuerda.net###ban300
+lacuerda.net###ban728
+lacuerda.net###banTxt
 anbariloche.com.ar,anroca.com.ar,elcordillerano.com.ar,elterritorio.com.ar,noticiasnet.com.ar###bannerPopup
 ambito.com###bannerStickyHeader
 anbariloche.com.ar,anroca.com.ar,diarioeldia.cl,elcordillerano.com.ar,elterritorio.com.ar,noticiasnet.com.ar###bannerZocalo
@@ -101,6 +105,7 @@ latribuna.cl###slot_top
 avisosdeocasion.com###srcpublicidadhub
 elespanol.com###sticky_container
 diariolibre.com###stickyunit
+lacuerda.net###t_diag
 lostiempos.com###takeover-desktop-counter
 lostiempos.com###takeover-movil-counter
 elimpulso.com###tdi_16
@@ -767,12 +772,6 @@ yorokobu.es#?#.quicklink_w100:-abp-has(.publi-tag:-abp-contains(AD))
 ! ! top-level domain wildcard
 mercadolibre.*##.ui-search-layout__item:has(.poly-component__ads-promotions)
 !
-telesemana.com###author-banner
-lacuerda.net###ban160
-lacuerda.net###ban300
-lacuerda.net###ban728
-lacuerda.net###banTxt
-fmvida.com.ar,lapoliticaonline.com.mx###banner
 viralizalo.com###banner-mega
 diariotextual.com###bannerDiv
 pantallazo.com.uy###bannerEspeciales
@@ -870,7 +869,6 @@ labsk.net###sp_block_22
 abs0rb.me###stationary-ad
 pagina12.com.ar###sticky-banner-article
 noticiaslasflores.com.ar###swiffycontainer
-lacuerda.net###t_diag
 elheraldo.hn###taboola_nota
 lostiempos.com###takeover-desktop
 comodorodeportes.gov.ar###text-1000
