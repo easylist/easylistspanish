@@ -217,6 +217,7 @@ diariodecuyo.com.ar##.banner-lanusse
 a24.com,diariouno.com.ar,lared.am,puntal.com.ar##.banner-libre
 25digital.com.ar##.banner-promotions-wrapper
 clarin.com##.banner-right
+movieflix.click##.banner-sidebar
 anbariloche.com.ar,anroca.com.ar,elcordillerano.com.ar,elterritorio.com.ar,noticiasnet.com.ar##.banner-simple
 eltrecetv.com.ar##.banner-swap
 clarin.com##.banner-top
