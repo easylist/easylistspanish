@@ -23,6 +23,7 @@ separarensilabas.com###antiBannersGigantes
 arbolabc.com###anuncio-dark
 cuevana3.nu###anuncioca
 elciudadanoweb.com###apsa-pop-hidden-img
+leroymerlin.es###arm-pad[data-st-name="sponsored"]
 agencianova.com,novachaco.com,novalaplata.com###avisosDerechaContainer
 lacuerda.net###ban160
 lacuerda.net###ban300
