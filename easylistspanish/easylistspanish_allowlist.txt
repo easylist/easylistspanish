@@ -51,7 +51,6 @@
 @@||securepubads.g.doubleclick.net^$script,domain=expansion.com
 @@||sscc.edu.ec/wp-content/
 @@||static.vodgc.net/*/videojs.ads-5.1.5.min.js$script,domain=api.vodgc.net
-@@||todacolombia.com^$generichide
 @@||tpc.googlesyndication.com/pageadimg/imgad$image,media,domain=videos.cuantarazon.com|videos.humorenserie.com|videos.memedeportes.com|videos.vistoenlasredes.com|videos.vrutal.com
 @@||tpc.googlesyndication.com/pimgad/$image,media,domain=videos.cuantarazon.com|videos.humorenserie.com|videos.memedeportes.com|videos.vistoenlasredes.com|videos.vrutal.com
 @@||tpc.googlesyndication.com^$script,stylesheet,domain=videos.cuantarazon.com|videos.humorenserie.com|videos.memedeportes.com|videos.vistoenlasredes.com|videos.vrutal.com

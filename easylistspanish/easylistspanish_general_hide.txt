@@ -41,7 +41,6 @@
 ##.publicidad_footer_sticky
 ##.publicidadbflotante
 ##.publicolumna
-##.ue-c-ad
 ##.v-adv
 ##.voc-advertising
 ##.voc-article--sponsored
@@ -139,7 +138,6 @@
 ##.cnt-publicidad
 ##.cont_mer_publicidades
 ##.cont_publicidad
-##.container-ads
 ##.containerOas
 ##.contenedor_superior_publi
 ##.contpubliSuper
