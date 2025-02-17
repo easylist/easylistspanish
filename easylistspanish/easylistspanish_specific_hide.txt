@@ -587,7 +587,8 @@ barrigaverde.net,bcnoticias.com.co,berjadigital.es,claridadpuertorico.com,cronic
 elperiodista.cl##.widget_owjnimg
 elespecial.com##.widget_simpleimage
 latinopinionbaltimore.com##.widget_sp_image
-cultoro.es,enteratelatino.org,moracontenidos.com##.wp-block-image
+cultoro.es,enteratelatino.org,lavozdemoron.es,moracontenidos.com##.wp-block-image
+lavozdemoron.es##.wp-block-video
 canal-i.com##.wpb_images_carousel
 expresodelacosta.cl##.wpwbs_banners
 naciodigital.cat##.zona-ajbcn
