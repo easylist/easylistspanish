@@ -189,6 +189,7 @@ metroecuador.com.ec,publimetro.cl##.arcad-feature
 elespanol.com##.article-adv
 lavanguardia.com##.article-module-sponsored
 elconfidencial.com##.articleAside__module.articleAside__module--isSticky
+tycsports.com##.asideAdWrapper
 elobservador.com.uy##.auspicios
 gasteizhoy.com##.aviso_publi
 20minutos.es,lainformacion.com##.axds
@@ -364,6 +365,7 @@ soychile.cl##.home-banner
 atacamaenlinea.cl##.home-featured-widgets
 bolavip.com##.home-poll-block__ad
 t13.cl##.home-slider__header__sponsor
+tycsports.com##.horizontalAdWrapper
 periodicoellaurelpr.com##.hpe-i-ad
 canal21ebre.com,marfanta.com##.ib-ad-text
 sunoticiero.net##.img-ad-default
