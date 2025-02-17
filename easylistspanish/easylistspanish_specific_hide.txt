@@ -146,7 +146,7 @@ somosohlala.com##.accession
 actualidadradio.com##.actua-widget
 abchoy.com.ar,aica.org,applesfera.com,bebesymas.com,compradiccion.com,deia.eus,diaridegirona.cat,diariocordoba.com,diariocorreo.com.ec,diariodeibiza.es,diariodelviajero.com,diariodemallorca.es,directoalpaladar.com,economiadigital.es,elblogsalmon.com,elconfidencial.com,elcorreogallego.es,eldia.es,eldiario.com,elpais.com,elperiodicodearagon.com,elperiodicoextremadura.com,elperiodicomediterraneo.com,emporda.info,espinof.com,eurosport.es,farodevigo.es,fmdos.cl,genbeta.com,informacion.es,jornada.com.mx,laopinioncoruna.es,laopiniondemalaga.es,laopiniondezamora.es,laprovincia.es,larazon.es,levante-emv.com,lne.es,meteoconsult.es,motorpasion.com,motorpasion.com.mx,motorpasionmoto.com,noticiasdealava.eus,noticiasdegipuzkoa.eus,noticiasdenavarra.com,noticiasrcn.com,ntn24.com,pymesyautonomos.com,regio7.cat,revistafama.com,superdeporte.es,todo-mail.com,trendencias.com,trendenciashombre.com,vidaextra.com,vitonica.com,xataka.com,xatakaciencia.com,xatakafoto.com,xatakahome.com,xatakamovil.com,xatakandroid.com,xatakawindows.com##.ad
 mundo.com##.ad-banner
-americatv.com.ar,bolavip.com,buenazo.pe,dalealbo.cl,elpopular.pe,eltiempo.com,futbolcentroamerica.com,hobbyconsolas.com,juanbeisbol.com,juanfutbol.com,lapaginamillonaria.com,larepublica.pe,libero.pe,redgol.cl,somosfanaticos.fans,wapa.pe##.ad-container
+americatv.com.ar,bolavip.com,buenazo.pe,dalealbo.cl,e-noticies.cat,elpopular.pe,eltiempo.com,futbolcentroamerica.com,hobbyconsolas.com,juanbeisbol.com,juanfutbol.com,lapaginamillonaria.com,larepublica.pe,libero.pe,redgol.cl,somosfanaticos.fans,wapa.pe##.ad-container
 cualesmiip.com##.ad-detail-adaptable
 arbolabc.com##.ad-leaderboard-row
 bandaancha.eu##.adMbBlTp
@@ -279,6 +279,7 @@ vivanolamag.com##.client-logo-slider
 eltiempo.es##.cls-publi-height
 bembibredigital.com,comedera.com,economiadigital.es,elrellano.com,finanzas.com,finofilipino.org,gatewayhispanic.com,intercambiosvirtualeshd.org,mejoresmodsminecraft.site,periodismodelmotor.com,radiocre.com,stonkstutors.com,tresubresdobles.com,valoraanalitik.com,washingtonhispanic.com##.code-block
 ciudadccs.info##.col-sm-9
+e-noticies.cat##.column-ads
 elespanol.com##.comments-adv
 ansalatina.com##.commercial-banner
 ansalatina.com##.commercial-banner-top
@@ -519,6 +520,7 @@ elobservador.com.uy,losandes.com.ar##.sponsors
 exitosanoticias.pe##.statics_module
 prensa.com##.sticky-box[style="height: 800px;"]
 prensa.com##.sticky-box[style="height: 950px;"]
+e-noticies.cat##.stickyFooterContainer
 elindependiente.com##.sub_header
 elpais.com.sv##.supsystic-slider-wrapper
 laprensani.com##.tads-header-mobile
