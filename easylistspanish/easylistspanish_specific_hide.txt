@@ -1,6 +1,7 @@
 canal1.com.co###BannerFlotanteDp
 canal1.com.co###Banner_Flotante_Dp
 elpais.com.co###Barra_1_D
+azarplus.com###Bloque3publis
 elpais.com.co###Boton_1_D
 norteenlinea.com###Mod375
 norteenlinea.com###Mod427
@@ -460,6 +461,7 @@ aguaita.cat,pallarsdigital.cat,pensem.cat,rubitv.cat,tarragonadigital.com##.publ
 lawebdelprogramador.com##.publi_robapaginas
 0221.com.ar,areajugones.sport.es,cronicabalear.es,elpais.com.co,estadiodeportivo.com,expansion.com,generacionuniversitaria.com.mx,highxtar.com,iberempleos.es,lavozdealmeria.com,meteored.cl,meteored.com.ar,meteored.com.py,meteored.mx,neomotor.com,okdiario.com,pulzo.com,supercines.com,tiempo.com##.publicidad
 fulltv.com.ar##.publicidad-728-top
+azarplus.com##.publicidad-debajo-del-menu
 record.com.mx##.publicidadBoxBanner300x75
 contextotucuman.com##.publicidadTop
 0221.com.ar##.publicidad_cont
@@ -522,6 +524,7 @@ laprensani.com##.tads-header-mobile
 prensa.com##.tagPublicidad
 publinews.gt##.takeoverlink
 avn.info.ve,bavaronews.com,contrapunto.com.sv,diarioelnorte.com.ar,diariolaprensa.cl,diariolatino.net,elaragueno.com.ve,eldiario.net,elmercurio.com.ec,elmundotoday.com,elperiodicousa.com,elproductor.com,elsiglo.com.ve,guineainfomarket.com,horajaen.com,lacalle.com.ve,lagdeguinea.com,mundoplus.tv,noticialdia.com,noticiasuno.com,pcpro.es,periodismo.com,soynuevaprensadigital.com,tubarco.news,tumbaabierta.com,udlaspalmas.net##.td-a-rec
+azarplus.com##.td-all-devices
 aldeaviral.com,eldiariodeguayana.com.ve##.td-header-sp-recs
 elsolnews.com##.tdi_132
 udlaspalmas.net##.tdi_22
