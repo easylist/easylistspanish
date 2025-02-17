@@ -6,6 +6,7 @@
 ||avisosdeocasion.com/reforma/gcavisoscom/$domain=reforma.com
 ||bit.ly^$domain=mega-mkv.com
 ||cdnpublicidad.milenio.com^
+||cloudfront.net/banners/$domain=sticknoticias.com
 ||d1r08wok4169a5.cloudfront.net^
 ||getadjacent.com/amd/*/ned-adjacent-ads.min.js
 ||grupnaciodigital.cat/redaccio/publicitat/
