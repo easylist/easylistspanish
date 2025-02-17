@@ -198,7 +198,7 @@ elpais.com##.b-bra-bbva
 lectuepubgratis.com##.bam-topbar
 gasteizhoy.com##.banclick
 lesportiudecatalunya.cat##.banerpromocio
-0221.com.ar,24con.com,agenciafe.com,agritotal.com,alicanteplaza.es,ambito.com,bienbonita.com,busqueda.com.uy,c5n.com,castellonplaza.com,cronista.com,diario.mx,diariohoy.net,diariolasamericas.com,diariolibre.com,diariopopular.com.ar,donbalon.com,econojournal.com.ar,elancasti.com.ar,eldiarionuevodia.com.ar,eleconomista.com.mx,eleconomista.net,elgrafico.com,elimparcial.com,ella.sv,ellas.pa,elnacional.com,elonce.com,elpatagonico.com,elplural.com,guarda14.com,impulsobaires.com.ar,infocanuelas.com,informador.mx,lacuarta.com,lapoliticaonline.com,laprensagrafica.com,laverdadnoticias.com,lavoz.com.ar,letrap.com.ar,losandes.com.ar,masgamers.com,mdzol.com,minutouno.com,motor.com.co,nuevodiarioweb.com.ar,observador.cr,pilaradiario.com,puntal.com.ar,realpolitik.com.ar,rpp.pe,sputniknews.lat,t13.cl,tntsports.cl,tntsports.com.ar,tvynovelas.com,valenciaplaza.com,viapais.com.ar,welife.es##.banner
+0221.com.ar,24con.com,agenciafe.com,agritotal.com,alicanteplaza.es,altonivel.com.mx,ambito.com,bienbonita.com,busqueda.com.uy,c5n.com,castellonplaza.com,cronista.com,diario.mx,diariohoy.net,diariolasamericas.com,diariolibre.com,diariopopular.com.ar,donbalon.com,econojournal.com.ar,elancasti.com.ar,eldiarionuevodia.com.ar,eleconomista.com.mx,eleconomista.net,elgrafico.com,elimparcial.com,ella.sv,ellas.pa,elnacional.com,elonce.com,elpatagonico.com,elplural.com,guarda14.com,impulsobaires.com.ar,infocanuelas.com,informador.mx,lacuarta.com,lapoliticaonline.com,laprensagrafica.com,laverdadnoticias.com,lavoz.com.ar,letrap.com.ar,losandes.com.ar,masgamers.com,mdzol.com,minutouno.com,motor.com.co,nuevodiarioweb.com.ar,observador.cr,pilaradiario.com,puntal.com.ar,realpolitik.com.ar,rpp.pe,sputniknews.lat,t13.cl,tntsports.cl,tntsports.com.ar,tvynovelas.com,valenciaplaza.com,viapais.com.ar,welife.es##.banner
 naiz.eus##.banner--article
 iprofesional.com##.banner-2
 freepik.es##.banner-adobe
@@ -472,7 +472,7 @@ aguaita.cat,naciodigital.cat,pallarsdigital.cat,rubitv.cat,tarragonadigital.com#
 esdiario.com##.publi-top
 aguaita.cat,pallarsdigital.cat,pensem.cat,rubitv.cat,tarragonadigital.com##.publi_interpagina
 lawebdelprogramador.com##.publi_robapaginas
-0221.com.ar,areajugones.sport.es,cinepremiere.com.mx,cronicabalear.es,elpais.com.co,emprendedor.com,estadiodeportivo.com,expansion.com,generacionuniversitaria.com.mx,highxtar.com,iberempleos.es,lavozdealmeria.com,meteored.cl,meteored.com.ar,meteored.com.py,meteored.mx,neomotor.com,nupciasmagazine.com,okdiario.com,pulzo.com,supercines.com,tiempo.com##.publicidad
+0221.com.ar,altonivel.com.mx,areajugones.sport.es,cinepremiere.com.mx,cronicabalear.es,elpais.com.co,emprendedor.com,estadiodeportivo.com,expansion.com,generacionuniversitaria.com.mx,highxtar.com,iberempleos.es,lavozdealmeria.com,meteored.cl,meteored.com.ar,meteored.com.py,meteored.mx,neomotor.com,nupciasmagazine.com,okdiario.com,pulzo.com,supercines.com,tiempo.com##.publicidad
 fulltv.com.ar##.publicidad-728-top
 azarplus.com##.publicidad-debajo-del-menu
 puntobiz.com.ar##.publicidad-line
@@ -488,7 +488,7 @@ psicologiaymente.com##.py-4.text-center
 eleconomista.es##.railContainer1
 eleconomista.es##.railContainer3
 ciclismoatual.com,tenisaldia.es##.raw-html-component
-emprendedor.com,nupcias.mx##.rayabtn
+altonivel.com.mx,emprendedor.com,nupcias.mx##.rayabtn
 ceroacero.es##.rbbox-odds
 fotocasa.es##.re-AdvertisingDominanceNative
 directoalpaladar.com,motorpasion.com,motorpasion.com.mx,trendenciashombre.com,vidaextra.com,xataka.com##.related-native-item
