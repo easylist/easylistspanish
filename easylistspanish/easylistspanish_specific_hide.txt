@@ -277,7 +277,7 @@ eldefinido.cl##.cajabanners
 diariobitcoin.com##.clickout-banner-regular_native_box
 vivanolamag.com##.client-logo-slider
 eltiempo.es##.cls-publi-height
-bembibredigital.com,comedera.com,elrellano.com,finofilipino.org,gatewayhispanic.com,intercambiosvirtualeshd.org,mejoresmodsminecraft.site,periodismodelmotor.com,radiocre.com,stonkstutors.com,tresubresdobles.com,valoraanalitik.com,washingtonhispanic.com##.code-block
+bembibredigital.com,comedera.com,elrellano.com,finanzas.com,finofilipino.org,gatewayhispanic.com,intercambiosvirtualeshd.org,mejoresmodsminecraft.site,periodismodelmotor.com,radiocre.com,stonkstutors.com,tresubresdobles.com,valoraanalitik.com,washingtonhispanic.com##.code-block
 ciudadccs.info##.col-sm-9
 elespanol.com##.comments-adv
 ansalatina.com##.commercial-banner
