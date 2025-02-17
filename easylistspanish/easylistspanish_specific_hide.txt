@@ -472,7 +472,7 @@ aguaita.cat,naciodigital.cat,pallarsdigital.cat,rubitv.cat,tarragonadigital.com#
 esdiario.com##.publi-top
 aguaita.cat,pallarsdigital.cat,pensem.cat,rubitv.cat,tarragonadigital.com##.publi_interpagina
 lawebdelprogramador.com##.publi_robapaginas
-0221.com.ar,areajugones.sport.es,cronicabalear.es,elpais.com.co,emprendedor.com,estadiodeportivo.com,expansion.com,generacionuniversitaria.com.mx,highxtar.com,iberempleos.es,lavozdealmeria.com,meteored.cl,meteored.com.ar,meteored.com.py,meteored.mx,neomotor.com,nupciasmagazine.com,okdiario.com,pulzo.com,supercines.com,tiempo.com##.publicidad
+0221.com.ar,areajugones.sport.es,cinepremiere.com.mx,cronicabalear.es,elpais.com.co,emprendedor.com,estadiodeportivo.com,expansion.com,generacionuniversitaria.com.mx,highxtar.com,iberempleos.es,lavozdealmeria.com,meteored.cl,meteored.com.ar,meteored.com.py,meteored.mx,neomotor.com,nupciasmagazine.com,okdiario.com,pulzo.com,supercines.com,tiempo.com##.publicidad
 fulltv.com.ar##.publicidad-728-top
 azarplus.com##.publicidad-debajo-del-menu
 puntobiz.com.ar##.publicidad-line
