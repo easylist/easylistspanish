@@ -643,6 +643,7 @@ bemad.es,cuatro.com,divinity.es,energytv.es,factoriadeficcion.com,mtmad.es,niusd
 bemad.es,cuatro.com,divinity.es,energytv.es,factoriadeficcion.com,mtmad.es,niusdiario.es,telecinco.es,uppers.es,yasss.es##div[class^="ads__ad_"]
 elchapuzasinformatico.com##div[class^="ads_single_"]
 locopelis.com,repelis.net##div[class^="adsbutt_"]
+cadenaoh.com.ar##div[class^="angwp_"]
 verepeliculas.com##div[class^="ano_"]
 americateve.com##div[class^="banner-"]
 bemad.es,cuatro.com,divinity.es,energytv.es,factoriadeficcion.com,mtmad.es,niusdiario.es,telecinco.es,uppers.es,yasss.es##div[class^="cards__card_ad-"]
