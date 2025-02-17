@@ -578,7 +578,7 @@ weedmagazine.net##.widget_aawp_widget_new_releases
 elciudadanoweb.com##.widget_apsa_campaign
 grupormultimedio.com,horadeopinion.com.ar,lahora.com.ec##.widget_custom_html
 rumbonews.com##.widget_media_gallery
-barrigaverde.net,claridadpuertorico.com,cronica.com.ec,cronicasnews.com,diarioeltiempo.com.ve,diariotextual.com,elnuevogeorgia.com,elperiodicodemonagas.com.ve,elsiglo.com.ve,elsolnoticias.com.ar,entornointeligente.com,gacetinmadrid.com,lanacion.com.ec,laprensadecolorado.com,larepublica.ec,moracontenidos.com,noticiasenlineacr.com,noticiasformosa.com.ar,radiosucre.com.ec,realidadsm.com,transponder1200.com,viajareslapera.com,webelpuente.com##.widget_media_image
+barrigaverde.net,claridadpuertorico.com,cronica.com.ec,cronicasnews.com,diarioeltiempo.com.ve,diariotextual.com,diariovictoria.com.ar,elnuevogeorgia.com,elperiodicodemonagas.com.ve,elsiglo.com.ve,elsolnoticias.com.ar,entornointeligente.com,gacetinmadrid.com,lanacion.com.ec,laprensadecolorado.com,larepublica.ec,moracontenidos.com,noticiasenlineacr.com,noticiasformosa.com.ar,radiosucre.com.ec,realidadsm.com,transponder1200.com,viajareslapera.com,webelpuente.com##.widget_media_image
 25digital.com.ar,horadeopinion.com.ar##.widget_metaslider_widget
 elperiodista.cl##.widget_owjnimg
 elespecial.com##.widget_simpleimage
