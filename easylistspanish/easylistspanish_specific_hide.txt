@@ -196,7 +196,7 @@ naiz.eus##.banner--article
 iprofesional.com##.banner-2
 freepik.es##.banner-adobe
 clarin.com,ole.com.ar##.banner-border
-agroclave.com.ar,cronica.com.ar,lacapital.com.ar,unosantafe.com.ar##.banner-box
+agroclave.com.ar,cronica.com.ar,lacapital.com.ar,unoentrerios.com.ar,unosantafe.com.ar##.banner-box
 elnueve.com.ar##.banner-box-container
 noticiasurbanas.com.ar##.banner-center
 concierto.cl##.banner-cms
