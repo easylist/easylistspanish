@@ -190,10 +190,12 @@ elespanol.com##.article-adv
 lavanguardia.com##.article-module-sponsored
 elconfidencial.com##.articleAside__module.articleAside__module--isSticky
 elobservador.com.uy##.auspicios
+gasteizhoy.com##.aviso_publi
 20minutos.es,lainformacion.com##.axds
 lainformacion.com##.axds-lane
 elpais.com##.b-bra-bbva
 lectuepubgratis.com##.bam-topbar
+gasteizhoy.com##.banclick
 lesportiudecatalunya.cat##.banerpromocio
 0221.com.ar,24con.com,agenciafe.com,agritotal.com,alicanteplaza.es,ambito.com,bienbonita.com,busqueda.com.uy,c5n.com,castellonplaza.com,cronista.com,diario.mx,diariohoy.net,diariolasamericas.com,diariolibre.com,diariopopular.com.ar,donbalon.com,econojournal.com.ar,elancasti.com.ar,eldiarionuevodia.com.ar,eleconomista.com.mx,eleconomista.net,elgrafico.com,elimparcial.com,ella.sv,ellas.pa,elnacional.com,elonce.com,elpatagonico.com,elplural.com,guarda14.com,impulsobaires.com.ar,infocanuelas.com,informador.mx,lacuarta.com,lapoliticaonline.com,laprensagrafica.com,laverdadnoticias.com,lavoz.com.ar,letrap.com.ar,losandes.com.ar,masgamers.com,mdzol.com,minutouno.com,motor.com.co,nuevodiarioweb.com.ar,observador.cr,pilaradiario.com,puntal.com.ar,realpolitik.com.ar,rpp.pe,sputniknews.lat,t13.cl,tntsports.cl,tntsports.com.ar,tvynovelas.com,valenciaplaza.com,viapais.com.ar,welife.es##.banner
 naiz.eus##.banner--article
@@ -383,6 +385,7 @@ prensa.com##.logo_group_mar
 directoalpaladar.com,trendenciashombre.com,vidaextra.com,xataka.com##.m-branded
 bebesymas.com,diariodelviajero.com,elblogsalmon.com,motorpasionmoto.com,pymesyautonomos.com##.m-desvio-ecommerce
 milanuncios.com##.ma-ContentListing-advertising-native
+gasteizhoy.com##.macrobanblock
 sensacine.com,sensacine.com.mx##.main-banner
 laoctava.com##.main-banner-ad
 infopico.com##.marco-publicidad
