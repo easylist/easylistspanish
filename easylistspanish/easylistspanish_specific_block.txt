@@ -67,6 +67,7 @@
 ||player.cuevana8.com/assets/vast_
 ||player.gnula.nu/assets/vast_
 ||player.repelis24.life/assets/vast_
+||profesionalreview.com/wp-content/uploads/*/skin_
 ||puromarketing.com/adxs/
 ||radiomontecarlo.com.uy/imgs/banners/
 ||redtarapaca.com^*/ahorrocorp.jpg

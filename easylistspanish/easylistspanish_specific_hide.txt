@@ -26,6 +26,7 @@ cuevana3.nu###anuncioca
 elciudadanoweb.com###apsa-pop-hidden-img
 leroymerlin.es###arm-pad[data-st-name="sponsored"]
 agencianova.com,novachaco.com,novalaplata.com###avisosDerechaContainer
+profesionalreview.com###background-stream-cover
 lacuerda.net###ban160
 lacuerda.net###ban300
 lacuerda.net###ban728
@@ -535,6 +536,7 @@ prensa.com##.sticky-box[style="height: 800px;"]
 prensa.com##.sticky-box[style="height: 950px;"]
 e-noticies.cat##.stickyFooterContainer
 cadenaoh.com.ar,profesionalreview.com##.stream-item
+profesionalreview.com##.stream-item-widget
 elindependiente.com##.sub_header
 elpais.com.sv##.supsystic-slider-wrapper
 laprensani.com##.tads-header-mobile
