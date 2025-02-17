@@ -535,7 +535,7 @@ exitosanoticias.pe##.statics_module
 prensa.com##.sticky-box[style="height: 800px;"]
 prensa.com##.sticky-box[style="height: 950px;"]
 e-noticies.cat##.stickyFooterContainer
-cadenaoh.com.ar,profesionalreview.com##.stream-item
+bcnoticias.com.co,cadenaoh.com.ar,profesionalreview.com##.stream-item
 profesionalreview.com##.stream-item-widget
 elindependiente.com##.sub_header
 elpais.com.sv##.supsystic-slider-wrapper
