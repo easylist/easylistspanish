@@ -359,6 +359,7 @@ elespanol.com##.heading__sponsor
 midiario.com,prensa.com##.height-bantop-fijo
 diariodenavarra.es,larazon.es,marie-claire.es,muyhistoria.es,muyinteresante.es,muynegociosyeconomia.es##.henneoHB
 publinews.gt##.herald-da
+cienradios.com##.hide-on-scroll-wrapper.is-not-scrolled[style="height: 90px;"]
 soychile.cl##.home-banner
 atacamaenlinea.cl##.home-featured-widgets
 bolavip.com##.home-poll-block__ad
