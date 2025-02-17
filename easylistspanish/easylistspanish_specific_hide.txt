@@ -59,6 +59,8 @@ forococheselectricos.com###custom_html-17
 thaderclub.com###custom_html-19
 eltorotv.com###custom_html-21
 neomotor.epe.es###cx_widget
+laiguana.tv###divFLRALeft
+laiguana.tv###divFLRARight
 mangatigre.net###dl-banner-300-250
 diariolibre.com###dl_970x250_1
 diariolibre.com###dl_970x250_2
@@ -111,6 +113,8 @@ avisosdeocasion.com###srcpublicidadhub
 elespanol.com###sticky_container
 diariolibre.com###stickyunit
 lacuerda.net###t_diag
+laiguana.tv###tdi_139
+laiguana.tv###tdi_154
 elimpulso.com###tdi_16
 mixfm.mx###tdi_42
 futbolretro.es###tdi_71
