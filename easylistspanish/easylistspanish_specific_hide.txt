@@ -145,7 +145,7 @@ elchapuzasinformatico.com##.__lxG__multi
 sport.es##._mo_recs_tpi
 huffingtonpost.es##._modulo-amazon
 ahoraeg.com,analitica.com,atb.com.bo,aurora-israel.co.il,aviacionline.com,elambito.com,elperiodicodelaenergia.com,elsiglo.com.ve,latinopinionbaltimore.com,realidadsm.com,siempre.mx,teleamazonas.com##.a-single
-laregion.cr,tutorialesenlinea.es##.a-wrap
+laregion.cr,portalpuentealto.cl,tutorialesenlinea.es##.a-wrap
 beergeeks.cl,cannabis420.cl,comidasespanolas.com,recetasdepan.net,reparaciondecomputadoras.online,thebeertimes.com,weedmagazine.net##.aawp
 somosohlala.com##.accession
 actualidadradio.com##.actua-widget
@@ -515,8 +515,9 @@ meganoticias.cl##.section-dfp
 directoalpaladar.com,trendenciashombre.com,vidaextra.com,xataka.com##.section-native-container
 depor.com##.separator__sponsored
 seriesturcas.gratis##.serie-optimanetwork
-lagaceta.com.ec##.sgpb-popup-dialog-main-div-wrapper
+lagaceta.com.ec,portalpuentealto.cl##.sgpb-popup-dialog-main-div-wrapper
 lagaceta.com.ec##.sgpb-popup-overlay
+portalpuentealto.cl##.sgpb-theme-1-overlay
 cooljuegos.com##.sidebar-game
 motor.elpais.com##.site-header__publicidad
 emporda.info##.sk--branded-content
