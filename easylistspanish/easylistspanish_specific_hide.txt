@@ -512,7 +512,7 @@ lasexta.com##.section-aside-roba
 lapoliticaonline.com##.section-banner
 cuevana.pro,pelispedia.la##.section-cpa
 meganoticias.cl##.section-dfp
-directoalpaladar.com,trendenciashombre.com,vidaextra.com,xataka.com##.section-native-container
+directoalpaladar.com,trendenciashombre.com,vidaextra.com,xataka.com,xataka.com.mx##.section-native-container
 depor.com##.separator__sponsored
 seriesturcas.gratis##.serie-optimanetwork
 lagaceta.com.ec,portalpuentealto.cl##.sgpb-popup-dialog-main-div-wrapper
