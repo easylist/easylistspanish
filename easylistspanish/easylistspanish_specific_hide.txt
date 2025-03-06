@@ -3,6 +3,7 @@ canal1.com.co###Banner_Flotante_Dp
 elpais.com.co###Barra_1_D
 azarplus.com###Bloque3publis
 elpais.com.co###Boton_1_D
+walmart.com.mx###ITEM-BuyBoxAd-top
 norteenlinea.com###Mod375
 norteenlinea.com###Mod427
 norteenlinea.com###Mod450
