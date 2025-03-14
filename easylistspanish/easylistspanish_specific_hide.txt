@@ -787,6 +787,7 @@ theobjective.com#?#.tno-article-block:-abp-has(span:-abp-contains(Branded conten
 walmart.com.mx#?#[data-testid="item-stack"] > div:-abp-contains(Patrocinado)
 yorokobu.es#?#.quicklink_w100:-abp-has(.publi-tag:-abp-contains(AD))
 ! ! top-level domain wildcard
+mercadolibre.*##.andes-card:has([href*="brand_ads"])
 mercadolibre.*##.ui-search-layout__item:has(.poly-component__ads-promotions)
 mercadolibre.*#?#.ui-recommendations-carousel-wrapper-ref:-abp-contains(Promocionado)
 !
