@@ -368,6 +368,7 @@ diariodenavarra.es,larazon.es,marie-claire.es,muyhistoria.es,muyinteresante.es,m
 publinews.gt##.herald-da
 cienradios.com##.hide-on-scroll-wrapper.is-not-scrolled[style="height: 90px;"]
 soychile.cl##.home-banner
+paulinacocina.net##.home-content-banner-ad
 atacamaenlinea.cl##.home-featured-widgets
 bolavip.com##.home-poll-block__ad
 t13.cl##.home-slider__header__sponsor
