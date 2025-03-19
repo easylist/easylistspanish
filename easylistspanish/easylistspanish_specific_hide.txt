@@ -154,6 +154,7 @@ abchoy.com.ar,aica.org,applesfera.com,bebesymas.com,compradiccion.com,deia.eus,d
 mundo.com##.ad-banner
 americatv.com.ar,bolavip.com,buenazo.pe,dalealbo.cl,e-noticies.cat,elpopular.pe,eltiempo.com,futbolcentroamerica.com,hobbyconsolas.com,juanbeisbol.com,juanfutbol.com,lapaginamillonaria.com,larepublica.pe,libero.pe,redgol.cl,somosfanaticos.fans,wapa.pe##.ad-container
 cualesmiip.com##.ad-detail-adaptable
+elmon.cat##.ad-gutenberg-block
 arbolabc.com##.ad-leaderboard-row
 bandaancha.eu##.adMbBlTp
 lavozdegalicia.es##.ad_fixed_h
@@ -254,6 +255,7 @@ europa-agricola.es,via-mobilis.es##.banniere
 falabella.com##.bannner-styles
 noticiasrcn.com##.barra-compuesta
 flashscore.co,flashscore.es,flashscore.pe##.bettingStrip
+elmon.cat##.billboard
 cosasdecome.es##.block-anuncios
 cronista.com##.blocksponsor
 eldinamo.cl,theclinic.cl##.bloque-dfp
