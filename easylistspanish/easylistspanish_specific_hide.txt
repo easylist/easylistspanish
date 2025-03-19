@@ -366,7 +366,7 @@ diariodemallorca.es##.grp--branded-style
 habitaclia.com##.gtmclickpromo
 milanuncios.com##.has-advertisement
 atacamaenlinea.cl,redmipaisnorte.cl##.header-promotion
-resultadostris.com##.header_add
+comprobarbonoloto.es,resultadostris.com##.header_add
 elespanol.com##.heading__sponsor
 midiario.com,prensa.com##.height-bantop-fijo
 diariodenavarra.es,larazon.es,marie-claire.es,muyhistoria.es,muyinteresante.es,muynegociosyeconomia.es##.henneoHB
@@ -673,7 +673,7 @@ avisooportuno.mx##div[class^="div-dfp-"]
 eluniversal.com.mx##div[class^="itemgpt_"]
 liderendeportes.com##div[class^="lider-"]
 formulatv.com##div[class^="pub-"]
-cokitos.com,liderendeportes.com,mundoplus.tv,resultadostris.com##div[class^="r89-"]
+cokitos.com,comprobarbonoloto.es,liderendeportes.com,mundoplus.tv,resultadostris.com##div[class^="r89-"]
 purochocolate.life,tumascota.life##div[class^="tumas-"]
 huffingtonpost.es##div[data-adtype]
 musica.com##div[data-fuse]
