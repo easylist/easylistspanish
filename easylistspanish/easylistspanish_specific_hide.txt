@@ -380,6 +380,8 @@ sunoticiero.net##.img-ad-default
 lanacion.cl##.img-banner
 lavoz.com.ar##.imgSponsor
 diarioadn.co##.imperdibles__position
+muchodeporte.com##.intext1
+muchodeporte.com##.intext2
 radiocentro.com.ec##.jet-popup
 marie-claire.es,muyhistoria.es,muyinteresante.es,muynegociosyeconomia.es##.js-ads-not-visible
 diariodelaribera.net##.lateralderecho
