@@ -193,6 +193,9 @@ lavanguardia.com##.article-module-sponsored
 elconfidencial.com##.articleAside__module.articleAside__module--isSticky
 tycsports.com##.asideAdWrapper
 elobservador.com.uy##.auspicios
+elmon.cat##.auxdiv-1
+elmon.cat##.auxdiv-3
+elmon.cat##.auxdiv-5
 gasteizhoy.com##.aviso_publi
 20minutos.es,lainformacion.com##.axds
 lainformacion.com##.axds-lane
@@ -466,6 +469,7 @@ laoctava.com##.pinno-ad-container
 bernabeudigital.com,eltiempo.es##.placeholder
 publinews.gt##.posttakeoverlink
 cronica.com.ar##.pre-home-banner-box
+elmon.cat##.precontentad
 prensa.com##.productos
 qmusica.tv##.promoTop
 cifraclub.com##.pub
