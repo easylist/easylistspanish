@@ -204,7 +204,7 @@ elpais.com##.b-bra-bbva
 lectuepubgratis.com##.bam-topbar
 gasteizhoy.com##.banclick
 lesportiudecatalunya.cat##.banerpromocio
-0221.com.ar,24con.com,agenciafe.com,agritotal.com,alicanteplaza.es,altonivel.com.mx,ambito.com,bienbonita.com,busqueda.com.uy,c5n.com,castellonplaza.com,cronista.com,diario.mx,diariohoy.net,diariolasamericas.com,diariolibre.com,diariopopular.com.ar,donbalon.com,econojournal.com.ar,elancasti.com.ar,eldiarionuevodia.com.ar,eleconomista.com.mx,eleconomista.net,elgrafico.com,elimparcial.com,ella.sv,ellas.pa,elnacional.com,elonce.com,elpatagonico.com,elplural.com,guarda14.com,impulsobaires.com.ar,infocanuelas.com,informador.mx,lacuarta.com,lapoliticaonline.com,laprensagrafica.com,laverdadnoticias.com,lavoz.com.ar,letrap.com.ar,losandes.com.ar,masgamers.com,mdzol.com,minutouno.com,motor.com.co,nuevodiarioweb.com.ar,observador.cr,pilaradiario.com,puntal.com.ar,realpolitik.com.ar,rpp.pe,sputniknews.lat,t13.cl,tntsports.cl,tntsports.com.ar,tvynovelas.com,valenciaplaza.com,viapais.com.ar,welife.es##.banner
+0221.com.ar,24con.com,agenciafe.com,agritotal.com,alicanteplaza.es,altonivel.com.mx,ambito.com,bienbonita.com,busqueda.com.uy,c5n.com,castellonplaza.com,cronista.com,diario.mx,diariohoy.net,diariolasamericas.com,diariolibre.com,diariopopular.com.ar,donbalon.com,econojournal.com.ar,elancasti.com.ar,eldiarionuevodia.com.ar,eleconomista.com.mx,eleconomista.net,elgrafico.com,elimparcial.com,ella.sv,ellas.pa,elnacional.com,elonce.com,elpatagonico.com,elplural.com,guarda14.com,impulsobaires.com.ar,infocanuelas.com,informador.mx,lacuarta.com,lapoliticaonline.com,laprensagrafica.com,laverdadnoticias.com,lavoz.com.ar,letrap.com.ar,losandes.com.ar,masgamers.com,mdzol.com,minutouno.com,motor.com.co,nuevodiarioweb.com.ar,observador.cr,pilaradiario.com,puntal.com.ar,realpolitik.com.ar,rpp.pe,sputniknews.lat,t13.cl,tntsports.cl,tntsports.com.ar,tvynovelas.com,valenciaplaza.com,viapais.com.ar,welife.es,zamora24horas.com##.banner
 naiz.eus##.banner--article
 iprofesional.com##.banner-2
 freepik.es##.banner-adobe
@@ -280,7 +280,7 @@ futbolred.com##.btn_betplay
 plantadoce.com##.bwe_ext_partners
 cope.es,eleconomista.com.mx,eltiempo.com,miarevista.es,segre.com,serpadres.es##.c-add
 eltiempo.com##.c-add--no-text
-cocheglobal.com,diario16plus.com,elnacional.cat,huleymantel.com,planetarealmadrid.com##.c-banner
+cocheglobal.com,diario16plus.com,elnacional.cat,huleymantel.com,planetarealmadrid.com,zamora24horas.com##.c-banner
 elpais.com##.c-bra
 elpais.com##.c-brr
 cadenaser.com##.c-p-ia
