@@ -165,6 +165,7 @@ ciudadccs.info##.add-inner
 lecturas.com,nationalgeographic.com.es##.add990x90
 ondacero.es##.addContainer
 foromtb.com##.addoor-pubtag
+diez.hn##.adnotas
 freepik.es##.adobe-coupon-container
 freepik.es##.adobe-grid-design
 atv.pe,benditofutbol.com,cdn.com.do,corazon.pe,cronicadelquindio.com,eslang.es,grandepremio.com,laprensaaustral.cl,lared.cl,lostiempos.com,perfil.com,publico.es,rpp.pe,studio92.com,uypress.net##.ads
