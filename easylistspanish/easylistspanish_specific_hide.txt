@@ -568,6 +568,8 @@ udlaspalmas.net##.tdi_22
 mundour.com##.tdi_307
 ffcv.es##.testimonials-partners
 resultadostris.com##.text-center.mt-md.mb-md
+mundodeportivo.com##.text-center[style="height:300px"]
+mundodeportivo.com##.text-center[style="height:600px"]
 diariocolatino.com##.text-html-box
 marcadegol.com##.textwidget a[href^="https://ar.puma.com/"]
 adnradio.cl,cnnchile.com,futuro360.com##.the-banner
@@ -717,6 +719,7 @@ gamereactor.es##div[style^="min-height: 600px;"]
 diariocritico.com##div[style^="width: 300px; height: 250px;"]
 diariocritico.com##div[style^="width: 300px; height: 600px;"]
 perfil.com##div[style^="width: 300px;"]
+mundodeportivo.com##div[style^="width: 990px; height: 251px;"]
 leercapitulo.com##iframe[style*="width: 100% !important; height: 170px !important; opacity: 1 !important;"]
 gnula.cc,jkanime.net,lectortmo.org,telenovelas-turcas.com.es##iframe[style*="z-index: 2147483647"]
 misseriesinolvidables.blogspot.com##iframe[style^="width: 100% !important; height: 95px !important; opacity: 1 !important; max-width: 420px"]
