@@ -224,7 +224,7 @@ elsol.com.ar##.banner-home
 iprofesional.com##.banner-horizontal
 elnuevogeorgia.com,noticierodelllano.com##.banner-img
 diariodecuyo.com.ar##.banner-lanusse
-a24.com,diariouno.com.ar,lared.am,puntal.com.ar##.banner-libre
+a24.com,diariouno.com.ar,lared.am,puntal.com.ar,urgente24.com##.banner-libre
 25digital.com.ar##.banner-promotions-wrapper
 clarin.com##.banner-right
 movieflix.click##.banner-sidebar
@@ -396,6 +396,7 @@ atv.pe,c9n.com.py,canal12.com.sv,chapintv.com,repretel.com,rts.com.ec,snt.com.py
 abchoy.com.ar##.lazypubli
 adslzone.net##.leaderboard
 huffingtonpost.es##.leaderboard-flex-placeholder
+urgente24.com##.listado-horizontal
 flashscore.co##.liveActiveBet-ico
 flashscore.co,flashscore.es,flashscore.pe##.liveBetWrapper
 lanacion.com.ar##.ln-aside
