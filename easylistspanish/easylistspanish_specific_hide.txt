@@ -258,6 +258,7 @@ falabella.com##.bannner-styles
 noticiasrcn.com##.barra-compuesta
 flashscore.co,flashscore.es,flashscore.pe##.bettingStrip
 elmon.cat,totbarcelona.cat##.billboard
+losprimeros.tv##.block-4d
 cosasdecome.es##.block-anuncios
 cronista.com##.blocksponsor
 eldinamo.cl,theclinic.cl##.bloque-dfp
