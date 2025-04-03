@@ -357,7 +357,7 @@ ejeprime.com##.featured_specials
 abchoy.com.ar##.fondo-banner
 ecuavisa.com##.fondo_publicidad
 buentv.net##.full_add
-ahoraeg.com,analitica.com,arquimaster.com.ar,donostitik.com,elperiodicodelaenergia.com,eltelegrafo.com,isanidad.com,jotdown.es,lapagina.com.sv,periodicolaperla.com,realidadsm.com,valencianews.es##.g
+ahoraeg.com,analitica.com,arquimaster.com.ar,donostitik.com,elliberal.cat,elperiodicodelaenergia.com,eltelegrafo.com,isanidad.com,jotdown.es,lapagina.com.sv,periodicolaperla.com,realidadsm.com,valencianews.es##.g
 economia3.com,realidadsm.com##.g-single
 cooljuegos.com##.game-promo
 cooljuegos.com##.games-horizontal-promo
