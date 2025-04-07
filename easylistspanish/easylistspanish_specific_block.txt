@@ -80,6 +80,7 @@
 ||streamsito.com/static/vast_
 ||studiofutbol.com.ec/tabla2021/images/banner-copa-300x90.jpg
 ||tcccdn.com^*/banner/
+||tornquistdistrital.com.ar/adjuntos/tdistrital/pubs/
 ||upcloud.alfabeta.net/zonas.js
 ||urgente24.com//js-custom/banner-side-min-version-
 ||urgente24.com/adjuntos/319/banners/
