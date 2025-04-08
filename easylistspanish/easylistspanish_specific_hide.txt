@@ -170,6 +170,7 @@ diez.hn##.adnotas
 freepik.es##.adobe-coupon-container
 freepik.es##.adobe-grid-design
 atv.pe,benditofutbol.com,cdn.com.do,corazon.pe,cronicadelquindio.com,eslang.es,grandepremio.com,laprensaaustral.cl,lared.cl,lostiempos.com,perfil.com,publico.es,rpp.pe,studio92.com,uypress.net##.ads
+meneame.net##.ads-interlinks
 tutorialesenlinea.es##.ads-titleposttl
 13.cl,deportes13.cl,t13.cl##.ads13
 eleconomista.es##.adsLinicom
@@ -774,6 +775,7 @@ cine.com##td[style^="height:90px; width:970px;"]
 forocoches.com###sidebar > div > section:has(.fixed_adslot)
 elpais.com.uy##.Page-above.loaded:has(div[class^="GoogleDfpAd"])
 elpais.com.uy##.PromoBasic:has(.Promo-sponsor)
+meneame.net##.ad-roba:has(a[href*="&utm_campaign="])
 chocale.cl##.cnvs-block-section:has(#contenido-patrocinado)
 clarin.com##.column > div[class] > div[class^="sc-"]:has(div[class^="sc-"] > div[id^="div-gpt-ad"])
 falabella.com##.grid-pod:has(.patrocinado-title)
@@ -1452,5 +1454,3 @@ slidesgo.com##div[id^="list_ads"]
 hoydiariodelmagdalena.com.co##div[itemtype^="https://schema.org/WPAdBlock"]
 opanoticias.com##iframe[src^="https://www.youtube.com/embed/CiedpC-wP7E?"]
 educaplay.com##img[alt="ADR Formación"]
-meneame.net##.ad-roba:has(a[href*="&utm_campaign="])
-meneame.net##.ads-interlinks
