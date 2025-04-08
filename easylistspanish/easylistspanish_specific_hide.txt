@@ -1452,3 +1452,5 @@ slidesgo.com##div[id^="list_ads"]
 hoydiariodelmagdalena.com.co##div[itemtype^="https://schema.org/WPAdBlock"]
 opanoticias.com##iframe[src^="https://www.youtube.com/embed/CiedpC-wP7E?"]
 educaplay.com##img[alt="ADR Formación"]
+meneame.net##.ad-roba:has(a[href*="&utm_campaign="])
+meneame.net##.ads-interlinks
