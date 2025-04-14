@@ -392,6 +392,7 @@ sunoticiero.net##.img-ad-default
 lanacion.cl##.img-banner
 lavoz.com.ar##.imgSponsor
 diarioadn.co##.imperdibles__position
+viapais.com.ar##.int-banner
 muchodeporte.com##.intext1
 muchodeporte.com##.intext2
 radiocentro.com.ec##.jet-popup
