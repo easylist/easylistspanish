@@ -159,6 +159,7 @@ elmon.cat,totbarcelona.cat##.ad-gutenberg-block
 arbolabc.com##.ad-leaderboard-row
 elotrolado.net##.ad-lg
 bandaancha.eu##.adMbBlTp
+atresplayer.com##.adWrapper-content-position
 lavozdegalicia.es##.ad_fixed_h
 vidasana.sv##.adblockweb
 elperiodico.cat,elperiodico.com,epe.es,lagaceta.com.ar,sport.es,sumedico.com##.add
