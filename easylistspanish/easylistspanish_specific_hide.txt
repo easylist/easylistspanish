@@ -552,6 +552,7 @@ informador.mx##.sl_caliente
 soychile.cl##.slide__banner
 horadeopinion.com.ar##.slider-34391
 prensa.com##.sliderPrensa
+elotrolado.net##.sliderxl
 abchoy.com.ar##.sm-wrapper
 lateja.cr,nacion.com##.small-promo
 latercera.com##.spm
