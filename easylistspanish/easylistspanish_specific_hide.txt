@@ -571,7 +571,6 @@ elpais.com.sv##.supsystic-slider-wrapper
 laprensani.com##.tads-header-mobile
 prensa.com##.tagPublicidad
 publinews.gt##.takeoverlink
-avn.info.ve,bavaronews.com,contrapunto.com.sv,diarioelnorte.com.ar,diariolaprensa.cl,diariolatino.net,elaragueno.com.ve,eldiario.net,elmercurio.com.ec,elmundotoday.com,elperiodicousa.com,elproductor.com,elsiglo.com.ve,guineainfomarket.com,horajaen.com,lacalle.com.ve,lagdeguinea.com,mundoplus.tv,noticialdia.com,noticiasuno.com,pcpro.es,periodismo.com,soynuevaprensadigital.com,tubarco.news,tumbaabierta.com,udlaspalmas.net##.td-a-rec
 azarplus.com##.td-all-devices
 aldeaviral.com,eldiariodeguayana.com.ve##.td-header-sp-recs
 elsolnews.com##.tdi_132
