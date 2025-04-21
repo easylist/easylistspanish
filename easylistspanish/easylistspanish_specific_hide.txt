@@ -288,6 +288,7 @@ futbolred.com##.btn_betplay
 plantadoce.com##.bwe_ext_partners
 cope.es,eleconomista.com.mx,eltiempo.com,miarevista.es,segre.com,serpadres.es##.c-add
 eltiempo.com##.c-add--no-text
+eldebate.com##.c-add-wall
 cocheglobal.com,diario16plus.com,elnacional.cat,huleymantel.com,planetarealmadrid.com,zamora24horas.com##.c-banner
 elpais.com##.c-bra
 elpais.com##.c-brr
