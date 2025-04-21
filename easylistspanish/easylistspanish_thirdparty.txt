@@ -15,6 +15,7 @@
 ||iframes.reyesdelchollo.com^$third-party
 ||kisa-link.blok.link^$third-party
 ||nacash.net^$domain=ahoraeg.com
+||neuvoo.com/services/jobroll/$third-party
 ||news.grm.cl^
 ||opcionempleo.com/partners/$third-party
 ||outbrain.com^$domain=visortmo.com
