@@ -509,6 +509,9 @@ contextotucuman.com##.publicidadTop
 eldesmarque.com##.publicidad_marca
 elpuntavui.cat,leconomic.cat,lesportiudecatalunya.cat##.publicitat
 alfabeta.net##.publimg
+argenports.com##.publis300-ajax-container
+argenports.com##.publis600-wrapper
+argenports.com##.publis900-wrapper
 semana.com##.publish-box
 tornquistdistrital.com.ar##.publx
 noticiasformosa.com.ar##.pum-content
