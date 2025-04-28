@@ -171,7 +171,7 @@ foromtb.com##.addoor-pubtag
 diez.hn##.adnotas
 freepik.es##.adobe-coupon-container
 freepik.es##.adobe-grid-design
-atv.pe,benditofutbol.com,cdn.com.do,corazon.pe,cronicadelquindio.com,eslang.es,grandepremio.com,laprensaaustral.cl,lared.cl,lostiempos.com,perfil.com,publico.es,rpp.pe,studio92.com,uypress.net##.ads
+abogacia.es,atv.pe,benditofutbol.com,cdn.com.do,corazon.pe,cronicadelquindio.com,eslang.es,grandepremio.com,laprensaaustral.cl,lared.cl,lostiempos.com,perfil.com,publico.es,rpp.pe,studio92.com,uypress.net##.ads
 meneame.net##.ads-interlinks
 perfil.com##.ads-space
 tutorialesenlinea.es##.ads-titleposttl
