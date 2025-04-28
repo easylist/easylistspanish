@@ -55,7 +55,7 @@ fenix951.com.ar###bloqueBannersHorizontal1
 anisearch.es###bottombox
 flashscore.co###box-over-content-detail
 hackstore.rs###car_top
-informacion-empresas.co###cls-upper-ads
+empresite.eleconomista.es,informacion-empresas.co###cls-upper-ads
 europapress.es###colLateral[style="height: 1200px;"]
 cifraclub.com###containerAdSpaceTop
 forococheselectricos.com###custom_html-17
