@@ -49,6 +49,8 @@ ancient-origins.es###block-block-17
 ancient-origins.es###block-block-39
 ancient-origins.es###block-block-43
 ancient-origins.es###block-block-50
+puertocanarias.com###block-cabildocanariona
+puertocanarias.com###block-partnerfriendsoftheocean
 lexlatin.com###block-views-block-banner-block-1
 winsports.co###block-wplay
 fenix951.com.ar###bloqueBannersHorizontal1
@@ -638,6 +640,7 @@ lr21.com.uy##.zone-adsense
 europafm.com,ondacero.es##[data-type="ads"]
 carrefour.es##[id*="-sponsored_products-"]
 walmart.com.mx##[id*="SponsoredProductCarousel"]
+puertocanarias.com##[id^="block-publicidad"]
 grantorrent.zip##[onclick^="AbrirEnlaceStar('"]
 cinelibreonline.com##a > img[alt^="Ganar"]
 manomano.es##a[class*="sponsoredProductCard"]
