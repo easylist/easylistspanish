@@ -362,6 +362,7 @@ hoyenbogota.com##.et_pb_row_4
 forbes.com.mx##.f4_ad__ep
 verepeliculas.com##.fake_player
 ejeprime.com##.featured_specials
+motrildigital.news##.flex.flex-col.items-center.md\:flex-row.md\:justify-center.mt-8.px-4.mb-8.gap-3
 abchoy.com.ar##.fondo-banner
 ecuavisa.com##.fondo_publicidad
 buentv.net##.full_add
