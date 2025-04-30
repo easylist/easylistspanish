@@ -13,6 +13,7 @@
 ||hispanicode.com/*/amazon/api/amazon.js
 ||ibb.co^$domain=horadeopinion.com.ar
 ||iframes.reyesdelchollo.com^$third-party
+||interactvty.com/api/2.0/ads/
 ||kisa-link.blok.link^$third-party
 ||nacash.net^$domain=ahoraeg.com
 ||neuvoo.com/services/jobroll/$third-party
