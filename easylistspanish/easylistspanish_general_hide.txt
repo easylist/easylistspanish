@@ -41,6 +41,7 @@
 ##.publicidad_footer_sticky
 ##.publicidadbflotante
 ##.publicolumna
+##.publinker-ad
 ##.v-adv
 ##.voc-advertising
 ##.voc-article--sponsored

@@ -3,6 +3,7 @@
 ||adzonestatic.com^
 ||palibzh.tech^
 ||positive-ads.com^
+||publinker.com^
 ||revenuemakerdata.com^
 !
 ||brand.ad^$third-party
