@@ -336,7 +336,7 @@ derechouned.com##.customAdvertise_Campaign
 flashscore.co,flashscore.es,flashscore.pe##.detailLeaderboard
 libertaddigital.com,libremercado.com##.dfp
 lateja.cr,nacion.com##.dfp-container
-eluniversal.com.mx,viveusa.mx##.dfp-tag-wrapper-container
+dedinero.com.mx,eluniversal.com.mx,viveusa.mx##.dfp-tag-wrapper-container
 laprensademn.com,vidaysabor.com##.dialog-message
 noticias.mitelefe.com##.e-post-banner
 euractiv.es##.ea-gat-slot-wrapper
@@ -635,6 +635,7 @@ cultoro.es,enteratelatino.org,lavozdemoron.es,moracontenidos.com##.wp-block-imag
 lavozdemoron.es##.wp-block-video
 canal-i.com##.wpb_images_carousel
 expresodelacosta.cl##.wpwbs_banners
+dedinero.com.mx##.wrapper_box_interarticle_2
 naciodigital.cat##.zona-ajbcn
 naciodigital.cat##.zona-lacaixa
 elnuevoherald.com##.zone
