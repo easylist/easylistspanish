@@ -22,6 +22,7 @@
 ##._mo_recs_cti
 ##._mo_recs_vi
 ##.ad-cabecera
+##.ad-container-m1
 ##.ad-zocalo__container
 ##.banner-publicidad
 ##.cnt-publi
