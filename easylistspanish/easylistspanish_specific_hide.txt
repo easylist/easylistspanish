@@ -70,6 +70,7 @@ mangatigre.net###dl-banner-300-250
 diariolibre.com###dl_970x250_1
 diariolibre.com###dl_970x250_2
 diariolibre.com###dl_970x250_3
+rae.es###edit-lacaixa
 elnacional.com###en_nd_home_flat_2
 elnacional.com###en_nd_home_flat_3
 elpotosi.net###fancesaPubli
