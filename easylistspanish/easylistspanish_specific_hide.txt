@@ -624,6 +624,7 @@ tudn.com##.widget[data-widget-type="ListWidget"]
 beermagazine.net,recetasdepan.net##.widget_aawp_widget_bestseller
 beermagazine.net,cannabis420.cl,comidaschilenas.com,comidasespanolas.com,debosaber.cl,recetasdepan.net,thebeertimes.com,weedmagazine.net##.widget_aawp_widget_box
 weedmagazine.net##.widget_aawp_widget_new_releases
+gearnews.es##.widget_adtag_rectangle
 elciudadanoweb.com##.widget_apsa_campaign
 grupormultimedio.com,horadeopinion.com.ar,lahora.com.ec##.widget_custom_html
 rumbonews.com##.widget_media_gallery
@@ -632,6 +633,7 @@ arribalanus.com.ar,barrigaverde.net,bcnoticias.com.co,berjadigital.es,claridadpu
 elperiodista.cl##.widget_owjnimg
 elespecial.com##.widget_simpleimage
 latinopinionbaltimore.com##.widget_sp_image
+gearnews.es##.wp-affiliate-wrapper
 cultoro.es,enteratelatino.org,lavozdemoron.es,moracontenidos.com##.wp-block-image
 lavozdemoron.es##.wp-block-video
 canal-i.com##.wpb_images_carousel
