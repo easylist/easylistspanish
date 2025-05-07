@@ -102,6 +102,7 @@ qmusica.tv###promo
 qmusica.tv###promoSept19A
 qmusica.tv###promoSept19B
 promiedos.com.ar###pub728
+yelmocines.es###publiboardTop
 fronteradigital.com.ve###publicidad-2
 talcualdigital.com###publicidad-slider
 avisosdeocasion.com###publicidadhub
