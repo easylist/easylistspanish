@@ -294,7 +294,7 @@ plantadoce.com##.bwe_ext_partners
 cope.es,eleconomista.com.mx,eltiempo.com,miarevista.es,segre.com,serpadres.es##.c-add
 eltiempo.com##.c-add--no-text
 eldebate.com##.c-add-wall
-cocheglobal.com,diario16plus.com,elnacional.cat,huleymantel.com,planetarealmadrid.com,zamora24horas.com##.c-banner
+atlanticohoy.com,cocheglobal.com,diario16plus.com,elnacional.cat,huleymantel.com,planetarealmadrid.com,zamora24horas.com##.c-banner
 elpais.com##.c-bra
 elpais.com##.c-brr
 cadenaser.com##.c-p-ia
@@ -457,6 +457,7 @@ eldiario.es,infolibre.es##.news-sponsored-content
 deia.eus,diaridegirona.cat,diariocordoba.com,diariodeibiza.es,diariodemallorca.es,elcorreogallego.es,eldia.es,elperiodicodearagon.com,elperiodicoextremadura.com,elperiodicomediterraneo.com,emporda.info,farodevigo.es,informacion.es,laopinioncoruna.es,laopiniondemalaga.es,laopiniondemurcia.es,laopiniondezamora.es,laprovincia.es,levante-emv.com,lne.es,noticiasdealava.eus,noticiasdegipuzkoa.eus,noticiasdenavarra.com,regio7.cat,superdeporte.es##.no-baldomero
 aguaita.cat,naciodigital.cat,pallarsdigital.cat,pensem.cat,rubitv.cat,tarragonadigital.com##.nou-publi-cap-home
 nextpit.es##.np-product-offers
+atlanticohoy.com##.o-layout--top-banners
 bolavip.com,dalealbo.cl,futbolcentroamerica.com,juanbeisbol.com,juanfutbol.com,lapaginamillonaria.com,redgol.cl,somosfanaticos.fans##.odds-slider-widget
 flashscore.co,flashscore.es,flashscore.pe##.oddsWrapper
 diarioestrategia.cl,infodefensa.com##.openx
