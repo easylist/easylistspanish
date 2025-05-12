@@ -310,6 +310,7 @@ diariobitcoin.com##.clickout-banner-regular_native_box
 vivanolamag.com##.client-logo-slider
 eltiempo.es##.cls-publi-height
 atomix.vg,bembibredigital.com,cinemitas.org,comedera.com,economiadigital.es,elprofe20.com,elrellano.com,estacaonegocios.com,finanzas.com,finofilipino.org,gatewayhispanic.com,intercambiosvirtualeshd.org,mejoresmodsminecraft.site,periodismodelmotor.com,radiocre.com,stonkstutors.com,tresubresdobles.com,valoraanalitik.com,washingtonhispanic.com##.code-block
+eldiadehigueras.com.ar##.codigo-html
 ciudadccs.info##.col-sm-9
 e-noticies.cat##.column-ads
 elespanol.com##.comments-adv
