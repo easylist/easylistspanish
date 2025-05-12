@@ -341,6 +341,7 @@ libertaddigital.com,libremercado.com##.dfp
 lateja.cr,nacion.com##.dfp-container
 dedinero.com.mx,elgrafico.mx,eluniversal.com.mx,revistaclase.mx,viveusa.mx##.dfp-tag-wrapper-container
 laprensademn.com,vidaysabor.com##.dialog-message
+forbes.pe##.dreams-ad
 noticias.mitelefe.com##.e-post-banner
 euractiv.es##.ea-gat-slot-wrapper
 diarioeldia.cl##.each-container.grid.grid-cols-1.items-center.default-gap.items-end.mx-auto.container.default-padding
@@ -657,6 +658,7 @@ autosusados.cl##a[class^="Banner_"]
 kissfm.es##a[href*="/linkout/"]
 isabadell.cat##a[href*="://bit.ly/"]
 animeid.tv##a[href*="leadzupc.com/"]
+forbes.pe##a[href^="/brand-voice/"]
 prensafutbol.cl##a[href^="http://www.futboldeculto.com"]
 sunoticiero.net##a[href^="https://amzn.eu/"]
 mejoresmodsminecraft.site##a[href^="https://bisecthosting.com/"]
