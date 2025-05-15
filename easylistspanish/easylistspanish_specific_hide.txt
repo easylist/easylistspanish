@@ -368,6 +368,7 @@ okdiario.com##.envoltorio-intext1
 adiariocr.com##.esdfp
 compraensanjuan.com##.espacio-publi
 compraensanjuan.com##.espacio-publi-google
+lacapitalmdp.com##.espacio-publicidad
 hoyenbogota.com##.et_pb_row_4
 forbes.com.mx##.f4_ad__ep
 verepeliculas.com##.fake_player
