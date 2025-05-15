@@ -183,6 +183,7 @@ meneame.net##.ads-interlinks
 perfil.com##.ads-space
 tutorialesenlinea.es##.ads-titleposttl
 13.cl,deportes13.cl,t13.cl##.ads13
+diarioprimeralinea.com.ar##.adsCenter
 eleconomista.es##.adsLinicom
 cocina-chilena.com##.adsense
 infojardin.com##.adsense-columna
