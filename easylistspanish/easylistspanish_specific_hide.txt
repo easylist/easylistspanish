@@ -16,6 +16,7 @@ canal1.com.co###SuperBanner2
 canal1.com.co###Superbanner_1
 elperiodicodemonagas.com.ve###ad-area
 elperiodicodemonagas.com.ve###ad-area-top
+lavoz.com.ar###ad-slot-topsite
 foroparalelo.com###ad_global_below_navbar
 freepik.es###adobe-pagination-mkt-copy
 notariosyregistradores.com###ads
