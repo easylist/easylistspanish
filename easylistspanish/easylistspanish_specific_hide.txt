@@ -232,7 +232,7 @@ agroclave.com.ar,cronica.com.ar,diariodecuyo.com.ar,lacapital.com.ar,unoentrerio
 elnueve.com.ar##.banner-box-container
 noticiasurbanas.com.ar##.banner-center
 concierto.cl##.banner-cms
-ambito.com,elpuntodeequilibrio.com,minutouno.com,revistacar.es##.banner-container
+ambito.com,eldiariodelapampa.com.ar,elpuntodeequilibrio.com,minutouno.com,revistacar.es##.banner-container
 poketvlatino.com##.banner-fijo
 soychile.cl##.banner-fixed-container
 puntal.com.ar##.banner-flex
@@ -443,6 +443,7 @@ milanuncios.com##.ma-ContentListing-advertising-native
 gasteizhoy.com##.macrobanblock
 sensacine.com,sensacine.com.mx##.main-banner
 laoctava.com##.main-banner-ad
+eldiariodelapampa.com.ar##.makeadshorizontal
 infopico.com##.marco-publicidad
 quesonlosvaloreseticos.com,signodeinterrogacion.com##.masthead-banner
 empresite.eleconomista.es##.mauto.textcenter.mb20.mt20

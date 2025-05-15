@@ -29,6 +29,7 @@
 ||dolarito.ar/static/vita/
 ||dolarito.ar/static/wallbit/
 ||elciudadanoweb.com/wp-content/plugins/aparg-smartad/
+||eldiariodelapampa.com.ar/publipablo/
 ||elesquiu.com/u/banners/
 ||elmundofinanciero.com/anuncios/
 ||elpais.com.co/js/frontend/ads/
