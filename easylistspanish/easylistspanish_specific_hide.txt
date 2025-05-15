@@ -337,6 +337,7 @@ prensa.com##.countdown-container
 eluniversal.com.mx##.coupons__container
 meteored.cl,meteored.com.ar,meteored.mx,tiempo.com##.creatividad
 cronica.com.ar##.css-svo7lo
+autocasion.com##.cuatro-publi
 ellatinodehoy.com##.custom-html-widget
 derechouned.com##.customAdvertise_Campaign
 flashscore.co,flashscore.es,flashscore.pe##.detailLeaderboard
