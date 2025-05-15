@@ -568,8 +568,8 @@ directoalpaladar.com,trendenciashombre.com,vidaextra.com,xataka.com,xataka.com.m
 depor.com##.separator__sponsored
 seriesturcas.gratis##.serie-optimanetwork
 forbes.com.mx##.set__ads--component
-lagaceta.com.ec,portalpuentealto.cl##.sgpb-popup-dialog-main-div-wrapper
-lagaceta.com.ec##.sgpb-popup-overlay
+diarioelnorte.com.ar,lagaceta.com.ec,portalpuentealto.cl##.sgpb-popup-dialog-main-div-wrapper
+diarioelnorte.com.ar,lagaceta.com.ec##.sgpb-popup-overlay
 portalpuentealto.cl##.sgpb-theme-1-overlay
 cooljuegos.com##.sidebar-game
 motor.elpais.com##.site-header__publicidad
@@ -606,6 +606,7 @@ aldeaviral.com,eldiariodeguayana.com.ve##.td-header-sp-recs
 elsolnews.com##.tdi_132
 udlaspalmas.net##.tdi_22
 mundour.com##.tdi_307
+diarioelnorte.com.ar##.tdi_81
 ffcv.es##.testimonials-partners
 resultadostris.com##.text-center.mt-md.mb-md
 mundodeportivo.com##.text-center[style="height:300px"]
