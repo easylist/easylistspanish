@@ -198,6 +198,7 @@ confidencial.digital##.advertising-last
 lapatilla.com##.adyb
 meganoticias.cl##.agrupadorPatrocinados
 ilustrado.cl##.ai-viewport-1
+elfenixdigital.com##.ajax-cds
 petitchef.es##.akcelo-wrapper
 aguaita.cat,pallarsdigital.cat,rubitv.cat,tarragonadigital.com##.amp_columnapubli
 diarioresponsable.com,donbalon.com,elsaltodiario.com,toonscrab.com##.anuncio
