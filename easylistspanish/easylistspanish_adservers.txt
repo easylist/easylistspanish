@@ -1,6 +1,7 @@
 !
 ||0-02.net^
 ||adzonestatic.com^
+||embi-media.com^
 ||palibzh.tech^
 ||positive-ads.com^
 ||publinker.com^
