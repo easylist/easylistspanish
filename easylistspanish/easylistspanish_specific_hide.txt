@@ -331,6 +331,7 @@ reduno.com.bo##.container_publi
 theclinic.cl##.contenedor-auspicio
 futbolred.com##.contenedor-logo-patrocinador
 eldestapeweb.com##.contenedor__publicidad
+mundodeportivo.com##.content-ad-module
 eldebate.com##.content-add
 prensa.com##.countdown-container
 eluniversal.com.mx##.coupons__container
