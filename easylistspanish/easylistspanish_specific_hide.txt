@@ -659,6 +659,7 @@ cultoro.es,enteratelatino.org,lavozdemoron.es,moracontenidos.com##.wp-block-imag
 lavozdemoron.es##.wp-block-video
 canal-i.com##.wpb_images_carousel
 expresodelacosta.cl##.wpwbs_banners
+laarena.com.ar##.wrapper-spot
 dedinero.com.mx,elgrafico.mx,revistaclase.mx##.wrapper_box_interarticle_2
 naciodigital.cat##.zona-ajbcn
 naciodigital.cat##.zona-lacaixa
