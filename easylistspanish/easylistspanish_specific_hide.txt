@@ -665,6 +665,7 @@ laarena.com.ar##.wrapper-spot
 dedinero.com.mx,elgrafico.mx,revistaclase.mx##.wrapper_box_interarticle_2
 naciodigital.cat##.zona-ajbcn
 naciodigital.cat##.zona-lacaixa
+eldiariodelfindelmundo.com##.zona_banners
 elnuevoherald.com##.zone
 lr21.com.uy##.zone-adsense
 notife.com##[class^="SectionAdvertising_"]
