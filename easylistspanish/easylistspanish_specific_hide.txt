@@ -416,7 +416,7 @@ radiocentro.com.ec##.jet-popup
 marie-claire.es,muyhistoria.es,muyinteresante.es,muynegociosyeconomia.es##.js-ads-not-visible
 diariodelaribera.net##.lateralderecho
 diariodelaribera.net##.lateralizquierdo
-atv.pe,c9n.com.py,canal12.com.sv,chapintv.com,repretel.com,rts.com.ec,snt.com.py,sonora.com.gt##.layout-rev
+atv.pe,c9n.com.py,canal12.com.sv,chapintv.com,elcomercio.com,repretel.com,rts.com.ec,snt.com.py,sonora.com.gt##.layout-rev
 abchoy.com.ar##.lazypubli
 adslzone.net##.leaderboard
 huffingtonpost.es##.leaderboard-flex-placeholder
