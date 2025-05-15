@@ -421,7 +421,7 @@ diarioadn.co##.imperdibles__position
 viapais.com.ar##.int-banner
 muchodeporte.com##.intext1
 muchodeporte.com##.intext2
-pregon.com.ar##.item
+elliberal.com.ar,pregon.com.ar##.item
 radiocentro.com.ec##.jet-popup
 marie-claire.es,muyhistoria.es,muyinteresante.es,muynegociosyeconomia.es##.js-ads-not-visible
 diariodelaribera.net##.lateralderecho
