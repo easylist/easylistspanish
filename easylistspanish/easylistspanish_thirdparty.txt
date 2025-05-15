@@ -22,6 +22,7 @@
 ||outbrain.com^$domain=visortmo.com
 ||pub.tappx.com^
 ||publyads.jstag.space^
+||servicoop.com/banner/
 ||tinyurl.com^$domain=seriesly.top
 ||trafico.prensaiberica.es^
 ||triggy-banners.web.app^
