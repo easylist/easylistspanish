@@ -392,6 +392,7 @@ winsports.co##.goles_acero_banner
 cuevana3.eu##.got-dvr
 eltiempo.com,portafolio.co##.gpt-slot-barra-flotante-inferior
 eltiempo.com,portafolio.co##.gpt-slot-satelite-container
+notife.com##.grid-ads
 macrojuegos.com##.grow.flex.justify-center.h-\[300px\]
 diariodemallorca.es##.grp--branded-style
 habitaclia.com##.gtmclickpromo
@@ -663,6 +664,7 @@ naciodigital.cat##.zona-ajbcn
 naciodigital.cat##.zona-lacaixa
 elnuevoherald.com##.zone
 lr21.com.uy##.zone-adsense
+notife.com##[class^="SectionAdvertising_"]
 europafm.com,ondacero.es##[data-type="ads"]
 carrefour.es##[id*="-sponsored_products-"]
 walmart.com.mx##[id*="SponsoredProductCarousel"]
