@@ -458,6 +458,7 @@ diariodevalderrueda.es##.minibanner_content
 cdn.com.do##.mmc_ads_solo_escritorio
 show.news##.mod.relatednews
 diarioelinformante.com.ar,elnacional.com.do,hoy.com.do##.modal-backdrop
+clima.com##.mods-box
 eltiempo.es##.mods-box-body
 eldebate.com##.module-free-html-ads
 rpp.pe##.module__sponsor
