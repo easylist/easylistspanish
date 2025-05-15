@@ -153,7 +153,7 @@ elchapuzasinformatico.com##.__lxG__multi
 elperiodico.com,sport.es##._mo_recs_tpi
 huffingtonpost.es##._modulo-amazon
 ahoraeg.com,analitica.com,atb.com.bo,aurora-israel.co.il,aviacionline.com,elambito.com,elperiodicodelaenergia.com,elsiglo.com.ve,latinopinionbaltimore.com,politicaexterior.com,realidadsm.com,siempre.mx,teleamazonas.com##.a-single
-laregion.cr,portalpuentealto.cl,tutorialesenlinea.es##.a-wrap
+diarioellibertador.com.ar,laregion.cr,portalpuentealto.cl,tutorialesenlinea.es##.a-wrap
 beergeeks.cl,cannabis420.cl,comidasespanolas.com,recetasdepan.net,reparaciondecomputadoras.online,thebeertimes.com,weedmagazine.net##.aawp
 somosohlala.com##.accession
 actualidadradio.com##.actua-widget
