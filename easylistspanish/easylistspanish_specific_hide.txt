@@ -188,6 +188,7 @@ cocina-chilena.com##.adsense
 infojardin.com##.adsense-columna
 aporrea.org##.adunit-01-max
 clarin.com,elespanol.com,elindependiente.com,lanoticiadequilmes.com.ar##.adv
+diariodemocracia.com##.adv-area
 cambio21.cl,nicaraguainvestiga.com##.advertisement
 ara.cat,ejeprime.com,larazon.es,papajuegos.com,plantadoce.com,relevo.com##.advertising
 diariodealmeria.es,diariodecadiz.es,diariodejerez.es,diariodesevilla.es,eldiadecordoba.es,europasur.es,granadahoy.com,huelvainformacion.es,malagahoy.es##.advertising--desktop
