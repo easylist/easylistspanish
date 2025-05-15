@@ -241,7 +241,7 @@ elsol.com.ar##.banner-home
 iprofesional.com##.banner-horizontal
 elnuevogeorgia.com,noticierodelllano.com##.banner-img
 diariodecuyo.com.ar##.banner-lanusse
-a24.com,diariouno.com.ar,lared.am,puntal.com.ar,urgente24.com##.banner-libre
+a24.com,diariouno.com.ar,eldiariosur.com,lared.am,puntal.com.ar,urgente24.com##.banner-libre
 25digital.com.ar##.banner-promotions-wrapper
 clarin.com##.banner-right
 movieflix.click##.banner-sidebar
