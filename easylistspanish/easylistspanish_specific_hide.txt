@@ -473,7 +473,7 @@ nextpit.es##.np-product-offers
 atlanticohoy.com##.o-layout--top-banners
 bolavip.com,dalealbo.cl,futbolcentroamerica.com,juanbeisbol.com,juanfutbol.com,lapaginamillonaria.com,redgol.cl,somosfanaticos.fans##.odds-slider-widget
 flashscore.co,flashscore.es,flashscore.pe##.oddsWrapper
-diarioestrategia.cl,infodefensa.com##.openx
+diarioestrategia.cl,elidealgallego.com,infodefensa.com##.openx
 lasubasta.com##.orbit-container
 autoscout24.es##.osa-as24-placeholder
 okdiario.com##.outofpageHome
