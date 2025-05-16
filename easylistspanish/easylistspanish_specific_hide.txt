@@ -423,6 +423,7 @@ viapais.com.ar##.int-banner
 muchodeporte.com##.intext1
 muchodeporte.com##.intext2
 elliberal.com.ar,pregon.com.ar##.item
+p23.com.ar##.j_publi
 radiocentro.com.ec##.jet-popup
 marie-claire.es,muyhistoria.es,muyinteresante.es,muynegociosyeconomia.es##.js-ads-not-visible
 diariodelaribera.net##.lateralderecho
