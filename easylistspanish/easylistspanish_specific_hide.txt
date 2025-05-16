@@ -276,7 +276,7 @@ falabella.com##.bannner-styles
 noticiasrcn.com##.barra-compuesta
 flashscore.co,flashscore.es,flashscore.pe##.bettingStrip
 elmon.cat,totbarcelona.cat##.billboard
-diarioregistrado.com,losprimeros.tv,noticiasargentinas.com##.block-4d
+diarioregistrado.com,elpopularhoy.com,losprimeros.tv,noticiasargentinas.com##.block-4d
 cosasdecome.es##.block-anuncios
 eqsnotas.com##.block-da
 cronista.com##.blocksponsor
