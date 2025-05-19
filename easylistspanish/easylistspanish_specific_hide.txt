@@ -118,6 +118,7 @@ latribuna.cl###slot_box01
 latribuna.cl###slot_top
 falabella.com###sponsored-strip-container
 avisosdeocasion.com###srcpublicidadhub
+tvazteca.com###stickyDiv
 elespanol.com###sticky_container
 diariolibre.com###stickyunit
 lacuerda.net###t_diag
