@@ -535,6 +535,7 @@ aguaita.cat,pallarsdigital.cat,pensem.cat,rubitv.cat,tarragonadigital.com##.publ
 lawebdelprogramador.com##.publi_robapaginas
 0221.com.ar,altonivel.com.mx,areajugones.sport.es,cinepremiere.com.mx,cronicabalear.es,elpais.com.co,emprendedor.com,estadiodeportivo.com,expansion.com,generacionuniversitaria.com.mx,highxtar.com,iberempleos.es,lavozdealmeria.com,meteored.cl,meteored.com.ar,meteored.com.py,meteored.mx,mexicodesconocido.com.mx,neomotor.com,nupciasmagazine.com,okdiario.com,pulzo.com,supercines.com,tiempo.com,tornquistdistrital.com.ar##.publicidad
 fulltv.com.ar##.publicidad-728-top
+binoticias.com##.publicidad-container
 azarplus.com##.publicidad-debajo-del-menu
 puntobiz.com.ar##.publicidad-line
 record.com.mx##.publicidadBoxBanner300x75
