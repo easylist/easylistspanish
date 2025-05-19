@@ -151,6 +151,7 @@ autosusados.cl##.OtherPages_othersection__Ad_Ae
 elpais.com.uy##.PromoFeat
 qhubomedellin.com##.QH-pauta-header
 eldefinido.cl##.RP
+xeudeportes.mx##.T4Tutorials
 elchapuzasinformatico.com##.__lxG__multi
 elperiodico.com,sport.es##._mo_recs_tpi
 huffingtonpost.es##._modulo-amazon
