@@ -218,6 +218,7 @@ elmon.cat,totbarcelona.cat##.auxdiv-5
 gasteizhoy.com##.aviso_publi
 20minutos.es,lainformacion.com##.axds
 lainformacion.com##.axds-lane
+publimetro.com.mx##.b-ads-block-custom
 elpais.com##.b-bra-bbva
 lectuepubgratis.com##.bam-topbar
 datoscif.es##.ban-700-hor
@@ -590,6 +591,7 @@ elotrolado.net##.sliderxl
 abchoy.com.ar##.sm-wrapper
 lateja.cr,nacion.com##.small-promo
 latercera.com##.spm
+contentlab-publimetro.com##.sponsor
 hispanidad.com,maximaonline.com.ar##.sponsored
 falabella.com##.sponsored-display-left
 falabella.com##.sponsored-display-pdp
@@ -691,6 +693,7 @@ mejoresmodsminecraft.site##a[href^="https://bisecthosting.com/"]
 playdede.us##a[href^="https://bit.ly/"]
 superluchas.com##a[href^="https://es.johnnybet.com/"]
 corepunk.online,mundommorpg.com##a[href^="https://get.surfshark.net/"]
+contentlab-publimetro.com##a[href^="https://online.caliente.mx/"]
 comidaschilenas.com##a[href^="https://paysuites.me/"]
 artesacro.org##a[href^="https://promomark.es/"]
 jerezcofrade.tv##a[href^="https://reservation.dish.co/widget/"]
