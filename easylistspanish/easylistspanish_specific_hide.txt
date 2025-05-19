@@ -159,7 +159,7 @@ somosohlala.com##.accession
 actualidadradio.com##.actua-widget
 abchoy.com.ar,aica.org,applesfera.com,bebesymas.com,compradiccion.com,deia.eus,diaridegirona.cat,diariocordoba.com,diariocorreo.com.ec,diariodeibiza.es,diariodelviajero.com,diariodemallorca.es,directoalpaladar.com,economiadigital.es,elblogsalmon.com,elconfidencial.com,elcorreogallego.es,eldia.es,eldiario.com,elpais.com,elperiodicodearagon.com,elperiodicoextremadura.com,elperiodicomediterraneo.com,emporda.info,espinof.com,eurosport.es,farodevigo.es,fmdos.cl,genbeta.com,informacion.es,jornada.com.mx,laopinioncoruna.es,laopiniondemalaga.es,laopiniondezamora.es,laprovincia.es,larazon.es,levante-emv.com,lne.es,meteoconsult.es,motorpasion.com,motorpasion.com.mx,motorpasionmoto.com,noticiasdealava.eus,noticiasdegipuzkoa.eus,noticiasdenavarra.com,noticiasrcn.com,ntn24.com,pymesyautonomos.com,regio7.cat,revistafama.com,superdeporte.es,todo-mail.com,trendencias.com,trendenciashombre.com,vidaextra.com,vitonica.com,xataka.com,xataka.com.mx,xatakaciencia.com,xatakafoto.com,xatakahome.com,xatakamovil.com,xatakandroid.com,xatakawindows.com##.ad
 mundo.com##.ad-banner
-adnsur.com.ar,americatv.com.ar,bolavip.com,buenazo.pe,dalealbo.cl,e-noticies.cat,elpopular.pe,eltiempo.com,futbolcentroamerica.com,hobbyconsolas.com,juanbeisbol.com,juanfutbol.com,lapaginamillonaria.com,larepublica.pe,libero.pe,redgol.cl,somosfanaticos.fans,wapa.pe##.ad-container
+adnsur.com.ar,americatv.com.ar,bolavip.com,buenazo.pe,dalealbo.cl,derechadiario.com.ar,e-noticies.cat,elpopular.pe,eltiempo.com,futbolcentroamerica.com,hobbyconsolas.com,juanbeisbol.com,juanfutbol.com,lapaginamillonaria.com,larepublica.pe,libero.pe,redgol.cl,somosfanaticos.fans,wapa.pe##.ad-container
 adnsur.com.ar##.ad-container-plain
 cualesmiip.com##.ad-detail-adaptable
 elmon.cat,totbarcelona.cat##.ad-gutenberg-block
@@ -598,7 +598,7 @@ exitosanoticias.pe##.statics_module
 eldiarioalerta.com##.sticky
 prensa.com##.sticky-box[style="height: 800px;"]
 prensa.com##.sticky-box[style="height: 950px;"]
-e-noticies.cat##.stickyFooterContainer
+derechadiario.com.ar,e-noticies.cat##.stickyFooterContainer
 bcnoticias.com.co,cadenaoh.com.ar,profesionalreview.com##.stream-item
 profesionalreview.com##.stream-item-widget
 elindependiente.com##.sub_header
