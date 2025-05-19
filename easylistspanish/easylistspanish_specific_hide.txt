@@ -435,6 +435,7 @@ diariodelaribera.net##.lateralizquierdo
 atv.pe,c9n.com.py,canal12.com.sv,chapintv.com,elcomercio.com,repretel.com,rts.com.ec,snt.com.py,sonora.com.gt##.layout-rev
 abchoy.com.ar##.lazypubli
 adslzone.net##.leaderboard
+radiante.fm##.leaderboard-container
 huffingtonpost.es##.leaderboard-flex-placeholder
 urgente24.com##.listado-horizontal
 flashscore.co##.liveActiveBet-ico
