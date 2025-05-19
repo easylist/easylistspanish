@@ -33,6 +33,7 @@ lacuerda.net###ban160
 lacuerda.net###ban300
 lacuerda.net###ban728
 lacuerda.net###banTxt
+xeu.mx###banner-bottom-close
 viralizalo.com###banner-mega
 eldefinido.cl###bannerGCP
 anbariloche.com.ar,anroca.com.ar,elcordillerano.com.ar,elterritorio.com.ar,noticiasnet.com.ar###bannerPopup
