@@ -341,7 +341,7 @@ futbolred.com##.contenedor-logo-patrocinador
 eldestapeweb.com##.contenedor__publicidad
 mundodeportivo.com##.content-ad-module
 eldebate.com##.content-add
-lasillarota.com##.content-banner
+lasillarota.com,sumedico.com##.content-banner
 prensa.com##.countdown-container
 eluniversal.com.mx##.coupons__container
 meteored.cl,meteored.com.ar,meteored.mx,tiempo.com##.creatividad
