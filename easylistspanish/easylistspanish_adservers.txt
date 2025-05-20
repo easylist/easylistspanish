@@ -11,6 +11,7 @@
 ||brand.ad^$third-party
 ||butlercdn.com^$third-party
 ||equamarketing.com^$third-party
+||evolutionadv.it^$third-party
 ||googledfp.com^$third-party
 ||membrana.media^$third-party
 ||premiumads.com.br^$third-party
