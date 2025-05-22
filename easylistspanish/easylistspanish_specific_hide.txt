@@ -117,6 +117,7 @@ heraldo.es###sidebarADefault
 gamereactor.es###sky2_1
 latribuna.cl###slot_box01
 latribuna.cl###slot_top
+falabella.com###sponsored-brand-normal-design
 falabella.com###sponsored-strip-container
 avisosdeocasion.com###srcpublicidadhub
 tvazteca.com###stickyDiv
