@@ -36,6 +36,7 @@
 ||elpais.com.co/js/frontend/ads/
 ||elperiodico.cl/wp-content/uploads/*/banner-
 ||elpotosi.net/img/advertising/
+||eltiempo.com/get-ads/
 ||emol.cl/emol50/js/publicidadsetup/
 ||es.zenit.org/banners/
 ||fenix951.com.ar/nuevo_2013/img/banner/
