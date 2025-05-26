@@ -506,7 +506,7 @@ fulltv.com.ar##.p336-c
 fulltv.com.ar##.p336_2
 ruedasgordas.es##.p78-adsContainer
 elheraldo.co##.partner-slider
-libertaddigital.com##.partners
+libertaddigital.com,libremercado.com##.partners
 elpuntavui.cat,leconomic.cat##.patrocini
 valoraanalitik.com##.pauta
 canalrcn.com##.pauta-barra-media
