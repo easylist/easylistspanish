@@ -155,7 +155,7 @@ qhubomedellin.com##.QH-pauta-header
 eldefinido.cl##.RP
 fusionradio.mx,lafiera.mx,xeudeportes.mx##.T4Tutorials
 elchapuzasinformatico.com##.__lxG__multi
-elperiodico.com,sport.es##._mo_recs_tpi
+diaridegirona.cat,diariocordoba.com,diariodeibiza.es,diariodemallorca.es,elcorreogallego.es,elcorreoweb.es,eldia.es,elperiodico.com,elperiodicodearagon.com,elperiodicoextremadura.com,elperiodicomediterraneo.com,emporda.info,farodevigo.es,informacion.es,laopinioncoruna.es,laopiniondemalaga.es,laopiniondemurcia.es,laopiniondezamora.es,laprovincia.es,levante-emv.com,lne.es,regio7.cat,sport.es,superdeporte.es##._mo_recs_tpi
 huffingtonpost.es##._modulo-amazon
 ahoraeg.com,analitica.com,atb.com.bo,aurora-israel.co.il,aviacionline.com,elambito.com,elperiodicodelaenergia.com,elsiglo.com.ve,latinopinionbaltimore.com,politicaexterior.com,realidadsm.com,siempre.mx,teleamazonas.com##.a-single
 diarioellibertador.com.ar,laregion.cr,portalpuentealto.cl,tutorialesenlinea.es##.a-wrap
