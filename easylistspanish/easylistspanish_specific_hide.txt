@@ -225,7 +225,7 @@ gasteizhoy.com##.aviso_publi
 20minutos.es,lainformacion.com##.axds
 lainformacion.com##.axds-lane
 heraldousa.com##.b-ads-block
-publimetro.com.mx##.b-ads-block-custom
+metroecuador.com.ec,publimetro.com.mx##.b-ads-block-custom
 elpais.com##.b-bra-bbva
 lectuepubgratis.com##.bam-topbar
 datoscif.es##.ban-700-hor
@@ -260,6 +260,7 @@ clarin.com,hispasonic.com##.banner-top
 miradorprovincial.com##.banner-top-home-mp
 ciudad.com.ar,elcomercio.com,hazteveg.com,lmcipolletti.com,lmneuquen.com##.banner-wrapper
 diariodelaribera.net##.bannerColumnas
+metrolatam.com##.bannerContent
 eleconomista.es##.bannerInferior
 eleconomista.es##.bannerIntermedio
 anbariloche.com.ar,anroca.com.ar,elcordillerano.com.ar,elterritorio.com.ar,noticiasnet.com.ar##.bannerLoaded
@@ -719,7 +720,7 @@ manomano.es##a[class*="sponsoredProductCard"]
 autosusados.cl##a[class^="Banner_"]
 elperiodico.cat##a[href*="/empresa-de-l-any/"]
 kissfm.es##a[href*="/linkout/"]
-isabadell.cat##a[href*="://bit.ly/"]
+isabadell.cat,metroecuador.com.ec##a[href*="://bit.ly/"]
 animeid.tv##a[href*="leadzupc.com/"]
 forbes.pe##a[href^="/brand-voice/"]
 mediotiempo.com##a[href^="http://online.caliente.mx/promoRedirect?"]

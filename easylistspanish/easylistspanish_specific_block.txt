@@ -53,6 +53,7 @@
 ||lateja.cr/gnfactory/brandvoice/
 ||libertaddigital.com/pub/
 ||mediaserver.emol.cl/other/lleison/
+||metrolatam.com^/banners/
 ||mil21.es/anuncios/
 ||minube.click^
 ||nacion.com/gnfactory/brandvoice/
