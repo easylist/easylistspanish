@@ -1442,7 +1442,6 @@ radioexito.com.ar##.Estilo1
 coin360.com##.StickyCorner
 coin360.com##.TopLeaderboard
 elcolombiano.com##.Widgetsliderintelecto
-villavicenciodiaadia.com##.adv-link
 comutricolor.com##.arcad-container
 impactonews.co,recursosculturales.com,villavonoticias.com##.attachment-full
 impactonews.co##.attachment-large

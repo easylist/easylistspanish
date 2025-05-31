@@ -13,7 +13,6 @@
 ||equamarketing.com^$third-party
 ||evolutionadv.it^$third-party
 ||googledfp.com^$third-party
-||membrana.media^$third-party
 ||premiumads.com.br^$third-party
 ||premiumleads.com^$third-party
 ||reypelis.tv^$third-party

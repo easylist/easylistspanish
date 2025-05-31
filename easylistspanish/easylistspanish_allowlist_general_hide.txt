@@ -6,7 +6,6 @@ sport.es#@#.following-ad-container
 1000respuestas.net,buscasencuentras.net,preguntasrespuestas.net#@#.right-ads
 festradio.com.ar,lacacharpaya.com.ar#@#.td-a-rec
 pccomponentes.com#@#[id^="div-gpt-ad"]
-pccomponentes.com#@#[id^="google_ads_iframe"]
 !
 itsoft.es#@#.ad-col
 itsoft.es#@#.ad-full
