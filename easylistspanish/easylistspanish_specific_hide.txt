@@ -370,6 +370,7 @@ euractiv.es##.ea-gat-slot-wrapper
 diarioeldia.cl##.each-container.grid.grid-cols-1.items-center.default-gap.items-end.mx-auto.container.default-padding
 economipedia.com##.econo-code-block
 elestimulo.com##.ele-banner
+elespecialitodigital.com##.elementor-element-12cbdca
 laprensademn.com##.elementor-element-15f1544d
 lavozhispanact.com##.elementor-element-32d83d8
 recursos-biblicos.com##.elementor-element-4034d76
