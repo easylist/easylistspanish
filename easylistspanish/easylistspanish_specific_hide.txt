@@ -130,6 +130,8 @@ elimpulso.com###tdi_16
 mixfm.mx###tdi_42
 futbolretro.es###tdi_71
 knightnoscanlation.com,yugenmangas.com###teaser3
+carteldemanhwas.com###teaser4
+carteldemanhwas.com###teaserbottom
 16valvulas.com.ar###text-3
 planbnoticias.com.ar###text-4
 elexpediente.co,planbnoticias.com.ar###text-7
