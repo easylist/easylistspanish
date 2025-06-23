@@ -214,6 +214,7 @@ insideevs.com.ar,iproup.com##.ap
 insideevs.com.ar##.apb
 elciudadanoweb.com##.apsa-embed-cont
 metroecuador.com.ec,publimetro.cl##.arcad-feature
+leroymerlin.es##.arm-dss-content-sponsored
 elespanol.com##.article-adv
 lavanguardia.com##.article-module-sponsored
 elconfidencial.com##.articleAside__module.articleAside__module--isSticky
