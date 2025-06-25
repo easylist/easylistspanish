@@ -152,6 +152,7 @@ elpais.com.uy##.List-sponsor
 3cat.cat##.M-publicitat
 foxsports.com.mx##.MitadLogoCaliente
 autosusados.cl##.OtherPages_othersection__Ad_Ae
+elpais.com.uy##.Page-above.loaded
 elpais.com.uy##.PromoFeat
 qhubomedellin.com##.QH-pauta-header
 eldefinido.cl##.RP
