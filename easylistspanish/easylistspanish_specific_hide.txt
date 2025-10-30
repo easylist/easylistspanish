@@ -189,6 +189,7 @@ freepik.es##.adobe-coupon-container
 freepik.es##.adobe-grid-design
 abogacia.es,atv.pe,benditofutbol.com,cdn.com.do,corazon.pe,cronicadelquindio.com,eslang.es,grandepremio.com,laprensaaustral.cl,lared.cl,lasexta.com,lostiempos.com,perfil.com,publico.es,rpp.pe,studio92.com,uypress.net##.ads
 meneame.net##.ads-interlinks
+laciudadweb.com.ar##.ads-it-ligent
 perfil.com##.ads-space
 tutorialesenlinea.es##.ads-titleposttl
 13.cl,deportes13.cl,t13.cl##.ads13
@@ -876,7 +877,6 @@ lagaceta.com.ec##rs-slides
 forocoches.com##section[style="min-width: 300px; height: 640px"]
 dataclave.com.ar,dobleamarilla.com.ar,eqsnotas.com,rosarioplus.com##tadevel-ad
 cine.com##td[style^="height:90px; width:970px;"]
-laciudadweb.com.ar##.ads-it-ligent
 ! top-level domain wildcard
 atrapalo.*##.mega-advert
 atrapalo.*##.robahome
