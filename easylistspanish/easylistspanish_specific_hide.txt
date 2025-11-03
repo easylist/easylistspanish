@@ -880,7 +880,7 @@ cine.com##td[style^="height:90px; width:970px;"]
 ! top-level domain wildcard
 atrapalo.*##.mega-advert
 atrapalo.*##.robahome
-! :has()
+!! :has()
 forocoches.com###sidebar > div > section:has(.fixed_adslot)
 elpais.com.uy##.Page-above.loaded:has(div[class^="GoogleDfpAd"])
 elpais.com.uy##.PromoBasic:has(.Promo-sponsor)
