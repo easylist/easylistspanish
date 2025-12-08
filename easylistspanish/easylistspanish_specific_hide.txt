@@ -500,6 +500,7 @@ europa-agricola.es,via-mobilis.es##.native
 elcomercio.com##.ned-ad-dynamic
 eldiario.es,infolibre.es##.news-sponsored-content
 deia.eus,diaridegirona.cat,diariocordoba.com,diariodeibiza.es,diariodemallorca.es,elcorreogallego.es,eldia.es,elperiodicodearagon.com,elperiodicoextremadura.com,elperiodicomediterraneo.com,emporda.info,farodevigo.es,informacion.es,laopinioncoruna.es,laopiniondemalaga.es,laopiniondemurcia.es,laopiniondezamora.es,laprovincia.es,levante-emv.com,lne.es,noticiasdealava.eus,noticiasdegipuzkoa.eus,noticiasdenavarra.com,regio7.cat,superdeporte.es##.no-baldomero
+lanacion.com.ar##.nota::before
 adiscusion.com##.noticia-ads
 adiscusion.com##.noticia-banner
 aguaita.cat,naciodigital.cat,pallarsdigital.cat,pensem.cat,rubitv.cat,tarragonadigital.com##.nou-publi-cap-home
