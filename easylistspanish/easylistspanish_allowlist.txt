@@ -1,4 +1,5 @@
 @@||20m.es/prebid/$script,domain=20minutos.es
+@@||2mdn.net/instream/html5/ima3.js$script,domain=envivo.adnradio.cl
 @@||ads.pubmatic.com/AdServer/js/pwtSync/$subdocument,domain=independentespanol.com
 @@||adswizz.com/adswizz/js/SynchroClient2.js$script,domain=13cradio.cl
 @@||alkosto.cdn.adglare.net^$image,xmlhttprequest,domain=alkosto.com|ktronix.com
