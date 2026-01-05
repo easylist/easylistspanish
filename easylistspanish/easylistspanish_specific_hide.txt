@@ -910,6 +910,7 @@ cuencanews.es##td[class*="id_publi_"]:has(img[alt="publicidad"])
 ! Advanced element hiding rules for Adblock Plus
 mediamarkt.es##[data-test="mms-product-card"]:has([data-test="mms-plp-presented"])
 as.com#?#.s.s--v:-abp-has(span:-abp-contains(OFRECIDO POR))
+atlantico.net,laregion.es#?#.recirculation:-abp-contains(Contenido patrocinado)
 diarios-argentinos.com#?#.wide-content:-abp-has(h1:-abp-contains(Publicidad))
 elespectador.com#?#.Block:-abp-has(.Title_section:-abp-contains(Contenido patrocinado))
 elespectador.com#?#.Card:-abp-has(.Card-Section.Section:-abp-contains(Contenido patrocinado))
