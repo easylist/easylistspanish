@@ -371,7 +371,7 @@ libertaddigital.com,libremercado.com##.dfp
 lateja.cr,nacion.com##.dfp-container
 dedinero.com.mx,elgrafico.mx,eluniversal.com.mx,revistaclase.mx,viveusa.mx##.dfp-tag-wrapper-container
 laprensademn.com,vidaysabor.com##.dialog-message
-forbes.pe##.dreams-ad
+forbes.co,forbes.pe##.dreams-ad
 noticias.mitelefe.com##.e-post-banner
 euractiv.es##.ea-gat-slot-wrapper
 diarioeldia.cl##.each-container.grid.grid-cols-1.items-center.default-gap.items-end.mx-auto.container.default-padding
