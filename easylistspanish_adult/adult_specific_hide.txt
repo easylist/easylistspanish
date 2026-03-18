@@ -66,5 +66,5 @@ famosateca.es##div[align^="center"]
 videospornogratisx.net##img[width="300"]
 videospornogratisx.net##img[width="728"]
 ! Advanced element hiding rules for Adblock Plus
-muyzorras.com#?#.c.d1:-abp-has(div:-abp-contains(Más cosas interesantes))
-videospornogratisx.net#?#.block:-abp-has(>h3:-abp-contains(WEBCAM PORNO XXX))
+muyzorras.com#?#.c.d1:has(div:has-text(Más cosas interesantes))
+videospornogratisx.net#?#.block:has(>h3:has-text(WEBCAM PORNO XXX))
