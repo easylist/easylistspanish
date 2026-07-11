@@ -319,7 +319,7 @@ terremoto.mx##.break_patrocinadores
 versionfinal.com.ve##.bsac
 futbolred.com##.btn_betplay
 plantadoce.com##.bwe_ext_partners
-cope.es,diariodecastillayleon.es,diariodeleon.es,diariodevalladolid.es,elcorreodeburgos.com,eleconomista.com.mx,eltiempo.com,heraldodiariodesoria.es,miarevista.es,segre.com,serpadres.es##.c-add
+cope.es,diariodecastillayleon.es,diariodeleon.es,diariodevalladolid.es,elcorreodeburgos.com,eleconomista.com.mx,eltiempo.com,heraldodiariodesoria.es,miarevista.es,portafolio.co,segre.com,serpadres.es##.c-add
 eltiempo.com##.c-add--no-text
 cope.es##.c-add-teads
 eldebate.com##.c-add-wall
