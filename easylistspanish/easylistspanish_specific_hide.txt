@@ -189,6 +189,7 @@ diez.hn##.adnotas
 freepik.es##.adobe-coupon-container
 freepik.es##.adobe-grid-design
 abogacia.es,atv.pe,benditofutbol.com,cdn.com.do,corazon.pe,cronicadelquindio.com,eslang.es,grandepremio.com,laprensaaustral.cl,lared.cl,lasexta.com,lostiempos.com,perfil.com,publico.es,rpp.pe,studio92.com,uypress.net##.ads
+fucsia.co##.ads-iframe
 meneame.net##.ads-interlinks
 laciudadweb.com.ar##.ads-it-ligent
 perfil.com##.ads-space

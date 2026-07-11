@@ -34,6 +34,7 @@
 ||elesquiu.com/u/banners/
 ||elmundofinanciero.com/anuncios/
 ||elpais.com.co/js/frontend/ads/
+||elpais.com.co/pf/resources/js/arcads.js
 ||elperiodico.cl/wp-content/uploads/*/banner-
 ||elpotosi.net/img/advertising/
 ||eltiempo.com/get-ads/
@@ -41,6 +42,7 @@
 ||es.zenit.org/banners/
 ||fenix951.com.ar/nuevo_2013/img/banner/
 ||fronteradigital.com.ve/assets/img/advertising/
+||fucsia.co/pf/resources/js/arcads.js
 ||fulltv.video^$domain=fulltv.com.ar
 ||gamestorrents.fm/433b.png
 ||habimg.com/hab_banners/$domain=habitaclia.com
@@ -78,6 +80,7 @@
 ||radiomontecarlo.com.uy/imgs/banners/
 ||redtarapaca.com^*/ahorrocorp.jpg
 ||ripollesdigital.cat/imatges/ripollesdigital.cat/ginys/
+||soho.co/pf/resources/js/arcads.js
 ||spanishcorrector.com/cnc/
 ||ssp.emol.com^
 ||sspnm.emol.com^
