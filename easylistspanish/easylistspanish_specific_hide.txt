@@ -88,6 +88,7 @@ periodismokosher.com.ar###key2sticky
 arbolabc.com###leaderboard
 excelsior.com.mx###leaderboard0
 diariodeteruel.es###leftbanner
+laprensani.com###lp-sticky-anchor
 atacamaenlinea.cl###media_image-17
 atacamaenlinea.cl###media_image-30
 bemad.es,cuatro.com,divinity.es,energytv.es,factoriadeficcion.com,mtmad.es,niusdiario.es,telecinco.es,uppers.es,yasss.es###megaSuperior_multisite
@@ -634,6 +635,7 @@ bcnoticias.com.co,cadenaoh.com.ar,profesionalreview.com##.stream-item
 profesionalreview.com##.stream-item-widget
 elindependiente.com##.sub_header
 elpais.com.sv##.supsystic-slider-wrapper
+laprensani.com##.tads
 laprensani.com##.tads-header-mobile
 prensa.com##.tagPublicidad
 publinews.gt##.takeoverlink
