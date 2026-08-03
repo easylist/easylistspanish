@@ -218,6 +218,7 @@ elfenixdigital.com##.ajax-cds
 petitchef.es##.akcelo-wrapper
 aguaita.cat,pallarsdigital.cat,rubitv.cat,tarragonadigital.com##.amp_columnapubli
 diarioresponsable.com,donbalon.com,elsaltodiario.com,toonscrab.com##.anuncio
+zocalo.com.mx##.anuncio-lateral-detalle
 insideevs.com.ar,iproup.com##.ap
 insideevs.com.ar##.apb
 elciudadanoweb.com##.apsa-embed-cont
@@ -263,12 +264,13 @@ iprofesional.com##.banner-horizontal
 elnuevogeorgia.com,noticierodelllano.com##.banner-img
 diariodecuyo.com.ar##.banner-lanusse
 a24.com,diariouno.com.ar,eldiariosur.com,lared.am,puntal.com.ar,urgente24.com##.banner-libre
+zocalo.com.mx##.banner-medio
 25digital.com.ar##.banner-promotions-wrapper
 clarin.com##.banner-right
 movieflix.click##.banner-sidebar
 anbariloche.com.ar,anroca.com.ar,elcordillerano.com.ar,elterritorio.com.ar,noticiasnet.com.ar##.banner-simple
 eltrecetv.com.ar##.banner-swap
-clarin.com,hispasonic.com##.banner-top
+clarin.com,hispasonic.com,zocalo.com.mx##.banner-top
 miradorprovincial.com##.banner-top-home-mp
 ciudad.com.ar,elcomercio.com,hazteveg.com,lmcipolletti.com,lmneuquen.com##.banner-wrapper
 diariodelaribera.net##.bannerColumnas
