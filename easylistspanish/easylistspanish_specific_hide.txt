@@ -454,6 +454,7 @@ elliberal.com.ar,pregon.com.ar##.item
 p23.com.ar##.j_publi
 radiocentro.com.ec##.jet-popup
 marie-claire.es,muyhistoria.es,muyinteresante.es,muynegociosyeconomia.es##.js-ads-not-visible
+elsiglodetorreon.com.mx##.lapub
 diariodelaribera.net##.lateralderecho
 diariodelaribera.net##.lateralizquierdo
 atv.pe,c9n.com.py,canal12.com.sv,chapintv.com,elcomercio.com,repretel.com,rts.com.ec,snt.com.py,sonora.com.gt##.layout-rev
@@ -556,6 +557,7 @@ elamaule.cl,elboyaldia.cl,elconcecuente.cl,elmagallanews.cl,elmartutino.cl,elmor
 formulatv.com##.pub-mid
 formulatv.com##.pub-text
 formulatv.com##.pub-top
+elsiglodetorreon.com.mx##.pubBoxDG
 0221.com.ar##.pub_begum
 ceroacero.es##.pubframe
 esdiario.com##.publi-foot
@@ -1353,7 +1355,6 @@ diariodelaribera.org##a[href="http://electrosanzhermanos.com/"]
 noticiasdelmundo.org##a[href="http://ganadineroconencuestas.com/dinero_flow/?webform=*&c=&s2s=*&pubid=*&subid=&medio=*&vendor=*&context="]
 forocoches.com##a[href="http://goo.gl/NDrfcW"]
 180.com.uy##a[href="http://www.180.com.uy/banner?ID=857&CODE=portal.index"]
-elsiglodetorreon.com.mx##a[href="http://www.ayojon.mx/"]
 ldu.com.ec##a[href="http://www.herbalife.com.ec/"]
 ole.com.ar##a[href="https://www.facebook.com/SchneiderARG/"]
 ole.com.ar##a[href="https://www.youtube.com/watch?v=IZPtel51MlA"]
