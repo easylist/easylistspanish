@@ -549,7 +549,7 @@ cronica.com.ar##.pre-home-banner-box
 elmon.cat,totbarcelona.cat##.precontentad
 prensa.com##.productos
 qmusica.tv##.promoTop
-cartv.es,cifraclub.com##.pub
+cartv.es,cifraclub.com,elsiglocoahuila.mx,elsiglodedurango.com.mx##.pub
 esdiario.com##.pub-2
 formulatv.com##.pub-btf
 elamaule.cl,elboyaldia.cl,elconcecuente.cl,elmagallanews.cl,elmartutino.cl,elmorrocotudo.cl,elnaveghable.cl,elnortero.cl,elobservatodo.cl,elquehaydecierto.cl,elrancahuaso.cl,elrepuertero.cl,elvacanudo.cl,laopinon.cl##.pub-escritorio
@@ -901,6 +901,7 @@ mercadolibre.cl,mercadolibre.co.cr,mercadolibre.com.ar,mercadolibre.com.bo,merca
 chocale.cl##.cnvs-block-section:has(#contenido-patrocinado)
 clarin.com##.column > div[class] > div[class^="sc-"]:has(div[class^="sc-"] > div[id^="div-gpt-ad"])
 falabella.com##.grid-pod:has(.patrocinado-title)
+elsiglocoahuila.mx,elsiglodedurango.com.mx##.h-900.bg-light:has(.pub)
 hdfulldominios.com##.hidden.md\:block:has(a[href^="https://winpot-casino.org"])
 leroymerlin.es##.l-resultsList__item:has(.kl-blade--sponsored)
 eltiempo.com##.main-article-container-patr:has(.contenido-comercial)
