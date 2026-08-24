@@ -255,7 +255,7 @@ agroclave.com.ar,cronica.com.ar,diariodecuyo.com.ar,lacapital.com.ar,unoentrerio
 elnueve.com.ar##.banner-box-container
 noticiasurbanas.com.ar##.banner-center
 concierto.cl##.banner-cms
-ambito.com,eldiariodelapampa.com.ar,elpuntodeequilibrio.com,minutouno.com,revistacar.es##.banner-container
+ambito.com,eldiariodelapampa.com.ar,elpuntodeequilibrio.com,imagendeveracruz.mx,minutouno.com,revistacar.es##.banner-container
 poketvlatino.com##.banner-fijo
 soychile.cl##.banner-fixed-container
 puntal.com.ar##.banner-flex
@@ -295,6 +295,7 @@ diarioresponsable.com,elinformador.com.co,elwebdelmirall.net,lancelotdigital.com
 lancelotdigital.com##.bannerheader
 telesurtv.net##.banners
 eleconomista.es##.banners-superiores2
+diariodelistmo.com,imagendelgolfo.mx,imagendeveracruz.mx##.bannersaas
 iproup.com##.bannerwide
 europa-agricola.es,via-mobilis.es##.banniere
 falabella.com##.bannner-styles
