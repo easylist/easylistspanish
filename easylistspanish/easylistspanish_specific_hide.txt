@@ -124,7 +124,7 @@ falabella.com###sponsored-strip-container
 avisosdeocasion.com###srcpublicidadhub
 tvazteca.com###stickyDiv
 elespanol.com###sticky_container
-diariolibre.com###stickyunit
+diariolibre.com,elmanana.com###stickyunit
 lacuerda.net###t_diag
 laiguana.tv###tdi_139
 laiguana.tv###tdi_154
@@ -180,6 +180,7 @@ arbolabc.com##.ad-leaderboard-row
 elotrolado.net##.ad-lg
 futuro.cl##.ad-mob
 ellitoral.com##.ad-slot-background
+elmanana.com##.ad-unit-leaderboard
 elmanana.com.mx##.ad-zone
 bandaancha.eu##.adMbBlTp
 atresplayer.com##.adWrapper-content-position
@@ -779,6 +780,7 @@ rionegro.com.ar##ads-component
 lasexta.com##aside[class^="mod-ad-"]
 computerhoy.com##div[class*="containerAdSlot"]
 diariodecuyo.com.ar##div[class*="dfp-async"]
+elmanana.com##div[class*="template-publicidad-"]
 americatv.com.pe##div[class^="AdsSlot_"]
 autosusados.cl##div[class^="Autofact_"]
 autosusados.cl##div[class^="InterestingSection_"]
