@@ -334,7 +334,7 @@ cope.es,diariodecastillayleon.es,diariodeleon.es,diariodevalladolid.es,elcorreod
 eltiempo.com##.c-add--no-text
 cope.es##.c-add-teads
 eldebate.com##.c-add-wall
-atlanticohoy.com,cocheglobal.com,diario16plus.com,elnacional.cat,hibridosyelectricos.com,huleymantel.com,planetarealmadrid.com,zamora24horas.com##.c-banner
+atlanticohoy.com,cocheglobal.com,diario16plus.com,diariodemorelos.com,elnacional.cat,hibridosyelectricos.com,huleymantel.com,planetarealmadrid.com,zamora24horas.com##.c-banner
 elpais.com##.c-bra
 elpais.com##.c-brr
 cadenaser.com##.c-p-ia
