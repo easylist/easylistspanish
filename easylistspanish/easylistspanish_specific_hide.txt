@@ -581,6 +581,7 @@ record.com.mx##.publicidadBoxBanner300x75
 contextotucuman.com##.publicidadTop
 0221.com.ar##.publicidad_cont
 eldesmarque.com##.publicidad_marca
+posta.com.mx##.publicidad_posta
 elpuntavui.cat,leconomic.cat,lesportiudecatalunya.cat##.publicitat
 alfabeta.net##.publimg
 argenports.com##.publis300-ajax-container
