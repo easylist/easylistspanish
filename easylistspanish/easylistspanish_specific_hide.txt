@@ -258,7 +258,7 @@ agroclave.com.ar,cronica.com.ar,diariodecuyo.com.ar,lacapital.com.ar,unoentrerio
 elnueve.com.ar##.banner-box-container
 noticiasurbanas.com.ar##.banner-center
 concierto.cl##.banner-cms
-ambito.com,eldiariodelapampa.com.ar,elpuntodeequilibrio.com,imagendeveracruz.mx,minutouno.com,revistacar.es##.banner-container
+ambito.com,codigoqro.mx,eldiariodelapampa.com.ar,elpuntodeequilibrio.com,imagendeveracruz.mx,minutouno.com,revistacar.es##.banner-container
 poketvlatino.com##.banner-fijo
 soychile.cl##.banner-fixed-container
 puntal.com.ar##.banner-flex
@@ -621,6 +621,7 @@ forbes.com.mx##.set__ads--component
 diarioelnorte.com.ar,lagaceta.com.ec,portalpuentealto.cl##.sgpb-popup-dialog-main-div-wrapper
 diarioelnorte.com.ar,lagaceta.com.ec##.sgpb-popup-overlay
 portalpuentealto.cl##.sgpb-theme-1-overlay
+codigoqro.mx##.sidebar-banner
 cooljuegos.com##.sidebar-game
 motor.elpais.com##.site-header__publicidad
 emporda.info##.sk--branded-content
