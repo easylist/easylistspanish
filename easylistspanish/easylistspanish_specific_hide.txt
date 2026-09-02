@@ -277,7 +277,7 @@ anbariloche.com.ar,anroca.com.ar,elcordillerano.com.ar,elterritorio.com.ar,notic
 eltrecetv.com.ar##.banner-swap
 clarin.com,hispasonic.com,zocalo.com.mx##.banner-top
 miradorprovincial.com##.banner-top-home-mp
-ciudad.com.ar,elcomercio.com,hazteveg.com,lmcipolletti.com,lmneuquen.com##.banner-wrapper
+ciudad.com.ar,codigoqro.mx,elcomercio.com,hazteveg.com,lmcipolletti.com,lmneuquen.com##.banner-wrapper
 diariodelaribera.net##.bannerColumnas
 metrolatam.com##.bannerContent
 eleconomista.es##.bannerInferior
