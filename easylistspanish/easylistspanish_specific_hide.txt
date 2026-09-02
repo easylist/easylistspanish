@@ -579,6 +579,8 @@ azarplus.com##.publicidad-debajo-del-menu
 puntobiz.com.ar##.publicidad-line
 record.com.mx##.publicidadBoxBanner300x75
 contextotucuman.com##.publicidadTop
+posta.com.mx##.publicidad_ads
+posta.com.mx##.publicidad_ads_box1
 0221.com.ar##.publicidad_cont
 eldesmarque.com##.publicidad_marca
 posta.com.mx##.publicidad_posta
