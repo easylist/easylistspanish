@@ -9,6 +9,7 @@
 ||arquimaster.com.ar/Images/banners.htm
 ||artesacro.org/imagenes/baner_
 ||atacamaenlinea.cl/wp-content/uploads/*/banner_caserones_
+||carrefour.es/cloud-api/recommenders/v1/web_citrus_search
 ||cine24h.net/Banners/
 ||cinetux.nu/api/spots/
 ||clivertv.xyz/assets/img/suscripcion.png
