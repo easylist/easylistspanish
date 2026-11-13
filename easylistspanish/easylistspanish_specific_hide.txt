@@ -745,6 +745,7 @@ eldiariodelfindelmundo.com##.zona_banners
 elnuevoherald.com##.zone
 lr21.com.uy##.zone-adsense
 notife.com##[class^="SectionAdvertising_"]
+mediamarkt.es##[data-test="mms-search-main"] > aside[aria-label*="atrocin"]
 europafm.com,ondacero.es##[data-type="ads"]
 carrefour.es##[id*="-sponsored_products-"]
 walmart.com.mx##[id*="SponsoredProductCarousel"]
@@ -936,6 +937,9 @@ atlantico.net,laregion.es##.recirculation:has-text(Contenido patrocinado)
 expansion.com##.ue-l-article__secondary-column-item.ue-l-article--grow:has(.ue-c-ad)
 mercadolibre.cl,mercadolibre.co.cr,mercadolibre.com.ar,mercadolibre.com.bo,mercadolibre.com.co,mercadolibre.com.do,mercadolibre.com.ec,mercadolibre.com.gt,mercadolibre.com.hn,mercadolibre.com.mx,mercadolibre.com.ni,mercadolibre.com.pa,mercadolibre.com.pe,mercadolibre.com.py,mercadolibre.com.sv,mercadolibre.com.uy,mercadolibre.com.ve##.ui-recommendations-carousel-wrapper-ref:has(a[rel="nofollow, sponsored"])
 mediamarkt.es##[data-test="mms-product-card"]:has([data-test="mms-plp-sponsored"])
+mediamarkt.es##[data-test="mms-search-srp-productlist"] li:has(> aside[aria-label*="atrocin"])
+mediamarkt.es##[data-test="mms-search-srp-productlist"] li:has(> div:only-child:empty)
+mediamarkt.es##[data-test="mms-search-srp-productlist"] li:has(article[data-test="mms-cofr-product-card"] button[aria-label*="atrocin"])
 super.walmart.com.mx##[style^="will-change"]:has(#ITEM-BuyBoxAd-top)
 mediamarkt.es##aside[class="sc-a2fcee8-0 fmYGst"]:has(button[aria-label="Obtenga más información sobre el patrocinio de productos"])
 independentespanol.com##div:has(> div > div[data-tile-name="sidebar1"])
